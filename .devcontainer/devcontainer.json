@@ -1,0 +1,42 @@
+{
+  "name": "klakegg/hugo:ext-alpine",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteEnv": {
+    "SSH_AUTH_SOCK": "/tmp/ssh-agent.socket"
+  },
+  "portsAttributes": {
+    "1313": {
+      "label": "Hugo Port",
+      "protocol": "http",
+      "onAutoForward": "openBrowserOnce",
+      "requireLocalPort": true,
+      "elevateIfNeeded": true
+    }
+  },
+  "forwardPorts": [
+    1313
+  ],
+  "postCreateCommand": {
+    "git-submodule": "git pull && git submodule init && git submodule update"
+  },
+  "postStartCommand": {
+    "git-update": "git pull && git submodule update",
+    "start": "hugo server --buildDrafts --buildExpired --buildFuture --navigateToChanged"
+  },
+  "mounts": [
+    "source=profile,target=/root,type=volume",
+    "target=/root/.vscode-server,type=volume",
+    "source=/run/user/1000/ssh-agent.socket,target=/tmp/ssh-agent.socket,type=bind,consistency=cached,ro"
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "k--kato.intellij-idea-keybindings",
+        "redhat.vscode-yaml",
+        "DotJoshJohnson.xml"
+      ]
+    }
+  }
+}
