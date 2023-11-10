@@ -19,7 +19,7 @@
     1313
   ],
   "postCreateCommand": {
-    "git-submodule": "git pull && git submodule init && git submodule update"
+    "git-submodule": "git pull && git submodule update --init --recursive"
   },
   "postStartCommand": {
     "git-update": "git pull && git submodule update",
