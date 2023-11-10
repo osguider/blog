@@ -1,0 +1,12 @@
+# en:
+#   languageName: English
+#   title: OSGuider
+#   weight: 1
+#   params:
+#     description: Open Source Guider
+zh-cn:
+  languageName: 中文
+  title: 开源服务指南
+  weight: 2
+  params:
+    description: 开源服务指南

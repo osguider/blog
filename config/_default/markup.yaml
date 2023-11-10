@@ -1,0 +1,16 @@
+goldmark:
+  renderer:
+    ## Set to true if you have HTML content inside Markdown
+    unsafe: false
+tableOfContents:
+  endLevel: 4
+  ordered: true
+  startLevel: 2
+highlight:
+  noClasses: false
+  codeFences: true
+  guessSyntax: true
+  lineNoStart: 1
+  lineNos: true
+  lineNumbersInTable: true
+  tabWidth: 4

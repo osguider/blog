@@ -1,0 +1,25 @@
+baseurl: https://osguider.com/
+languageCode: zh-cn
+theme: hugo-theme-stack
+paginate: 5
+title: 开源服务指南
+
+# Theme i18n support
+# Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
+DefaultContentLanguage: zh-cn
+
+# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
+# This will make .Summary and .WordCount behave correctly for CJK languages.
+hasCJKLanguage: true
+
+copyright: "- present 开源服务指南"
+cleanDestinationDir: true
+enableRobotsTXT: true
+redirects:
+  - frome: /**
+    status: 404
+    to: /404.html
+# GA Tracking ID
+googleAnalytics: G-ZSQ35SS15L
+# Change it to your Disqus shortname before using
+# disqusShortname: hugo-theme-stack
