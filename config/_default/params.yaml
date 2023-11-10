@@ -1,19 +1,25 @@
-
+# See: https://stack.jimmycai.com/config/site
+# 会被显示在主页的文章
 mainSections:
   - post
+# 定义封面图在 Front Matter 中的字段名称
 featuredImageField: image
 rssFullContent: true
-favicon:  /blog/favicon.svg # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+favicon: /blog/favicon.svg # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
+# https://stack.jimmycai.com/config/footer
 footer:
   since: 2023
   customText:
 
+# See: https://stack.jimmycai.com/config/date-format
 dateFormat:
   published: 2006/01/02
   lastUpdated: 2006/01/02 15:04
 
+# See: https://stack.jimmycai.com/config/sidebar
 sidebar:
+  compact: false
   emoji:
   subtitle: 发现开源之美，碰撞无限可能
   avatar:
@@ -21,6 +27,7 @@ sidebar:
     local: true
     src: images/logo/opensource-guider-white-circle.png
 
+# See: https://stack.jimmycai.com/config/article
 article:
   math: false
   toc: true
@@ -64,14 +71,14 @@ comments:
     lang:
     pageview:
     emoji:
-        - https://unpkg.com/@waline/emojis@1.0.1/weibo
+      - https://unpkg.com/@waline/emojis@1.0.1/weibo
     requiredMeta:
-        - name
-        - email
-        - url
+      - name
+      - email
+      - url
     locale:
-        admin: Admin
-        placeholder:
+      admin: Admin
+      placeholder:
 
   twikoo:
     envId:
@@ -106,6 +113,8 @@ comments:
   cusdis:
     host:
     id:
+
+# See: https://stack.jimmycai.com/config/widgets
 widgets:
   homepage:
     - type: search
@@ -121,6 +130,7 @@ widgets:
   page:
     - type: toc
 
+# See: https://stack.jimmycai.com/config/open-graph
 opengraph:
   twitter:
     # Your Twitter username
@@ -129,12 +139,14 @@ opengraph:
     # Available values: summary, summary_large_image
     card: summary_large_image
 
+# See: https://stack.jimmycai.com/config/default-image
 defaultImage:
   opengraph:
     enabled: true
-    local: false
-    src: https://hello-world-misty-lake-c367.903481591.workers.dev
+    local: true
+    src: images/gradient.svg
 
+# See: https://stack.jimmycai.com/config/color-scheme
 colorScheme:
   # Display toggle
   toggle: true
@@ -142,6 +154,7 @@ colorScheme:
   # Available values: auto, light, dark
   default: auto
 
+# See: https://stack.jimmycai.com/config/image-processing
 imageProcessing:
   cover:
     enabled: true

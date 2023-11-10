@@ -1,7 +1,7 @@
 baseurl: https://osguider.com/
 languageCode: zh-cn
 theme: hugo-theme-stack
-paginate: 5
+paginate: 6
 title: 开源服务指南
 
 # Theme i18n support
@@ -18,7 +18,7 @@ enableRobotsTXT: true
 redirects:
   - frome: /**
     status: 404
-    to: /404.html
+    to: /
 # GA Tracking ID
 googleAnalytics: G-ZSQ35SS15L
 # Change it to your Disqus shortname before using
