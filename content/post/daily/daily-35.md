@@ -1,6 +1,5 @@
 ---
 title: "容器内也能运行图形化应用？Distrobox 为容器注入生命 | 开源日报 No.35"
-slug: 35
 date: 2023-11-01T16:00:35Z
 description: "Distrobox 是一个终端容器工具，支持多种 Linux 发行版，如 podman、docker 和 lilipod。它允许在终端中轻松创建容器，与主机集成，实现共享HOME目录、外部存储、图形应用程序和音频等功能。"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/64139678b95e22e19dd5c0375525b1d7.png"

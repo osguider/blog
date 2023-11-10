@@ -1,6 +1,5 @@
 ---
 title: "HTTP 请求轻松搞定：Swift 网络编程的不二之选 | 开源日报 No.38"
-slug: 38
 date: 2023-11-01T16:07:21Z
 description: "Alamofire 是一款强大的用 Swift 编写的 HTTP 网络库。它具有紧凑的语法和丰富的功能集，使得只需几行代码就能实现强大的功能。"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2c347400cb6dfacecd90e14fc5658ae2.png"

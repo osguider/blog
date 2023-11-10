@@ -2,7 +2,6 @@
 title: "节省十倍代码，精益 Web 开发：Nue JS 的极简之道 | 开源日报 No.34"
 description: "Nue JS 是一个轻量级 JavaScript 库，构建 Web 界面更简单。不需要繁琐的概念，只要懂 HTML、CSS 和 JavaScript 即可。它减少了开发工作量，支持响应式设计，提高页面加载速度。最重要的是，不需复杂的打包工具，简化了开发流程。如果您想轻松构建 Web界面，Nue JS 是一个值得考虑的选择。"
 date: 2023-11-01T15:45:58Z
-slug: 34
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a82bbc42d582551154aad3858f42cc4b.png"
 tags:
   - "前端"

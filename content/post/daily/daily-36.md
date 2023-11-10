@@ -1,6 +1,5 @@
 ---
 title: "在 Linux 上运行 macOS？OSX-KVM 助你梦想成真！| 开源日报 No.36"
-slug: 36
 date: 2023-11-01T16:07:21Z
 description: "您是否曾梦想将 macOS 运行在现代 Linux 发行版上？OSX-KVM 不仅帮你实现了这个梦想，还提供了详细文档、实用脚本和工具，让整个过程变得轻而易举。"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a3b54e89221e5f6ea45be82530e20722.png"

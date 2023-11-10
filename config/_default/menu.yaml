@@ -9,6 +9,22 @@ social:
     url: https://github.com/osguider/blog
     params:
       icon: brand-github
+  - identifier: wxmp
+    name: 微信订阅号
+    url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NTk2OTM2OA==&action=getalbum&album_id=3076744176081600515#wechat_redirect
+    params:
+      icon: brand-wechat
+  # - identifier: juejin
+  #   name: 掘金
+  #   url: https://juejin.cn/user/2623892048592072/
+  #   params:
+  #     icon: brand-juejin
+
+  # - identifier: zhihu
+  #   name: 知乎
+  #   url: https://www.zhihu.com/people/osguider
+  #   params:
+  #     icon: brand-zhihu
 
   # - identifier: twitter
   #   name: Twitter
