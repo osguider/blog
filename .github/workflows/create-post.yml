@@ -10,6 +10,9 @@ on:
         description: 'File content'
         required: true
 
+permissions:
+  contents: write
+
 jobs:
   create-file:
     runs-on: ubuntu-latest
@@ -20,7 +23,9 @@ jobs:
 
       - name: Create Post
         run: |
-          echo "${{ github.event.inputs.content }}" > ./content/post/${{ github.event.inputs.path }}
+          cat << EOF > ./content/post/${{ github.event.inputs.path }}
+          ${{ github.event.inputs.content }}
+          EOF
 
       - name: Commit and push changes
         run: |
