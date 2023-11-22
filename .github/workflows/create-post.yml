@@ -1,0 +1,31 @@
+name: Create Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      path:
+        description: 'File path'
+        required: true
+      content:
+        description: 'File content'
+        required: true
+
+jobs:
+  create-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create Post
+        run: |
+          echo "${{ github.event.inputs.content }}" > ./content/post/${{ github.event.inputs.path }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "seven-steven"
+          git config user.email "seven@diqigan.cn"
+          git add ./content/post/${{ github.event.inputs.path }}
+          git commit -m "add post: ${{ github.event.inputs.path }}"
+          git push
