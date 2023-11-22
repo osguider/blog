@@ -1,0 +1,3 @@
+{{ $path := .Get "path" }}
+{{ $alt := .Get "alt" }}
+<img src="{{ .Site.Params.shields.domain }}/{{ $path }}" loading="lazy" alt="{{ $alt }}">

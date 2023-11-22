@@ -160,3 +160,7 @@ imageProcessing:
     enabled: true
   content:
     enabled: true
+
+# See: https://shields.io/
+shields:
+  domain: https://img.shields.io
