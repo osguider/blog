@@ -1,0 +1,4 @@
+{{ $user := .Get "user" }}
+{{ $repo := .Get "repo" }}
+{{ $alt := .Get "alt" }}
+<img src="{{ .Site.Params.github.opengraph.domain }}/1/{{ $user }}/{{ $repo }}" loading="lazy" alt="{{ $alt }}">

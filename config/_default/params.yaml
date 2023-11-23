@@ -164,3 +164,8 @@ imageProcessing:
 # See: https://shields.io/
 shields:
   domain: https://img.shields.io
+
+# Example: https://opengraph.githubassets.com/1/osguider/blog
+github:
+  opengraph:
+    domain: https://opengraph.githubassets.com
