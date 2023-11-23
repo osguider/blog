@@ -1,7 +1,7 @@
 ---
 title: "12306 抢票小助手: 完整易用的抢票解决方案 | 开源日报 0917"
 description: "12306 购票小助手是一个功能强大的 Python 项目，为抢购 12306 火车票提供了一个完整且易用的解决方案。它提供了自动打码、自动登录、预售和捡漏、智能候补以及邮件通知等功能。它支持多个 Python 版本，提供了本地和云打码的验证码识别功能。项目提供了详细的配置文件说明和启动命令示例，方便用户操作。"
-date: "2023-11-23T06:06:38.202Z"
+date: "2023-11-23T17:51:28.065Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/52a3456ee27aa6e02b9bfc409aa60b1a.png"
 tags: []
 categories:
@@ -10,7 +10,7 @@ categories:
 
 ## [testerSunshine/12306](https://github.com/testerSunshine/12306)
 
-{{< shields path="github/stars/testerSunshine/12306" alt="Github Repo Stars" >}} {{< shields path="github/license/testerSunshine/12306" alt="License: `MIT`" >}} {{< shields path="github/languages/top/testerSunshine/12306" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/testerSunshine/12306" alt="Github Repo Stars" >}} {{< shields path="github/license/testerSunshine/12306" alt="License: " >}} {{< shields path="github/languages/top/testerSunshine/12306" alt="Language: " >}}
 
 ![demo-picture-of-12306](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/73f2ddcffa659fefea88e03e159a15c0.png)
 
@@ -25,7 +25,7 @@ categories:
   
 ## [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)
 
-{{< shields path="github/stars/mouredev/Hello-Python" alt="Github Repo Stars" >}} {{< shields path="github/license/mouredev/Hello-Python" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/mouredev/Hello-Python" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/mouredev/Hello-Python" alt="Github Repo Stars" >}} {{< shields path="github/license/mouredev/Hello-Python" alt="License: " >}} {{< shields path="github/languages/top/mouredev/Hello-Python" alt="Language: " >}}
 
 ![demo-picture-of-Hello-Python](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/98976a8a7428fa6d597588918f846768.webp)
 
@@ -37,7 +37,7 @@ categories:
   
 ## [TryQuiet/quiet](https://github.com/TryQuiet/quiet)
 
-{{< shields path="github/stars/TryQuiet/quiet" alt="Github Repo Stars" >}} {{< shields path="github/license/TryQuiet/quiet" alt="License: `GPL-3.0`" >}} {{< shields path="github/languages/top/TryQuiet/quiet" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/TryQuiet/quiet" alt="Github Repo Stars" >}} {{< shields path="github/license/TryQuiet/quiet" alt="License: " >}} {{< shields path="github/languages/top/TryQuiet/quiet" alt="Language: " >}}
 
 ![demo-picture-of-quiet](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/a6736525c3c441454beaf2d1ff6926a3.png)
 
@@ -57,7 +57,7 @@ Quiet 是一个加密的点对点团队聊天应用，不需要服务器，只�
   
 ## [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe)
 
-{{< shields path="github/stars/OpenPipe/OpenPipe" alt="Github Repo Stars" >}} {{< shields path="github/license/OpenPipe/OpenPipe" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/OpenPipe/OpenPipe" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/OpenPipe/OpenPipe" alt="Github Repo Stars" >}} {{< shields path="github/license/OpenPipe/OpenPipe" alt="License: " >}} {{< shields path="github/languages/top/OpenPipe/OpenPipe" alt="Language: " >}}
 
 ![demo-picture-of-OpenPipe](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/b76b47864af853fe03cbce1ebf3dd45d.png)
 
@@ -73,7 +73,7 @@ OpenPipe 是一个开源项目，它可以将昂贵的提示工程转化为廉�
   
 ## [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)
 
-{{< shields path="github/stars/OpenBMB/AgentVerse" alt="Github Repo Stars" >}} {{< shields path="github/license/OpenBMB/AgentVerse" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/OpenBMB/AgentVerse" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/OpenBMB/AgentVerse" alt="Github Repo Stars" >}} {{< shields path="github/license/OpenBMB/AgentVerse" alt="License: " >}} {{< shields path="github/languages/top/OpenBMB/AgentVerse" alt="Language: " >}}
 
 ![demo-picture-of-AgentVerse](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/6011d6a9e65e1a546a84ee91781f6207.png)
 
@@ -85,7 +85,7 @@ AgentVerse 是一个用于多 LLM 环境模拟的框架，旨在简化创建自�
   
 ## [jedisct1/libsodium](https://github.com/jedisct1/libsodium)
 
-{{< shields path="github/stars/jedisct1/libsodium" alt="Github Repo Stars" >}} {{< shields path="github/license/jedisct1/libsodium" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/jedisct1/libsodium" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/jedisct1/libsodium" alt="Github Repo Stars" >}} {{< shields path="github/license/jedisct1/libsodium" alt="License: " >}} {{< shields path="github/languages/top/jedisct1/libsodium" alt="Language: " >}}
 
 ![demo-picture-of-libsodium](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/81cd30a1b9e2e46a11a21a259d950f12.png)
 
