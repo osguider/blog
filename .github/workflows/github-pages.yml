@@ -5,7 +5,10 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
-
+  workflow_run:
+    workflows: ["Create Post"]
+    types: [completed]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
