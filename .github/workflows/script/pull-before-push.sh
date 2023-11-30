@@ -12,6 +12,7 @@ while true; do
 		# 推送被拒绝，执行拉取操作并合并代码
 		echo "Push rejected. Pulling and merging changes..."
 
+    sleep 3
 		# 拉取远程分支的最新代码并合并到本地分支
 		git pull --rebase
 
