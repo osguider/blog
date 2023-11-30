@@ -1,7 +1,7 @@
 ---
 title: "devops-exercises：DevOps 工程师的面试学习资料 | 开源日报 No.95"
 description: "这个项目是一个包含各种技术主题的问题和练习集合，包含了 2624 道练习和问题，涉及了 DevOps、Git、网络等方面的问题和演示文稿。这个项目可以用于面试准备，但大多数问题不代表实际面试。如果您对成为 DevOps 工程师感兴趣，学习此存储库中提到的一些概念将很有用。"
-date: "2023-11-30T15:59:08.679Z"
+date: "2023-11-30T16:00:29.910Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1a047b020579ff5c59faf115ed8f17bc.png"
 tags: []
 categories:
