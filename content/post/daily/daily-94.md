@@ -1,7 +1,7 @@
 ---
 title: "ControlNet WebUI：稳定扩散全新体验 | 开源日报 No.94"
 description: "ControlNet for Stable Diffusion WebUI 是一个用于 Stable Diffusion 网络的 WebUI 扩展，它允许在原始的 Stable Diffusion 模型中添加 ControlNet 来生成图像。"
-date: "2023-11-30T15:59:08.647Z"
+date: "2023-11-30T16:00:30.902Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/55bd096061ac3dd62de3193c03b95f39.png"
 tags: []
 categories:
