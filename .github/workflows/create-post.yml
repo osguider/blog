@@ -33,4 +33,4 @@ jobs:
           git config user.email "seven@diqigan.cn"
           git add ./content/post/${{ github.event.inputs.path }}
           git commit -m "add post: ${{ github.event.inputs.path }}"
-          git push
+          .github/workflows/script/pull-before-push.sh
