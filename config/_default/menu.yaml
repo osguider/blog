@@ -26,6 +26,12 @@ social:
     params:
       icon: brand-zhihu
 
+  # - identifier: tencent-cloud
+  #   name: 腾讯云开发者社区
+  #   url: https://cloud.tencent.com/developer/column/100371
+  #   params:
+  #     icon: brand-tencent-cloud
+
   # - identifier: csdn
   #   name: CSDN
   #   url: https://blog.csdn.net/osguider
