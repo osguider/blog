@@ -1,4 +1,4 @@
-name: Create Post
+name: create-post
 
 on:
   workflow_dispatch:
