@@ -10,7 +10,7 @@ favicon: /blog/favicon.svg # e.g.: favicon placed in `static/favicon.ico` of you
 # https://stack.jimmycai.com/config/footer
 footer:
   since: 2023
-  customText:
+  customText: <a href="https://beian.miit.gov.cn/">豫ICP备19040166号-2</a>
 
 # See: https://stack.jimmycai.com/config/date-format
 dateFormat:
