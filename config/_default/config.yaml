@@ -1,4 +1,4 @@
-baseurl: https://osguider.com/
+baseurl: https://osguider.com/blog/
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 6

@@ -111,4 +111,4 @@ jobs:
           REMOTE_PORT: ${{ secrets.SSH_REMOTE_PORT }}
           REMOTE_USER: ${{ secrets.SSH_REMOTE_USER }}
           TARGET: ${{ secrets.SSH_REMOTE_TARGET }}
-          SCRIPT_AFTER: cd "${{ secrets.SSH_REMOTE_TARGET }}" && ls -la && tar xf artifact.tar -C blog/ && rm -rf artifact.tar
+          SCRIPT_AFTER: cd "${{ secrets.SSH_REMOTE_TARGET }}" && ls -la && tar xf artifact.tar -C blog/ && rm -rf artifact.tar && 
