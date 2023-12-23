@@ -1,4 +1,4 @@
-name: build-and-deploy
+name: deploy-to-production
 
 on:
   push:
@@ -111,4 +111,8 @@ jobs:
           REMOTE_PORT: ${{ secrets.SSH_REMOTE_PORT }}
           REMOTE_USER: ${{ secrets.SSH_REMOTE_USER }}
           TARGET: ${{ secrets.SSH_REMOTE_TARGET }}
-          SCRIPT_AFTER: cd "${{ secrets.SSH_REMOTE_TARGET }}" && ls -la && tar xf artifact.tar -C blog/ && rm -rf artifact.tar && 
+          SCRIPT_AFTER: |
+            cd "${{ secrets.SSH_REMOTE_TARGET }}" \
+            && tar xf artifact.tar -C blog/ \
+            && rm -rf artifact.tar \
+            && curl -s https://osguider.com/blog/sitemap.xml | grep -oP '<loc>\K[^<]+' | head -50 | curl -H 'Content-Type:text/plain' --data-binary @- "${{ secrets.BAIDU_SITMAP_UPLOAD_URL }}"
