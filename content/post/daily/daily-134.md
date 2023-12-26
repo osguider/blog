@@ -25,7 +25,7 @@ categories:
 - 代码生成选项方便调整每次生成策略
 - SQL 结果集自动生成对应方法、DTO 对象和 ResultMap (结果集映射配置)
 - 动态 SQL 增强能力
-  
+
 ## [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 
 {{< shields path="github/stars/JoeanAmier/TikTokDownloader" alt="Github Repo Stars" >}} {{< shields path="github/license/JoeanAmier/TikTokDownloader" alt="License: " >}} {{< shields path="github/languages/top/JoeanAmier/TikTokDownloader" alt="Language: " >}}
@@ -36,7 +36,7 @@ TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/�
 
 - 完全开源的数据采集工具，基于 Requests 模块实现，可用于下载抖音和 TikTok 的主页、视频、图集等作品，并提供多种功能如批量下载账号发布/喜欢/收藏作品、获取直播推流地址以及采集热榜数据。
 - 支持 Windows 10 及以上用户使用已编译的 exe 程序进行快速部署；提供 Web UI 交互界面；支持自动跳过已下载文件、持久化保存采集数据等特性。
-  
+
 ## [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)
 
 {{< shields path="github/stars/cumulo-autumn/StreamDiffusion" alt="Github Repo Stars" >}} {{< shields path="github/license/cumulo-autumn/StreamDiffusion" alt="License: " >}} {{< shields path="github/languages/top/cumulo-autumn/StreamDiffusion" alt="Language: " >}}
@@ -52,7 +52,7 @@ StreamDiffusion 是一个创新的扩散管道，旨在实现实时交互式生�
 - IO 队列：有效管理输入和输出操作以实现更顺畅执行。
 - KV-Caches 预计算：为加速处理优化缓存策略
 - 模型加速工具：利用各种工具进行模型优化和性能提升。
-  
+
 ## [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)
 
 {{< shields path="github/stars/JoeanAmier/XHS-Downloader" alt="Github Repo Stars" >}} {{< shields path="github/license/JoeanAmier/XHS-Downloader" alt="License: " >}} {{< shields path="github/languages/top/JoeanAmier/XHS-Downloader" alt="Language: " >}}
@@ -66,10 +66,10 @@ StreamDiffusion 是一个创新的扩散管道，旨在实现实时交互式生�
 - 下载小红书无水印图文/视频作品文件
 - 自动跳过已下载的作品文件
 - 作品文件完整性处理机制
-- 持久化储存作品信息至文件  
+- 持久化储存作品信息至文件
 -️ 后台监听剪贴板下载作品
 ️- 支持 API 调用功能
-  
+
 ## [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
 
 {{< shields path="github/stars/SJTU-IPADS/PowerInfer" alt="Github Repo Stars" >}} {{< shields path="github/license/SJTU-IPADS/PowerInfer" alt="License: " >}} {{< shields path="github/languages/top/SJTU-IPADS/PowerInfer" alt="Language: " >}}
@@ -82,10 +82,10 @@ PowerInfer 是一个 CPU/GPU LLM 推理引擎，利用神经元激活的局部�
 - 利用稀疏激活和 “热”/“冷” 神经元概念进行高效 LLM 推断，确保在较低资源需求下实现更快速度
 - 无缝集成 CPU 和 GPU 的内存/计算能力以平衡工作负载并加快处理速度
 - 具有易于集成、本地部署便捷、向后兼容等特点
--支持 Falcon-40B 和 Llama2 家族模型
+- 支持 Falcon-40B 和 Llama2 家族模型
 - 在 Linux 上测试通过
 - 即将发布新功能如 Mistral-7B 模型及 macOS 上稀疏推理的 Metal 后端
-  
+
 ## [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader)
 
 {{< shields path="github/stars/lecepin/WeChatVideoDownloader" alt="Github Repo Stars" >}} {{< shields path="github/license/lecepin/WeChatVideoDownloader" alt="License: " >}} {{< shields path="github/languages/top/lecepin/WeChatVideoDownloader" alt="Language: " >}}
@@ -97,7 +97,7 @@ PowerInfer 是一个 CPU/GPU LLM 推理引擎，利用神经元激活的局部�
 - 支持加密视频的下载
 - 可在 Win/Mac 平台上运行
 - 内部采用代理拦截请求识别，无需手动操作证书安装及代理开启关闭等繁琐步骤
-  
+
 ## [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
 
 {{< shields path="github/stars/karanpratapsingh/system-design" alt="Github Repo Stars" >}} {{< shields path="github/license/karanpratapsingh/system-design" alt="License: " >}} {{< shields path="github/languages/top/karanpratapsingh/system-design" alt="Language: " >}}
@@ -110,4 +110,4 @@ PowerInfer 是一个 CPU/GPU LLM 推理引擎，利用神经元激活的局部�
 - 从基础设施到数据存储都进行了细致思考。
 - 包含丰富多样的主题，涵盖网络通信、数据库管理、分布式事务等方面。
 - 简明扼要地介绍了每个主题，并给出示例说明。
-  
+
