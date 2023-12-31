@@ -1,7 +1,7 @@
 ---
 title: 关于
 slug: about
-description: 开源服务指南实用手册
+description: 开源服务指南使用手册
 date: '2023-12-26'
 aliases:
   - about-us
