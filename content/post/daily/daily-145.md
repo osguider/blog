@@ -1,7 +1,7 @@
 ---
 title: "互联网资讯精选：科技爱好者周刊 | 开源日报 No.145"
 description: "每周科技精选，涵盖丰富内容，提供大量就业信息。每周更新，提供工作/实习岗位，支持投稿和推荐。"
-date: "2024-01-06T05:13:37.957Z"
+date: "2024-01-06T05:21:43.621Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1f5501a020e8a46596b1e6ca60de74d2.png"
 tags: []
 categories:
