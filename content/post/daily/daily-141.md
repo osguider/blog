@@ -1,7 +1,7 @@
 ---
 title: "无纸化革新：纸质文件转在线存储和检索 | 开源日报 No.141"
 description: "Paperless-ngx 是一个功能齐全的文档管理系统，可以将纸质文件转换为可搜索的在线存档，帮助您减少纸张的使用。您可以在文档中找到完整的功能列表和截图。"
-date: "2024-01-06T03:27:51.717Z"
+date: "2024-01-06T05:06:45.778Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4c924dd316bc0e45eb2f2392267d183e.png"
 tags: []
 categories:
