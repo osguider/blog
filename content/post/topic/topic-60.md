@@ -1,7 +1,7 @@
 ---
 title: "开源项目汇总：机器学习前沿探索 | 开源专题 No.60"
 description: "Facebook Research 发布了 xFormers 工具包，旨在加速 Transformer 研究，提供了自定义构建模块和高效的组件。Google Research 的 Tuning Playbook 项目提供了深度学习模型性能最大化的指导，包括超参数调优和模型性能改进。Huggingface 的 Transformers 项目提供了数千种预训练模型，用于在文本、视觉和音频等领域执行任务。Stas00 的 ML Engineering 项目提供了训练大型语言模型和多模态模型的指导。Facebook Research 的 Detectron2 项目提供了最先进的检测和分割算法。MLflow 是一个机器学习生命周期平台，提供了实验跟踪、模型打包和部署等功能。"
-date: "2024-01-06T03:27:51.815Z"
+date: "2024-01-06T05:01:51.054Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/83cf7ea6d7eccec74a725845f5de1eed.png"
 tags: []
 categories:
