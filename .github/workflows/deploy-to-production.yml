@@ -118,6 +118,9 @@ jobs:
           # && curl -s https://osguider.com/blog/sitemap.xml | grep -oP '<loc>\K[^<]+' | head -50 | curl -H 'Content-Type:text/plain' --data-binary @- "${{ secrets.BAIDU_SITMAP_UPLOAD_URL }}"
 
   push-urls-to-search-engines:
+    concurrency:
+      group: "search-engines"
+      cancel-in-progress: true
     runs-on: ubuntu-latest
     needs: deploy-to-production
     steps:
@@ -127,7 +130,7 @@ jobs:
         with:
           site: osguider.com
           sitemap: https://osguider.com/blog/sitemap.xml
-          count: 10
+          count: 30
           bing-token: ${{ secrets.WEBMASTER_BING_TOKEN }}
           baidu-token: ${{ secrets.WEBMASTER_BAIDU_TOKEN }}
           google-client-email: ${{ secrets.WEBMASTER_GOOGLE_CLIENT_EMAIL }}
