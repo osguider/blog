@@ -115,7 +115,7 @@ jobs:
             cd "${{ secrets.SSH_REMOTE_TARGET }}" \
             && tar xf artifact.tar -C blog/ \
             && rm -rf artifact.tar
-          # && curl -s https://osguider.com/blog/sitemap.xml | grep -oP '<loc>\K[^<]+' | head -50 | curl -H 'Content-Type:text/plain' --data-binary @- "${{ secrets.BAIDU_SITMAP_UPLOAD_URL }}"
+          # && curl -s https://osguider.com/blog/sitemap.xml | grep -oP '<loc>\K[^<]+' | head -5 | curl -H 'Content-Type:text/plain' --data-binary @- "${{ secrets.BAIDU_SITMAP_UPLOAD_URL }}"
 
   push-urls-to-search-engines:
     concurrency:
@@ -130,7 +130,7 @@ jobs:
         with:
           site: osguider.com
           sitemap: https://osguider.com/blog/sitemap.xml
-          count: 30
+          count: 10
           bing-token: ${{ secrets.WEBMASTER_BING_TOKEN }}
           baidu-token: ${{ secrets.WEBMASTER_BAIDU_TOKEN }}
           google-client-email: ${{ secrets.WEBMASTER_GOOGLE_CLIENT_EMAIL }}
