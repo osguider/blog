@@ -19,7 +19,7 @@ Rust 是一种系统编程语言，它包含了编译器、标准库和文档。
 - Rust 具有内存安全性和并发性。
 - 它提供高级抽象的同时保持低级控制。
 - 支持模式匹配、所有权系统和生命周期检查等功能。
-  
+
 ## [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 {{< shields path="github/stars/trekhleb/javascript-algorithms" alt="Github Repo Stars" >}} {{< shields path="github/license/trekhleb/javascript-algorithms" alt="License: `MIT`" >}} {{< shields path="github/languages/top/trekhleb/javascript-algorithms" alt="Language: `Unknown`" >}}
@@ -31,12 +31,12 @@ Rust 是一种系统编程语言，它包含了编译器、标准库和文档。
 - 提供大量常用数据结构和算法的示例代码
 - 每个部分都有详细说明和进一步阅读链接
 - 适合学习和研究目的
-  
+
 ## [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)
 
 {{< shields path="github/stars/Kaiyiwing/qwerty-learner" alt="Github Repo Stars" >}} {{< shields path="github/license/Kaiyiwing/qwerty-learner" alt="License: `GPL-3.0`" >}} {{< shields path="github/languages/top/Kaiyiwing/qwerty-learner" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-qwerty-learner](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/d7c7774ba9a34d2ea72b3472118c1536.webp)
+![demo-picture-of-qwerty-learner](https://static.osguider.com/history/2023/d7c7774ba9a34d2ea72b3472118c1536.webp)
 
 Qwerty Learner 是一个为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。
 
@@ -44,7 +44,7 @@ Qwerty Learner 是一个为键盘工作者设计的单词记忆与英语肌肉�
 - 提供音标显示和发音功能，方便用户在背诵单词时同时学习读音和音标。
 - 支持默写模式，在完成练习后可以选择进行本章默写来巩固学习成果。
 - 显示输入速度和正确率，让用户感知自己技能提升情况。
-  
+
 ## [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 
 {{< shields path="github/stars/ggerganov/whisper.cpp" alt="Github Repo Stars" >}} {{< shields path="github/license/ggerganov/whisper.cpp" alt="License: `MIT`" >}} {{< shields path="github/languages/top/ggerganov/whisper.cpp" alt="Language: `Unknown`" >}}
@@ -60,7 +60,7 @@ whisper.cpp 是一个高性能的 OpenAI Whisper 自动语音识别 (ASR) 模型
 - 支持 4 位和 5 位整数量化
 - 低内存使用 (Flash Attention)
 - 运行在 CPU 上，并部分支持 NVIDIA GPU；通过 cuBLAS 以及部分支持 OpenCL GPU； 通过 CLBlast 加速计算。
-  
+
 该项目还提供了丰富而全面的平台支持，包括 Mac OS、iOS、Android、Java 等多个操作系统/环境。
 
 此外，whisper.cpp 还具有以下特点：
@@ -69,4 +69,3 @@ whisper.cpp 是一个高性能的 OpenAI Whisper 自动语音识别 (ASR) 模型
 - 提供示例代码：演示如何使用库进行样本音频转录以及从麦克风获取实时音频并进行转录。
 - 各种绑定可用：提供各种编程语言 (如 Rust、Javascript、Go 等) 下与 Whisper 交互的绑定。
 - 提供多个示例项目：包括命令行工具、语音助手应用程序以及在浏览器中运行 Whisper 等。
-  

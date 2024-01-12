@@ -2,7 +2,7 @@
 title: "程序员职业生涯规划：多领域路线图一网打尽 | 开源日报 No.72"
 description: "这个项目是为开发人员提供的一个互动的路线图和指南，旨在帮助他们在职业生涯中不断成长。它提供了多个不同领域的路线图，如前端、后端、DevOps 等，这些路线图是可交互的，提供了详细的信息，方便深入学习。此外，它还涵盖了最佳实践的相关主题。不论你是初学者还是经验丰富的专家，这个项目都为你提供了一系列有用且易于理解的资源，帮助你规划自己的技能和知识体系的发展方向。"
 date: "2023-11-23T06:10:19.203Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0224ac5ca050164922d2069b1f77e9b1.png"
+image: "https://static.osguider.com/history/osguider/0224ac5ca050164922d2069b1f77e9b1.png"
 tags: []
 categories:
   - "daily"
@@ -20,28 +20,28 @@ Moto 是一个允许测试轻松模拟 AWS 服务的库。
 - mock 保持了 bucket 和 key 的状态
 - 支持多种不同的 services and features
 - 提供完整文档
-  
+
 ## [psf/black](https://github.com/psf/black)
 
 {{< shields path="github/stars/psf/black" alt="Github Repo Stars" >}} {{< shields path="github/license/psf/black" alt="License: `MIT`" >}} {{< shields path="github/languages/top/psf/black" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-black](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8b032393dac42793f0b15605d9126f06.png)
+![demo-picture-of-black](https://static.osguider.com/history/osguider/8b032393dac42793f0b15605d9126f06.png)
 
 Black 是一个 Python 代码格式化工具，它提供了速度、确定性和自由，并且摆脱了 pycodestyle 对格式的苛刻要求。使用 Black 可以节省时间和精力，在阅读项目时不受其影响。该工具通过生成最小差异来加快代码审查过程。Black 已经被许多大大小小的项目成功使用，并拥有全面的测试套件以及高效并行测试功能。此外，Black 还能检查重新格式化后的代码是否仍然产生有效等价于原始 AST (抽象语法树)，从而增强安全性。
-  
+
 ## [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook)
 
 {{< shields path="github/stars/ZachGoldberg/Startup-CTO-Handbook" alt="Github Repo Stars" >}} {{< shields path="github/license/ZachGoldberg/Startup-CTO-Handbook" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/ZachGoldberg/Startup-CTO-Handbook" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-Startup-CTO-Handbook](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c856895eef26eec0003a1ed9a6ad269d.png)
+![demo-picture-of-Startup-CTO-Handbook](https://static.osguider.com/history/2023/c856895eef26eec0003a1ed9a6ad269d.png)
 
 这个项目是关于《初创公司 CTO 手册》的内容，提供了书籍的最新版本。
-  
+
 ## [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 {{< shields path="github/stars/kamranahmedse/developer-roadmap" alt="Github Repo Stars" >}} {{< shields path="github/license/kamranahmedse/developer-roadmap" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/kamranahmedse/developer-roadmap" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-developer-roadmap](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/df0fa4818817e7d2b9acbfd82db089a8.png)
+![demo-picture-of-developer-roadmap](https://static.osguider.com/history/2023/df0fa4818817e7d2b9acbfd82db089a8.png)
 
 这是一个互动的路线图，指南和其他教育内容，旨在帮助开发人员在他们的职业生涯中成长。
 
@@ -50,7 +50,7 @@ Black 是一个 Python 代码格式化工具，它提供了速度、确定性和
 - 包含最佳实践相关主题
 
 该项目为开发人员提供了一系列有用且易于理解的资源。通过使用这些路线图和指南，开发者可以系统地规划自己未来技能与知识体系上所需掌握或加强的方向。无论你是初学者还是经验丰富的专家，在此处都能找到适合自己进阶路径。
-  
+
 ## [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
 {{< shields path="github/stars/yangshun/tech-interview-handbook" alt="Github Repo Stars" >}} {{< shields path="github/license/yangshun/tech-interview-handbook" alt="License: `MIT`" >}} {{< shields path="github/languages/top/yangshun/tech-interview-handbook" alt="Language: `Unknown`" >}}
@@ -62,7 +62,7 @@ Black 是一个 Python 代码格式化工具，它提供了速度、确定性和
 - 提供针对忙碌工程师量身定制的高质量技术面试准备资料
 - 包含各种领域特定和非技术性问题，并不仅限于传统算法题目
 - 提供适用于软件工程师的简历撰写指南，帮助申请 FAANG 公司职位
-  
+
 ## [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 {{< shields path="github/stars/ripienaar/free-for-dev" alt="Github Repo Stars" >}} {{< shields path="github/license/ripienaar/free-for-dev" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/ripienaar/free-for-dev" alt="Language: `Unknown`" >}}
@@ -73,4 +73,3 @@ Black 是一个 Python 代码格式化工具，它提供了速度、确定性和
 
 - 提供各种云计算平台 (如 Google Cloud Platform、Amazon Web Services) 以及其他相关解决方案。
 - 列举了不同领域 (如分析统计、API 数据与机器学习、代码仓库管理等) 中可被开发者使用的带有免费套餐或限免条件的服务。
-  

@@ -2,7 +2,7 @@
 title: "玩转大语言模型：文本生成和模型控制的革新之道 | 开源日报 0901"
 description: "Guidance 是一个强大的工具，可以让您更有效地掌控现代语言模型，无论您是开发者、设计师还是跨职能团队。它允许您以一种简单直观的语法，基于 Handlebars 模板，实现文本生成、提示和逻辑控制的混合，产生清晰和易于理解的输出结构。它支持Jupyter/VSCode笔记本中的实时流式处理，可用于快速开发和测试复杂的模板和生成。此外，Guidance 还提供了模型加速功能，可在处理多个生成或 LLM（大型语言模型）控制流语句时显着提高推理性能，从而提供更快的结果。"
 date: "2023-11-23T06:04:53.200Z"
-image: "https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/6fc6b70c0cd5c2d35f5b727867588fa8.webp"
+image: "https://static.osguider.com/history/2023/6fc6b70c0cd5c2d35f5b727867588fa8.webp"
 tags: []
 categories:
   - "daily"
@@ -20,7 +20,7 @@ categories:
 - 支持多种文档格式，包括在线文档、HTML 和 Markdown。
 - 为 OpenJDK 社区提供支持。
 - 提供 JDK 问题跟踪功能。
-  
+
 ## [laravel/framework](https://github.com/laravel/framework)
 
 {{< shields path="github/stars/laravel/framework" alt="Github Repo Stars" >}} {{< shields path="github/license/laravel/framework" alt="License: `MIT`" >}} {{< shields path="github/languages/top/laravel/framework" alt="Language: `Unknown`" >}}
@@ -36,7 +36,7 @@ Laravel 是一个具有表达力和优雅语法的 Web 应用框架，旨在简�
 - 拥有全面的文档和视频教程库，是现代 Web 应用开发框架中最丰富和全面的。
 - 提供 Laravel Bootcamp，以逐步指导您构建现代 Laravel 应用程序。
 - Laracasts 包含超过 1100 个视频教程，涵盖 Laravel、现代 PHP、单元测试、JavaScript 等多个主题。
-  
+
 ## [facebookresearch/nougat](https://github.com/facebookresearch/nougat)
 
 {{< shields path="github/stars/facebookresearch/nougat" alt="Github Repo Stars" >}} {{< shields path="github/license/facebookresearch/nougat" alt="License: `MIT`" >}} {{< shields path="github/languages/top/facebookresearch/nougat" alt="Language: `Unknown`" >}}
@@ -53,7 +53,7 @@ Nougat 是一款强大的学术文档 PDF 解析工具，它的主要功能和�
 - 提供训练和评估模型的功能。
 
 Nougat 项目的出现极大地简化了学术文档处理的流程，为研究人员和开发者提供了更多便利。它的开源性质使得用户可以根据自己的需求进行定制和扩展。
-  
+
 ## [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio)
 
 {{< shields path="github/stars/webstudio-is/webstudio" alt="Github Repo Stars" >}} {{< shields path="github/license/webstudio-is/webstudio" alt="License: `AGPL-3.0`" >}} {{< shields path="github/languages/top/webstudio-is/webstudio" alt="Language: `Unknown`" >}}
@@ -69,12 +69,12 @@ Webstudio 是一款强大的可视化开发平台，具备以下特点和功能�
 - 提供贡献指南、Github 讨论、愿望清单、问题跟踪、路线图以及设计资产和文档等贡献和协作资源，鼓励开发者和社区成员参与项目的改进和发展。
 
 Webstudio 为开发人员和设计师提供了一个强大的工具，帮助他们更轻松地构建 Web 应用程序，同时还提供了丰富的学习和社交资源，促进了社区合作和贡献。无论您是初学者还是经验丰富的开发者，都可以从中受益。
-  
+
 ## [plasma-umass/scalene](https://github.com/plasma-umass/scalene)
 
 {{< shields path="github/stars/plasma-umass/scalene" alt="Github Repo Stars" >}} {{< shields path="github/license/plasma-umass/scalene" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/plasma-umass/scalene" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-scalene](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/491f4af50fed176291a4c110a75e8c55.png)
+![demo-picture-of-scalene](https://static.osguider.com/history/osguider/491f4af50fed176291a4c110a75e8c55.png)
 
 Scalene 是一个高性能的 Python CPU、GPU 和内存分析工具，旨在提供详细的性能信息，并首次引入了 AI 提出的优化建议功能。它支持多种分析选项，包括 CPU、GPU 和内存分析，可以分析代码的行级别和函数级别性能，同时还可以识别热点和内存泄漏。
 
@@ -88,12 +88,12 @@ Scalene 是一个高性能的 Python CPU、GPU 和内存分析工具，旨在提
 - 支持 GPU 时间分析（仅限 NVIDIA 系统）。
 - 能够分析内存使用情况，识别内存泄漏，生成内存使用趋势图。
 - 可以报告数据复制量，帮助发现不必要的数据复制。
-  
+
 ## [guidance-ai/guidance](https://github.com/guidance-ai/guidance)
 
 {{< shields path="github/stars/guidance-ai/guidance" alt="Github Repo Stars" >}} {{< shields path="github/license/guidance-ai/guidance" alt="License: `MIT`" >}} {{< shields path="github/languages/top/guidance-ai/guidance" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-guidance](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/86ff6709b4dd400260e2c2baced89eff.png)
+![demo-picture-of-guidance](https://static.osguider.com/history/osguider/86ff6709b4dd400260e2c2baced89eff.png)
 
 Guidance 是一个强大的工具，可以让您更有效地掌控现代语言模型，无论您是开发者、设计师还是跨职能团队。它允许您以一种简单直观的语法，基于 Handlebars 模板，实现文本生成、提示和逻辑控制的混合，产生清晰和易于理解的输出结构。它支持Jupyter/VSCode笔记本中的实时流式处理，可用于快速开发和测试复杂的模板和生成。此外，Guidance 还提供了模型加速功能，可在处理多个生成或 LLM（大型语言模型）控制流语句时显着提高推理性能，从而提供更快的结果。
 Guidance 具有以下主要特点：
@@ -107,4 +107,3 @@ Guidance 具有以下主要特点：
 - Guidance 的目标是使文本生成和模型控制更加灵活、高效，为开发者和团队提供更多自由度和便利性。它适用于多种用途，包括自然语言生成、文本处理和实时流式处理。
 
 无论您是初学者还是经验丰富的开发者，Guidance都能为您的项目带来便利和效率，是一个值得尝试的开源工具。
-  

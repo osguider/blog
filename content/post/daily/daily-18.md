@@ -2,7 +2,7 @@
 title: "实时多人关键点检测系统：OpenPose | 开源日报 0907"
 description: "OpenPose是一个开源项目，它是一个实时多人系统，能够在单个图像上联合检测人体、手部、面部和脚步关键点。它具有实时多人关键点检测、支持多种关键点估计、支持实时3D单一用户骨架姿态识别等核心优势。此外，OpenPose还提供了校准工具箱，用于评估摄像头参数。如果你需要一个能够实时检测多个人体关键点的系统，OpenPose是一个值得考虑的选择。"
 date: "2023-11-23T06:05:51.911Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/504570094b4f7e8413ef2f91160005e3.png"
+image: "https://static.osguider.com/history/osguider/504570094b4f7e8413ef2f91160005e3.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/CMU-Perceptual-Computing-Lab/openpose" alt="Github Repo Stars" >}} {{< shields path="github/license/CMU-Perceptual-Computing-Lab/openpose" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/CMU-Perceptual-Computing-Lab/openpose" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-openpose](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c7373db7a5db22d7ea6b32dbba2c7f5d.png)
+![demo-picture-of-openpose](https://static.osguider.com/history/2023/c7373db7a5db22d7ea6b32dbba2c7f5d.png)
 
 OpenPose 是一个开源项目，它是第一个能够在单个图像上联合检测人体、手部、面部和脚步关键点 (总共 135 个关键点) 的实时多人系统。该项目具有以下核心优势：
 
@@ -37,12 +37,12 @@ TinyLlama-1.1B 项目旨在预训练一个拥有 3 万亿个标记的 1.1B Llama
 - 紧凑性：只有 11 亿参数，在计算资源和内存限制下也能发挥作用
 - 支持 FSDP 进行多 GPU 和多节点分布式训练
 - 提供 flash attention、fused layernorm、fused swiglu 等特性
-  
+
 ## [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 
 {{< shields path="github/stars/e2b-dev/awesome-ai-agents" alt="Github Repo Stars" >}} {{< shields path="github/license/e2b-dev/awesome-ai-agents" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/e2b-dev/awesome-ai-agents" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-awesome-ai-agents](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/92bd051933d363054e172b3b2c75165b.png)
+![demo-picture-of-awesome-ai-agents](https://static.osguider.com/history/2023/92bd051933d363054e172b3b2c75165b.png)
 
 Awesome AI Agents 是一个 AI 代理的列表，分为两部分：开源项目和闭源项目及公司。该列表提供了一些可以使用的 SDK、框架和工具来构建 AI 代理。
 
@@ -50,7 +50,7 @@ Awesome AI Agents 是一个 AI 代理的列表，分为两部分：开源项目�
 - AI Legion：类似于 AutoGPT 和 Baby AGI 的合作型自主智能体平台。
 - Aider：让你与 GPT-3.5/GPT-4 结对编程的命令行工具。
 - AutoPR：使用 Chat GPT 生成解决 issue 的 PR。
-  
+
 ## [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
 
 {{< shields path="github/stars/cloudcommunity/Free-Certifications" alt="Github Repo Stars" >}} {{< shields path="github/license/cloudcommunity/Free-Certifications" alt="License: `MIT`" >}} {{< shields path="github/languages/top/cloudcommunity/Free-Certifications" alt="Language: `Unknown`" >}}
@@ -65,7 +65,7 @@ Awesome AI Agents 是一个 AI 代理的列表，分为两部分：开源项目�
 - 包含广泛而深入的覆盖不同领域 (如人工智能、数据分析) 以及专业性质 (如信息安全管理) 的学习资源。
 
 总之，这个开源项目为用户提供了获取各种 IT 行业内重要厂商或组织所授予资格与荣誉标志 (例如：微软 Azure，AWS) 的途径，并帮助他们获得更好就职机会或者进一步发展自己职场生涯所需求到必备技能。
-  
+
 ## [rook/rook](https://github.com/rook/rook)
 
 {{< shields path="github/stars/rook/rook" alt="Github Repo Stars" >}} {{< shields path="github/license/rook/rook" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/rook/rook" alt="Language: `Unknown`" >}}
@@ -77,7 +77,7 @@ Rook 是一个开源的云原生存储编排器，为 Kubernetes 提供了与 Ce
 - 提供文件、块和对象存储
 - 自动化部署、配置、伸缩升级及监控
 - 稳定性高且向后兼容性强
-  
+
 ## [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
 
 {{< shields path="github/stars/SimplifyJobs/New-Grad-Positions" alt="Github Repo Stars" >}} {{< shields path="github/license/SimplifyJobs/New-Grad-Positions" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/SimplifyJobs/New-Grad-Positions" alt="Language: `Unknown`" >}}
@@ -89,4 +89,3 @@ Rook 是一个开源的云原生存储编排器，为 Kubernetes 提供了与 Ce
 - 自动更新：使用脚本自动更新最新工作信息。
 - 简单贡献：通过提交 issue 来添加或编辑工作。
 - 新申请选项：灰色按钮代表标准发布，蓝色按钮代表 Simplify 一键申请。
-  

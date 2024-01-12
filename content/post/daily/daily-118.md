@@ -2,7 +2,7 @@
 title: "手绘风格绘画白板：自由创作艺术空间  | 开源日报 No.118"
 description: "Excalidraw 是一个开源的虚拟手绘风格白板，支持协作和端到端加密。用户可以创建美丽的手绘式图表、线框图或其他内容。"
 date: "2023-12-17T04:05:26.413Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/052fa316ae2faad0bb17a03ea5a52b75.png"
+image: "https://static.osguider.com/history/osguider/052fa316ae2faad0bb17a03ea5a52b75.png"
 tags: []
 categories:
   - "daily"
@@ -20,12 +20,12 @@ categories:
 - 支持 CocoaPods 作为主要方式进行软件开发，并且大部分 repo 现在也支持使用 Swift Package Manager 进行开发。
 - 包括特定组件指南，例如对于 Firebase Auth、Database 等特定组件有详细说明。
 - 对于 watchOS 系统提供社区贡献支持，并且正在积极地完善中。
-  
+
 ## [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 
 {{< shields path="github/stars/excalidraw/excalidraw" alt="Github Repo Stars" >}} {{< shields path="github/license/excalidraw/excalidraw" alt="License: " >}} {{< shields path="github/languages/top/excalidraw/excalidraw" alt="Language: " >}}
 
-![demo-picture-of-excalidraw](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/00734c80553de22444e663c592e79b55.png)
+![demo-picture-of-excalidraw](https://static.osguider.com/history/2023/00734c80553de22444e663c592e79b55.png)
 
 Excalidraw 是一个开源的虚拟手绘风格白板，支持协作和端到端加密。用户可以创建美丽的手绘式图表、线框图或其他内容。
 主要功能：
@@ -41,7 +41,7 @@ Excalidraw 是一个开源的虚拟手绘风格白板，支持协作和端到端
 - 图片与形状库支持
 - 导出至 PNG，SVG & 剪贴板
 - 本地化 (i18n) 支持
-  
+
 ## [uber-go/goleak](https://github.com/uber-go/goleak)
 
 {{< shields path="github/stars/uber-go/goleak" alt="Github Repo Stars" >}} {{< shields path="github/license/uber-go/goleak" alt="License: " >}} {{< shields path="github/languages/top/uber-go/goleak" alt="Language: " >}}
@@ -54,12 +54,12 @@ goleak 是一个 Goroutine 泄漏检测器，旨在帮助避免 Goroutine 的泄
 - 支持语义化版本发布
 - 严格遵循 SemVer 规范
 - 可以用于验证测试结束时是否有意外运行中的 goroutines
-  
+
 ## [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit)
 
 {{< shields path="github/stars/aquasecurity/cloudsploit" alt="Github Repo Stars" >}} {{< shields path="github/license/aquasecurity/cloudsploit" alt="License: " >}} {{< shields path="github/languages/top/aquasecurity/cloudsploit" alt="Language: " >}}
 
-![demo-picture-of-cloudsploit](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/929ff710926f30f7bd6579cdab36dc60.png)
+![demo-picture-of-cloudsploit](https://static.osguider.com/history/2023/929ff710926f30f7bd6579cdab36dc60.png)
 
 CloudSploit 是一个开源项目，旨在帮助用户检测云基础设施账户中的安全风险。它支持多个主流云平台 (包括 AWS、Azure、GCP 和 Oracle OCI) 以及 GitHub，并提供一系列潜在配置错误和安全风险。
 
@@ -69,12 +69,12 @@ CloudSploit 是一个开源项目，旨在帮助用户检测云基础设施账�
 - 安装简便：只需确保已经安装 NodeJS 即可轻松部署并运行 CloudSploit。
 - 灵活配置：通过修改 config 文件或使用环境变量等方式传递凭证信息，可以方便地对不同的云服务商进行测试与扫描。
 - 自定义输出格式：除了默认表格形式外，还可以将结果导出为 CSV 或 JSON 格式，并且支持 JUnit XML 输出格式，方便进一步集成到其他工具中去处理数据。
-  
+
 ## [iv-org/invidious](https://github.com/iv-org/invidious)
 
 {{< shields path="github/stars/iv-org/invidious" alt="Github Repo Stars" >}} {{< shields path="github/license/iv-org/invidious" alt="License: " >}} {{< shields path="github/languages/top/iv-org/invidious" alt="Language: " >}}
 
-![demo-picture-of-invidious](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/06163d7288a265ced35b356702063322.png)
+![demo-picture-of-invidious](https://static.osguider.com/history/2023/06163d7288a265ced35b356702063322.png)
 
 Invidious 是一个开源的 YouTube 替代前端项目。
 主要功能包括：
@@ -84,7 +84,7 @@ Invidious 是一个开源的 YouTube 替代前端项目。
 - 具有数据导入/导出功能，可以从 YouTube、NewPipe 和 Freetube 中导入订阅，并将订阅导出到 NewPipe 和 Freetube
 - 技术上支持嵌入式视频播放并提供开发者 API，而且没有使用官方的 YouTube API 或贡献者许可协议 (CLA)
 - 在文档中推荐了隐私重定向浏览器扩展程序，并鼓励社区参与代码编写和多语言翻译。
-  
+
 ## [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 
 {{< shields path="github/stars/togethercomputer/OpenChatKit" alt="Github Repo Stars" >}} {{< shields path="github/license/togethercomputer/OpenChatKit" alt="License: " >}} {{< shields path="github/languages/top/togethercomputer/OpenChatKit" alt="Language: " >}}
@@ -99,4 +99,4 @@ OpenChatKit，提供了一个强大的、开源的基础框架来创建各种应
 - 可根据需要添加更多信息.
 - 具有灵活性和可扩展性.
 - 支持不同类型应用场景下对话交互体验
-  
+

@@ -2,7 +2,7 @@
 title: "桌面应用开发：Go 语言和 Web 技术的融合创新 | 开源日报 No.46"
 description: "这是一个用 Go 和 Web 技术构建桌面应用的项目。它使用 Go 后端和各种前端技术创建 UI，支持跨平台运行，无需嵌入浏览器。"
 date: "2023-11-23T06:07:57.788Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b8f023323b14c8354ca177d5f2297fbe.png"
+image: "https://static.osguider.com/history/osguider/b8f023323b14c8354ca177d5f2297fbe.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/wailsapp/wails" alt="Github Repo Stars" >}} {{< shields path="github/license/wailsapp/wails" alt="License: `MIT`" >}} {{< shields path="github/languages/top/wailsapp/wails" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-wails](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/2e9300464ef71722fbec79633258f2e1.png)
+![demo-picture-of-wails](https://static.osguider.com/history/2023/2e9300464ef71722fbec79633258f2e1.png)
 
 这个项目是使用 Go 和 Web 技术构建桌面应用程序的开源项目。
 
@@ -27,12 +27,12 @@ categories:
 - 在 Go 和 Javascript 之间提供统一事件系统
 - 强大的命令行工具快速生成并编译，多平台运行
 - 没有嵌入浏览器！使用本机渲染引擎
-  
+
 ## [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 
 {{< shields path="github/stars/TheAlgorithms/Python" alt="Github Repo Stars" >}} {{< shields path="github/license/TheAlgorithms/Python" alt="License: `MIT`" >}} {{< shields path="github/languages/top/TheAlgorithms/Python" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-Python](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/4639642c045824bd44139c3098fc17d4.png)
+![demo-picture-of-Python](https://static.osguider.com/history/2023/4639642c045824bd44139c3098fc17d4.png)
 
 这个开源项目是一个用 Python 实现的算法库，旨在提供教育目的下使用的各种算法。
 
@@ -49,19 +49,19 @@ categories:
 
 - 为广大读者提供了许多知名权威出版物上精选而来的文章资源；
 - 涵盖了各类领域 (如经济学、时事评论) 与不同周期 (如周刊或月刊) 内发布的重要信息；
-  
+
 ## [dotnet/maui](https://github.com/dotnet/maui)
 
 {{< shields path="github/stars/dotnet/maui" alt="Github Repo Stars" >}} {{< shields path="github/license/dotnet/maui" alt="License: `MIT`" >}} {{< shields path="github/languages/top/dotnet/maui" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-maui](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c11caf1a580a9811d3d64ae15ab196c0.png)
+![demo-picture-of-maui](https://static.osguider.com/history/osguider/c11caf1a580a9811d3d64ae15ab196c0.png)
 
 .NET Multi-platform App UI (.NET MAUI) 是一个跨平台的框架，用于使用 C# 和 XAML 创建移动和桌面应用程序。通过使用 .NET MAUI，您可以开发能够在 Android、iOS、iPadOS、macOS 和 Windows 上运行的应用程序，并且这些应用程序共享相同的代码库。
 
 - 可以在多个平台上运行
 - 使用 C# 和 XAML 进行开发
 - 单一代码库适配不同设备
-  
+
 ## [airbnb/javascript](https://github.com/airbnb/javascript)
 
 {{< shields path="github/stars/airbnb/javascript" alt="Github Repo Stars" >}} {{< shields path="github/license/airbnb/javascript" alt="License: `MIT`" >}} {{< shields path="github/languages/top/airbnb/javascript" alt="Language: `Unknown`" >}}
@@ -75,7 +75,7 @@ Airbnb JavaScript Style Guide 是一个 JavaScript 代码风格指南，主要�
 - 使用字面语法创建对象
 - 在数组中添加元素时，建议使用 Array#push 代替直接赋值
 - 推荐将箭头函数体放在隐式返回表达式之前并换行显示以增加可读性
-  
+
 ## [gabime/spdlog](https://github.com/gabime/spdlog)
 
 {{< shields path="github/stars/gabime/spdlog" alt="Github Repo Stars" >}} {{< shields path="github/license/gabime/spdlog" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/gabime/spdlog" alt="Language: `Unknown`" >}}
@@ -90,4 +90,3 @@ spdlog 是一个非常快速的 C++日志库，可以作为头文件使用或者
 - 自定义格式化方式
 - 多线程/单线程记录器支持
 - 各种不同类型的日志目标：滚动日志文件、每天生成新的日志文件、控制台输出 (支持颜色)、syslog 等。
-  

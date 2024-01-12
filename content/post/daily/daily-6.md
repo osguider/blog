@@ -2,7 +2,7 @@
 title: "canal 增量数据处理 | 开源日报 0819"
 description: "这篇文章总结了一些令人兴奋的开源项目，涵盖了各种领域。无论你是开发人员、设计师还是想要探索新技术的爱好者，这些项目都值得一看。从数据库解析到PDF生成，从计算机视觉到游戏开发，这些项目将为你提供实用工具和有趣的体验。无论你是想要优化工作流程，还是寻找新的创造灵感，都不要错过这个令人眼花缭乱的列表！"
 date: "2023-11-23T06:05:08.438Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/352cb99b4168958fbd5cd95ad9fef8ac.png"
+image: "https://static.osguider.com/history/osguider/352cb99b4168958fbd5cd95ad9fef8ac.png"
 tags: []
 categories:
   - "daily"
@@ -18,7 +18,7 @@ categories:
 
 - 包含 2009-2022年全套真题及解析、无解析版真题、章节分类真题解析和其他真题书籍电子版。
 - 提供官网、报名入口、成绩查询入口等相关链接。
-  
+
 ## [jiran214/GPT-vup](https://github.com/jiran214/GPT-vup)
 
 {{< shields path="github/stars/jiran214/GPT-vup" alt="Github Repo Stars" >}} {{< shields path="github/license/jiran214/GPT-vup" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/jiran214/GPT-vup" alt="Language: `Unknown`" >}}
@@ -26,7 +26,7 @@ categories:
 {{< github-opengraph user="jiran214" repo="GPT-vup" alt="cover" >}}
 
 GPT-vup Live2D 数字人直播是一个基于生产者-消费者模型设计的项目，支持 BiliBili 和抖音直播。它使用了 openai 嵌入和 GPT3.5 api 来实现功能。主要功能包括回答弹幕和 SC、欢迎入场观众、感谢礼物等。该项目还提供了一些插件，如 speech 插件可以进行语音交互，schedule 插件可以隔一段时间触发某一事件 (例如讲故事、唱 rap)，action 插件可以根据观众的行为匹配对应人物动作，并且还有 context 插件用于给问题补充上下文信息。
-  
+
 ## [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 
 {{< shields path="github/stars/diegomura/react-pdf" alt="Github Repo Stars" >}} {{< shields path="github/license/diegomura/react-pdf" alt="License: `MIT`" >}} {{< shields path="github/languages/top/diegomura/react-pdf" alt="Language: `Unknown`" >}}
@@ -38,7 +38,7 @@ React PDF 是一个用于在浏览器和服务器上创建 PDF 文件的 React �
 - 可以使用 React 来创建 PDF 文件
 - 支持在 DOM 中进行渲染
 - 支持将生成的 PDF 保存为文件
-  
+
 ## [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)
 
 {{< shields path="github/stars/getumbrel/llama-gpt" alt="Github Repo Stars" >}} {{< shields path="github/license/getumbrel/llama-gpt" alt="License: `MIT`" >}} {{< shields path="github/languages/top/getumbrel/llama-gpt" alt="Language: `Unknown`" >}}
@@ -68,7 +68,7 @@ LlamaGPT 是一个自托管、离线的 ChatGPT 类聊天机器人，由 Llama 2
 - 免费：完全免费使用，无需付费。
 - 开源：在 GitHub 上进行开源，欢迎用户提出自己的想法、创意或参与项目开发。
 - 支持创意工坊：用户可以制作并上传别的人物桌宠动画或者互动至创意工坊分享给更多人使用。
-  
+
 ## [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo)
 
 {{< shields path="github/stars/taojy123/KeymouseGo" alt="Github Repo Stars" >}} {{< shields path="github/license/taojy123/KeymouseGo" alt="License: `GPL-2.0`" >}} {{< shields path="github/languages/top/taojy123/KeymouseGo" alt="Language: `Unknown`" >}}
@@ -82,7 +82,7 @@ KeymouseGo 是一个记录用户鼠标键盘操作并自动执行的开源项目
 - 提供桌面模式和命令行模式两种基本操作方式。
 - 支持脚本语法说明，使用 json 格式表示每一次动作及其参数。
 - 具有自定义扩展功能，可根据需要添加新功能。
-  
+
 ## [rany2/edge-tts](https://github.com/rany2/edge-tts)
 
 {{< shields path="github/stars/rany2/edge-tts" alt="Github Repo Stars" >}} {{< shields path="github/license/rany2/edge-tts" alt="License: `GPL-3.0`" >}} {{< shields path="github/languages/top/rany2/edge-tts" alt="Language: `Unknown`" >}}
@@ -95,7 +95,7 @@ KeymouseGo 是一个记录用户鼠标键盘操作并自动执行的开源项目
 - 支持更改语言和声音
 - 可以调整生成语音的速率和音量
 - 提供了 Python 模块，可以直接从 Python 中调用
-  
+
 ## [roboflow/supervision](https://github.com/roboflow/supervision)
 
 {{< shields path="github/stars/roboflow/supervision" alt="Github Repo Stars" >}} {{< shields path="github/license/roboflow/supervision" alt="License: `MIT`" >}} {{< shields path="github/languages/top/roboflow/supervision" alt="Language: `Unknown`" >}}
@@ -113,12 +113,12 @@ KeymouseGo 是一个记录用户鼠标键盘操作并自动执行的开源项目
 - 支持保存不同格式的目标检测/实例分割数据集，并进行标签转换等操作
 
 此外，该项目还提供了对象检测任务下平均精度 (mAP) 等评估指标。
-  
+
 ## [novuhq/novu](https://github.com/novuhq/novu)
 
 {{< shields path="github/stars/novuhq/novu" alt="Github Repo Stars" >}} {{< shields path="github/license/novuhq/novu" alt="License: `MIT`" >}} {{< shields path="github/languages/top/novuhq/novu" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-novu](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/df5ee6f1ff792f55c42ac358b6a14733.png)
+![demo-picture-of-novu](https://static.osguider.com/history/2023/df5ee6f1ff792f55c42ac358b6a14733.png)
 
 Novu 是一个开源的通知基础设施项目，它提供了统一的 API 来通过多个渠道发送通知，包括应用内、推送、电子邮件、短信和聊天。主要功能有：
 
@@ -131,7 +131,7 @@ Novu 是一个开源的通知基础设施项目，它提供了统一的 API 来�
 - 可嵌入式带实时更新的通知中心
 
 此外，该项目还具有社区驱动特性，并支持各种编程语言。
-  
+
 ## [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors)
 
 {{< shields path="github/stars/ververica/flink-cdc-connectors" alt="Github Repo Stars" >}} {{< shields path="github/license/ververica/flink-cdc-connectors" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/ververica/flink-cdc-connectors" alt="Language: `Unknown`" >}}
@@ -143,7 +143,7 @@ CDC Connectors for Apache Flink® 是一组用于 Apache Flink® 的源连接器
 - 支持读取数据库快照并在发生故障时继续读取事务日志进行精确处理。
 - 提供 DataStream API 和 Table/SQL API 两种方式来消费多个数据库和表中的更改。
 - 可以使用 SQL DDL 创建一个 CDC source 来监视单个表上的更改。
-  
+
 ## [alibaba/canal](https://github.com/alibaba/canal)
 
 {{< shields path="github/stars/alibaba/canal" alt="Github Repo Stars" >}} {{< shields path="github/license/alibaba/canal" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/alibaba/canal" alt="Language: `Unknown`" >}}
@@ -199,7 +199,7 @@ Ubicloud 是一个开放、免费和便携的云平台，类似于 Linux 对专�
 - 支持使用 `@Serializable` 标记的 Kotlin 类和标准集合。
 - 提供 JSON、Protobuf、CBOR、Hocon 和 Properties 等不同的序列化格式。
 - 完全支持 JVM、JS 和 Native 三种平台。
-  
+
 ## [apple/ml-fastvit](https://github.com/apple/ml-fastvit)
 
 {{< shields path="github/stars/apple/ml-fastvit" alt="Github Repo Stars" >}} {{< shields path="github/license/apple/ml-fastvit" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/apple/ml-fastvit" alt="Language: `Unknown`" >}}
@@ -219,4 +219,3 @@ FastViT 是一个使用结构重参数化的快速混合视觉 Transformer。该
 {{< github-opengraph user="ill-inc" repo="biomes-game" alt="cover" >}}
 
 Biomes 是一个开源的基于 Web 技术构建的沙盒 MMORPG 游戏，使用了 Next.js、Typescript 和 WebAssembly 等 web 技术。它使用 React 和响应式编程范例进行游戏开发。
-  

@@ -24,7 +24,7 @@ Awesome Python 是一个精选的 Python 框架、库和软件资源列表。
 
 {{< shields path="github/stars/Grasscutters/Grasscutter" alt="Github Repo Stars" >}} {{< shields path="github/license/Grasscutters/Grasscutter" alt="License: `AGPL-3.0`" >}} {{< shields path="github/languages/top/Grasscutters/Grasscutter" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-Grasscutter](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c8b60d8b4a3866a246372ddd2069a3fb.png)
+![demo-picture-of-Grasscutter](https://static.osguider.com/history/2023/c8b60d8b4a3866a246372ddd2069a3fb.png)
 
 这个项目是一个开源的游戏，名为 Genshin Impact。该项目的主要功能包括登录、战斗、好友列表、传送、扭蛋系统等。其核心优势和特点如下：
 
@@ -33,7 +33,7 @@ Awesome Python 是一个精选的 Python 框架、库和软件资源列表。
 - 使用 Java 17 进行构建
 - 可以通过 Gradle 处理依赖项和构建
 - 提供故障排除指南
-  
+
 ## [smol-ai/GodMode](https://github.com/smol-ai/GodMode)
 
 {{< shields path="github/stars/smol-ai/GodMode" alt="Github Repo Stars" >}} {{< shields path="github/license/smol-ai/GodMode" alt="License: `MIT`" >}} {{< shields path="github/languages/top/smol-ai/GodMode" alt="Language: `Unknown`" >}}
@@ -53,7 +53,7 @@ GodMode 是一个专用的聊天浏览器，只有一个功能：通过单个键
 2. 自定义化：用户可以定制各种键盘快捷方式和界面布局。
 3. 多样性：支持不同类型的模型提供者。
 4. 开放源代码：用户可以从源码构建该项目。
-  
+
 ## [aseprite/aseprite](https://github.com/aseprite/aseprite)
 
 {{< shields path="github/stars/aseprite/aseprite" alt="Github Repo Stars" >}} {{< shields path="github/license/aseprite/aseprite" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/aseprite/aseprite" alt="Language: `Unknown`" >}}
@@ -71,12 +71,12 @@ Aseprite 是一个用于创建动画精灵的程序。其主要功能包括：
 - 像素艺术特定工具，如像素完美自由手模式，阴影墨水笔，自定义刷子，轮廓线条宽度调整等等。
 
 该项目有许多其他特点与优势，请查看 [Readme](https://github.com/aseprite/aseprite/blob/main/LICENSE.md) 获取更详细信息。
-  
+
 ## [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
 {{< shields path="github/stars/microsoft/Bringing-Old-Photos-Back-to-Life" alt="Github Repo Stars" >}} {{< shields path="github/license/microsoft/Bringing-Old-Photos-Back-to-Life" alt="License: `MIT`" >}} {{< shields path="github/languages/top/microsoft/Bringing-Old-Photos-Back-to-Life" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-Bringing-Old-Photos-Back-to-Life](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/02b70181768fc3245125086221a88880.webp)
+![demo-picture-of-Bringing-Old-Photos-Back-to-Life](https://static.osguider.com/history/2023/02b70181768fc3245125086221a88880.webp)
 
 这个项目是一个旧照片修复的开源项目，主要功能是通过深度潜在空间转换来将老照片恢复到原始状态。该项目有以下核心优势和特点：
 
@@ -87,7 +87,7 @@ Aseprite 是一个用于创建动画精灵的程序。其主要功能包括：
 - 采用渐进式生成器对脸部区域进行细节增强
 
 此外，该项目还提供了用户友好的 GUI 界面，并且可以训练自己的模型。
-  
+
 ## [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)
 
 {{< shields path="github/stars/OpenBB-finance/OpenBBTerminal" alt="Github Repo Stars" >}} {{< shields path="github/license/OpenBB-finance/OpenBBTerminal" alt="License: `MIT`" >}} {{< shields path="github/languages/top/OpenBB-finance/OpenBBTerminal" alt="Language: `Unknown`" >}}
@@ -102,7 +102,7 @@ OpenBB 是一个开源项目，致力于构建投资研究的未来，并专注�
 - 有活跃的社区支持，并提供了各种联系方式。
 
 请注意，在金融工具交易中存在高风险，本数据不一定准确。任何第三方名称、标志和品牌仅用于识别目的，并不暗示任何认可、赞助或关联性。
-  
+
 ## [serde-rs/serde](https://github.com/serde-rs/serde)
 
 {{< shields path="github/stars/serde-rs/serde" alt="Github Repo Stars" >}} {{< shields path="github/license/serde-rs/serde" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/serde-rs/serde" alt="Language: `Unknown`" >}}

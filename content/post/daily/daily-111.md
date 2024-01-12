@@ -2,7 +2,7 @@
 title: "Sherlock：社交媒体账号搜索工具 | 开源日报 No.111"
 description: "Sherlock 是一个强大的社交媒体账号搜索工具，可以帮助你追踪用户在不同社交网络上的账号。它支持单个或多个用户搜索，可以通过用户名快速找到目标账号。Sherlock 提供了 Docker 容器化部署方式，方便快捷。此外，Sherlock 还提供了详细的测试功能，确保搜索的准确性和稳定性。"
 date: "2023-12-13T04:05:47.485Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8af2d59b434fe251030619db0ef158a2.png"
+image: "https://static.osguider.com/history/osguider/8af2d59b434fe251030619db0ef158a2.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/pydantic/FastUI" alt="Github Repo Stars" >}} {{< shields path="github/license/pydantic/FastUI" alt="License: " >}} {{< shields path="github/languages/top/pydantic/FastUI" alt="Language: " >}}
 
-![demo-picture-of-FastUI](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/0e8f7f8c133d7ce8144c32008abbe26a.png)
+![demo-picture-of-FastUI](https://static.osguider.com/history/2023/0e8f7f8c133d7ce8144c32008abbe26a.png)
 
 FastUI 是一个新的构建 Web 应用程序用户界面的方式，通过声明式 Python 代码来定义。其核心优势包括：
 
@@ -62,12 +62,12 @@ FastUI 由以下四部分组成：
 - 提供预先构建版本以便直接使用
 
 此外，FastAPI 已经定义了多种常见页面元素如文本、段落、标题等。FastUI 还遵循 RESTful 原则，在后台告诉前台该做什么，实际上与 GraphQL 相反但目标相同——允许后端扩展而无需进行新的前端开发。
-  
+
 ## [samuelcolvin/FastUI](https://github.com/samuelcolvin/FastUI)
 
 {{< shields path="github/stars/samuelcolvin/FastUI" alt="Github Repo Stars" >}} {{< shields path="github/license/samuelcolvin/FastUI" alt="License: " >}} {{< shields path="github/languages/top/samuelcolvin/FastUI" alt="Language: " >}}
 
-![demo-picture-of-FastUI](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/04f0f778d4db0cb121f4d995bf5e89b1.png)
+![demo-picture-of-FastUI](https://static.osguider.com/history/osguider/04f0f778d4db0cb121f4d995bf5e89b1.png)
 
 FastUI 是一个新的构建 Web 应用程序用户界面的方式，通过声明式 Python 代码来定义。其核心优势包括：
 
@@ -111,7 +111,7 @@ npm@10.2.3 /usr/local/lib/node_modules/npm 的情况下使用 React 构建响应
 - FastUI 由 4 部分组成：PyPI 软件包、React TypeScript 软件包、Bootstrap 定制化软件包以及预先构建好版本提供 CDN 服务
 - 已经定义了多种常见组件如文本、段落、页面标题等，并且支持表单渲染和数据展示等功能
 FastUI 还遵循 RESTful 原则，在后台告知前台需要做什么，实现只需在一个地方编写代码即可添加新视图或更改 URL 结构；同时能够完全解耦前后端部署并保证通信双方基于同意模式进行交流。
-  
+
 ## [ExpLangcn/NucleiTP](https://github.com/ExpLangcn/NucleiTP)
 
 {{< shields path="github/stars/ExpLangcn/NucleiTP" alt="Github Repo Stars" >}} {{< shields path="github/license/ExpLangcn/NucleiTP" alt="License: " >}} {{< shields path="github/languages/top/ExpLangcn/NucleiTP" alt="Language: " >}}
@@ -123,7 +123,7 @@ NucleiTP 是一个全网监控 Nuclei Poc 实时更新的项目。
 - 根据风险等级分别存储不同文件夹
 - 自动测试 Poc 是否可以使用 Nuclei 加载
 - 重复 Poc 自动重命名，方便手工分析
-  
+
 ## [Luodian/Otter](https://github.com/Luodian/Otter)
 
 {{< shields path="github/stars/Luodian/Otter" alt="Github Repo Stars" >}} {{< shields path="github/license/Luodian/Otter" alt="License: " >}} {{< shields path="github/languages/top/Luodian/Otter" alt="Language: " >}}
@@ -136,12 +136,12 @@ NucleiTP 是一个全网监控 Nuclei Poc 实时更新的项目。
 - 提供用于评估 8 项基准测试 GPT4V 性能的脚本
 - 引入 MagnifierBench 评估基准以及改进了预训练、SFT 和 RLHF 管道
 - 逐步公开训练脚本并组织各类数据集管理 yaml 文件等重大变更
-  
+
 ## [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
 {{< shields path="github/stars/sherlock-project/sherlock" alt="Github Repo Stars" >}} {{< shields path="github/license/sherlock-project/sherlock" alt="License: " >}} {{< shields path="github/languages/top/sherlock-project/sherlock" alt="Language: " >}}
 
-![demo-picture-of-sherlock](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/948c503b60caeaf6adabb0400c360885.png)
+![demo-picture-of-sherlock](https://static.osguider.com/history/2023/948c503b60caeaf6adabb0400c360885.png)
 
 这个项目是一个社交媒体账号搜索工具，名为 Sherlock。它可以通过用户名在不同的社交网络上追踪用户的账号。
 
@@ -149,7 +149,7 @@ NucleiTP 是一个全网监控 Nuclei Poc 实时更新的项目。
 - 提供 Docker 容器化部署方式
 - 开放源代码并欢迎贡献者参与开发
 - 包含详细测试功能
-  
+
 ## [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)
 
 {{< shields path="github/stars/mlc-ai/mlc-llm" alt="Github Repo Stars" >}} {{< shields path="github/license/mlc-ai/mlc-llm" alt="License: " >}} {{< shields path="github/languages/top/mlc-ai/mlc-llm" alt="Language: " >}}
@@ -162,4 +162,4 @@ MLC LLM 是一个高性能的通用部署解决方案，允许使用编译器加
 - 可扩展性强
 - 提供各种预构建模型
 - 多套跨平台环境下的 API 接口
-  
+

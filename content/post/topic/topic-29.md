@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/llSourcell/DoctorGPT" alt="Github Repo Stars" >}} {{< shields path="github/license/llSourcell/DoctorGPT" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/llSourcell/DoctorGPT" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-DoctorGPT](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/9a83ebea055fe28bca301ee19e465ebd.webp)
+![demo-picture-of-DoctorGPT](https://static.osguider.com/history/2023/9a83ebea055fe28bca301ee19e465ebd.webp)
 
 DoctorGPT 是一个大型语言模型，可以通过美国医疗执业考试。这是一个开源项目，旨在为每个人提供自己的私人医生。DoctorGPT 是 Meta's Llama2 70 亿参数大型语言模型的版本，在医学对话数据集上进行了微调，并使用强化学习和宪法 AI 进一步改进。由于该模型只有 3GB 大小，因此适用于任何本地设备，无需支付 API 费用即可使用。它免费、专为离线使用而设计，保护患者隐私，并且可在 iOS、Android 和 Web 上使用。
 
@@ -20,12 +20,12 @@ DoctorGPT 是一个大型语言模型，可以通过美国医疗执业考试。�
 - 具有良好的离线性能
 - 模型体积较小 (仅 3GB)
 - 改善后续反馈机制
-  
+
 ## [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT)
 
 {{< shields path="github/stars/RayVentura/ShortGPT" alt="Github Repo Stars" >}} {{< shields path="github/license/RayVentura/ShortGPT" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/RayVentura/ShortGPT" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-ShortGPT](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/01f92673a9d1d9225fa80fc3d25cdf91.webp)
+![demo-picture-of-ShortGPT](https://static.osguider.com/history/2023/01f92673a9d1d9225fa80fc3d25cdf91.webp)
 
 ShortGPT 是一个实验性的 AI 框架，用于自动化短视频内容创作。
 
@@ -37,7 +37,7 @@ ShortGPT 是一个实验性的 AI 框架，用于自动化短视频内容创作�
 - 字幕生成：自动生成视频字幕。
 - 素材获取：从互联网上获取图像和影片素材，并根据需要连接到网络或 Pexels API 进行操作。
 - 内存与持久性：使用 TinyDB 来确保长期保存自动编缉变量。
-  
+
 ## [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
 
 {{< shields path="github/stars/binary-husky/gpt_academic" alt="Github Repo Stars" >}} {{< shields path="github/license/binary-husky/gpt_academic" alt="License: `GPL-3.0`" >}} {{< shields path="github/languages/top/binary-husky/gpt_academic" alt="Language: `Unknown`" >}}
@@ -67,4 +67,3 @@ RoomGPT 是一个使用 AI 重新设计房间的开源项目。它是 RoomGPT.io
 - ML 模型托管在 Replicate 上，图片存储使用 Upload
 
 该项目提供了本地运行和一键部署两种方式。
-  

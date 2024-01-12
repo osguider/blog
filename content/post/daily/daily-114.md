@@ -2,7 +2,7 @@
 title: "AudioGPT 语音技术全覆盖：语音识别、增强、分离、风格迁移等 | 开源日报 No.114"
 description: "AudioGPT 是一个理解和生成语音、音乐、声音和虚拟人的开源项目。"
 date: "2023-12-15T04:05:18.848Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e0ed3b1092b6eeaad061f0eb5605f21d.png"
+image: "https://static.osguider.com/history/osguider/e0ed3b1092b6eeaad061f0eb5605f21d.png"
 tags: []
 categories:
   - "daily"
@@ -19,7 +19,7 @@ oil.nvim 是一个类似于 vim-vinegar 的文件浏览器，允许您像普通 
 - 通过适配器实现跨位置查看和修改文件
 - 支持 SSH 适配器，可在远程服务器上浏览文件
 - 提供丰富的 API 用于执行不同操作
-  
+
 ## [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)
 
 {{< shields path="github/stars/ThePrimeagen/harpoon" alt="Github Repo Stars" >}} {{< shields path="github/license/ThePrimeagen/harpoon" alt="License: " >}} {{< shields path="github/languages/top/ThePrimeagen/harpoon" alt="Language: " >}}
@@ -31,9 +31,9 @@ Harpoon 是一个为了用最少的按键操作来实现你想要的目标而设
 - 通过更改用户界面或者添加热键文件进行指定
 - 可以创建无限数量和列表项数目
 - 需要 neovim 0.8.0+ 版本支持
-- 必须调用 
+- 必须调用
 - 支持自定义 harpoon 列表行为，可以根据需要提供自己的调用函数。
-  
+
 ## [unslothai/unsloth](https://github.com/unslothai/unsloth)
 
 {{< shields path="github/stars/unslothai/unsloth" alt="Github Repo Stars" >}} {{< shields path="github/license/unslothai/unsloth" alt="License: " >}} {{< shields path="github/languages/top/unslothai/unsloth" alt="Language: " >}}
@@ -49,7 +49,7 @@ Harpoon 是一个为了用最少的按键操作来实现你想要的目标而设
 - 在 260 小时内完全在本地训练 Slim Orca 模型 (原来需要 1301 小时)
 该开源版本可以实现 5 倍加速训练或者选择 Unsloth Pro 和 Max 代码路径进行 30 倍加速训练。
 同时提供了 Alpaca52K 数据集和 Slim Orca518K 数据集等 Colab 示例以及 LAION OIG Chip2 数据集的 Kaggle 示例，并且还可通过 Discord 获取帮助。
-  
+
 ## [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore)
 
 {{< shields path="github/stars/TrinityCore/TrinityCore" alt="Github Repo Stars" >}} {{< shields path="github/license/TrinityCore/TrinityCore" alt="License: " >}} {{< shields path="github/languages/top/TrinityCore/TrinityCore" alt="Language: " >}}
@@ -62,7 +62,7 @@ TrinityCore 是一个基于 C++ 的 MMORPG 框架，它源自 MaNGOS (Massive Ne
 - 高度鼓励社区参与
 - 提供详细的安装指南
 - 可通过 Github 提交修复程序
-  
+
 ## [psf/requests](https://github.com/psf/requests)
 
 {{< shields path="github/stars/psf/requests" alt="Github Repo Stars" >}} {{< shields path="github/license/psf/requests" alt="License: " >}} {{< shields path="github/languages/top/psf/requests" alt="Language: " >}}
@@ -76,7 +76,7 @@ Requests 是一个简单而优雅的 HTTP 库。
 - 不需要手动添加查询字符串到 URL，也不需要对  和  数据进行表单编码，只需使用  方法即可
 - 拥有 30M 次/周的下载量，并被 100 万个以上的仓库所依赖
 - 提供了丰富功能和最佳实践支持，包括连接复用、国际域名与 URLs、会话维护、浏览器风格 TLS/SSL 验证等。
-  
+
 ## [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)
 
 {{< shields path="github/stars/AIGC-Audio/AudioGPT" alt="Github Repo Stars" >}} {{< shields path="github/license/AIGC-Audio/AudioGPT" alt="License: " >}} {{< shields path="github/languages/top/AIGC-Audio/AudioGPT" alt="Language: " >}}
@@ -92,9 +92,9 @@ AudioGPT 是一个理解和生成语音、音乐、声音和虚拟人的开源�
 - 语音识别
 - 语言增强 (Speech Enhancement)
 - 声学分离 (Speech Separation)
-  
+
 该项目具有以下核心优势：
 
 - 多领域支持：AudioGPT 在多个领域都提供了强大的支持，包括文本到语言合成、风格迁移以及各种与声学相关任务。无论您需要什么样的应用场景，在这个项目中都能找到满足需求的模型。
 - 先进技术实现：AudioGPT 采用最先进的基础模型来实现其功能，如 FastSpeech，SyntaSpeech 等。这些高质量模型经过训练完善调试后发布给用户使用。
-  
+

@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/SwifterSwift/SwifterSwift" alt="Github Repo Stars" >}} {{< shields path="github/license/SwifterSwift/SwifterSwift" alt="License: `MIT`" >}} {{< shields path="github/languages/top/SwifterSwift/SwifterSwift" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-SwifterSwift](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/e5717eea24babbcde3efc88a7f084979.webp)
+![demo-picture-of-SwifterSwift](https://static.osguider.com/history/2023/e5717eea24babbcde3efc88a7f084979.webp)
 
 SwifterSwift 是一个包含 500 多个原生 Swift 扩展的集合，为 iOS、macOS、tvOS、watchOS 和 Linux 提供了方便的方法、语法糖和性能改进。该项目主要功能如下：
 
@@ -29,7 +29,7 @@ SwifterSwift 是一个包含 500 多个原生 Swift 扩展的集合，为 iOS、
 
 {{< shields path="github/stars/facebookresearch/seamless_communication" alt="Github Repo Stars" >}} {{< shields path="github/license/facebookresearch/seamless_communication" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/facebookresearch/seamless_communication" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-seamless_communication](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/e97ba616f883ec6de1f6fa59c6405ab0.webp)
+![demo-picture-of-seamless_communication](https://static.osguider.com/history/2023/e97ba616f883ec6de1f6fa59c6405ab0.webp)
 
 SeamlessM4T 是一个旨在提供高质量翻译的项目，通过语音和文本使来自不同语言社区的人们能够轻松交流。主要功能包括：
 
@@ -46,7 +46,7 @@ SeamlessM4T 是一个旨在提供高质量翻译的项目，通过语音和文�
 - 自动说话认别 (ASR)
 
 核心优势和特点包括：支持广泛的输入和输出格式、使用 fairseq2 库进行序列建模、基于 SONAR 和 BLASER 等工具开发。
-  
+
 ## [redis/go-redis](https://github.com/redis/go-redis)
 
 {{< shields path="github/stars/redis/go-redis" alt="Github Repo Stars" >}} {{< shields path="github/license/redis/go-redis" alt="License: `BSD-2-Clause`" >}} {{< shields path="github/languages/top/redis/go-redis" alt="Language: `Unknown`" >}}
@@ -80,19 +80,19 @@ OpenZeppelin Contracts 是一个用于安全智能合约开发的库。它建立
 - 提供安全平台 OpenZeppelin Defender，用于自动化和监控操作以扩展去中心化应用程序。
 
 此外，在文档站点中提供了指南来教你如何使用相关合约，并详细记录了完整 API 作为参考。OpenZeppelin Contracts 通过风险管理、多层次审查流程、事故响应准备等方式解决安全问题，并遵循工程指南以确保项目质量。
-  
+
 ## [chrieke/prettymapp](https://github.com/chrieke/prettymapp)
 
 {{< shields path="github/stars/chrieke/prettymapp" alt="Github Repo Stars" >}} {{< shields path="github/license/chrieke/prettymapp" alt="License: `MIT`" >}} {{< shields path="github/languages/top/chrieke/prettymapp" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-prettymapp](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/3560a9844219e314a282534c42181b21.webp)
+![demo-picture-of-prettymapp](https://static.osguider.com/history/2023/3560a9844219e314a282534c42181b21.webp)
 
 Prettymapp 是一个基于 OpenStreetMap 数据创建漂亮地图的 Web 应用程序和 Python 包。
 
 - 基于 prettymaps 项目重写，专注于速度和适配 webapp 接口。
 - 简化了配置界面，并且通过减少代码复杂性来提高速度。
 - 可以直接在 Python 中使用 prettymapp 进行自定义功能或构建自己的应用程序。
-  
+
 ## [openai/openai-python](https://github.com/openai/openai-python)
 
 {{< shields path="github/stars/openai/openai-python" alt="Github Repo Stars" >}} {{< shields path="github/license/openai/openai-python" alt="License: `MIT`" >}} {{< shields path="github/languages/top/openai/openai-python" alt="Language: `Unknown`" >}}
@@ -108,16 +108,15 @@ OpenAI Python Library 是一个提供方便访问 OpenAI API 的 Python 库。�
 - 提供内容审核端点，可检查内容是否符合 OpenAI 内容政策。
 
 此外，在项目中还提供了命令行工具 `openai`，使得可以轻松地从终端与 API 交互。
-  
+
 ## [TrionesType/zhuque](https://github.com/TrionesType/zhuque)
 
 {{< shields path="github/stars/TrionesType/zhuque" alt="Github Repo Stars" >}} {{< shields path="github/license/TrionesType/zhuque" alt="License: `OFL-1.1`" >}} {{< shields path="github/languages/top/TrionesType/zhuque" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-zhuque](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/de49b001f9981224bf00c176a18e50e7.webp)
+![demo-picture-of-zhuque](https://static.osguider.com/history/2023/de49b001f9981224bf00c176a18e50e7.webp)
 
 朱雀仿宋是璇玑造字的开源仿宋字体计划，旨在提供高质量、支持多语言的正文仿宋解决方案。该项目改刻自民国活字南宋，并试图为这套沉睡数十年的字体赋予新生。其核心优势和主要功能包括：
 
 - 提供高质量、支持多语言的正文仿宋解决方案
 - 改刻自民国活字南宋，保留了其独特气质与趣味
 - 削弱笔画对比度，规整了字形结构与版面效果
-  

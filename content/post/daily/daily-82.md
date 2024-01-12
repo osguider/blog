@@ -2,7 +2,7 @@
 title: "《程序员考公指南》：零基础到上岸的完整攻略 | 开源日报 No.82"
 description: "程序员考公指南是一个由三位来自同一家大厂的程序员组成的团队编写的备考公务员/事业编制/教师考试的指南。他们在职备考了一年后成功上岸，成功率达到 100%。该指南适合想要进入体制内工作或对原本的编程工作失去兴趣的程序员。"
 date: "2023-11-23T06:11:22.045Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b028cf767566d172ad4b890972a11be1.png"
+image: "https://static.osguider.com/history/osguider/b028cf767566d172ad4b890972a11be1.png"
 tags: []
 categories:
   - "daily"
@@ -19,7 +19,7 @@ categories:
 - 提供从零开始学习并顺利上岸所需要掌握知识和技巧
 - 分享真实案例与经验，并提供相关资料推荐
 - 针对不同类型人群给出个性化建议
-  
+
 ## [nolimits4web/swiper](https://github.com/nolimits4web/swiper)
 
 {{< shields path="github/stars/nolimits4web/swiper" alt="Github Repo Stars" >}} {{< shields path="github/license/nolimits4web/swiper" alt="License: `MIT`" >}} {{< shields path="github/languages/top/nolimits4web/swiper" alt="Language: `Unknown`" >}}
@@ -34,7 +34,7 @@ Swiper 是一款免费且最现代化的移动触摸滑块。它适用于移动�
 - 1:1 触摸运动交互
 - Mutation Observer 特性
 - 丰富 API 接口
-  
+
 ## [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
 
 {{< shields path="github/stars/SimplifyJobs/Summer2024-Internships" alt="Github Repo Stars" >}} {{< shields path="github/license/SimplifyJobs/Summer2024-Internships" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/SimplifyJobs/Summer2024-Internships" alt="Language: `Unknown`" >}}
@@ -46,12 +46,12 @@ Swiper 是一款免费且最现代化的移动触摸滑块。它适用于移动�
 - 提供关于 2024 年夏季各种类型实习岗位信息
 - 可以一键填写所有申请表格
 - 停止手动重新输入您的信息，使用 Simplify 扩展程序帮助您在数百万网站上自动填充实习申请。
-  
+
 ## [Uahh/ToastFish](https://github.com/Uahh/ToastFish)
 
 {{< shields path="github/stars/Uahh/ToastFish" alt="Github Repo Stars" >}} {{< shields path="github/license/Uahh/ToastFish" alt="License: `MIT`" >}} {{< shields path="github/languages/top/Uahh/ToastFish" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-ToastFish](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/24ba902dbab66b27ab21f795c84724b8.png)
+![demo-picture-of-ToastFish](https://static.osguider.com/history/2023/24ba902dbab66b27ab21f795c84724b8.png)
 
 ToastFish 是一个利用摸鱼时间背单词的软件。
 
@@ -71,7 +71,7 @@ ToastFish 是一个利用摸鱼时间背单词的软件。
 
 {{< shields path="github/stars/mastodon/mastodon" alt="Github Repo Stars" >}} {{< shields path="github/license/mastodon/mastodon" alt="License: `AGPL-3.0`" >}} {{< shields path="github/languages/top/mastodon/mastodon" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-mastodon](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6f5d60308255f4a8e72e9c7fb60444d3.gif)
+![demo-picture-of-mastodon](https://static.osguider.com/history/osguider/6f5d60308255f4a8e72e9c7fb60444d3.gif)
 
 Mastodon 是一个免费、开源的社交网络服务器，基于 ActivityPub。用户可以在 Mastodon 上关注朋友并发现新朋友，并且可以发布链接、图片、文字和视频等内容。所有的 Mastodon 服务器都能互操作成为联邦网络 (来自不同服务器的用户之间能够无缝通信，包括实现了 ActivityPub 协议的非-Mastodon 软件)。该项目具有以下核心优势：
 
@@ -80,12 +80,12 @@ Mastodon 是一个免费、开源的社交网络服务器，基于 ActivityPub�
 - 媒体附件支持如图像和短视频
 - 提供安全性和管理工具，例如私密帖子、锁定账户以及过滤屏蔽词汇等功能
 - 支持 OAuth2 认证和简单直接 REST API 调用方式
-  
+
 ## [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
 
 {{< shields path="github/stars/lllyasviel/ControlNet" alt="Github Repo Stars" >}} {{< shields path="github/license/lllyasviel/ControlNet" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/lllyasviel/ControlNet" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-ControlNet](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/f695f4ab223998bccd6b338093a10145.png)
+![demo-picture-of-ControlNet](https://static.osguider.com/history/2023/f695f4ab223998bccd6b338093a10145.png)
 
 ControlNet 是一个神经网络结构，用于控制扩散模型并添加额外的条件。它将神经网络块的权重复制到“锁定”副本和“可训练”副本中。“可训练”的副本学习您的条件，“锁定”的副本保留您的模型。这使得使用小数据集进行培训不会破坏生产就绪的扩散模型。此外，该项目还具有以下优点：
 
@@ -94,4 +94,3 @@ ControlNet 是一个神经网络结构，用于控制扩散模型并添加额外
 - 适用于小规模或个人设备上进行培训
 
 通过多次重复简单结构可以控制稳态扩散，并且 ControlNet 可以将 SD 编码器作为深度、强大、鲁棒性和功能强大的主干来学习各种控件。
-  

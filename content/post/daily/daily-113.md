@@ -2,7 +2,7 @@
 title: "Web 自动化神器 Playwright：统一 API 操作多种浏览器 | 开源日报 No.113"
 description: "Playwright 是一个用于 Web 测试和自动化的框架，它允许使用单个 API 测试Chromium、Firefox 和 WebKit。Playwright 旨在实现跨浏览器的网页自动化，具有“常青”、“能力强”、“可靠性高”和“速度快”的特点。"
 date: "2023-12-14T04:05:47.454Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/60c482f8d7c689db03d9df6e173dbe9e.png"
+image: "https://static.osguider.com/history/osguider/60c482f8d7c689db03d9df6e173dbe9e.png"
 tags: []
 categories:
   - "daily"
@@ -20,7 +20,7 @@ categories:
 - 支持发送和接收 iMessages
 - 不依赖 Mac 或其他 Apple 设备
 - 使用 Unicorn CPU 模拟器加载旧版本 macOS 框架
-  
+
 ## [state-spaces/mamba](https://github.com/state-spaces/mamba)
 
 {{< shields path="github/stars/state-spaces/mamba" alt="Github Repo Stars" >}} {{< shields path="github/license/state-spaces/mamba" alt="License: " >}} {{< shields path="github/languages/top/state-spaces/mamba" alt="Language: " >}}
@@ -34,12 +34,12 @@ Mamba 是一个新的状态空间模型架构，对于信息密集型数据 (如
 - 预训练好的不同规格参数版本可供下载使用
 - 支持 zero-shot 评估
 - 生成脚本自动加载预训练好的 model 进行推理速度测试
-  
+
 ## [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 {{< shields path="github/stars/DataTalksClub/data-engineering-zoomcamp" alt="Github Repo Stars" >}} {{< shields path="github/license/DataTalksClub/data-engineering-zoomcamp" alt="License: " >}} {{< shields path="github/languages/top/DataTalksClub/data-engineering-zoomcamp" alt="Language: " >}}
 
-![demo-picture-of-data-engineering-zoomcamp](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/fd642b6ee4f543e097a5e0a1dc36d03e.png)
+![demo-picture-of-data-engineering-zoomcamp](https://static.osguider.com/history/2023/fd642b6ee4f543e097a5e0a1dc36d03e.png)
 
 Data Engineering Zoomcamp 是一门免费的数据工程课程。该项目提供了一个全面的学习计划，涵盖了从基础知识到高级技术的各个方面。
 
@@ -51,7 +51,7 @@ Data Engineering Zoomcamp 是一门免费的数据工程课程。该项目提供
 - 使用真实案例进行演示，并提供相关代码和资源
 
 通过参与 Data Engineering Zoomcamp 课程，您将能够掌握如何使用 Google Cloud Platform (GCP) 进行云端自动扩展以及构建可伸缩架构。此外，在这门课上还会深入研究 BigQuery 数据仓库、Spark 分布式处理框架以及 Kafka 流处理平台等重要技术。
-  
+
 ## [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)
 
 {{< shields path="github/stars/MustardChef/WSABuilds" alt="Github Repo Stars" >}} {{< shields path="github/license/MustardChef/WSABuilds" alt="License: " >}} {{< shields path="github/languages/top/MustardChef/WSABuilds" alt="Language: " >}}
@@ -64,7 +64,7 @@ Data Engineering Zoomcamp 是一门免费的数据工程课程。该项目提供
 - 支持安装 Google Play 服务和 Magisk 模块
 - 提供不同版本的构建，包括稳定版、预览版等
 - 具备更新频率高、稳定性好等特点
-  
+
 ## [microsoft/playwright](https://github.com/microsoft/playwright)
 
 {{< shields path="github/stars/microsoft/playwright" alt="Github Repo Stars" >}} {{< shields path="github/license/microsoft/playwright" alt="License: " >}} {{< shields path="github/languages/top/microsoft/playwright" alt="Language: " >}}
@@ -78,7 +78,7 @@ Playwright 是一个用于 Web 测试和自动化的框架，它允许使用单�
 - 针对动态 Web 创建断言检查，并支持重试直到满足必要条件。
 - 可配置测试重试策略并捕获执行跟踪、视频和截图以消除错误。
 - 测试场景可以涵盖多个选项卡、多个来源或者多用户，并针对不同用户创建不同环境进行运行。
-  
+
 ## [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai)
 
 {{< shields path="github/stars/pashpashpash/vault-ai" alt="Github Repo Stars" >}} {{< shields path="github/license/pashpashpash/vault-ai" alt="License: " >}} {{< shields path="github/languages/top/pashpashpash/vault-ai" alt="Language: " >}}
@@ -91,4 +91,4 @@ OP Vault 是一个使用 OP Stack (OpenAI + Pinecone Vector Database) 的项目�
 - 基于已上传文档内容获取准确相关答案，并查看信息来源文件名和具体上下文片段
 - 在用户友好界面中探索 OP Stack (OpenAI + Pinecone Vector Database) 强大能力
 - 加载整个图书馆数量级别的书籍到 The Vault
-  
+

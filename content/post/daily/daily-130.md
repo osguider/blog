@@ -2,7 +2,7 @@
 title: "Adobe 设计精髓 ：创新的用户体验 | 开源日报 No.130"
 description: "React Spectrum Libraries 是一系列的库和工具，旨在帮助开发者构建适应性强、可访问性好且稳健的用户体验。它提供全面的可访问性和行为支持，支持多种交互方式，适应多种语言，支持自定义主题和暗模式。React Spectrum Libraries 实现了 Adobe 的设计系统，为 Adobe 应用程序提供一致的体验。它还提供了 React Aria 和 React Stately 钩子，用于构建可访问性 UI 原语和跨平台状态管理。"
 date: "2023-12-24T04:05:23.607Z"
-image: "https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/675c7e7a98a5dc01d07d47e2823a9652.png"
+image: "https://static.osguider.com/history/2023/675c7e7a98a5dc01d07d47e2823a9652.png"
 tags: []
 categories:
   - "daily"
@@ -24,7 +24,7 @@ React Spectrum Libraries 是一系列的库和工具，旨在帮助开发者构�
 - React Spectrum 实现了Adobe 的设计系统，为 Adobe 应用程序提供适应性强、可访问性好且一致的体验。
 - React Aria 提供了一系列 React 钩子，用于构建你的设计系统中的可访问性UI原语。
 - React Stately 提供了一系列跨平台状态管理的 React 钩子，适用于你的设计系统。
-  
+
 ## [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes)
 
 {{< shields path="github/stars/nikolaydubina/go-recipes" alt="Github Repo Stars" >}} {{< shields path="github/license/nikolaydubina/go-recipes" alt="License: " >}} {{< shields path="github/languages/top/nikolaydubina/go-recipes" alt="Language: " >}}
@@ -37,7 +37,7 @@ React Spectrum Libraries 是一系列的库和工具，旨在帮助开发者构�
 - 包含大量测试相关功能，例如覆盖率树状图制作 (go-cover-treemap)、浏览覆盖率报告等。
 - 支持对依赖进行探索和交互式操作，并能够使用  指令来管理模块版本。
 - 提供强大的静态分析功能，在安全性检查和错误处理上有很好表现。
-  
+
 ## [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)
 
 {{< shields path="github/stars/googleapis/google-cloud-go" alt="Github Repo Stars" >}} {{< shields path="github/license/googleapis/google-cloud-go" alt="License: " >}} {{< shields path="github/languages/top/googleapis/google-cloud-go" alt="Language: " >}}
@@ -49,7 +49,7 @@ Go 语言的 Google 云客户端库
 - 兼容至少最近三个主要 Go 版本
 - 默认使用谷歌应用程序默认凭据进行授权，也可以通过 JSON 密钥文件或  包来实现更多控制权限。
 - 支持各种 Google Cloud Platform 服务 API 调用
-  
+
 ## [wandb/wandb](https://github.com/wandb/wandb)
 
 {{< shields path="github/stars/wandb/wandb" alt="Github Repo Stars" >}} {{< shields path="github/license/wandb/wandb" alt="License: " >}} {{< shields path="github/languages/top/wandb/wandb" alt="Language: " >}}
@@ -64,7 +64,7 @@ W&B 是一个用于可视化和跟踪机器学习实验的工具。它可以帮�
 - 可视化：在统一界面下查看所有实验结果，方便对比不同试验之间的差异。
 - 集成框架支持：与 PyTorch、TensorFlow/Keras 等主要框架无缝集成，自动保存梯度、网络拓扑结构等重要信息。
 - 报告生成：利用内置报告功能快速创建漂亮而详细的报告，并分享给团队或他人进行讨论和评审。
-  
+
 ## [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
 
 {{< shields path="github/stars/stefan-jansen/machine-learning-for-trading" alt="Github Repo Stars" >}} {{< shields path="github/license/stefan-jansen/machine-learning-for-trading" alt="License: " >}} {{< shields path="github/languages/top/stefan-jansen/machine-learning-for-trading" alt="Language: " >}}
@@ -80,12 +80,12 @@ W&B 是一个用于可视化和跟踪机器学习实验的工具。它可以帮�
 - 提供大量实例帮助理解概念
 - 包含超过 800 页内容
 - 参考书籍中也提供章节摘要
-  
+
 ## [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts)
 
 {{< shields path="github/stars/Akegarasu/lora-scripts" alt="Github Repo Stars" >}} {{< shields path="github/license/Akegarasu/lora-scripts" alt="License: " >}} {{< shields path="github/languages/top/Akegarasu/lora-scripts" alt="Language: " >}}
 
-![demo-picture-of-lora-scripts](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/45d3881a26d7b946c8b849f121c60b1c.png)
+![demo-picture-of-lora-scripts](https://static.osguider.com/history/osguider/45d3881a26d7b946c8b849f121c60b1c.png)
 
 LoRA-scripts 是一个用于 kohya-ss/sd-scripts 的 LoRA 训练脚本项目。该项目具有以下核心优势和特点：
 
@@ -93,4 +93,4 @@ LoRA-scripts 是一个用于 kohya-ss/sd-scripts 的 LoRA 训练脚本项目。�
 - 支持在 Windows 和 Linux 系统上运行
 - 自动创建虚拟环境并安装所需依赖项 (仅限 Windows)
 - 提供了方便编辑和运行训练脚本的功能
-  
+

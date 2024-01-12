@@ -2,7 +2,7 @@
 title: "命令行艺术：简洁指南，效率倍增 | 开源日报 No.136"
 description: "这个项目是一本关于命令行艺术的指南，旨在帮助初学者和经验丰富的用户掌握 Bash 命令。它提供了丰富的实际案例，简洁明了地介绍了 Linux 下的交互式 Bash，以及一些重要的 Unix 命令和其他需要特殊软件包安装的命令。此外，还有一些其他资源可供参考，包括 shellcheck 和 Data Science at the Command Line。无论是提高灵活性还是提高生产力，这本指南都是不可或缺的。"
 date: "2023-12-28T04:05:22.590Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/633ac721791c63fa50d856fb3dd591a2.png"
+image: "https://static.osguider.com/history/osguider/633ac721791c63fa50d856fb3dd591a2.png"
 tags: []
 categories:
   - "daily"
@@ -19,12 +19,12 @@ Solana Program Library 是一个面向 Sealevel 并行运行时的一系列链�
 - 部分项目已被审核
 - 包含多种类型和用途的链上程序包
 - 提供了 CLI 工具与 JavaScript 绑定
-  
+
 ## [loco-rs/loco](https://github.com/loco-rs/loco)
 
 {{< shields path="github/stars/loco-rs/loco" alt="Github Repo Stars" >}} {{< shields path="github/license/loco-rs/loco" alt="License: " >}} {{< shields path="github/languages/top/loco-rs/loco" alt="Language: " >}}
 
-![demo-picture-of-loco](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/454dde9021175427fdc9a837424ab5bd.png)
+![demo-picture-of-loco](https://static.osguider.com/history/2023/454dde9021175427fdc9a837424ab5bd.png)
 
 Loco 是一个受 Rails 启发的 Rust 框架，适合熟悉 Rails 和 Rust 的开发者。该项目完全功能齐备，但仍在快速添加新特性中。使用 Loco 可以构建无状态 API、具有用户认证功能的完整 SaaS 产品、专门用于机器学习推理端点等服务以及与 Loco 集成的单独前端项目组成的全栈项目。
 
@@ -32,12 +32,12 @@ Loco 是一个受 Rails 启发的 Rust 框架，适合熟悉 Rails 和 Rust 的�
 - 完全功能齐备
 - 可构建多种类型应用程序
 - 快速添加新特性
-  
+
 ## [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
 {{< shields path="github/stars/jlevy/the-art-of-command-line" alt="Github Repo Stars" >}} {{< shields path="github/license/jlevy/the-art-of-command-line" alt="License: " >}} {{< shields path="github/languages/top/jlevy/the-art-of-command-line" alt="Language: " >}}
 
-![demo-picture-of-the-art-of-command-line](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/11101a984c2dc210e899b37538cc3fd3.png)
+![demo-picture-of-the-art-of-command-line](https://static.osguider.com/history/2023/11101a984c2dc210e899b37538cc3fd3.png)
 
 这个项目是关于命令行的艺术，它提供了一系列有用的笔记和技巧，涵盖了基础知识、日常使用、文件和数据处理以及系统调试等方面。该指南旨在帮助初学者和经验丰富的用户掌握 Bash 命令，并通过具体示例展示如何利用命令行工具提高灵活性与生产力。其主要功能包括：
 
@@ -46,12 +46,12 @@ Loco 是一个受 Rails 启发的 Rust 框架，适合熟悉 Rails 和 Rust 的�
 - 包含标准 Unix 命令以及需要特殊软件包安装但重要到足够值得被纳入其中的其他命令
 
 此外还有更多资源可供参考，例如 shellcheck (一个 Shell 脚本静态分析工具) 和 Data Science at the Command Line (一本书中收录着对做数据科学有帮助的更多命令与工具)。
-  
+
 ## [uidotdev/usehooks](https://github.com/uidotdev/usehooks)
 
 {{< shields path="github/stars/uidotdev/usehooks" alt="Github Repo Stars" >}} {{< shields path="github/license/uidotdev/usehooks" alt="License: " >}} {{< shields path="github/languages/top/uidotdev/usehooks" alt="Language: " >}}
 
-![demo-picture-of-usehooks](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e2f46480171c913153c9d53da2640753.jpeg)
+![demo-picture-of-usehooks](https://static.osguider.com/history/osguider/e2f46480171c913153c9d53da2640753.jpeg)
 
 这个项目是一个现代的、服务器安全的 React hooks 集合，来自 ui.dev 团队。它兼容 React v18.0.0+。
 
@@ -59,7 +59,7 @@ Loco 是一个受 Rails 启发的 Rust 框架，适合熟悉 Rails 和 Rust 的�
 - 具有良好的兼容性和稳定性
 - 可以在服务器端使用
 - 支持标准版和实验版两种模式切换
-  
+
 ## [run-llama/llama-hub](https://github.com/run-llama/llama-hub)
 
 {{< shields path="github/stars/run-llama/llama-hub" alt="Github Repo Stars" >}} {{< shields path="github/license/run-llama/llama-hub" alt="License: " >}} {{< shields path="github/languages/top/run-llama/llama-hub" alt="Language: " >}}
@@ -72,7 +72,7 @@ Loco 是一个受 Rails 启发的 Rust 框架，适合熟悉 Rails 和 Rust 的�
 - 可自定义数据代理
 - 简化安装过程
 - 便捷运行测试
-  
+
 ## [libarchive/libarchive](https://github.com/libarchive/libarchive)
 
 {{< shields path="github/stars/libarchive/libarchive" alt="Github Repo Stars" >}} {{< shields path="github/license/libarchive/libarchive" alt="License: " >}} {{< shields path="github/languages/top/libarchive/libarchive" alt="Language: " >}}
@@ -92,4 +92,4 @@ libarchive 项目是一个开发便携、高效的 C 库，可以读取和写入
 - 设计灵活扩展性强，允许添加新的压缩和文本格式。
 - 提供相同 API 来处理任何 libarchive 支持的归类方式。
 - 减少静态链接污染，在需要时显著减小了静态链接二进制文件大小。
-  
+

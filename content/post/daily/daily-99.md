@@ -2,7 +2,7 @@
 title: "全面覆盖，无所不包：C++ 编程必备指南 | 开源日报 No.99"
 description: "这个项目是一个精心策划的 C++(或者 C) 框架、库、资源和其他有趣东西的列表。它收集了各种标准库和算法，各个领域的框架，以及功能强大的第三方库。这个项目包含了多个领域下的专业级别的开源软件，提供了广泛而全面的解决方案，为用户提供便捷高效的技术支持。无论你是开发人员还是研究人员，这个项目都是你不可错过的宝库。"
 date: "2023-11-30T04:51:21.914Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4b017321acceba9cb376fc0ce767ce27.png"
+image: "https://static.osguider.com/history/osguider/4b017321acceba9cb376fc0ce767ce27.png"
 tags: []
 categories:
   - "daily"
@@ -12,13 +12,13 @@ categories:
 
 {{< shields path="github/stars/MetaMask/metamask-extension" alt="Github Repo Stars" >}} {{< shields path="github/license/MetaMask/metamask-extension" alt="License: " >}} {{< shields path="github/languages/top/MetaMask/metamask-extension" alt="Language: " >}}
 
-![demo-picture-of-metamask-extension](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bc351ef4a8299f34c44ccf6eb884e763.png)
+![demo-picture-of-metamask-extension](https://static.osguider.com/history/osguider/bc351ef4a8299f34c44ccf6eb884e763.png)
 
 MetaMask 浏览器扩展，使浏览器能够访问支持以太坊区块链的网站。
 
 - 支持 Firefox、Google Chrome 和基于 Chromium 的浏览器。
 - 提供开发者文档，支持本地构建，并提供 Git Hooks 以及单元测试和端到端测试等功能。
-  
+
 ## [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 
 {{< shields path="github/stars/fffaraz/awesome-cpp" alt="Github Repo Stars" >}} {{< shields path="github/license/fffaraz/awesome-cpp" alt="License: " >}} {{< shields path="github/languages/top/fffaraz/awesome-cpp" alt="Language: " >}}
@@ -30,7 +30,7 @@ MetaMask 浏览器扩展，使浏览器能够访问支持以太坊区块链的�
 - 包含多个领域下专业级别的开源软件
 - 提供了广泛而全面覆盖各类需求所需要使用到得相关组件与解决方案
 - 为用户提供便捷高效地获取并应用于实际场景中所需的技术支持
-  
+
 ## [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games)
 
 {{< shields path="github/stars/coding-horror/basic-computer-games" alt="Github Repo Stars" >}} {{< shields path="github/license/coding-horror/basic-computer-games" alt="License: " >}} {{< shields path="github/languages/top/coding-horror/basic-computer-games" alt="Language: " >}}
@@ -47,7 +47,7 @@ MetaMask 浏览器扩展，使浏览器能够访问支持以太坊区块链的�
 - 提供大量注释解释代码功能与实现细节
 
 通过这个开源项目，你可以学到如何使用不同类型 (C#、Java、JavaScript 等) 编程语言来重建古老但具有教育意义的命令行/控制台游戏。尽管这些游戏可能已过时，但它们对于理解传统程序设计思想非常有价值，并能够帮助下一代从中汲取经验。
-  
+
 ## [nix-community/home-manager](https://github.com/nix-community/home-manager)
 
 {{< shields path="github/stars/nix-community/home-manager" alt="Github Repo Stars" >}} {{< shields path="github/license/nix-community/home-manager" alt="License: " >}} {{< shields path="github/languages/top/nix-community/home-manager" alt="Language: " >}}
@@ -78,12 +78,12 @@ Home Manager using Nix 是一个基于 Nix 包管理器和 Nixpkgs 库的用户�
 - 在较小空间内将数字和特殊字母数字文本进行编码而不需要通用文本
 - 以汉字模式编码日文 Unicode 文本，与 UTF-8 字节相比可以大幅减少空间占用
 - 计算混合数字/字母数字/通用字符/汉字部分的最佳切换方式
-  
+
 ## [windmill-labs/windmill](https://github.com/windmill-labs/windmill)
 
 {{< shields path="github/stars/windmill-labs/windmill" alt="Github Repo Stars" >}} {{< shields path="github/license/windmill-labs/windmill" alt="License: " >}} {{< shields path="github/languages/top/windmill-labs/windmill" alt="Language: " >}}
 
-![demo-picture-of-windmill](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/75e75e46ac320a60a195fbf8a978f1dc.png)
+![demo-picture-of-windmill](https://static.osguider.com/history/2023/75e75e46ac320a60a195fbf8a978f1dc.png)
 
 Windmill 是一个开源的内部工具开发者基础设施，可以将脚本转化为可共享和扩展运行的工作流程和用户界面。其主要功能包括：
 
@@ -92,4 +92,4 @@ Windmill 是一个开源的内部工具开发者基础设施，可以将脚本�
 - 支持多种语言编写脚本，如 Python、TypeScript、Go、Bash 和 SQL
 - 能够自动生成 UI 并定制 UI 以触发特定任务或事件
 该项目的核心优势在于能够简化内部工具开发过程，提供了丰富而灵活的功能，并支持多种常用编程语言。
-  
+

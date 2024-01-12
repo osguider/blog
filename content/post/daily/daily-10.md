@@ -2,7 +2,7 @@
 title: "跨平台的桌面应用程序开发框架Electron | 开源日报 0906"
 description: "Electron是一个强大的跨平台桌面应用程序开发框架，它使用JavaScript、HTML和CSS编写，支持macOS、Windows和Linux操作系统。它的底层是基于Node.js和Chromium，因此具有强大的功能和性能。许多知名项目，如Visual Studio Code，都采用了Electron。如果你想开发跨平台的桌面应用程序，Electron是一个值得推荐的选择。"
 date: "2023-11-23T06:05:20.726Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/284213c4369169e50b539372c7e6e3b3.png"
+image: "https://static.osguider.com/history/osguider/284213c4369169e50b539372c7e6e3b3.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/firezone/firezone" alt="Github Repo Stars" >}} {{< shields path="github/license/firezone/firezone" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/firezone/firezone" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-firezone](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/85ccc8d950057b217089af87737588ac.png)
+![demo-picture-of-firezone](https://static.osguider.com/history/osguider/85ccc8d950057b217089af87737588ac.png)
 
 Firezone 是一个自托管的 VPN 服务器和 Linux 防火墙项目。
 
@@ -31,7 +31,7 @@ Firezone 是一个自托管的 VPN 服务器和 Linux 防火墙项目。
 
 {{< shields path="github/stars/d2l-ai/d2l-zh" alt="Github Repo Stars" >}} {{< shields path="github/license/d2l-ai/d2l-zh" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/d2l-ai/d2l-zh" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-d2l-zh](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/f2435d495d845c1859dbf789638d45bc.webp)
+![demo-picture-of-d2l-zh](https://static.osguider.com/history/2023/f2435d495d845c1859dbf789638d45bc.webp)
 
 本开源项目代表了我们的一种尝试：我们将教给读者概念、背景知识和代码；我们将在同一个地方阐述剖析问题所需的批判性思维、解决问题所需的数学知识，以及实现解决方案所需的工程技能。
 我们的目标是创建一个为实现以下目标的统一资源：
@@ -59,7 +59,7 @@ Continue 是一款针对 VS Code 的扩展插件，将 ChatGPT 的强大功能�
 
 {{< shields path="github/stars/RayVentura/ShortGPT" alt="Github Repo Stars" >}} {{< shields path="github/license/RayVentura/ShortGPT" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/RayVentura/ShortGPT" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-ShortGPT](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/01f92673a9d1d9225fa80fc3d25cdf91.webp)
+![demo-picture-of-ShortGPT](https://static.osguider.com/history/2023/01f92673a9d1d9225fa80fc3d25cdf91.webp)
 
 ShortGPT 是一个实验性的 AI 框架，用于自动化短视频内容创作。
 
@@ -71,7 +71,7 @@ ShortGPT 是一个实验性的 AI 框架，用于自动化短视频内容创作�
 - 字幕生成：自动生成视频字幕。
 - 素材获取：从互联网上获取图像和影片素材，并根据需要连接到网络或 Pexels API 进行操作。
 - 内存与持久性：使用 TinyDB 来确保长期保存自动编缉变量。
-  
+
 ## [vllm-project/vllm](https://github.com/vllm-project/vllm)
 
 {{< shields path="github/stars/vllm-project/vllm" alt="Github Repo Stars" >}} {{< shields path="github/license/vllm-project/vllm" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/vllm-project/vllm" alt="Language: `Unknown`" >}}
@@ -95,16 +95,15 @@ vLLM 具备以下关键特性：
 - vLMM 完全兼容 OpenAI API Server 规范。
 
 此外，vLLM 还可以无缝地支持许多 Huggingface 模型。例如 BLOOM、GPT2、GPT BigCode 等，并且在性能方面超越了 HuggingFace Transformers (HF) 和 Text Generation Inference (TGI)，速度最高可以达到 HF 的 24 倍、TGI 的  3.5 倍。
-  
+
 ## [electron/electron](https://github.com/electron/electron)
 
 {{< shields path="github/stars/electron/electron" alt="Github Repo Stars" >}} {{< shields path="github/license/electron/electron" alt="License: `MIT`" >}} {{< shields path="github/languages/top/electron/electron" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-electron](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/32eba0845514eb1780e46700154478e5.webp)
+![demo-picture-of-electron](https://static.osguider.com/history/2023/32eba0845514eb1780e46700154478e5.webp)
 
 Electron 是一个基于 Node.js 和 Chromium 的开源框架，允许使用 JavaScript、HTML 和 CSS 编写跨平台的桌面应用程序。它被 Atom 编辑器等众多应用程序所采用。该项目具有以下核心优势：
 
 - 跨平台：Electron 提供了 macOS、Windows 和 Linux 三个主要操作系统的二进制文件。
 - 简化开发流程：通过 Electron Fiddle 工具可以轻松构建、运行和打包小型实验性质的 Electron 代码，并尝试不同版本的 Electron。
 - 丰富文档资源：官网提供所有关于 Electron 的文档。
-  

@@ -2,7 +2,7 @@
 title: "考试面试轻松应对：技术人的备考宝库 | 开源专题 No.58"
 description: "这篇文章介绍了几个与技术面试准备、DevOps、技术面试问题、LinkedIn 技能评估、暑期实习、备考公务员考试等相关的项目和仓库。这些项目和仓库提供了各种面试准备材料、问题和练习集合、面试问题列表、技能评估答案、实习信息和备考指南等。这些资源的核心优势和特点包括提供高质量的准备材料、广泛的问题列表、多语言支持、实习信息的集合和个性化建议等。"
 date: "2024-01-06T04:56:17.277Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/924109e548bcae24875b764b1e56bb11.png"
+image: "https://static.osguider.com/history/osguider/924109e548bcae24875b764b1e56bb11.png"
 tags: []
 categories:
   - "topic"
@@ -19,7 +19,7 @@ categories:
 - 提供广泛而全面的技术面试问题列表
 - 涵盖多个编程语言、框架和平台
 - 为准备技术面试提供有用资源
-  
+
 ## [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
 {{< shields path="github/stars/Ebazhanov/linkedin-skill-assessments-quizzes" alt="Github Repo Stars" >}} {{< shields path="github/license/Ebazhanov/linkedin-skill-assessments-quizzes" alt="License: " >}} {{< shields path="github/languages/top/Ebazhanov/linkedin-skill-assessments-quizzes" alt="Language: " >}}
@@ -32,7 +32,7 @@ categories:
 - 可在网页应用程序上练习测试
 - 支持通过命令行进行测验
 - 社区贡献者不断更新内容
-  
+
 ## [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy)
 
 {{< shields path="github/stars/coder2gwy/coder2gwy" alt="Github Repo Stars" >}} {{< shields path="github/license/coder2gwy/coder2gwy" alt="License: " >}} {{< shields path="github/languages/top/coder2gwy/coder2gwy" alt="Language: " >}}
@@ -44,7 +44,7 @@ categories:
 - 提供从零开始学习并顺利上岸所需要掌握知识和技巧
 - 分享真实案例与经验，并提供相关资料推荐
 - 针对不同类型人群给出个性化建议
-  
+
 ## [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
 
 {{< shields path="github/stars/SimplifyJobs/Summer2024-Internships" alt="Github Repo Stars" >}} {{< shields path="github/license/SimplifyJobs/Summer2024-Internships" alt="License: " >}} {{< shields path="github/languages/top/SimplifyJobs/Summer2024-Internships" alt="Language: " >}}
@@ -56,7 +56,7 @@ categories:
 - 提供关于 2024 年夏季各种类型实习岗位信息
 - 可以一键填写所有申请表格
 - 停止手动重新输入您的信息，使用 Simplify 扩展程序帮助您在数百万网站上自动填充实习申请。
-  
+
 ## [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
 {{< shields path="github/stars/yangshun/tech-interview-handbook" alt="Github Repo Stars" >}} {{< shields path="github/license/yangshun/tech-interview-handbook" alt="License: " >}} {{< shields path="github/languages/top/yangshun/tech-interview-handbook" alt="Language: " >}}
@@ -68,12 +68,12 @@ categories:
 - 提供针对忙碌工程师量身定制的高质量技术面试准备资料
 - 包含各种领域特定和非技术性问题，并不仅限于传统算法题目
 - 提供适用于软件工程师的简历撰写指南，帮助申请 FAANG 公司职位
-  
+
 ## [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
 
 {{< shields path="github/stars/bregman-arie/devops-exercises" alt="Github Repo Stars" >}} {{< shields path="github/license/bregman-arie/devops-exercises" alt="License: " >}} {{< shields path="github/languages/top/bregman-arie/devops-exercises" alt="Language: " >}}
 
-![demo-picture-of-devops-exercises](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/8db031400be8cdbb849125961da04eba.png)
+![demo-picture-of-devops-exercises](https://static.osguider.com/history/2023/8db031400be8cdbb849125961da04eba.png)
 
 这个项目是一个包含各种技术主题的问题和练习集合，有时与 DevOps 和 SRE 相关。
 
@@ -82,4 +82,4 @@ categories:
 - 可以用于面试准备，但大多数问题不代表实际面试
 
 如果您对成为 DevOps 工程师感兴趣，学习此存储库中提到的一些概念将很有用
-  
+

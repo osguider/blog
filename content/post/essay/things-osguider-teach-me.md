@@ -2,7 +2,7 @@
 title: "开源服务指南教会了我什么"
 description: "当你凝望深渊的时候，深渊也在凝望你。"
 date: "2023-12-26T06:07:06.206Z"
-image: "https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/a3617a2201b0cf34e9d75700ac629659.jpg"
+image: "https://static.osguider.com/history/2023/a3617a2201b0cf34e9d75700ac629659.jpg"
 tags: [随笔]
 categories:
   - "essay"

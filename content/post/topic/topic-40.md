@@ -2,7 +2,7 @@
 title: "编程自学路线：开源免费的教育资源 | 开源专题 No.40"
 description: "这些开源项目涵盖了不同领域的技术资源和工具，包括算法和数据结构、计算机科学、Python 编程、系统和网络管理、自然语言处理以及前端开发。这些项目提供了丰富的学习材料和实用工具，适合初学者和专业人士使用。"
 date: "2023-11-23T06:17:55.490Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e4e095bfb4a0540dbc7c4eae9dfd958b.png"
+image: "https://static.osguider.com/history/osguider/e4e095bfb4a0540dbc7c4eae9dfd958b.png"
 tags: []
 categories:
   - "topic"
@@ -12,19 +12,19 @@ categories:
 
 {{< shields path="github/stars/labuladong/fucking-algorithm" alt="Github Repo Stars" >}} {{< shields path="github/license/labuladong/fucking-algorithm" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/labuladong/fucking-algorithm" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-fucking-algorithm](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/36c1668516e06254c5afd557b5272dfc.webp)
+![demo-picture-of-fucking-algorithm](https://static.osguider.com/history/2023/36c1668516e06254c5afd557b5272dfc.webp)
 
 《labuladong 的算法小抄》是一个基于 LeetCode 题目的原创文章仓库，总共有 60 多篇文章。该项目旨在传递算法思维，并且通俗易懂，不只是简单的代码堆砌。以下为该项目的核心优势和主要功能：
 
 - 文章涵盖了所有题型和技巧
 - 通过举一反三来培养算法思维
 - 提供清晰明确、容易理解并能够自行推导出解决方案的内容
-  
+
 ## [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 {{< shields path="github/stars/trimstray/the-book-of-secret-knowledge" alt="Github Repo Stars" >}} {{< shields path="github/license/trimstray/the-book-of-secret-knowledge" alt="License: `Unknown`" >}} {{< shields path="github/languages/top/trimstray/the-book-of-secret-knowledge" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-the-book-of-secret-knowledge](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/169bb46d850535a3038bb77214011fe8.webp)
+![demo-picture-of-the-book-of-secret-knowledge](https://static.osguider.com/history/2023/169bb46d850535a3038bb77214011fe8.webp)
 
 这个开源项目是一个包含各种有用信息和工具的仓库，通过提供列表、手册、秘籍、博客、技巧、一行命令、命令行/网络工具等来帮助解决工作中的问题。不仅是系统和网络管理员、DevOps、渗透测试人员和安全研究人员，这个仓库对每个人都很有价值。
 
@@ -34,7 +34,7 @@ categories:
 - 不仅面向系统和网络管理员、DevOps、渗透测试人员和安全研究人员
 - 是一个宝贵的知识来源
 - 提供一站式的知识和工具集
-  
+
 ## [fighting41love/funNLP](https://github.com/fighting41love/funNLP)
 
 {{< shields path="github/stars/fighting41love/funNLP" alt="Github Repo Stars" >}} {{< shields path="github/license/fighting41love/funNLP" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/fighting41love/funNLP" alt="Language: `Unknown`" >}}
@@ -49,7 +49,7 @@ NLP 民工的乐园是一个几乎最全的中文 NLP 资源库，收集了许�
 - 提供常用正则表达式以及其他实用工具
 
 这个项目对于入门到熟悉 NLP 过程中需要使用到各种开源包的人非常有帮助，可以满足大家对不同方面 NLP 资源收集需求。
-  
+
 ## [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 {{< shields path="github/stars/trekhleb/javascript-algorithms" alt="Github Repo Stars" >}} {{< shields path="github/license/trekhleb/javascript-algorithms" alt="License: `MIT`" >}} {{< shields path="github/languages/top/trekhleb/javascript-algorithms" alt="Language: `Unknown`" >}}
@@ -61,7 +61,7 @@ NLP 民工的乐园是一个几乎最全的中文 NLP 资源库，收集了许�
 - 提供大量常用数据结构和算法的示例代码
 - 每个部分都有详细说明和进一步阅读链接
 - 适合学习和研究目的
-  
+
 ## [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 
 {{< shields path="github/stars/jackfrued/Python-100-Days" alt="Github Repo Stars" >}} {{< shields path="github/license/jackfrued/Python-100-Days" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/jackfrued/Python-100-Days" alt="Language: `Unknown`" >}}
@@ -84,7 +84,7 @@ NLP 民工的乐园是一个几乎最全的中文 NLP 资源库，收集了许�
 - 解释型语言，完美的平台可移植性。
 - 动态类型语言，支持面向对象和函数式编程。
 - 代码规范程度高，可读性强。
-  
+
 ## [ossu/computer-science](https://github.com/ossu/computer-science)
 
 {{< shields path="github/stars/ossu/computer-science" alt="Github Repo Stars" >}} {{< shields path="github/license/ossu/computer-science" alt="License: `MIT`" >}} {{< shields path="github/languages/top/ossu/computer-science" alt="Language: `Unknown`" >}}

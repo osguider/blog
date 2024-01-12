@@ -2,7 +2,7 @@
 title: "浏览器自动化神器：Automa 轻松实现任务编排 | 开源日报 No.52"
 description: "Automa 是一个浏览器扩展，通过连接块来自动化您的浏览器。"
 date: "2023-11-23T06:08:27.209Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f914140ac50b2f3d86b387d9c215b216.png"
+image: "https://static.osguider.com/history/osguider/f914140ac50b2f3d86b387d9c215b216.png"
 tags: []
 categories:
   - "daily"
@@ -18,12 +18,12 @@ Hermes JS Engine 是一个为 React Native 应用程序的快速启动而优化�
 
 - 可以在新建或现有的 React Native 应用中使用预构建好的 Hermes，无需直接访问源代码。
 - 提供了构建和调试 Hermes 以及将其集成到 React Native 应用中所需步骤和依赖项。
-  
+
 ## [labring/laf](https://github.com/labring/laf)
 
 {{< shields path="github/stars/labring/laf" alt="Github Repo Stars" >}} {{< shields path="github/license/labring/laf" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/labring/laf" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-laf](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/ca3c64eb9d5577f3ef4874791f0418ed.png)
+![demo-picture-of-laf](https://static.osguider.com/history/2023/ca3c64eb9d5577f3ef4874791f0418ed.png)
 
 `laf` 是一个开源的云开发平台，提供了云函数、云数据库和云存储等现成的应用资源。它允许开发者专注于业务开发而无需关心服务器配置，从而快速释放创造力。
 
@@ -34,12 +34,12 @@ Hermes JS Engine 是一个为 React Native 应用程序的快速启动而优化�
 - 后端不需要繁琐任务并可以专注于核心业务。
 - 节省服务器维护、多环境部署和管理工作量。
 - 消除 nginx 配置和调试工作。
-  
+
 ## [AutomaApp/automa](https://github.com/AutomaApp/automa)
 
 {{< shields path="github/stars/AutomaApp/automa" alt="Github Repo Stars" >}} {{< shields path="github/license/AutomaApp/automa" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/AutomaApp/automa" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-automa](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/5bd7f4ecf86609d9509029394ddf9a9f.png)
+![demo-picture-of-automa](https://static.osguider.com/history/2023/5bd7f4ecf86609d9509029394ddf9a9f.png)
 
 Automa 是一个浏览器扩展，通过连接块来自动化您的浏览器。
 
@@ -53,12 +53,12 @@ Automa 是一个浏览器扩展，通过连接块来自动化您的浏览器。
 - 灵活多样：可以选择不同类型的操作进行自定义配置，满足个人需求。
 - 方便易用：使用简洁直观的界面设计和流程图形式编写工作流程。
 - 共享交流：在 Automa 的市场中分享并下载其他用户创建的工作流程。
-  
+
 ## [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
 
 {{< shields path="github/stars/1Panel-dev/1Panel" alt="Github Repo Stars" >}} {{< shields path="github/license/1Panel-dev/1Panel" alt="License: `GPL-3.0`" >}} {{< shields path="github/languages/top/1Panel-dev/1Panel" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-1Panel](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/93f254f716734df72a9610aa5d734ff3.png)
+![demo-picture-of-1Panel](https://static.osguider.com/history/osguider/93f254f716734df72a9610aa5d734ff3.png)
 
 1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。其主要功能和优势包括：
 
@@ -66,7 +66,7 @@ Automa 是一个浏览器扩展，通过连接块来自动化您的浏览器。
 - 高效管理：通过 Web 端轻松管理 Linux 服务器，包括主机监控、文件管理、数据库管理、容器管理等；
 - 安全可靠：基于容器来部署应用，最小漏洞暴露面，提供防火墙和日志审计等功能；
 - 一键备份：支持一键备份和恢复，并将数据备份到各类云存储中以保证永不丢失。
-  
+
 ## [mamoe/mirai](https://github.com/mamoe/mirai)
 
 {{< shields path="github/stars/mamoe/mirai" alt="Github Repo Stars" >}} {{< shields path="github/license/mamoe/mirai" alt="License: `AGPL-3.0`" >}} {{< shields path="github/languages/top/mamoe/mirai" alt="Language: `Unknown`" >}}
@@ -97,4 +97,3 @@ memos，一个轻量级的、自托管的备忘录中心。开源且永久免费
 - 支持 Markdown 格式
 - 可定制和共享
 - 提供 RESTful API 用于自助服务
-  

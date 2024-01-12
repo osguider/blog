@@ -2,7 +2,7 @@
 title: "AI驱动的未来：探索人工智能的无限潜力 | 开源专题 No.39"
 description: "这一系列开源项目代表着多个领域的最新技术成果，包括深度学习、自然语言处理、计算机视觉和分布式训练。它们共同的特点是致力于教育、资源分享、开源精神、多领域应用以及性能和效率的追求，为广大开发者、研究者和学生提供了宝贵的工具和知识，推动了人工智能领域的不断发展和创新。"
 date: "2023-11-23T06:17:53.075Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/edaec9c53c4695d2273f1d726a6b9586.png"
+image: "https://static.osguider.com/history/osguider/edaec9c53c4695d2273f1d726a6b9586.png"
 tags: []
 categories:
   - "topic"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/CMU-Perceptual-Computing-Lab/openpose" alt="Github Repo Stars" >}} {{< shields path="github/license/CMU-Perceptual-Computing-Lab/openpose" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/CMU-Perceptual-Computing-Lab/openpose" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-openpose](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c7373db7a5db22d7ea6b32dbba2c7f5d.png)
+![demo-picture-of-openpose](https://static.osguider.com/history/2023/c7373db7a5db22d7ea6b32dbba2c7f5d.png)
 
 OpenPose 是一个开源项目，它是第一个能够在单个图像上联合检测人体、手部、面部和脚步关键点 (总共 135 个关键点) 的实时多人系统。该项目具有以下核心优势：
 
@@ -27,7 +27,7 @@ OpenPose 是一个开源项目，它是第一个能够在单个图像上联合�
 
 {{< shields path="github/stars/d2l-ai/d2l-zh" alt="Github Repo Stars" >}} {{< shields path="github/license/d2l-ai/d2l-zh" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/d2l-ai/d2l-zh" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-d2l-zh](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/f2435d495d845c1859dbf789638d45bc.webp)
+![demo-picture-of-d2l-zh](https://static.osguider.com/history/2023/f2435d495d845c1859dbf789638d45bc.webp)
 
 本开源项目代表了我们的一种尝试：我们将教给读者概念、背景知识和代码；我们将在同一个地方阐述剖析问题所需的批判性思维、解决问题所需的数学知识，以及实现解决方案所需的工程技能。
 我们的目标是创建一个为实现以下目标的统一资源：
@@ -56,7 +56,7 @@ Whisper是一个通用的语音识别模型，它通过大规模弱监督训练�
 
 - 提供五种不同大小版本的预训练模型及其对应内存需求。
 - 支持Python 3.8以上版本，并依赖于部分第三方库（如tokenizers）。
-  
+
 ## [geohot/tinygrad](https://github.com/geohot/tinygrad)
 
 {{< shields path="github/stars/geohot/tinygrad" alt="Github Repo Stars" >}} {{< shields path="github/license/geohot/tinygrad" alt="License: `MIT`" >}} {{< shields path="github/languages/top/geohot/tinygrad" alt="Language: `Unknown`" >}}
@@ -64,7 +64,7 @@ Whisper是一个通用的语音识别模型，它通过大规模弱监督训练�
 {{< github-opengraph user="geohot" repo="tinygrad" alt="cover" >}}
 
 tinygrad是一个深度学习框架，其核心代码不足1000行。它的设计目标是简单易用，并且容易添加新的加速器支持。虽然功能较少，但支持基本操作和一些SOTA模型（如efficientnet.py和transformer.py）。另外还提供了对Apple Neural Engine和Google TPU等硬件加速器的支持。
-  
+
 ## [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
 
 {{< shields path="github/stars/microsoft/DeepSpeed" alt="Github Repo Stars" >}} {{< shields path="github/license/microsoft/DeepSpeed" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/microsoft/DeepSpeed" alt="Language: `Unknown`" >}}
@@ -72,4 +72,3 @@ tinygrad是一个深度学习框架，其核心代码不足1000行。它的设�
 {{< github-opengraph user="microsoft" repo="DeepSpeed" alt="cover" >}}
 
 DeepSpeed是一个深度学习优化库，使分布式训练和推理变得简单、高效和有效。它能够在资源受限的GPU系统上进行训练/推理，并实现了模型参数数十亿或万亿级别的密集或稀疏模型的训练/推理。此外，它还可以以前所未有的低延迟和高吞吐量进行推断，并且具有极端压缩功能来减少成本并提供无与伦比的推断速度和模型大小缩小。 DeepSpeed软件套件包括三个创新支柱：DeepSpeed-Training、DeepSpeed-Inference 和 DeepSpeed-Compression, 分别用于大规模DL训练、超大规模DL预测及其压缩技术等领域。
-  

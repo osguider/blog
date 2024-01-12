@@ -2,19 +2,19 @@
 title: "Godot Engine：跨平台游戏开发的新境界 | 开源日报 No.92"
 description: "Godot Engine 是一款功能强大的跨平台游戏引擎，适用于 2D 和 3D 游戏的开发。它提供了一套全面的工具，让开发者能够专注于游戏的制作，而不用重复造轮子。该引擎支持一键导出游戏到多个平台，包括主要的桌面平台、移动平台以及基于 Web 和控制器的平台。Godot Engine 的核心优势包括功能丰富、跨平台、免费开源以及活跃的社区。无论是专业开发者还是游戏爱好者，都能够从中受益。"
 date: "2023-11-06T04:51:21.914Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/226b23b5e51759af019d3dc60fe94134.png"
+image: "https://static.osguider.com/history/osguider/226b23b5e51759af019d3dc60fe94134.png"
 tags: []
 categories:
   - "daily"
 ---
 
-![picture](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/226b23b5e51759af019d3dc60fe94134.png)
+![picture](https://static.osguider.com/history/osguider/226b23b5e51759af019d3dc60fe94134.png)
 
 ## [godotengine/godot](https://github.com/godotengine/godot)
 
 Stars: `62.6k`  License: `MIT`
 
-![picture](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/8da594023b3d14fc1f1554614367a9e3.jpg)
+![picture](https://static.osguider.com/history/2023/8da594023b3d14fc1f1554614367a9e3.jpg)
 
 Godot Engine 是一个功能强大的跨平台游戏引擎，可用于创建 2D 和 3D 游戏。它提供了一套全面的常见工具，让用户可以专注于制作游戏而不必重复造轮子。该引擎支持将游戏一键导出到多个平台上，包括主要桌面平台 (Linux、macOS、Windows)、移动平台 (Android、iOS) 以及基于 Web 和控制器的平台。
 
@@ -29,7 +29,7 @@ Godot Engine 是一个功能强大的跨平台游戏引擎，可用于创建 2D 
 
 Stars: `10.2k`  License: `NOASSERTION`
 
-![picture](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c61df0687226a1da9d05a056b6e5082f.png)
+![picture](https://static.osguider.com/history/2023/c61df0687226a1da9d05a056b6e5082f.png)
 
 AG Grid，是一个功能齐全且高度可定制的 JavaScript 数据表格。它支持 React / Angular / Vue / 纯 JavaScript，并提供了标准网格所需的所有特性，如列交互、分页、排序和行选择等。此外，AG Grid 还具有以下突出特点：
 
@@ -47,7 +47,7 @@ AG Grid，是一个功能齐全且高度可定制的 JavaScript 数据表格。�
 
 Stars: `10.1k`  License: `NOASSERTION`
 
-![picture](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/333034062a834d1d6778216907bdab6c.png)
+![picture](https://static.osguider.com/history/2023/333034062a834d1d6778216907bdab6c.png)
 
 Mapbox GL JS 是一个在浏览器中使用矢量切片和 WebGL 技术实现的交互式、高度可定制化地图的 JavaScript 库。
 
@@ -91,7 +91,7 @@ Auto-GPT-Plugins 是 Auto-GPT 的插件集合，可以为用户提供更多功�
 
 Stars: `3.6k`  License: `MIT`
 
-![picture](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8aa5535e4798bca742bf15deae99af3c.png)
+![picture](https://static.osguider.com/history/osguider/8aa5535e4798bca742bf15deae99af3c.png)
 
 这个项目是一个专用的聊天浏览器，只做一件事：通过单个键盘快捷方式 (Cmd+Shift+G) 帮助您快速访问 ChatGPT、Claude 2、Perplexity、Bing 等完整的 Web 应用程序。
 

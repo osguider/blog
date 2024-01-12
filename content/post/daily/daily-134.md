@@ -4,7 +4,7 @@ description: "小红书作品采集工具：采集小红书作品信息；提取
 TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具。
 微信视频号下载器，主要功能包括实时捕获视频地址、预览和下载捕获的视频。"
 date: "2023-12-26T04:05:56.431Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fe5c7018705ce0011908bc8584e88ce2.png"
+image: "https://static.osguider.com/history/osguider/fe5c7018705ce0011908bc8584e88ce2.png"
 tags: []
 categories:
   - "daily"
@@ -14,7 +14,7 @@ categories:
 
 {{< shields path="github/stars/davidfantasy/mybatis-plus-generator-ui" alt="Github Repo Stars" >}} {{< shields path="github/license/davidfantasy/mybatis-plus-generator-ui" alt="License: " >}} {{< shields path="github/languages/top/davidfantasy/mybatis-plus-generator-ui" alt="Language: " >}}
 
-![demo-picture-of-mybatis-plus-generator-ui](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1938b2eb5998e454035f613e4eddc9fd.png)
+![demo-picture-of-mybatis-plus-generator-ui](https://static.osguider.com/history/osguider/1938b2eb5998e454035f613e4eddc9fd.png)
 
 提供交互式的 Web UI 用于生成兼容 mybatis-plus 框架的相关功能代码，包括 Entity,Mapper,Mapper.xml,Service,Controller 等，可以自定义模板以及各类输出参数，也可通过 SQL 查询语句直接生成代码。
 
@@ -30,7 +30,7 @@ categories:
 
 {{< shields path="github/stars/JoeanAmier/TikTokDownloader" alt="Github Repo Stars" >}} {{< shields path="github/license/JoeanAmier/TikTokDownloader" alt="License: " >}} {{< shields path="github/languages/top/JoeanAmier/TikTokDownloader" alt="Language: " >}}
 
-![demo-picture-of-TikTokDownloader](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/e5183bb59ffb315348cb5a0ecc6f9b09.png)
+![demo-picture-of-TikTokDownloader](https://static.osguider.com/history/2023/e5183bb59ffb315348cb5a0ecc6f9b09.png)
 
 TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具。
 
@@ -41,7 +41,7 @@ TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/�
 
 {{< shields path="github/stars/cumulo-autumn/StreamDiffusion" alt="Github Repo Stars" >}} {{< shields path="github/license/cumulo-autumn/StreamDiffusion" alt="License: " >}} {{< shields path="github/languages/top/cumulo-autumn/StreamDiffusion" alt="Language: " >}}
 
-![demo-picture-of-StreamDiffusion](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c9f0de0723515aed9f42f108f2cfefbd.gif)
+![demo-picture-of-StreamDiffusion](https://static.osguider.com/history/2023/c9f0de0723515aed9f42f108f2cfefbd.gif)
 
 StreamDiffusion 是一个创新的扩散管道，旨在实现实时交互式生成。它针对当前基于扩散的图像生成技术引入了显著的性能增强。
 其主要功能和核心优势包括：
@@ -57,7 +57,7 @@ StreamDiffusion 是一个创新的扩散管道，旨在实现实时交互式生�
 
 {{< shields path="github/stars/JoeanAmier/XHS-Downloader" alt="Github Repo Stars" >}} {{< shields path="github/license/JoeanAmier/XHS-Downloader" alt="License: " >}} {{< shields path="github/languages/top/JoeanAmier/XHS-Downloader" alt="Language: " >}}
 
-![demo-picture-of-XHS-Downloader](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c28e308c7cbb9259bafc38adde359efd.png)
+![demo-picture-of-XHS-Downloader](https://static.osguider.com/history/2023/c28e308c7cbb9259bafc38adde359efd.png)
 
 小红书作品采集工具：采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
 
@@ -74,7 +74,7 @@ StreamDiffusion 是一个创新的扩散管道，旨在实现实时交互式生�
 
 {{< shields path="github/stars/SJTU-IPADS/PowerInfer" alt="Github Repo Stars" >}} {{< shields path="github/license/SJTU-IPADS/PowerInfer" alt="License: " >}} {{< shields path="github/languages/top/SJTU-IPADS/PowerInfer" alt="Language: " >}}
 
-![demo-picture-of-PowerInfer](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/6bb95c66a592d6b06ca58e3a35485d82.png)
+![demo-picture-of-PowerInfer](https://static.osguider.com/history/2023/6bb95c66a592d6b06ca58e3a35485d82.png)
 
 PowerInfer 是一个 CPU/GPU LLM 推理引擎，利用神经元激活的局部性来提高设备的速度。
 其主要功能包括：
@@ -90,7 +90,7 @@ PowerInfer 是一个 CPU/GPU LLM 推理引擎，利用神经元激活的局部�
 
 {{< shields path="github/stars/lecepin/WeChatVideoDownloader" alt="Github Repo Stars" >}} {{< shields path="github/license/lecepin/WeChatVideoDownloader" alt="License: " >}} {{< shields path="github/languages/top/lecepin/WeChatVideoDownloader" alt="Language: " >}}
 
-![demo-picture-of-WeChatVideoDownloader](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/96a75c92a552acc89378ef07ee010285.png)
+![demo-picture-of-WeChatVideoDownloader](https://static.osguider.com/history/2023/96a75c92a552acc89378ef07ee010285.png)
 
 这个项目是一个微信视频号下载器，主要功能包括实时捕获视频地址、预览和下载捕获的视频。其核心优势和特点包括：
 
@@ -102,7 +102,7 @@ PowerInfer 是一个 CPU/GPU LLM 推理引擎，利用神经元激活的局部�
 
 {{< shields path="github/stars/karanpratapsingh/system-design" alt="Github Repo Stars" >}} {{< shields path="github/license/karanpratapsingh/system-design" alt="License: " >}} {{< shields path="github/languages/top/karanpratapsingh/system-design" alt="Language: " >}}
 
-![demo-picture-of-system-design](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/05cf81d9ce2014805f8c08a4560949fd.png)
+![demo-picture-of-system-design](https://static.osguider.com/history/osguider/05cf81d9ce2014805f8c08a4560949fd.png)
 
 这个项目是关于系统设计的。它提供了有关系统设计的课程内容，包括 IP、OSI 模型、TCP 和 UDP 等主题。该项目的核心优势和特点如下：
 

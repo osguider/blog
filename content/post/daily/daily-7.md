@@ -20,7 +20,7 @@ Go Ethereum 是以太坊协议的官方 Golang 执行层实现。
 - 提供多个命令行工具，如 Ethereum CLI 客户端 `geth`、签名工具 `clef`、与网络交互的开发者工具等。
 - 包含源代码生成器 abigen，可以将以太坊合约定义转换为易于使用和编译时类型安全的 Go 包。
 - 支持 HTTP、WebSocket 和 IPC (UNIX 套接字) 等不同传输方式，程序化地与 geth 节点进行交互。
-  
+
 ## [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
 
 {{< shields path="github/stars/steven2358/awesome-generative-ai" alt="Github Repo Stars" >}} {{< shields path="github/license/steven2358/awesome-generative-ai" alt="License: `CC0-1.0`" >}} {{< shields path="github/languages/top/steven2358/awesome-generative-ai" alt="Language: `Unknown`" >}}
@@ -33,13 +33,13 @@ Awesome Generative AI 是一个精选的现代生成式人工智能项目和服�
 
 - 通过使用机器学习算法，基于大量数据进行训练，生成原创内容 (如图像、声音和文本)。
 - 可以创建独特且前所未见的输出，例如逼真的图像、数字艺术、音乐和写作。这些输出通常具有自己独特的风格，甚至很难与人类创作品区分开来。
-  
+
 关键特点和核心优势：
 
 - 在艺术、娱乐、营销等领域具有广泛应用
 - 提供了各种类型 (文本/代码/图像/视频/音频等) 相关模型及其衍生产品或服务
 - 收录了推荐阅读材料以及其他资源列表
-  
+
 ## [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences)
 
 {{< shields path="github/stars/onhexgroup/Conferences" alt="Github Repo Stars" >}} {{< shields path="github/license/onhexgroup/Conferences" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/onhexgroup/Conferences" alt="Language: `Unknown`" >}}
@@ -50,12 +50,12 @@ Awesome Generative AI 是一个精选的现代生成式人工智能项目和服�
 
 - 方便地查找和浏览不同会议的演讲资料
 - 提供了黑帽亚洲、Offensivecon 以及黑帽美国等多个重要安全领域大型会议的幻灯片资源
-  
+
 ## [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT)
 
 {{< shields path="github/stars/llSourcell/DoctorGPT" alt="Github Repo Stars" >}} {{< shields path="github/license/llSourcell/DoctorGPT" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/llSourcell/DoctorGPT" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-DoctorGPT](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/9a83ebea055fe28bca301ee19e465ebd.webp)
+![demo-picture-of-DoctorGPT](https://static.osguider.com/history/2023/9a83ebea055fe28bca301ee19e465ebd.webp)
 
 DoctorGPT 是一个大型语言模型，可以通过美国医疗执业考试。这是一个开源项目，旨在为每个人提供自己的私人医生。DoctorGPT 是 Meta's Llama2 70 亿参数大型语言模型的版本，在医学对话数据集上进行了微调，并使用强化学习和宪法 AI 进一步改进。由于该模型只有 3GB 大小，因此适用于任何本地设备，无需支付 API 费用即可使用。它免费、专为离线使用而设计，保护患者隐私，并且可在 iOS、Android 和 Web 上使用。
 
@@ -63,7 +63,7 @@ DoctorGPT 是一个大型语言模型，可以通过美国医疗执业考试。�
 - 具有良好的离线性能
 - 模型体积较小 (仅 3GB)
 - 改善后续反馈机制
-  
+
 ## [go-shiori/shiori](https://github.com/go-shiori/shiori)
 
 {{< shields path="github/stars/go-shiori/shiori" alt="Github Repo Stars" >}} {{< shields path="github/license/go-shiori/shiori" alt="License: `MIT`" >}} {{< shields path="github/languages/top/go-shiori/shiori" alt="Language: `Unknown`" >}}
@@ -92,4 +92,3 @@ LangChain-Chatchat 是一个基于 Langchain 和 ChatGLM 等大语言模型的�
 - 可通过 FastAPI 提供的 API 调用服务或使用基于 Streamlit 的 Web UI 进行操作。
 - 支持多种 LLM 和 Embedding 模型接入，包括 Vicuna、Alpaca、LLaMA、Koala 等。
 - 实现原理为加载文件->读取文本->分割文本->向量化文本和问题->匹配最相似的 top k 个结果并生成回答。
-  
