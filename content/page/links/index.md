@@ -18,6 +18,10 @@ links:
     description: 工欲善其事，必先利其器。
     website: https://idea.diqigan.cn/
     image: https://idea.diqigan.cn/assets/images/idea-512x512.svg
+  - title: 打工人PPT
+    description: 为打工人提供免费PPT模板及PPT课件下载服务
+    website: https://dgrppt.com/
+    image: https://dgrppt.com/dataaa/wwwroot/dgrppt.com/wp-content/uploads/2023/12/cropped-1702479531-%E7%BC%96%E7%BB%84-2-180x180.png
   # - title: GitHub
   #   description: 开源服务指南博客源码
   #   website: https://github.com/osguider/blog/
