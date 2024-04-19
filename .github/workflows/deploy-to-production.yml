@@ -27,14 +27,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.1.1
         # see: https://github.com/actions/checkout
         with:
           submodules: recursive
           fetch-depth: 1
 
       - name: Cache Hugo resources
-        uses: actions/cache@v3
+        uses: actions/cache@v4.0.2
         env:
           cache-name: cache-hugo-resources
         with:
@@ -49,7 +49,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5.0.0
 
       - name: Build Github Pages
         env:
@@ -59,7 +59,7 @@ jobs:
         run: hugo --minify --gc
 
       - name: Upload Github Pages Artifact
-        uses: actions/upload-pages-artifact@v3.0.0
+        uses: actions/upload-pages-artifact@v3.0.1
         with:
           path: ./public
 
@@ -92,7 +92,7 @@ jobs:
     steps:
       - name: Download Artifact
         # see: https://github.com/actions/download-artifact
-        uses: actions/download-artifact@v4.1.0
+        uses: actions/download-artifact@v4.1.5
         with:
           name: github-pages
           path: ./public
@@ -100,9 +100,9 @@ jobs:
         run: |
           ls -la --recursive
       - name: Deploy to Production
-        id: projection
+        id: production
         # @see: https://github.com/easingthemes/ssh-deploy
-        uses: easingthemes/ssh-deploy@v5.0.0
+        uses: easingthemes/ssh-deploy@v5.0.3
         with:
           ARGS: "-rlgoDzvc -i --delete"
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}

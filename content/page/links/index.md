@@ -22,14 +22,14 @@ links:
     description: 为打工人提供免费PPT模板及PPT课件下载服务
     website: https://dgrppt.com/
     image: https://dgrppt.com/dataaa/wwwroot/dgrppt.com/wp-content/uploads/2023/12/cropped-1702479531-%E7%BC%96%E7%BB%84-2-180x180.png
-  # - title: GitHub
-  #   description: 开源服务指南博客源码
-  #   website: https://github.com/osguider/blog/
-  #   image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  # - title: Github Issue
-  #   description: 意见建议
-  #   website: https://github.com/osguider/blog/issues/new
-  #   image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: GitHub
+    description: 开源服务指南博客源码
+    website: https://github.com/osguider/blog/
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Github Issue
+    description: 意见建议
+    website: https://github.com/osguider/blog/issues/new
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main:
         weight: -50
