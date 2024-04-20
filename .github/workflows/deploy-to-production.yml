@@ -113,7 +113,10 @@ jobs:
           TARGET: ${{ secrets.SSH_REMOTE_TARGET }}
           SCRIPT_AFTER: |
             cd "${{ secrets.SSH_REMOTE_TARGET }}" \
-            && tar xf artifact.tar -C blog/ \
+            && mkdir blog_new \
+            && tar xf artifact.tar -C blog_new/ \
+            && rm -rf blog \
+            && mv blog_new blog \
             && rm -rf artifact.tar
           # && curl -s https://osguider.com/blog/sitemap.xml | grep -oP '<loc>\K[^<]+' | head -5 | curl -H 'Content-Type:text/plain' --data-binary @- "${{ secrets.BAIDU_SITMAP_UPLOAD_URL }}"
 
