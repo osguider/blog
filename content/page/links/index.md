@@ -10,6 +10,10 @@ links:
     description: Link2 AI批量提取文案，收藏灵感，正在成为百万达人团队都在用的AI随身创作工具。
     website: https://link2.cn/
     image: https://link2.cn/favicon.png
+  - title: 小报童排行榜
+    description: 小报童排行榜，发现优秀专栏。
+    website: https://xiaobot.osguider.com/
+    image: https://xiaobot.osguider.com/assets/img/logo.png
   - title: 看见导航
     description: 美好的事物，值得被更多人看见
     website: https://kanjian.diqigan.cn/
