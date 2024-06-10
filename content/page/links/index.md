@@ -26,6 +26,10 @@ links:
     description: 为打工人提供免费PPT模板及PPT课件下载服务
     website: https://dgrppt.com/
     image: https://dgrppt.com/dataaa/wwwroot/dgrppt.com/wp-content/uploads/2023/12/cropped-1702479531-%E7%BC%96%E7%BB%84-2-180x180.png
+  - title: 极迅客科技
+    description: 广州 APP 开发公司
+    website: https://www.geetion.com/
+    image: https://www.geetion.com/img/logo.png
   - title: GitHub
     description: 开源服务指南博客源码
     website: https://github.com/osguider/blog/
