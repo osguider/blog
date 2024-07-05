@@ -2,7 +2,7 @@
 title: "Windows 最佳文件管理器：快速、简单、直观、自由 | 开源日报 No.175"
 description: "Files 是为 Windows 构建的最佳文件管理器应用程序。该项目解决了在 Windows 上进行文件管理时的困难。"
 date: "2024-02-02T23:35:19.089Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d34402ca17d97236fe53d6e93c0911c6.png"
+image: "https://static.osguider.com/history/osguider/d34402ca17d97236fe53d6e93c0911c6.png"
 tags: []
 categories:
   - "daily"
@@ -55,7 +55,7 @@ oapi-codegen 是一个从 OpenAPI 3 规范生成 Go 客户端和服务器样板�
 
 {{< shields path="github/stars/files-community/Files" alt="Github Repo Stars" >}} {{< shields path="github/license/files-community/Files" alt="License: " >}} {{< shields path="github/languages/top/files-community/Files" alt="Language: " >}}
 
-![demo-picture-of-Files](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b3c8dabe89c5928824daaf74e1b08dec.png)
+![demo-picture-of-Files](https://static.osguider.com/history/osguider/b3c8dabe89c5928824daaf74e1b08dec.png)
 
 Files 是为 Windows 构建的最佳文件管理器应用程序。该项目解决了在 Windows 上进行文件管理时的困难。
 它具有以下主要功能和优势：

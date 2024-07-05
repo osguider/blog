@@ -3,7 +3,7 @@ title: "移除和替换任何内容：AI 驱动的图像修复工具 | 开源日
 description: "IOPaint 是一款由 SOTA AI 模型驱动的图像修复工具。
 该项目解决了从图片中移除任何不需要的对象、瑕疵或人物，以及擦除和替换图片上任何内容（由稳定扩散技术支持）的问题。"
 date: "2024-03-04T23:36:07.313Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/10f323c969fe2035d010f95444613a8c.png"
+image: "https://static.osguider.com/history/osguider/10f323c969fe2035d010f95444613a8c.png"
 tags: []
 categories:
   - "daily"

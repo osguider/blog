@@ -2,7 +2,7 @@
 title: "Git 及相关工具简介：版本控制系统与辅助工具 | 开源专题 No.89"
 description: "在这个快速发展的技术时代，代码管理的效率直接影响着开发流程的顺畅程度。让我们一起探索Git及其生态系统中的工具，发现那些能够提升我们工作效率的利器。"
 date: "2024-06-07T23:36:00.147Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0c4a6ed99b5df185880266e26fba5446.png"
+image: "https://static.osguider.com/history/osguider/0c4a6ed99b5df185880266e26fba5446.png"
 tags: []
 categories:
   - "topic"
@@ -40,7 +40,7 @@ jj 是一个简单而强大的与 Git 兼容的版本控制系统。
 
 {{< shields path="github/stars/sourcegraph/sourcegraph" alt="Github Repo Stars" >}} {{< shields path="github/license/sourcegraph/sourcegraph" alt="License: " >}} {{< shields path="github/languages/top/sourcegraph/sourcegraph" alt="Language: " >}}
 
-![demo-picture-of-sourcegraph](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/ae4265619789c09f39f7f7e3d977d1b9.png)
+![demo-picture-of-sourcegraph](https://static.osguider.com/history/2023/ae4265619789c09f39f7f7e3d977d1b9.png)
 
 Sourcegraph 是一个代码智能平台，可以帮助您在庞大而复杂的代码库中轻松阅读、编写和修复代码。
 
@@ -54,7 +54,7 @@ Sourcegraph 是一个代码智能平台，可以帮助您在庞大而复杂的�
 
 {{< shields path="github/stars/jesseduffield/lazygit" alt="Github Repo Stars" >}} {{< shields path="github/license/jesseduffield/lazygit" alt="License: " >}} {{< shields path="github/languages/top/jesseduffield/lazygit" alt="Language: " >}}
 
-![demo-picture-of-lazygit](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/879ad5c0628d9e53bbf11ab206b54c55.gif)
+![demo-picture-of-lazygit](https://static.osguider.com/history/osguider/879ad5c0628d9e53bbf11ab206b54c55.gif)
 
 lazygit，一个用 Go 语言编写的简单终端UI工具，可以执行 Git 命令。
 该项目旨在让使用者更加方便地使用 Git，并提供了以下功能：

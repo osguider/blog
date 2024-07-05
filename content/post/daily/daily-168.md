@@ -2,7 +2,7 @@
 title: "轻量级 C++ UI 库：快速、可移植、自包含 | 开源日报 No.168"
 description: "imgui 是 C++ 的无臃肿图形用户界面，具有最小的依赖关系。"
 date: "2024-01-28T23:35:39.508Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fc5eab6c4f345cfbc4be37a66b26210c.png"
+image: "https://static.osguider.com/history/osguider/fc5eab6c4f345cfbc4be37a66b26210c.png"
 tags: []
 categories:
   - "daily"
@@ -26,7 +26,7 @@ google-indexing-script 是一个用于在不到 48 小时内将您的网站索�
 
 {{< shields path="github/stars/zed-industries/zed" alt="Github Repo Stars" >}} {{< shields path="github/license/zed-industries/zed" alt="License: " >}} {{< shields path="github/languages/top/zed-industries/zed" alt="Language: " >}}
 
-![demo-picture-of-zed](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/d2d2ef7bdac4c90a1d442e0ff078c064.png)
+![demo-picture-of-zed](https://static.osguider.com/history/2024/d2d2ef7bdac4c90a1d442e0ff078c064.png)
 
 zed 是一款高性能的多人代码编辑器，由 Atom 和 Tree-sitter 的创建者开发。
 

@@ -2,7 +2,7 @@
 title: "目前最强大语言模型！谷歌开源 | 开源日报 No.196"
 description: "Google Gemma 模型的官方 PyTorch 实现 gemma_pytorch，提供 Gemini 模型技术的轻量级开放模型，支持多种语言模型，包含开源权重和预训练变体，支持 PyTorch 和 PyTorch/XLA 实现，可在多种硬件上运行推理。体验最新的模型技术，实现更多可能性。"
 date: "2024-02-25T23:35:15.486Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9ac24d7b1cb92cde59bbde892a72edaa.png"
+image: "https://static.osguider.com/history/osguider/9ac24d7b1cb92cde59bbde892a72edaa.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,7 @@
 title: "llama WebUI：快速体验大语言模型 | 开源日报 No.252"
 description: "想要轻松查找和修复 JavaScript 代码问题吗？试试使用 eslint 吧！它使用 Espree 进行 JavaScript 解析，支持多个 ECMAScript 规范版本，完全可插拔，让你随时添加更多规则。让 eslint 帮你提升代码质量，提升开发效率！"
 date: "2024-04-29T23:35:47.177Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/03e94ad2c0fdf4e218356293dd834d18.png"
+image: "https://static.osguider.com/history/osguider/03e94ad2c0fdf4e218356293dd834d18.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,7 @@
 title: "把数据库转换成电子表格：支持实时编辑、接口调用 | 开源日报 No.254"
 description: "APITable 是一个面向 API 的低代码平台，用于构建协作应用程序，并且比其他 Airtable 开源替代品更好。"
 date: "2024-05-02T23:35:51.876Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b72e4838dc22774a93f28ce6e8c49ae8.png"
+image: "https://static.osguider.com/history/osguider/b72e4838dc22774a93f28ce6e8c49ae8.png"
 tags: []
 categories:
   - "daily"
@@ -66,7 +66,7 @@ litgpt 是一个可以在自己的数据上预训练、微调和部署 20 多个
 
 {{< shields path="github/stars/apitable/apitable" alt="Github Repo Stars" >}} {{< shields path="github/license/apitable/apitable" alt="License: " >}} {{< shields path="github/languages/top/apitable/apitable" alt="Language: " >}}
 
-![demo-picture-of-apitable](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c88983c52925d078d39c705ad4874d8e.png)
+![demo-picture-of-apitable](https://static.osguider.com/history/2023/c88983c52925d078d39c705ad4874d8e.png)
 
 APITable 是一个面向 API 的低代码平台，用于构建协作应用程序，并且比其他 Airtable 开源替代品更好。
 

@@ -2,7 +2,7 @@
 title: "在树莓派上运行 LLaMA：廉价高效微调 | 开源日报 No.263"
 description: "alpaca-lora 项目是一个非常令人兴奋的项目，它提供了在消费级硬件上调整 LLaMA 模型的功能。该项目的关键特性包括在树莓派上运行的 Instruct 模型，训练代码在单个 RTX 4090 上几小时内运行，以及使用了 Hugging Face 的 PEFT 和 Tim Dettmers' bitsandbytes 进行廉价高效的微调。"
 date: "2024-05-19T23:35:48.284Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/434c682efe8b11b1af8da838651893dc.png"
+image: "https://static.osguider.com/history/osguider/434c682efe8b11b1af8da838651893dc.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/cloudwu/skynet" alt="Github Repo Stars" >}} {{< shields path="github/license/cloudwu/skynet" alt="License: " >}} {{< shields path="github/languages/top/cloudwu/skynet" alt="Language: " >}}
 
-![demo-picture-of-skynet](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/006ba7e1852d5388f8c6759416c6613f.png)
+![demo-picture-of-skynet](https://static.osguider.com/history/2024/006ba7e1852d5388f8c6759416c6613f.png)
 
 skynet 是一个轻量级的在线游戏框架。
 该项目主要功能、关键特性、核心优势包括：

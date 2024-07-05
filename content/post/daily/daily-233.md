@@ -2,7 +2,7 @@
 title: "明日方舟游戏助手：一键完成日常任务 | 开源日报 No.233"
 description: "MaaAssistantArknights 是一款《明日方舟》游戏的小助手，基于图像识别技术，支持一键完成全部日常任务。"
 date: "2024-04-03T23:35:08.045Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f2acf65001f411e914df573860881df2.png"
+image: "https://static.osguider.com/history/osguider/f2acf65001f411e914df573860881df2.png"
 tags: []
 categories:
   - "daily"
@@ -76,7 +76,7 @@ SDWebImage 是一个具有缓存支持的异步图像下载器，同时也可以
 
 {{< shields path="github/stars/MaaAssistantArknights/MaaAssistantArknights" alt="Github Repo Stars" >}} {{< shields path="github/license/MaaAssistantArknights/MaaAssistantArknights" alt="License: " >}} {{< shields path="github/languages/top/MaaAssistantArknights/MaaAssistantArknights" alt="Language: " >}}
 
-![demo-picture-of-MaaAssistantArknights](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/13843048d181bda490a753d7ea133a39.png)
+![demo-picture-of-MaaAssistantArknights](https://static.osguider.com/history/osguider/13843048d181bda490a753d7ea133a39.png)
 
 MaaAssistantArknights 是一款《明日方舟》游戏的小助手，基于图像识别技术，支持一键完成全部日常任务。
 

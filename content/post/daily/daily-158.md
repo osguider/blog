@@ -2,7 +2,7 @@
 title: "Docker 镜像优化工具，轻松完成构件瘦身 | 开源日报 No.158"
 description: "dive 是一个强大的工具，可以帮助你深入探索 Docker 镜像，了解每个层的内容和变化，优化镜像的效率。它支持多种镜像来源和容器引擎安装方法，适用于各种平台。"
 date: "2024-01-18T23:35:46.659Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c39df71620abf1f3aae3941e93dea82d.png"
+image: "https://static.osguider.com/history/osguider/c39df71620abf1f3aae3941e93dea82d.png"
 tags: []
 categories:
   - "daily"
@@ -27,7 +27,7 @@ dive 是一个用于探索 Docker 镜像、层内容，并发现如何缩小 Doc
 
 {{< shields path="github/stars/facebookresearch/habitat-sim" alt="Github Repo Stars" >}} {{< shields path="github/license/facebookresearch/habitat-sim" alt="License: " >}} {{< shields path="github/languages/top/facebookresearch/habitat-sim" alt="Language: " >}}
 
-![demo-picture-of-habitat-sim](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/dadd0fe43c149757213c6de7574044b4.png)
+![demo-picture-of-habitat-sim](https://static.osguider.com/history/2024/dadd0fe43c149757213c6de7574044b4.png)
 
 habitat-sim 是一个灵活、高性能的三维模拟器，用于体验式人工智能研究。
 该项目的主要功能、关键特性和核心优势包括：
@@ -71,7 +71,7 @@ Qwen 是由阿里云提出的聊天和预训练大型语言模型的官方存储
 
 {{< shields path="github/stars/OpenDriveLab/UniAD" alt="Github Repo Stars" >}} {{< shields path="github/license/OpenDriveLab/UniAD" alt="License: " >}} {{< shields path="github/languages/top/OpenDriveLab/UniAD" alt="Language: " >}}
 
-![demo-picture-of-UniAD](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/3e3d019f54c5743d567275ba86c950b4.png)
+![demo-picture-of-UniAD](https://static.osguider.com/history/2023/3e3d019f54c5743d567275ba86c950b4.png)
 
 Planning-oriented Autonomous Driving 是一个统一的自动驾驶算法框架，遵循规划导向的理念。与独立模块化设计和多任务学习不同，该项目将感知、预测和规划等一系列任务按层次进行组织。
 
@@ -89,7 +89,7 @@ Planning-oriented Autonomous Driving 是一个统一的自动驾驶算法框架�
 
 {{< shields path="github/stars/openobserve/openobserve" alt="Github Repo Stars" >}} {{< shields path="github/license/openobserve/openobserve" alt="License: " >}} {{< shields path="github/languages/top/openobserve/openobserve" alt="Language: " >}}
 
-![demo-picture-of-openobserve](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ceb50cca07ac7f6db977bbe06063f83a.webp)
+![demo-picture-of-openobserve](https://static.osguider.com/history/osguider/ceb50cca07ac7f6db977bbe06063f83a.webp)
 
 openobserve 是一个云原生的可观测性平台，专门用于日志、指标、跟踪、分析和实时用户监控（RUM），设计用于 PB 级别的规模。
 该项目主要功能、关键特性和核心优势包括：

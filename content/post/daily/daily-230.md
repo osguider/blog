@@ -2,7 +2,7 @@
 title: "声明式 GUI 工具包：响应式、跨平台、多语言 | 开源日报 No.230"
 description: "slint 是一个声明式的 GUI 工具包，用于为 Rust、C++ 或 JavaScript 应用程序构建原生用户界面。"
 date: "2024-03-31T23:35:09.212Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/94d55b73a3173244d13eb32b38d0f7a6.png"
+image: "https://static.osguider.com/history/osguider/94d55b73a3173244d13eb32b38d0f7a6.png"
 tags: []
 categories:
   - "daily"

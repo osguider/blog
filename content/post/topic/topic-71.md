@@ -4,7 +4,7 @@ description: "LLaMA 2 是一个开源项目，用于加载 LLaMA 模型并进行
 
 该项目的主要功能是提供预训练和微调后的 LLaMA 语言模型的权重和起始代码。这些模型参数范围从 7B 到 70B 不等。"
 date: "2024-04-28T23:36:21.025Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b63884028e1747bb99567594863c2474.png"
+image: "https://static.osguider.com/history/osguider/b63884028e1747bb99567594863c2474.png"
 tags: []
 categories:
   - "topic"
@@ -29,7 +29,7 @@ Qwen 是由阿里云提出的聊天和预训练大型语言模型的官方存储
 
 {{< shields path="github/stars/lyogavin/Anima" alt="Github Repo Stars" >}} {{< shields path="github/license/lyogavin/Anima" alt="License: " >}} {{< shields path="github/languages/top/lyogavin/Anima" alt="Language: " >}}
 
-![demo-picture-of-Anima](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d0a1a81b8139984a05e7b2a3995d16e6.png)
+![demo-picture-of-Anima](https://static.osguider.com/history/osguider/d0a1a81b8139984a05e7b2a3995d16e6.png)
 
 Anima 是一个开源的基于 QLoRA 的 33B 中文大语言模型，支持了基于 DPO 的对齐训练。该项目具有以下核心优势和特点：
 

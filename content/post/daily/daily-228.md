@@ -2,7 +2,7 @@
 title: "Rust HTTP 客户端：易于使用、功能强大 | 开源日报 No.228"
 description: "reqwest 是一个易于使用且功能强大的 Rust HTTP 客户端。"
 date: "2024-03-29T23:36:05.809Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2b298121d6bcbbff2df23c1bf16040bf.png"
+image: "https://static.osguider.com/history/osguider/2b298121d6bcbbff2df23c1bf16040bf.png"
 tags: []
 categories:
   - "daily"

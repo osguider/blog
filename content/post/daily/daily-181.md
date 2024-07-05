@@ -2,7 +2,7 @@
 title: "daisyUI：最受欢迎的 Tailwind CSS 组件库 | 开源日报 No.181"
 description: "daisyUI 是 Tailwind CSS 的最受欢迎、免费且开源的组件库，主要功能包括提供各种组件和工具来简化使用 Tailwind CSS 进行网页设计。"
 date: "2024-02-10T23:35:46.560Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d390bc9eb00876036ceb48e471987b13.png"
+image: "https://static.osguider.com/history/osguider/d390bc9eb00876036ceb48e471987b13.png"
 tags: []
 categories:
   - "daily"
@@ -25,7 +25,7 @@ Unkey 是一个开源的 API 密钥管理工具，主要功能包括帮助用户
 
 {{< shields path="github/stars/chenzomi12/DeepLearningSystem" alt="Github Repo Stars" >}} {{< shields path="github/license/chenzomi12/DeepLearningSystem" alt="License: " >}} {{< shields path="github/languages/top/chenzomi12/DeepLearningSystem" alt="Language: " >}}
 
-![demo-picture-of-DeepLearningSystem](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/efae1537f6a13aadbeb4bb18ff92c79a.png)
+![demo-picture-of-DeepLearningSystem](https://static.osguider.com/history/osguider/efae1537f6a13aadbeb4bb18ff92c79a.png)
 
 这个开源项目是一个深度学习系统和人工智能系统，旨在探讨和学习人工智能、深度学习的系统设计。主要内容围绕着作者在工作中积累、梳理、构建 AI 系统全栈的内容，并包括了六大模块：AI 基础知识与全栈概述、AI 芯片体系结构介绍等。
 
@@ -36,7 +36,7 @@ Unkey 是一个开源的 API 密钥管理工具，主要功能包括帮助用户
 
 {{< shields path="github/stars/craftzdog/dotfiles-public" alt="Github Repo Stars" >}} {{< shields path="github/license/craftzdog/dotfiles-public" alt="License: " >}} {{< shields path="github/languages/top/craftzdog/dotfiles-public" alt="Language: " >}}
 
-![demo-picture-of-dotfiles-public](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/368fa4080d7dec841421e9882a066a2b.png)
+![demo-picture-of-dotfiles-public](https://static.osguider.com/history/osguider/368fa4080d7dec841421e9882a066a2b.png)
 
 这个项目是 Takuya 的 dotfiles，它包含了对 Neovim、tmux、git、fish 和 PowerShell 等工具的配置。主要功能包括设置 Neovim 以及 shell 在 macOS & Linux 和 Windows 上的环境。
   
@@ -63,7 +63,7 @@ OpenGPTs 是一个开源项目，旨在创建类似于 OpenAI 的 GPTs 的体验
 
 {{< shields path="github/stars/saadeghi/daisyui" alt="Github Repo Stars" >}} {{< shields path="github/license/saadeghi/daisyui" alt="License: " >}} {{< shields path="github/languages/top/saadeghi/daisyui" alt="Language: " >}}
 
-![demo-picture-of-daisyui](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/59c94545f46ab3b6b7780bbeb72b0c23.png)
+![demo-picture-of-daisyui](https://static.osguider.com/history/2023/59c94545f46ab3b6b7780bbeb72b0c23.png)
 
 daisyUI 是 Tailwind CSS 的最受欢迎、免费且开源的组件库，主要功能包括提供各种组件和工具来简化使用 Tailwind CSS 进行网页设计。其核心优势和关键特性包括：
 

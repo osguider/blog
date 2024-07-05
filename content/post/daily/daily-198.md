@@ -2,7 +2,7 @@
 title: "杜绝广告烦扰、屏蔽隐私追踪：AdGuard 帮你守护纯净网络 | 开源日报 No.198"
 description: "AdGuardHome 是一个网络范围内的广告和跟踪器拦截 DNS 服务器。"
 date: "2024-02-27T23:35:58.528Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/55396fb1a82aead078ee236dbaf47eba.png"
+image: "https://static.osguider.com/history/osguider/55396fb1a82aead078ee236dbaf47eba.png"
 tags: []
 categories:
   - "daily"

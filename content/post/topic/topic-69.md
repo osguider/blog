@@ -2,7 +2,7 @@
 title: "AI 图像处理：尽显多样风格 | 开源专题 No.69"
 description: "图像的世界里，开源项目如璀璨繁星，闪耀着创新的光芒，带我们探索图像生成与处理的无尽可能。"
 date: "2024-04-23T23:35:51.588Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/eeb05ef7b887ec9f4c8f301a0f5b7923.png"
+image: "https://static.osguider.com/history/osguider/eeb05ef7b887ec9f4c8f301a0f5b7923.png"
 tags: []
 categories:
   - "topic"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/Stability-AI/stablediffusion" alt="Github Repo Stars" >}} {{< shields path="github/license/Stability-AI/stablediffusion" alt="License: " >}} {{< shields path="github/languages/top/Stability-AI/stablediffusion" alt="Language: " >}}
 
-![demo-picture-of-stablediffusion](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/1ead49355b1636c200fa1c4884cedf7d.png)
+![demo-picture-of-stablediffusion](https://static.osguider.com/history/2023/1ead49355b1636c200fa1c4884cedf7d.png)
 
 Stable Diffusion 是一个潜在的文本到图像扩散模型，主要功能包括：
 
@@ -29,7 +29,7 @@ Stable Diffusion 是一个潜在的文本到图像扩散模型，主要功能包
 
 {{< shields path="github/stars/apple/ml-stable-diffusion" alt="Github Repo Stars" >}} {{< shields path="github/license/apple/ml-stable-diffusion" alt="License: " >}} {{< shields path="github/languages/top/apple/ml-stable-diffusion" alt="Language: " >}}
 
-![demo-picture-of-ml-stable-diffusion](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/adb41a1cc490472eb939bce1053313bf.png)
+![demo-picture-of-ml-stable-diffusion](https://static.osguider.com/history/2023/adb41a1cc490472eb939bce1053313bf.png)
 
 这个项目是一个用于在 Apple Silicon 上运行稳定扩散的 Core ML 库。该项目包括以下内容：
 
@@ -47,7 +47,7 @@ Stable Diffusion 是一个潜在的文本到图像扩散模型，主要功能包
 
 {{< shields path="github/stars/sjvasquez/handwriting-synthesis" alt="Github Repo Stars" >}} {{< shields path="github/license/sjvasquez/handwriting-synthesis" alt="License: " >}} {{< shields path="github/languages/top/sjvasquez/handwriting-synthesis" alt="Language: " >}}
 
-![demo-picture-of-handwriting-synthesis](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/2df7ab25b3cafbfc8d2617149530b3d4.png)
+![demo-picture-of-handwriting-synthesis](https://static.osguider.com/history/2023/2df7ab25b3cafbfc8d2617149530b3d4.png)
 
 这个项目是实现了 Alex Graves 的论文《Generating Sequences with Recurrent Neural Networks》中的手写合成实验。该实现与原始论文非常接近，生成的样本质量与论文中呈现的样本相似。
 
@@ -59,7 +59,7 @@ Stable Diffusion 是一个潜在的文本到图像扩散模型，主要功能包
 
 {{< shields path="github/stars/lllyasviel/ControlNet" alt="Github Repo Stars" >}} {{< shields path="github/license/lllyasviel/ControlNet" alt="License: " >}} {{< shields path="github/languages/top/lllyasviel/ControlNet" alt="Language: " >}}
 
-![demo-picture-of-ControlNet](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/f695f4ab223998bccd6b338093a10145.png)
+![demo-picture-of-ControlNet](https://static.osguider.com/history/2023/f695f4ab223998bccd6b338093a10145.png)
 
 ControlNet 是一个神经网络结构，用于控制扩散模型并添加额外的条件。它将神经网络块的权重复制到“锁定”副本和“可训练”副本中。“可训练”的副本学习您的条件，“锁定”的副本保留您的模型。这使得使用小数据集进行培训不会破坏生产就绪的扩散模型。此外，该项目还具有以下优点：
 
@@ -73,7 +73,7 @@ ControlNet 是一个神经网络结构，用于控制扩散模型并添加额外
 
 {{< shields path="github/stars/Mikubill/sd-webui-controlnet" alt="Github Repo Stars" >}} {{< shields path="github/license/Mikubill/sd-webui-controlnet" alt="License: " >}} {{< shields path="github/languages/top/Mikubill/sd-webui-controlnet" alt="Language: " >}}
 
-![demo-picture-of-sd-webui-controlnet](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a5a09f29baf387db0aa8f098332b4ee8.png)
+![demo-picture-of-sd-webui-controlnet](https://static.osguider.com/history/osguider/a5a09f29baf387db0aa8f098332b4ee8.png)
 
 ControlNet for Stable Diffusion WebUI 是一个用于 Stable Diffusion 网络的 WebUI 扩展，它允许在原始的 Stable Diffusion 模型中添加 ControlNet 来生成图像。该扩展具有以下主要功能和核心优势：
 

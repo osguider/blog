@@ -2,7 +2,7 @@
 title: "网盘聚合工具：统筹管理所有网盘资源 | 开源日报 No.203"
 description: "alist 是一个支持多存储的文件列表/WebDAV 程序，使用 Gin 和 Solidjs。"
 date: "2024-03-03T23:35:39.302Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/385f4f7f82009f524d4078582b47b211.png"
+image: "https://static.osguider.com/history/osguider/385f4f7f82009f524d4078582b47b211.png"
 tags: []
 categories:
   - "daily"
@@ -68,7 +68,7 @@ awesome-echarts 是 Apache ECharts 的资源集合。
 
 {{< shields path="github/stars/alist-org/alist" alt="Github Repo Stars" >}} {{< shields path="github/license/alist-org/alist" alt="License: " >}} {{< shields path="github/languages/top/alist-org/alist" alt="Language: " >}}
 
-![demo-picture-of-alist](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/9f48d9bbb3cf119b16f274b6f5aed8aa.png)
+![demo-picture-of-alist](https://static.osguider.com/history/2024/9f48d9bbb3cf119b16f274b6f5aed8aa.png)
 
 alist 是一个支持多存储的文件列表/WebDAV 程序，使用 Gin 和 Solidjs。
 该项目的主要功能、关键特性、核心优势包括：

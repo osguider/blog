@@ -2,7 +2,7 @@
 title: "替代 Redis 和 Memcached：25 倍吞吐量！ | 开源日报 No.213"
 description: "Dragonfly 是一个内存数据存储，适用于现代应用工作负载，可替代 Redis 和 Memcached。与传统的内存数据存储相比，Dragonfly 提供了 25 倍的吞吐量、更高的缓存命中率和更低尾部延迟，并且可以在相同大小工作负载下节省高达 80% 的资源。"
 date: "2024-03-13T23:35:42.389Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d44e8c37a005601c9a29be67b480e753.png"
+image: "https://static.osguider.com/history/osguider/d44e8c37a005601c9a29be67b480e753.png"
 tags: []
 categories:
   - "daily"

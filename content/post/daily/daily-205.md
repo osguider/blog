@@ -2,7 +2,7 @@
 title: "替代 Evernote！离线优先、数据安全的个人笔记 | 开源日报 No.205"
 description: "joplin 是一个安全的笔记和待办事项应用程序，具有 Windows、macOS、Linux、Android 和 iOS 的同步功能。"
 date: "2024-03-05T23:35:55.138Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8c61a58da145928c752be936004cab8d.png"
+image: "https://static.osguider.com/history/osguider/8c61a58da145928c752be936004cab8d.png"
 tags: []
 categories:
   - "daily"
@@ -58,7 +58,7 @@ open-saas 是一个基于 React 和 Node.js 的免费、开源的 SaaS 应用启
 
 {{< shields path="github/stars/cvlab-columbia/zero123" alt="Github Repo Stars" >}} {{< shields path="github/license/cvlab-columbia/zero123" alt="License: " >}} {{< shields path="github/languages/top/cvlab-columbia/zero123" alt="Language: " >}}
 
-![demo-picture-of-zero123](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/bb2f01b65739b8936b7da24dbcbacb03.png)
+![demo-picture-of-zero123](https://static.osguider.com/history/2024/bb2f01b65739b8936b7da24dbcbacb03.png)
 
 zero123 是一个零样本一图到三维物体的项目。
 

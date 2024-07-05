@@ -2,7 +2,7 @@
 title: "可无限定制的命令行提示工具：适用任何 Shell 和操作系统 | 开源日报 No.267"
 description: "Starship 是一个极简、快速、可无限定制的命令行提示工具，适用于任何 shell 和操作系统。它具有快速、可定制化、通用性强、智能化、功能丰富、安装便捷等关键特点和核心优势。无论你是开发者还是普通用户，Starship 都能为你的命令行操作提供极致的便捷和智能化体验。"
 date: "2024-05-27T23:35:48.875Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/92850ccddcc2adc5a7208ed368dd2c64.png"
+image: "https://static.osguider.com/history/osguider/92850ccddcc2adc5a7208ed368dd2c64.png"
 tags: []
 categories:
   - "daily"
@@ -68,7 +68,7 @@ Starship 是一个极简、快速且可无限定制的命令行提示工具，�
 
 {{< shields path="github/stars/ultralytics/ultralytics" alt="Github Repo Stars" >}} {{< shields path="github/license/ultralytics/ultralytics" alt="License: " >}} {{< shields path="github/languages/top/ultralytics/ultralytics" alt="Language: " >}}
 
-![demo-picture-of-ultralytics](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/c10671c983cf0d1d30aa3bdf5b39801c.png)
+![demo-picture-of-ultralytics](https://static.osguider.com/history/2024/c10671c983cf0d1d30aa3bdf5b39801c.png)
 
 ultralytics 是一个基于 PyTorch 的 YOLOv8 模型，可以快速、准确地进行目标检测和跟踪、实例分割、图像分类和姿态估计等任务。
 

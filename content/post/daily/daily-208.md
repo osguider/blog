@@ -2,7 +2,7 @@
 title: "自动颁发 HTTPS 证书：Let's Encrypt ACME 客户端 | 开源日报 No.208"
 description: "用 Go 语言编写的 Let's Encrypt/ACME 客户端和库 lego，解决了自动证书和 HTTPS 的问题，支持 ACME v2，TLS ALPN 挑战，IP 证书，各种 ACME 挑战，SAN 证书和 CNAME 支持等功能，是一个功能强大的证书解决方案。"
 date: "2024-03-08T23:35:36.338Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2f7f5b064083843e53129236e6fcc669.png"
+image: "https://static.osguider.com/history/osguider/2f7f5b064083843e53129236e6fcc669.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/go-acme/lego" alt="Github Repo Stars" >}} {{< shields path="github/license/go-acme/lego" alt="License: " >}} {{< shields path="github/languages/top/go-acme/lego" alt="Language: " >}}
 
-![demo-picture-of-lego](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/e4b9a817693af948befc87cf3a59c6ad.png)
+![demo-picture-of-lego](https://static.osguider.com/history/2024/e4b9a817693af948befc87cf3a59c6ad.png)
 
 lego 是用 Go 语言编写的 Let's Encrypt/ACME 客户端和库。
 该项目解决了自动证书和 HTTPS 的问题，主要功能、关键特性和核心优势包括：
@@ -44,7 +44,7 @@ cpp-httplib 是一个 C++11 单文件头部跨平台的 HTTP/HTTPS 库。
 
 {{< shields path="github/stars/Narasimha1997/fake-sms" alt="Github Repo Stars" >}} {{< shields path="github/license/Narasimha1997/fake-sms" alt="License: " >}} {{< shields path="github/languages/top/Narasimha1997/fake-sms" alt="Language: " >}}
 
-![demo-picture-of-fake-sms](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/36c31e050753ffe4bd96a02057089e25.gif)
+![demo-picture-of-fake-sms](https://static.osguider.com/history/2023/36c31e050753ffe4bd96a02057089e25.gif)
 
 Fake-SMS 是一个简单的命令行工具，通过使用临时电话号码作为代理来跳过基于手机号码的短信验证。
 

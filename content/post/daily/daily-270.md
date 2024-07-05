@@ -2,7 +2,7 @@
 title: "现代化全栈 Web 开发框架：快速、流畅、有弹性的用户界面 | 开源日报 No.270"
 description: "Remix 是一个全栈 Web 框架，专注于用户界面构建，利用 Web 基础知识提供快速、流畅、有弹性的用户体验，可部署到任何 Node.js 服务器和非 Node.js 环境的边缘，拥有丰富的文档和活跃的社区支持。"
 date: "2024-05-31T23:35:28.633Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/784001f3f33964d23ab71d2311312ca6.png"
+image: "https://static.osguider.com/history/osguider/784001f3f33964d23ab71d2311312ca6.png"
 tags: []
 categories:
   - "daily"
@@ -56,7 +56,7 @@ glance 是一个自托管的仪表板，将所有你的订阅内容集中在一�
 
 {{< shields path="github/stars/remix-run/remix" alt="Github Repo Stars" >}} {{< shields path="github/license/remix-run/remix" alt="License: " >}} {{< shields path="github/languages/top/remix-run/remix" alt="Language: " >}}
 
-![demo-picture-of-remix](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/3d843b9e50de41b3d778ea933181ba7e.png)
+![demo-picture-of-remix](https://static.osguider.com/history/2024/3d843b9e50de41b3d778ea933181ba7e.png)
 
 Remix 是一个全栈 Web 框架。
 

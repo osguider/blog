@@ -3,7 +3,7 @@ title: "Switch 和 PS1 模拟器：3000+ 游戏随心玩 | 开源日报 No.174"
 description: "Ryujinx 是用 C# 编写的实验性任天堂 Switch 模拟器。
 该项目旨在提供出色的准确性和性能、用户友好的界面以及稳定的构建。它已经通过了大约 4050 个测试，其中超过 4000 个可以启动并进入游戏，其中大约 3400 个被认为是可玩的。"
 date: "2024-02-01T23:35:50.795Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c37256d50b736fd0451fe1231fef2b99.png"
+image: "https://static.osguider.com/history/osguider/c37256d50b736fd0451fe1231fef2b99.png"
 tags: []
 categories:
   - "daily"
@@ -13,7 +13,7 @@ categories:
 
 {{< shields path="github/stars/Asabeneh/30-Days-Of-Python" alt="Github Repo Stars" >}} {{< shields path="github/license/Asabeneh/30-Days-Of-Python" alt="License: " >}} {{< shields path="github/languages/top/Asabeneh/30-Days-Of-Python" alt="Language: " >}}
 
-![demo-picture-of-30-Days-Of-Python](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/1edeb5e92715946dd742eec4ca850a79.png)
+![demo-picture-of-30-Days-Of-Python](https://static.osguider.com/history/2024/1edeb5e92715946dd742eec4ca850a79.png)
 
 30-Days-Of-Python 是一个逐步指南，帮助在 30 天内学习 Python 编程语言。
 该项目的主要功能、关键特性、核心优势包括：

@@ -2,7 +2,7 @@
 title: "打造跨平台应用：单一代码库，多平台运行 | 开源专题 No.84"
 description: "在跨平台应用程序开发的广阔世界里，有着无数的可能性等待着我们去探索。这里有五个令人兴奋的开源项目，它们各自以独特的方式助力开发者创造出能在多个平台上闪耀的应用程序。无论是使用.NET、Go，还是利用 Web 前端技术，这些项目都为我们提供了更多的选择和可能性。"
 date: "2024-05-26T23:35:54.066Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f94bd76ce198ebbaf8df03a3aa024e18.png"
+image: "https://static.osguider.com/history/osguider/f94bd76ce198ebbaf8df03a3aa024e18.png"
 tags: []
 categories:
   - "topic"
@@ -23,7 +23,7 @@ Hermes JS Engine 是一个为 React Native 应用程序的快速启动而优化�
 
 {{< shields path="github/stars/wailsapp/wails" alt="Github Repo Stars" >}} {{< shields path="github/license/wailsapp/wails" alt="License: " >}} {{< shields path="github/languages/top/wailsapp/wails" alt="Language: " >}}
 
-![demo-picture-of-wails](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/2e9300464ef71722fbec79633258f2e1.png)
+![demo-picture-of-wails](https://static.osguider.com/history/2023/2e9300464ef71722fbec79633258f2e1.png)
 
 这个项目是使用 Go 和 Web 技术构建桌面应用程序的开源项目。
 
@@ -43,7 +43,7 @@ Hermes JS Engine 是一个为 React Native 应用程序的快速启动而优化�
 
 {{< shields path="github/stars/dotnet/maui" alt="Github Repo Stars" >}} {{< shields path="github/license/dotnet/maui" alt="License: " >}} {{< shields path="github/languages/top/dotnet/maui" alt="Language: " >}}
 
-![demo-picture-of-maui](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c11caf1a580a9811d3d64ae15ab196c0.png)
+![demo-picture-of-maui](https://static.osguider.com/history/osguider/c11caf1a580a9811d3d64ae15ab196c0.png)
 
 .NET Multi-platform App UI (.NET MAUI) 是一个跨平台的框架，用于使用 C# 和 XAML 创建移动和桌面应用程序。通过使用 .NET MAUI，您可以开发能够在 Android、iOS、iPadOS、macOS 和 Windows 上运行的应用程序，并且这些应用程序共享相同的代码库。
 
@@ -55,7 +55,7 @@ Hermes JS Engine 是一个为 React Native 应用程序的快速启动而优化�
 
 {{< shields path="github/stars/tauri-apps/tauri" alt="Github Repo Stars" >}} {{< shields path="github/license/tauri-apps/tauri" alt="License: " >}} {{< shields path="github/languages/top/tauri-apps/tauri" alt="Language: " >}}
 
-![demo-picture-of-tauri](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/807508029b5f1a9417939d661ac590a5.png)
+![demo-picture-of-tauri](https://static.osguider.com/history/2023/807508029b5f1a9417939d661ac590a5.png)
 
 Tauri 是一个开源项目，它可以通过 Web 前端构建更小、更快和更安全的桌面应用程序。
 
@@ -73,7 +73,7 @@ Tauri 是一个开源项目，它可以通过 Web 前端构建更小、更快和
 
 {{< shields path="github/stars/tw93/Pake" alt="Github Repo Stars" >}} {{< shields path="github/license/tw93/Pake" alt="License: " >}} {{< shields path="github/languages/top/tw93/Pake" alt="Language: " >}}
 
-![demo-picture-of-Pake](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/2d8ab8abde618354d698d4f0335e7a2e.png)
+![demo-picture-of-Pake](https://static.osguider.com/history/2023/2d8ab8abde618354d698d4f0335e7a2e.png)
 
 Pake 是利用 Rust 轻松构建轻量级多端桌面应用的工具。
 

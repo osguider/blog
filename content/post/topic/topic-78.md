@@ -2,7 +2,7 @@
 title: "搞定语音识别，畅享高效处理 | 开源专题 No.78"
 description: "语音识别技术正在不断发展，这些开源项目为我们提供了更多的选择和可能性。无论是在基础工具包的提供，还是在模型的优化和实现上，它们都各具特色。从高效准确的语音识别，到多说话人的分离和处理，再到跨平台的支持和各种功能的集成，这些项目无疑是语音识别领域的瑰宝。让我们一起探索这些精彩的开源项目，挖掘它们的潜力，为语音识别技术的发展贡献自己的力量。"
 date: "2024-05-12T23:35:52.676Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/311cbe650f706081971914e505fef0fa.png"
+image: "https://static.osguider.com/history/osguider/311cbe650f706081971914e505fef0fa.png"
 tags: []
 categories:
   - "topic"
@@ -20,7 +20,7 @@ FunASR 是一个基础的语音识别工具包，提供了多种功能，包括�
 
 {{< shields path="github/stars/m-bain/whisperX" alt="Github Repo Stars" >}} {{< shields path="github/license/m-bain/whisperX" alt="License: " >}} {{< shields path="github/languages/top/m-bain/whisperX" alt="Language: " >}}
 
-![demo-picture-of-whisperX](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/84fb999d9ade5aebb23524a0acd643de.png)
+![demo-picture-of-whisperX](https://static.osguider.com/history/2023/84fb999d9ade5aebb23524a0acd643de.png)
 
 WhisperX 是一个开源项目，具有单词级时间戳和说话人分离功能。
 
@@ -59,7 +59,7 @@ whisper.cpp 是一个高性能的 OpenAI Whisper 自动语音识别 (ASR) 模型
 
 {{< shields path="github/stars/Const-me/Whisper" alt="Github Repo Stars" >}} {{< shields path="github/license/Const-me/Whisper" alt="License: " >}} {{< shields path="github/languages/top/Const-me/Whisper" alt="Language: " >}}
 
-![demo-picture-of-Whisper](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7408f9211319735d83ef54d477d98f09.png)
+![demo-picture-of-Whisper](https://static.osguider.com/history/osguider/7408f9211319735d83ef54d477d98f09.png)
 
 这个项目是 OpenAI Whisper 自动语音识别 (ASR) 模型的 C++ 移植版本。该项目在 Windows 平台上实现了 Whisper.cpp，并提供了一些核心优势和主要功能：
 

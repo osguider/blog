@@ -2,7 +2,7 @@
 title: "天涯神帖大合集：畅享智慧结晶 | 开源日报 No.259"
 description: "kkndme_tianya 是一个持续更新的天涯神贴脱水版。"
 date: "2024-05-11T23:35:17.418Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1e63614a6b40c7690b35f89907af3dc9.png"
+image: "https://static.osguider.com/history/osguider/1e63614a6b40c7690b35f89907af3dc9.png"
 tags: []
 categories:
   - "daily"

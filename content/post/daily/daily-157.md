@@ -2,7 +2,7 @@
 title: "私人漫画图书馆：分类管理，一目了然 | 开源日报 No.157"
 description: "tachiyomi 是一款免费开源的安卓漫画阅读器，拥有多种功能和特点，包括从多种来源在线阅读漫画，本地阅读已下载的内容，可配置的阅读器，支持多个追踪功能，分类整理图书馆，浅色和深色主题，定时更新图书馆等。"
 date: "2024-01-17T23:35:33.513Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e6f172293c88efe6cfb07a6820c5df3a.png"
+image: "https://static.osguider.com/history/osguider/e6f172293c88efe6cfb07a6820c5df3a.png"
 tags: []
 categories:
   - "daily"

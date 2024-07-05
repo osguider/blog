@@ -2,7 +2,7 @@
 title: "开源知识管理和协作平台：插件丰富，主题精美 | 开源日报 No.209"
 description: "logseq 是一个注重隐私的开源平台，提供强大的知识管理和协作工具，支持多种文件格式，包括 Markdown 和 Org-mode，拥有 Whiteboard 功能和丰富的插件生态系统，可在移动设备上使用。是一个功能强大且多样化的知识管理工具，适合有协作需求的用户使用。"
 date: "2024-03-09T23:35:30.786Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/751d293d940e7d08a4049e6004a91e52.png"
+image: "https://static.osguider.com/history/osguider/751d293d940e7d08a4049e6004a91e52.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/Lightning-AI/pytorch-lightning" alt="Github Repo Stars" >}} {{< shields path="github/license/Lightning-AI/pytorch-lightning" alt="License: " >}} {{< shields path="github/languages/top/Lightning-AI/pytorch-lightning" alt="Language: " >}}
 
-![demo-picture-of-pytorch-lightning](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/abae5f01bc5637bebb63b3c261cc7ca7.png)
+![demo-picture-of-pytorch-lightning](https://static.osguider.com/history/2024/abae5f01bc5637bebb63b3c261cc7ca7.png)
 
 pytorch-lightning 是一个深度学习框架，可以在多个 GPU、TPU 上进行预训练、微调和部署 AI 模型，而无需进行任何代码更改。
 
@@ -66,7 +66,7 @@ logseq 是一个注重隐私的开源平台，用于知识管理和协作。
 
 {{< shields path="github/stars/Tohrusky/Final2x" alt="Github Repo Stars" >}} {{< shields path="github/license/Tohrusky/Final2x" alt="License: " >}} {{< shields path="github/languages/top/Tohrusky/Final2x" alt="Language: " >}}
 
-![demo-picture-of-Final2x](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/22a158c552d72211700fa536038b5c0c.png)
+![demo-picture-of-Final2x](https://static.osguider.com/history/2023/22a158c552d72211700fa536038b5c0c.png)
 
 Final2x 是一个强大的工具，可以使用多个模型对图像进行超分辨率处理，将其分辨率和质量提高到任意大小。它支持 RealCUGAN、RealESRGAN、Waifu2x 和 SRMD 等几种模型，并且可在 Windows x64/arm64、MacOS x64/arm64 和 Linux x64 上运行。
 

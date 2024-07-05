@@ -2,7 +2,7 @@
 title: "AI 模型训练与优化：提升中文理解能力 | 开源专题 No.88"
 description: "100-Days-Of-ML-Code、LocalAI、Chinese-LLaMA-Alpaca、llama2.c、Llama-Chinese 等项目涵盖了机器学习、自然语言处理等领域的开源项目。这些项目提供了丰富的功能和优势，包括数据处理、模型训练、部署等，助力开发者学习和应用相关技术。"
 date: "2024-06-05T23:35:10.077Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bc28191ec4345e7e8a07c05c9a1d63c5.png"
+image: "https://static.osguider.com/history/osguider/bc28191ec4345e7e8a07c05c9a1d63c5.png"
 tags: []
 categories:
   - "topic"

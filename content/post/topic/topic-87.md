@@ -2,7 +2,7 @@
 title: "数字隐私全面守护：清单在手，安全无忧 | 开源专题 No.87"
 description: "在这个数字时代，保护我们的个人信息和网络安全比以往任何时候都更加重要。让我们通过这些开源项目，学习如何更聪明地保护自己，从漏洞检测到安全编码，从个人安全清单到电话信息收集，每一个工具都是我们数字安全之路上的坚实盾牌。"
 date: "2024-06-03T23:35:41.244Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f71b4b92efa1ecce1e50002bfbff1f70.png"
+image: "https://static.osguider.com/history/osguider/f71b4b92efa1ecce1e50002bfbff1f70.png"
 tags: []
 categories:
   - "topic"
@@ -46,7 +46,7 @@ lynis 可以帮助系统管理员、审核员、安全官员等用户评估其�
 
 {{< shields path="github/stars/Lissy93/personal-security-checklist" alt="Github Repo Stars" >}} {{< shields path="github/license/Lissy93/personal-security-checklist" alt="License: " >}} {{< shields path="github/languages/top/Lissy93/personal-security-checklist" alt="Language: " >}}
 
-![demo-picture-of-personal-security-checklist](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/cee53dae7e237cf0ee1d5978544be5a7.png)
+![demo-picture-of-personal-security-checklist](https://static.osguider.com/history/2024/cee53dae7e237cf0ee1d5978544be5a7.png)
 
 personal-security-checklist 是一个包含 300 多条关于在 2024 年保护数字安全和隐私的编译清单。
 
@@ -59,7 +59,7 @@ personal-security-checklist 是一个包含 300 多条关于在 2024 年保护�
 
 {{< shields path="github/stars/sundowndev/phoneinfoga" alt="Github Repo Stars" >}} {{< shields path="github/license/sundowndev/phoneinfoga" alt="License: " >}} {{< shields path="github/languages/top/sundowndev/phoneinfoga" alt="Language: " >}}
 
-![demo-picture-of-phoneinfoga](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/238e8e4837f481af5bd6f30cb412e17c.png)
+![demo-picture-of-phoneinfoga](https://static.osguider.com/history/2023/238e8e4837f481af5bd6f30cb412e17c.png)
 
 PhoneInfoga 是一个用于扫描国际电话号码的信息收集框架，它允许用户首先收集基本信息 (如国家、地区、运营商和线路类型)，然后使用各种技术来尝试找到 VoIP 提供商或识别所有者。该工具与一系列必须配置的扫描器配合使用，以便发挥其效力。PhoneInfoga 并不自动化所有操作，而只是帮助调查电话号码。
 

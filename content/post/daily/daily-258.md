@@ -2,7 +2,7 @@
 title: "把小爱音箱接入大语言模型：打造你的语音助手 | 开源日报 No.258"
 description: "xiaogpt 是一个可以在小米 AI 音箱上运行 ChatGPT 和其他 LLM 的项目。"
 date: "2024-05-09T23:35:55.126Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c8bdae49ba67877cf3dea4dc7837dc82.png"
+image: "https://static.osguider.com/history/osguider/c8bdae49ba67877cf3dea4dc7837dc82.png"
 tags: []
 categories:
   - "daily"

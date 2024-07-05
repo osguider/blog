@@ -3,7 +3,7 @@ title: "Swift 语言：现代高性能系统编程
  | 开源日报 No.292"
 description: "探索 Swift，一门高性能的系统编程语言，以其现代清晰的语法和无缝访问现有代码的特性脱颖而出。默认内存安全，提供丰富的核心功能和高级构造体，如对象、闭包和泛型，助您轻松构建模块化应用，摆脱繁琐的代码重复。"
 date: "2024-07-04T23:35:42.147Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9614da2602f0ed3ac1e0507dd7bd0dcd.png"
+image: "https://static.osguider.com/history/osguider/9614da2602f0ed3ac1e0507dd7bd0dcd.png"
 tags: []
 categories:
   - "daily"

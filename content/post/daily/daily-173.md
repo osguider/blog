@@ -2,7 +2,7 @@
 title: "Netdata：实时高分辨率监控工具 | 开源日报 No.173"
 description: "Netdata 是一个功能强大的监控工具，可以实时高分辨率地监视服务器、容器和应用程序。它可以收集来自 800 多个整合方案的指标，包括操作系统指标、容器指标、虚拟机和硬件传感器等。Netdata 具有实时低延迟高分辨率的数据展示功能，可以每秒收集一次指标，并立即显示在仪表盘上。它还具有无人值守的异常检测功能，可以根据过去的行为检测异常情况。Netdata 还具有强大的可视化能力，可以清晰精确地展示数据，无需学习查询语言。此外，它还提供了数百种开箱即用的警报功能，可以发现常见问题并提醒用户关注。Netdata 还具有低维护成本，可以自动完成任务，包括自动生成仪表盘、设置预置警报规则等。"
 date: "2024-02-05T23:35:20.940Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/de11a67a6bfd7fa52be7b58fb5ff03ba.png"
+image: "https://static.osguider.com/history/osguider/de11a67a6bfd7fa52be7b58fb5ff03ba.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/DioxusLabs/dioxus" alt="Github Repo Stars" >}} {{< shields path="github/license/DioxusLabs/dioxus" alt="License: " >}} {{< shields path="github/languages/top/DioxusLabs/dioxus" alt="Language: " >}}
 
-![demo-picture-of-dioxus](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/827fe32f33249983e4ecf6182d4dd0f9.png)
+![demo-picture-of-dioxus](https://static.osguider.com/history/2023/827fe32f33249983e4ecf6182d4dd0f9.png)
 
 Dioxus 是一个便携、高性能且符合人体工程学的框架，用于在 Rust 中构建跨平台用户界面。它可以用于交付 Web 应用程序、桌面应用程序、静态站点、移动应用程序、TUI (文本用户界面) 应用程序和 Liveview 应用程序。 Dioxus 完全与渲染器无关，并可作为任何渲染器的平台使用。
 
@@ -51,7 +51,7 @@ Text Generation Inference 是一个用于文本生成推理的 Rust、Python 和
 
 {{< shields path="github/stars/netdata/netdata" alt="Github Repo Stars" >}} {{< shields path="github/license/netdata/netdata" alt="License: " >}} {{< shields path="github/languages/top/netdata/netdata" alt="Language: " >}}
 
-![demo-picture-of-netdata](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c13e8da906da96374e8e9a23998e55c8.png)
+![demo-picture-of-netdata](https://static.osguider.com/history/2023/c13e8da906da96374e8e9a23998e55c8.png)
 
 Netdata 是一个监控工具，可以实时高分辨率地监视服务器、容器和应用程序。
 
@@ -68,7 +68,7 @@ Netdata 是一个监控工具，可以实时高分辨率地监视服务器、容
 
 {{< shields path="github/stars/FlagAI-Open/FlagAI" alt="Github Repo Stars" >}} {{< shields path="github/license/FlagAI-Open/FlagAI" alt="License: " >}} {{< shields path="github/languages/top/FlagAI-Open/FlagAI" alt="Language: " >}}
 
-![demo-picture-of-FlagAI](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d62045cec740d366009d0bbbac90dc10.png)
+![demo-picture-of-FlagAI](https://static.osguider.com/history/osguider/d62045cec740d366009d0bbbac90dc10.png)
 
 FlagAI 是一个快速、易于使用和可扩展的大规模模型工具包，旨在支持多模态下游任务上大规模模型的训练、微调和部署。其主要功能包括：
 
@@ -82,7 +82,7 @@ FlagAI 还提供了各种 toolkits 以及 pre-trained models 用来加速生成�
 
 {{< shields path="github/stars/gventuri/pandas-ai" alt="Github Repo Stars" >}} {{< shields path="github/license/gventuri/pandas-ai" alt="License: " >}} {{< shields path="github/languages/top/gventuri/pandas-ai" alt="Language: " >}}
 
-![demo-picture-of-pandas-ai](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/71294e54473e3797005243a26f634031.png)
+![demo-picture-of-pandas-ai](https://static.osguider.com/history/osguider/71294e54473e3797005243a26f634031.png)
 
 PandasAI 是一个 Python 库，为流行的数据分析和操作工具 pandas 添加了生成式人工智能功能。它旨在与 pandas 一起使用，并不替代它。
 

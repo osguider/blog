@@ -2,7 +2,7 @@
 title: "开源工具在手：安全问题不愁 | 开源专题 No.68"
 description: "网络安全的神秘世界等你来探索！从 API 密钥管理到云基础设施检测，这里有各种开源项目，助你打造坚固的网络防线！"
 date: "2024-04-21T23:35:51.366Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4ef8ade1ed3a298d20f885b529e99856.png"
+image: "https://static.osguider.com/history/osguider/4ef8ade1ed3a298d20f885b529e99856.png"
 tags: []
 categories:
   - "topic"
@@ -25,7 +25,7 @@ Unkey 是一个开源的 API 密钥管理工具，主要功能包括帮助用户
 
 {{< shields path="github/stars/Orange-Cyberdefense/GOAD" alt="Github Repo Stars" >}} {{< shields path="github/license/Orange-Cyberdefense/GOAD" alt="License: " >}} {{< shields path="github/languages/top/Orange-Cyberdefense/GOAD" alt="Language: " >}}
 
-![demo-picture-of-GOAD](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/8a5f03c7ab5dce088944755529ec0ca2.png)
+![demo-picture-of-GOAD](https://static.osguider.com/history/2023/8a5f03c7ab5dce088944755529ec0ca2.png)
 
 GOAD 是一个渗透测试的试验场项目。该实验室旨在为渗透测试人员提供一个易受攻击的 Active Directory 环境，以便他们练习常见的攻击技术。该项目具有以下主要功能和核心优势：
 
@@ -49,7 +49,7 @@ GOAD 是一个渗透测试的试验场项目。该实验室旨在为渗透测试
 
 {{< shields path="github/stars/aquasecurity/cloudsploit" alt="Github Repo Stars" >}} {{< shields path="github/license/aquasecurity/cloudsploit" alt="License: " >}} {{< shields path="github/languages/top/aquasecurity/cloudsploit" alt="Language: " >}}
 
-![demo-picture-of-cloudsploit](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/929ff710926f30f7bd6579cdab36dc60.png)
+![demo-picture-of-cloudsploit](https://static.osguider.com/history/2023/929ff710926f30f7bd6579cdab36dc60.png)
 
 CloudSploit 是一个开源项目，旨在帮助用户检测云基础设施账户中的安全风险。它支持多个主流云平台 (包括 AWS、Azure、GCP 和 Oracle OCI) 以及 GitHub，并提供一系列潜在配置错误和安全风险。
 

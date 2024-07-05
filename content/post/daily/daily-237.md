@@ -2,7 +2,7 @@
 title: "基础商务原语：构建数字商务 | 开源日报 No.237"
 description: "探索 medusa，数字商务的构建模块，让您轻松构建丰富、可靠、高性能的商务应用，无需重新发明核心商务逻辑。定制化用于构建高级电子商店、市场，或任何需要商务原语的产品。所有模块均开源且在 npm 上免费提供，让您的商务应用更高效、更具竞争力。"
 date: "2024-04-07T23:35:39.120Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a232a9fcdf819729b2663db198476281.png"
+image: "https://static.osguider.com/history/osguider/a232a9fcdf819729b2663db198476281.png"
 tags: []
 categories:
   - "daily"
@@ -67,7 +67,7 @@ hyper 是一个用于 Rust 的 HTTP 库。
 
 {{< shields path="github/stars/UFund-Me/Qbot" alt="Github Repo Stars" >}} {{< shields path="github/license/UFund-Me/Qbot" alt="License: " >}} {{< shields path="github/languages/top/UFund-Me/Qbot" alt="Language: " >}}
 
-![demo-picture-of-Qbot](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/edf4b77f598b01a38609f74e43c586c8.gif)
+![demo-picture-of-Qbot](https://static.osguider.com/history/2024/edf4b77f598b01a38609f74e43c586c8.gif)
 
 Qbot 是一个 AI 自动量化交易机器人平台，赋能 AI 技术于量化投资领域。
 

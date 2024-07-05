@@ -2,7 +2,7 @@
 title: "多语言支持 SDK：轻松集成 LLMs 到应用程序 | 开源日报 No.261"
 description: "semantic-kernel 是一个集成了最新的 LLM 技术与传统编程语言的 SDK。它不仅能够让你轻松地将人工智能技术整合到你的应用程序中，还支持多种流行的编程语言，包括 C#、Python 和 Java。"
 date: "2024-05-15T23:36:01.633Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/449048c96b0867cd10ee82f819f0a828.png"
+image: "https://static.osguider.com/history/osguider/449048c96b0867cd10ee82f819f0a828.png"
 tags: []
 categories:
   - "daily"
@@ -26,7 +26,7 @@ rust-clippy 是用来捕捉常见错误并改进你的 Rust 代码的一组代�
 
 {{< shields path="github/stars/Deeptrain-Community/chatnio" alt="Github Repo Stars" >}} {{< shields path="github/license/Deeptrain-Community/chatnio" alt="License: " >}} {{< shields path="github/languages/top/Deeptrain-Community/chatnio" alt="Language: " >}}
 
-![demo-picture-of-chatnio](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/d9e8e318f7a512517fc82afc023e58a5.png)
+![demo-picture-of-chatnio](https://static.osguider.com/history/2024/d9e8e318f7a512517fc82afc023e58a5.png)
 
 chatnio 是一站式 AI 解决方案，支持多种模型和功能。
 
@@ -66,7 +66,7 @@ InstantID 是一种在几秒钟内实现身份保留的图像生成解决方案�
 
 {{< shields path="github/stars/microsoft/semantic-kernel" alt="Github Repo Stars" >}} {{< shields path="github/license/microsoft/semantic-kernel" alt="License: " >}} {{< shields path="github/languages/top/microsoft/semantic-kernel" alt="Language: " >}}
 
-![demo-picture-of-semantic-kernel](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e385fd5d96a38d15d87a9397523fccab.gif)
+![demo-picture-of-semantic-kernel](https://static.osguider.com/history/osguider/e385fd5d96a38d15d87a9397523fccab.gif)
 
 semantic-kernel 是一个集成了最新的 LLM 技术（如 OpenAI、Azure OpenAI 和 Hugging Face）与传统编程语言（如 C＃、Python 和 Java）的 SDK。
 该项目主要功能、关键特性和核心优势包括：

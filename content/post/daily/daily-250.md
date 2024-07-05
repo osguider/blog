@@ -2,7 +2,7 @@
 title: "高性能运营级流媒体服务框架：支持多协议互转 | 开源日报 No.250"
 description: "ZLMediaKit 是一个基于 C++11 的高性能运营级流媒体服务框架。"
 date: "2024-04-25T23:35:08.160Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b69b886be2823e1fb7b731065af616c3.png"
+image: "https://static.osguider.com/history/osguider/b69b886be2823e1fb7b731065af616c3.png"
 tags: []
 categories:
   - "daily"
@@ -26,7 +26,7 @@ ZLMediaKit 是一个基于 C++11 的高性能运营级流媒体服务框架。
 
 {{< shields path="github/stars/jrouwe/JoltPhysics" alt="Github Repo Stars" >}} {{< shields path="github/license/jrouwe/JoltPhysics" alt="License: " >}} {{< shields path="github/languages/top/jrouwe/JoltPhysics" alt="Language: " >}}
 
-![demo-picture-of-JoltPhysics](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/5801f5ed7f36d22f2e74c44385d0ce8b.png)
+![demo-picture-of-JoltPhysics](https://static.osguider.com/history/2024/5801f5ed7f36d22f2e74c44385d0ce8b.png)
 
 JoltPhysics 是一个多核友好的刚体物理和碰撞检测库，用 C++ 编写，适用于游戏和虚拟现实应用程序。
 
@@ -53,7 +53,7 @@ AniPortrait 是一个通过音频驱动合成逼真肖像动画的开源项目�
 
 {{< shields path="github/stars/heyxyz/hey" alt="Github Repo Stars" >}} {{< shields path="github/license/heyxyz/hey" alt="License: " >}} {{< shields path="github/languages/top/heyxyz/hey" alt="Language: " >}}
 
-![demo-picture-of-hey](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/693fe3b4c15a389ebe6bacb452247a28.png)
+![demo-picture-of-hey](https://static.osguider.com/history/2024/693fe3b4c15a389ebe6bacb452247a28.png)
 
 hey 是使用 Lens Protocol 构建的去中心化和无需许可的社交媒体应用程序。
 该项目可以创建一个去中心化和无需许可的平台，使用户可以相互交流、分享和参与，并专注于隐私、安全性和用户控制。

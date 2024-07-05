@@ -2,7 +2,7 @@
 title: "Node.js 最佳实践：改善你的应用程序设计 | 开源日报 No.191"
 description: "《Node.js Best Practices》是一个关于 Node.js 最佳实践的开源项目，汇总了 80 多个最佳实践、样式指南和架构技巧。这个项目提供了大量有用的文章，每周都有更新。每个条目都提供了详细的阅读链接，包括代码示例和引用。这些文档是由经验丰富的开发者撰写，与全球各地的团队合作进行工作坊和代码审查。遵循这些最佳实践，您可以改善您在使用 Node.js 时的应用程序和系统设计。"
 date: "2024-02-20T23:35:26.064Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/dadf6af0c0d75be7a80c7109e3f748b9.png"
+image: "https://static.osguider.com/history/osguider/dadf6af0c0d75be7a80c7109e3f748b9.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/bensadeh/tailspin" alt="Github Repo Stars" >}} {{< shields path="github/license/bensadeh/tailspin" alt="License: " >}} {{< shields path="github/languages/top/bensadeh/tailspin" alt="Language: " >}}
 
-![demo-picture-of-tailspin](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/9b0ea9ae3313078e7a2c6ff2ae71aac5.png)
+![demo-picture-of-tailspin](https://static.osguider.com/history/2023/9b0ea9ae3313078e7a2c6ff2ae71aac5.png)
 
 这个项目是一个日志文件高亮工具。
 
@@ -29,7 +29,7 @@ categories:
 
 {{< shields path="github/stars/goldbergyoni/nodebestpractices" alt="Github Repo Stars" >}} {{< shields path="github/license/goldbergyoni/nodebestpractices" alt="License: " >}} {{< shields path="github/languages/top/goldbergyoni/nodebestpractices" alt="Language: " >}}
 
-![demo-picture-of-nodebestpractices](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/66ddf31be6209c13161a14e3319b86da.png)
+![demo-picture-of-nodebestpractices](https://static.osguider.com/history/2023/66ddf31be6209c13161a14e3319b86da.png)
 
 Node.js Best Practices 是一个关于 Node.js 最佳实践的开源项目。该项目汇总了许多顶级内容，包括 80 多个最佳实践、样式指南和架构技巧。以下是该项目的核心优势和主要功能：
 
@@ -72,7 +72,7 @@ Infinity For Reddit 是一个用 Java 编写的 Android 上的 Reddit 客户端�
 
 {{< shields path="github/stars/actualbudget/actual" alt="Github Repo Stars" >}} {{< shields path="github/license/actualbudget/actual" alt="License: " >}} {{< shields path="github/languages/top/actualbudget/actual" alt="Language: " >}}
 
-![demo-picture-of-actual](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/26180e1447c1b59648f79033f8402849.png)
+![demo-picture-of-actual](https://static.osguider.com/history/2023/26180e1447c1b59648f79033f8402849.png)
 
 Actual 是一个本地优先的个人财务工具，它是 100% 免费和开源的。该项目使用 NodeJS 编写，并且有同步功能，可以在设备之间传输所有更改而不需要任何繁重操作。
 

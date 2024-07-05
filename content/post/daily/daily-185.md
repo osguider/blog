@@ -2,7 +2,7 @@
 title: "绕过付费，畅享网络：自由浏览付费内容 | 开源日报 No.185"
 description: "bypass-paywalls-chrome 是一个用于 Chrome 和 Firefox 的网页浏览器扩展，可帮助绕过特定网站的付费墙。"
 date: "2024-02-14T23:35:22.706Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1ee7dcfa5008b7ce1090aeb8db0ad23d.png"
+image: "https://static.osguider.com/history/osguider/1ee7dcfa5008b7ce1090aeb8db0ad23d.png"
 tags: []
 categories:
   - "daily"
@@ -24,7 +24,7 @@ Synapse Machine Learning
 
 {{< shields path="github/stars/Visualize-ML/Book3_Elements-of-Mathematics" alt="Github Repo Stars" >}} {{< shields path="github/license/Visualize-ML/Book3_Elements-of-Mathematics" alt="License: " >}} {{< shields path="github/languages/top/Visualize-ML/Book3_Elements-of-Mathematics" alt="Language: " >}}
 
-![demo-picture-of-Book3_Elements-of-Mathematics](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/82135a1776da83f06457a6128c8cbca3.png)
+![demo-picture-of-Book3_Elements-of-Mathematics](https://static.osguider.com/history/2023/82135a1776da83f06457a6128c8cbca3.png)
 
 开源机器学习书籍——鸢尾花书：从加减乘除到机器学习系列 3：《数学要素》
   
@@ -32,7 +32,7 @@ Synapse Machine Learning
 
 {{< shields path="github/stars/tinygrad/tinygrad" alt="Github Repo Stars" >}} {{< shields path="github/license/tinygrad/tinygrad" alt="License: " >}} {{< shields path="github/languages/top/tinygrad/tinygrad" alt="Language: " >}}
 
-![demo-picture-of-tinygrad](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/5559d621c2f61ed9c55e2921b6db8950.png)
+![demo-picture-of-tinygrad](https://static.osguider.com/history/2023/5559d621c2f61ed9c55e2921b6db8950.png)
 
 tinygrad 是一个介于 PyTorch 和 karpathy/micrograd 之间的深度学习框架。尽管它可能不是最好的深度学习框架，但由于简单易懂的特点，它旨在成为添加新加速器最容易且支持推理和训练功能的框架。如果说 XLA 是 CISC，则 tinygrad 就是 RISC。
 
@@ -73,7 +73,7 @@ bypass-paywalls-chrome 是一个用于 Chrome 和 Firefox 的网页浏览器扩�
 
 {{< shields path="github/stars/blakeblackshear/frigate" alt="Github Repo Stars" >}} {{< shields path="github/license/blakeblackshear/frigate" alt="License: " >}} {{< shields path="github/languages/top/blakeblackshear/frigate" alt="Language: " >}}
 
-![demo-picture-of-frigate](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/e2d6c9b030c505fbd3da612c5fb94d53.png)
+![demo-picture-of-frigate](https://static.osguider.com/history/2023/e2d6c9b030c505fbd3da612c5fb94d53.png)
 
 Frigate 是一个完整的本地 NVR，专为 Home Assistant 设计，并配备 AI 对象检测功能。它使用 OpenCV 和 TensorFlow 在 IP 摄像头上进行实时对象检测。
 

@@ -2,7 +2,7 @@
 title: "快速启动和运行大语言模型：提供简单的 API 创建和管理模型 | 开源日报 No.280"
 description: "ollama 是一个快速启动和运行多种大型语言模型的工具，提供简单的 API 用于创建和管理模型，可以自定义和定制预置模型，同时支持在本地机器上构建和运行语言模型。"
 date: "2024-06-16T23:36:00.190Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3dd87242377d41767ad2309dd76716ff.png"
+image: "https://static.osguider.com/history/osguider/3dd87242377d41767ad2309dd76716ff.png"
 tags: []
 categories:
   - "daily"

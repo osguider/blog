@@ -2,7 +2,7 @@
 title: "自行托管的开源产品分析平台：会话录制、功能标志、A/B测试 | 开源日报 No.288"
 description: "PostHog 是一个功能强大的开源平台，提供了丰富的功能和工具，帮助用户分析产品、录制会话、进行功能标志和 A/B 测试。用户可以自行托管，具有完全的控制权。PostHog 的主要功能包括事件驱动的分析、用户和群组追踪、可视化数据展示、会话重放和网络监控、热图显示点击位置和行为可视化等工具。此外，PostHog 还提供功能标志管理、A/B 测试、相关性分析和用户调查等功能，帮助用户更好地了解产品的成功和失败。PostHog 还支持数据导入导出，提供各种语言库，与数据仓库完美配合。如果您正在寻找一个全面的开源产品分析平台，PostHog 绝对是您的终极选择。"
 date: "2024-06-29T23:35:09.107Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/923582b47e1b9def4eb7d23ffc942d61.png"
+image: "https://static.osguider.com/history/osguider/923582b47e1b9def4eb7d23ffc942d61.png"
 tags: []
 categories:
   - "daily"

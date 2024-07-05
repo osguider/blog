@@ -2,7 +2,7 @@
 title: "开源 UI 组件库：实现高性能界面设计 | 开源专题 No.65"
 description: "这些开源项目提供了丰富的功能，涵盖多种平台，具有简洁漂亮的设计、高度可定制性和高性能等优势，能满足不同用户的需求，让你的项目更具魅力。"
 date: "2024-04-15T23:35:21.711Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/549a9d50fc7b65c042f93de965b0a012.png"
+image: "https://static.osguider.com/history/osguider/549a9d50fc7b65c042f93de965b0a012.png"
 tags: []
 categories:
   - "topic"
@@ -38,7 +38,7 @@ Floem 是一个使用 Rust 编写的本地 UI 库，具有细粒度的反应性�
 
 {{< shields path="github/stars/chartjs/Chart.js" alt="Github Repo Stars" >}} {{< shields path="github/license/chartjs/Chart.js" alt="License: " >}} {{< shields path="github/languages/top/chartjs/Chart.js" alt="Language: " >}}
 
-![demo-picture-of-Chart.js](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/943ae7e68ddd1ab40aec5fa3b8659bf1.png)
+![demo-picture-of-Chart.js](https://static.osguider.com/history/2023/943ae7e68ddd1ab40aec5fa3b8659bf1.png)
 
 Chart.js 是一个简单而灵活的 JavaScript 图表库，适用于设计师和开发者。
 
@@ -51,7 +51,7 @@ Chart.js 是一个简单而灵活的 JavaScript 图表库，适用于设计师�
 
 {{< shields path="github/stars/nextui-org/nextui" alt="Github Repo Stars" >}} {{< shields path="github/license/nextui-org/nextui" alt="License: " >}} {{< shields path="github/languages/top/nextui-org/nextui" alt="Language: " >}}
 
-![demo-picture-of-nextui](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/5417682958bd661eb416e9ce99648754.png)
+![demo-picture-of-nextui](https://static.osguider.com/history/2023/5417682958bd661eb416e9ce99648754.png)
 
 NextUI 是一个美观、快速和现代化的 React UI 库。
 

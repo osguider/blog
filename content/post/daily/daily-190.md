@@ -2,7 +2,7 @@
 title: "教育管理革命：一站式开源学习平台 | 开源日报 No.190"
 description: "在当今快速发展的教育领域，学生面临着管理学习资源和效率的挑战。为此，出现了一种全新的解决方案：综合性的开源教育平台。这类平台将多个必需功能集成于一处，如模块管理、笔记记录、任务安排、成绩计算等，极大地提高了学生的管理效率和学习体验。"
 date: "2024-02-19T23:35:23.956Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/651341cf9f8a93580b03c6a707be5e7a.png"
+image: "https://static.osguider.com/history/osguider/651341cf9f8a93580b03c6a707be5e7a.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/Armour/vue-typescript-admin-template" alt="Github Repo Stars" >}} {{< shields path="github/license/Armour/vue-typescript-admin-template" alt="License: " >}} {{< shields path="github/languages/top/Armour/vue-typescript-admin-template" alt="Language: " >}}
 
-![demo-picture-of-vue-typescript-admin-template](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d80091579fd2c4adf083ff37b90e4e2a.png)
+![demo-picture-of-vue-typescript-admin-template](https://static.osguider.com/history/osguider/d80091579fd2c4adf083ff37b90e4e2a.png)
 
 这个项目是一个基于 vue、typescript 和 UI 工具包 element-ui 的面向管理员界面的生产就绪前端解决方案。该项目主要功能是提供了一套可用于开发管理后台界面的模板代码，其中使用到了 vue、vuex、vue-router 等技术，并且所有请求数据都是通过 faker.js 进行模拟。以下为该项目的核心优势和关键特性：
 
@@ -24,7 +24,7 @@ categories:
 
 {{< shields path="github/stars/plotly/falcon" alt="Github Repo Stars" >}} {{< shields path="github/license/plotly/falcon" alt="License: " >}} {{< shields path="github/languages/top/plotly/falcon" alt="Language: " >}}
 
-![demo-picture-of-falcon](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/5895d5116b1e847349184d5e8e83a783.png)
+![demo-picture-of-falcon](https://static.osguider.com/history/2023/5895d5116b1e847349184d5e8e83a783.png)
 
 Falcon 是一款免费开源的 SQL 编辑器，支持内联数据可视化。
 
@@ -38,7 +38,7 @@ Falcon 是一款免费开源的 SQL 编辑器，支持内联数据可视化。
 
 {{< shields path="github/stars/noodle-run/noodle" alt="Github Repo Stars" >}} {{< shields path="github/license/noodle-run/noodle" alt="License: " >}} {{< shields path="github/languages/top/noodle-run/noodle" alt="Language: " >}}
 
-![demo-picture-of-noodle](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/312c678bb01c75d65e1723d56a1edb91.png)
+![demo-picture-of-noodle](https://static.osguider.com/history/2023/312c678bb01c75d65e1723d56a1edb91.png)
 
 Noodle 是一个开源的教育平台，旨在重新思考学生的效率问题。
 该项目具有以下核心优势和关键特性：
@@ -60,7 +60,7 @@ Noodle 的目标是通过提供一个单一平台解决此问题，并将所有�
 
 {{< shields path="github/stars/knadh/listmonk" alt="Github Repo Stars" >}} {{< shields path="github/license/knadh/listmonk" alt="License: " >}} {{< shields path="github/languages/top/knadh/listmonk" alt="Language: " >}}
 
-![demo-picture-of-listmonk](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/161b0fdc502179638037773fece2ece7.png)
+![demo-picture-of-listmonk](https://static.osguider.com/history/2023/161b0fdc502179638037773fece2ece7.png)
 
 listmonk 是一款高性能、自托管的电子邮件通讯管理器，具有现代化的仪表板。它是一个单独的二进制应用程序，使用 PostgreSQL（v9.4）作为数据存储库。该项目提供 Docker 和 Binary 两种安装方式。
 

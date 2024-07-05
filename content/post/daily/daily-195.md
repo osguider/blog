@@ -2,7 +2,7 @@
 title: "AI 赋能，第二大脑：一个开源的个人生产力助手 | 开源日报 No.195"
 description: "quivr 是一个个人生产力助手，利用生成式人工智能技术作为第二大脑。"
 date: "2024-02-24T23:35:58.138Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e4749cd016683188d4c62fbc71f53345.png"
+image: "https://static.osguider.com/history/osguider/e4749cd016683188d4c62fbc71f53345.png"
 tags: []
 categories:
   - "daily"

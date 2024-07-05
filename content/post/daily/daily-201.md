@@ -2,7 +2,7 @@
 title: "高亮页面任意元素，轻松完成用户引导 | 开源日报 No.201"
 description: "driver.js 是一个轻量级、无依赖的纯 JavaScript 引擎，用于引导用户在页面上聚焦。该项目解决了如何在网页上引导用户关注核心要素的问题。"
 date: "2024-03-01T23:35:38.091Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3c62f8926e2bf0eb4e5a98912ad88d82.png"
+image: "https://static.osguider.com/history/osguider/3c62f8926e2bf0eb4e5a98912ad88d82.png"
 tags: []
 categories:
   - "daily"
@@ -24,7 +24,7 @@ osu 是一个免费的节奏游戏，只需点击一下即可享受音乐之旅�
 
 {{< shields path="github/stars/rui314/mold" alt="Github Repo Stars" >}} {{< shields path="github/license/rui314/mold" alt="License: " >}} {{< shields path="github/languages/top/rui314/mold" alt="Language: " >}}
 
-![demo-picture-of-mold](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/62f5d64e110fb3c6a9af669ccb1357f7.png)
+![demo-picture-of-mold](https://static.osguider.com/history/osguider/62f5d64e110fb3c6a9af669ccb1357f7.png)
 
 mold 是一个快速的替代现有 Unix 链接器的工具，比 LLVM lld 链接器快几倍，并旨在通过最小化构建时间来增强开发人员的生产力，特别是在快速调试-编辑-重建周期中。其主要功能和优势包括：
 
@@ -36,7 +36,7 @@ mold 是一个快速的替代现有 Unix 链接器的工具，比 LLVM lld 链�
 
 {{< shields path="github/stars/kamranahmedse/driver.js" alt="Github Repo Stars" >}} {{< shields path="github/license/kamranahmedse/driver.js" alt="License: " >}} {{< shields path="github/languages/top/kamranahmedse/driver.js" alt="Language: " >}}
 
-![demo-picture-of-driver.js](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/75b636333fa42f12c9a93520e6cd3f3a.png)
+![demo-picture-of-driver.js](https://static.osguider.com/history/2024/75b636333fa42f12c9a93520e6cd3f3a.png)
 
 driver.js 是一个轻量级、无依赖的纯 JavaScript 引擎，用于引导用户在页面上聚焦。该项目解决了如何在网页上引导用户关注核心要素的问题。
 

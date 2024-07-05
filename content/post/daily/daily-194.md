@@ -2,7 +2,7 @@
 title: "新一代 Git 工具，AI 赋能！深度集成、简化操作 | 开源日报 No.194"
 description: "gitbutler 是一个基于 Git 的版本控制客户端。旨在为现代工作流程构建一个全新的 Git 分支管理工具。"
 date: "2024-02-23T23:36:00.113Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5310ad99558f8c23b7e1178f9d70f659.png"
+image: "https://static.osguider.com/history/osguider/5310ad99558f8c23b7e1178f9d70f659.png"
 tags: []
 categories:
   - "daily"
@@ -37,7 +37,7 @@ triton 是 Triton 语言和编译器的开发存储库。
 
 {{< shields path="github/stars/dbt-labs/dbt-core" alt="Github Repo Stars" >}} {{< shields path="github/license/dbt-labs/dbt-core" alt="License: " >}} {{< shields path="github/languages/top/dbt-labs/dbt-core" alt="Language: " >}}
 
-![demo-picture-of-dbt-core](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/9e6c808749146516aadb1bdb36122a48.png)
+![demo-picture-of-dbt-core](https://static.osguider.com/history/2024/9e6c808749146516aadb1bdb36122a48.png)
 
 dbt-core 是一个使数据分析师和工程师能够使用与软件工程师构建应用程序相同的实践来转换其数据的项目。
 
@@ -50,7 +50,7 @@ dbt-core 是一个使数据分析师和工程师能够使用与软件工程师�
 
 {{< shields path="github/stars/Lissy93/personal-security-checklist" alt="Github Repo Stars" >}} {{< shields path="github/license/Lissy93/personal-security-checklist" alt="License: " >}} {{< shields path="github/languages/top/Lissy93/personal-security-checklist" alt="Language: " >}}
 
-![demo-picture-of-personal-security-checklist](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/cee53dae7e237cf0ee1d5978544be5a7.png)
+![demo-picture-of-personal-security-checklist](https://static.osguider.com/history/2024/cee53dae7e237cf0ee1d5978544be5a7.png)
 
 personal-security-checklist 是一个包含 300 多条关于在 2024 年保护数字安全和隐私的编译清单。
 

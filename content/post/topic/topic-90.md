@@ -2,7 +2,7 @@
 title: "文本转语音技术合集：多语言支持，自然度高 | 开源专题 No.90"
 description: "探索语音合成的新边界，本文深入探讨了如何通过最新的开源技术，将冰冷的文字转化为温暖的声音，实现真正的多语言、个性化的文本到语音转换。"
 date: "2024-06-11T23:35:08.993Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/54c9f741a862915f145e1885ffce4b34.png"
+image: "https://static.osguider.com/history/osguider/54c9f741a862915f145e1885ffce4b34.png"
 tags: []
 categories:
   - "topic"

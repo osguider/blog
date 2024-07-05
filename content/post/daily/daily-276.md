@@ -2,7 +2,7 @@
 title: "基于 eBPF 的网络、安全和可观测性解决方案 | 开源日报 No.276"
 description: "cilium 是一个基于 eBPF 的网络、安全和可观测性解决方案，提供了简单的平面 Layer 3 网络，支持原生路由或覆盖模式跨多个集群，支持 L7 协议感知，并可以使用基于身份的安全模型在 L3-L7 上执行网络策略，实现了用于流量负载均衡的分布式功能，并支持高级功能如集成入口和出口网关、带宽管理和服务网格，提供深度网络和安全可见性与监控。如果你正在寻找一个高效的网络解决方案，cilium 绝对是一个值得关注的选择。"
 date: "2024-06-10T23:35:11.512Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7149240402ad19c45fa167b47a2be2a6.png"
+image: "https://static.osguider.com/history/osguider/7149240402ad19c45fa167b47a2be2a6.png"
 tags: []
 categories:
   - "daily"

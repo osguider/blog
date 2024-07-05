@@ -2,7 +2,7 @@
 title: "中文计算机自学指南：打开全栈开发之门 | 开源日报 No.161"
 description: "该项目旨在提供一本完整的计算机自学指南，帮助初学者通过优质资源快速成长为全能程序员。"
 date: "2024-01-24T14:39:39.327Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b3a94ae739db9ffb486a87782b7f8c09.png"
+image: "https://static.osguider.com/history/osguider/b3a94ae739db9ffb486a87782b7f8c09.png"
 tags: []
 categories:
   - "daily"
@@ -67,7 +67,7 @@ surya 是一个多语言文档 OCR 工具包。
 
 {{< shields path="github/stars/PKUFlyingPig/cs-self-learning" alt="Github Repo Stars" >}} {{< shields path="github/license/PKUFlyingPig/cs-self-learning" alt="License: " >}} {{< shields path="github/languages/top/PKUFlyingPig/cs-self-learning" alt="Language: " >}}
 
-![demo-picture-of-cs-self-learning](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/bfaf5924708a69cb90683918078e1e17.png)
+![demo-picture-of-cs-self-learning](https://static.osguider.com/history/2024/bfaf5924708a69cb90683918078e1e17.png)
 
 cs-self-learning 是一个计算机自学指南。
 该项目旨在提供一本完整的计算机自学指南，帮助初学者通过优质资源快速成长为全能程序员。

@@ -2,7 +2,7 @@
 title: "单目深度估计任意未标记数据：释放大规模数据潜力 | 开源日报 No.166"
 description: "Depth-Anything 是一个释放大规模未标记数据力量的项目，可以对任意未标记数据进行单目深度估计。"
 date: "2024-01-26T23:35:07.980Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ecb530c0b715c1373947d174004cbf65.png"
+image: "https://static.osguider.com/history/osguider/ecb530c0b715c1373947d174004cbf65.png"
 tags: []
 categories:
   - "daily"

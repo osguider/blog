@@ -2,7 +2,7 @@
 title: "NASA 开源！数据分析与任务控制框架 | 开源日报 No.255"
 description: "openmct 是一个基于 Web 的任务控制框架。由 NASA 的 Ames 研究中心开发，被 NASA 用于太空飞行器任务数据分析、实验漫游器系统规划和操作"
 date: "2024-05-03T23:35:15.710Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f5aa9ab59cdc59474827f0328588d537.png"
+image: "https://static.osguider.com/history/osguider/f5aa9ab59cdc59474827f0328588d537.png"
 tags: []
 categories:
   - "daily"
@@ -24,7 +24,7 @@ openmct 是一个基于 Web 的任务控制框架。
 
 {{< shields path="github/stars/recharts/recharts" alt="Github Repo Stars" >}} {{< shields path="github/license/recharts/recharts" alt="License: " >}} {{< shields path="github/languages/top/recharts/recharts" alt="Language: " >}}
 
-![demo-picture-of-recharts](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/69e5326e861313ea935b24a0216c3a17.png)
+![demo-picture-of-recharts](https://static.osguider.com/history/2024/69e5326e861313ea935b24a0216c3a17.png)
 
 recharts 是使用 React 和 D3 构建的重新定义的图表库。
 

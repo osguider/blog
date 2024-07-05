@@ -2,7 +2,7 @@
 title: "清新优雅、功能强大的后台管理模板 | 开源日报 No.238"
 description: "soybean-admin 是一个基于 Vue3、Vite5、TypeScript、Pinia、NaiveUI 和 UnoCSS 的清新优雅且功能强大的后台管理模板。"
 date: "2024-04-08T23:35:44.391Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7be0a05b445bb185a686cc9c2f086291.png"
+image: "https://static.osguider.com/history/osguider/7be0a05b445bb185a686cc9c2f086291.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/soybeanjs/soybean-admin" alt="Github Repo Stars" >}} {{< shields path="github/license/soybeanjs/soybean-admin" alt="License: " >}} {{< shields path="github/languages/top/soybeanjs/soybean-admin" alt="Language: " >}}
 
-![demo-picture-of-soybean-admin](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/07c9d3f4a281e0865c2fbec77935f0c5.png)
+![demo-picture-of-soybean-admin](https://static.osguider.com/history/2024/07c9d3f4a281e0865c2fbec77935f0c5.png)
 
 soybean-admin 是一个基于 Vue3、Vite5、TypeScript、Pinia、NaiveUI 和 UnoCSS 的清新优雅且功能强大的后台管理模板。
 
@@ -27,7 +27,7 @@ soybean-admin 是一个基于 Vue3、Vite5、TypeScript、Pinia、NaiveUI 和 Un
 
 {{< shields path="github/stars/end-4/dots-hyprland" alt="Github Repo Stars" >}} {{< shields path="github/license/end-4/dots-hyprland" alt="License: " >}} {{< shields path="github/languages/top/end-4/dots-hyprland" alt="Language: " >}}
 
-![demo-picture-of-dots-hyprland](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/d5da3e7885fc15c81984cf6f0385b302.png)
+![demo-picture-of-dots-hyprland](https://static.osguider.com/history/2024/d5da3e7885fc15c81984cf6f0385b302.png)
 
 dots-hyprland 是一个现代化、功能丰富且易于访问的桌面配置工具。
 
@@ -41,7 +41,7 @@ dots-hyprland 是一个现代化、功能丰富且易于访问的桌面配置工
 
 {{< shields path="github/stars/StevenBlack/hosts" alt="Github Repo Stars" >}} {{< shields path="github/license/StevenBlack/hosts" alt="License: " >}} {{< shields path="github/languages/top/StevenBlack/hosts" alt="Language: " >}}
 
-![demo-picture-of-hosts](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/c8280d8435b3bb9f85c707c832c1bd8f.png)
+![demo-picture-of-hosts](https://static.osguider.com/history/2024/c8280d8435b3bb9f85c707c832c1bd8f.png)
 
 hosts 是一个整合和扩展来自多个经过精心筛选的来源的 hosts 文件的项目。可选择添加 porn、社交媒体和其他类别的扩展。
 

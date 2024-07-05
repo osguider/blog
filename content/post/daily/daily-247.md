@@ -2,7 +2,7 @@
 title: "谷歌开源！用 js 编写 Shell 脚本！ | 开源日报 No.247"
 description: "《zx》是一个用于编写更好脚本的工具，拥有简化操作、转义参数、提供默认值的功能，比起 Bash 更方便，可以直接使用 npm 安装，是编写复杂脚本的好帮手。赶快尝试使用《zx》提升你的脚本编写体验吧！"
 date: "2024-04-20T23:35:51.748Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6f3912bfad945380d107a13a6cc7e633.png"
+image: "https://static.osguider.com/history/osguider/6f3912bfad945380d107a13a6cc7e633.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/google/zx" alt="Github Repo Stars" >}} {{< shields path="github/license/google/zx" alt="License: " >}} {{< shields path="github/languages/top/google/zx" alt="Language: " >}}
 
-![demo-picture-of-zx](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/600622f00da76868603cdd4bb31e4ebe.png)
+![demo-picture-of-zx](https://static.osguider.com/history/2024/600622f00da76868603cdd4bb31e4ebe.png)
 
 zx 是一个用于编写更好脚本的工具。
 

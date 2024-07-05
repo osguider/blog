@@ -2,7 +2,7 @@
 title: "Langchain-Chatchat：离线运行的大模型知识库 | 开源日报 No.182"
 description: "基于 ChatGLM 等大语言模型与 Langchain 等应用框架实现的开源、可离线部署的检索增强生成 (RAG) 大模型知识库项目。该项目是一个可以实现完全本地化推理的知识库增强方案，重点解决数据安全保护和私域化部署的企业痛点，并支持市面上主流的本地大预言模型和 Embedding 模型，无需付费使用。"
 date: "2024-02-11T23:35:15.392Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c0487ee3627aedecf4a7791d64308f79.png"
+image: "https://static.osguider.com/history/osguider/c0487ee3627aedecf4a7791d64308f79.png"
 tags: []
 categories:
   - "daily"
@@ -23,7 +23,7 @@ categories:
 
 {{< shields path="github/stars/githubnext/monaspace" alt="Github Repo Stars" >}} {{< shields path="github/license/githubnext/monaspace" alt="License: " >}} {{< shields path="github/languages/top/githubnext/monaspace" alt="Language: " >}}
 
-![demo-picture-of-monaspace](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4f202ce1acec17de1af32652dd992955.png)
+![demo-picture-of-monaspace](https://static.osguider.com/history/osguider/4f202ce1acec17de1af32652dd992955.png)
 
 Monaspace 是一个等宽字体超级家族，包含五种可变轴的字体。每一种都有独特的风格，但它们之间在度量上兼容，并且可以混合搭配使用，以获得更具表现力的排版调色板。该项目提供了静态构建和可变轴字体两个版本，并支持桌面安装、Web 字体和编辑器设置。其主要功能包括编码连字符、桌面安装指南及对不同操作系统环境下的适配性说明。
 
@@ -62,7 +62,7 @@ Floem 是一个使用 Rust 编写的本地 UI 库，具有细粒度的反应性�
 
 {{< shields path="github/stars/chatchat-space/Langchain-Chatchat" alt="Github Repo Stars" >}} {{< shields path="github/license/chatchat-space/Langchain-Chatchat" alt="License: " >}} {{< shields path="github/languages/top/chatchat-space/Langchain-Chatchat" alt="Language: " >}}
 
-![demo-picture-of-Langchain-Chatchat](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0dd4abd5cbd2a9b12c0a9e27b6cf1fa3.png)
+![demo-picture-of-Langchain-Chatchat](https://static.osguider.com/history/osguider/0dd4abd5cbd2a9b12c0a9e27b6cf1fa3.png)
 
 基于 ChatGLM 等大语言模型与 Langchain 等应用框架实现的开源、可离线部署的检索增强生成 (RAG) 大模型知识库项目。该项目是一个可以实现完全本地化推理的知识库增强方案，重点解决数据安全保护和私域化部署的企业痛点，并支持市面上主流的本地大预言模型和 Embedding 模型，无需付费使用。其核心优势包括：
 

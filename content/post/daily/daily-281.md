@@ -3,7 +3,7 @@ title: "加速 Docker 镜像下载：稳定可靠、简洁有效 | 开源日报 
 description: "public-image-mirror 是一个用于加速国外镜像下载的项目。
 该项目解决了国内下载国外镜像慢的问题。"
 date: "2024-06-18T23:35:09.035Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bd7c89c8a6c9675c84600021867c4e86.png"
+image: "https://static.osguider.com/history/osguider/bd7c89c8a6c9675c84600021867c4e86.png"
 tags: []
 categories:
   - "daily"

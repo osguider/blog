@@ -2,7 +2,7 @@
 title: "把私有数据接入 LLMs：应用程序轻松集成 | 开源日报 No.236"
 description: "llama_index 是一个用于 LLM 应用程序的数据框架，解决了如何最佳地利用私有数据增强 LLMs 的问题，并提供了数据连接器、结构化数据的方式、高级检索/查询接口以及与外部应用程序框架轻松集成的工具。这个项目为用户提供了便利，让他们可以轻松地利用各种数据源与 LLMs 结合，提高数据的利用价值，是一个值得尝试的工具。"
 date: "2024-04-06T23:35:12.883Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0f5f3b92410e3f84cfe8717202e72961.png"
+image: "https://static.osguider.com/history/osguider/0f5f3b92410e3f84cfe8717202e72961.png"
 tags: []
 categories:
   - "daily"

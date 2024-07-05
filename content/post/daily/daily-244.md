@@ -2,7 +2,7 @@
 title: "具有主观意见的代码格式化工具：风格一致，多语言支持 | 开源日报 No.244"
 description: "Prettier，让代码格式化更简单高效！无论是 JavaScript、TypeScript、CSS、HTML，甚至是 GraphQL、Markdown，Prettier 都能轻松搞定，让代码风格保持一致，让开发更高效！快来试试吧！"
 date: "2024-04-15T23:35:21.705Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/85f2bc891f1d206bc61557400f8b814c.png"
+image: "https://static.osguider.com/history/osguider/85f2bc891f1d206bc61557400f8b814c.png"
 tags: []
 categories:
   - "daily"
@@ -24,7 +24,7 @@ istio 是一个开源服务网格，可以透明地覆盖现有的分布式应�
 
 {{< shields path="github/stars/CorentinTh/it-tools" alt="Github Repo Stars" >}} {{< shields path="github/license/CorentinTh/it-tools" alt="License: " >}} {{< shields path="github/languages/top/CorentinTh/it-tools" alt="Language: " >}}
 
-![demo-picture-of-it-tools](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/032a0b7f6520ef5d6e2a64b56659f5a2.png)
+![demo-picture-of-it-tools](https://static.osguider.com/history/osguider/032a0b7f6520ef5d6e2a64b56659f5a2.png)
 
 这个项目是一个为开发人员和 IT 从业者提供有用工具的开源项目。
 

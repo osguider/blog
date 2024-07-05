@@ -2,7 +2,7 @@
 title: "多功能搜索引擎，50ms 内展现结果！ | 开源日报 No.155"
 description: "meilisearch 是一个快速的搜索 API，可以轻松地集成到您的应用程序、网站和工作流程中。它具有搜索即时响应、容错纠错、过滤和分面搜索、排序、同义词支持、地理位置检索、多语言支持、安全管理、多租户性能、高度可定制化等特点。它还提供 RESTful API，可以轻松地集成到其他系统中。安装、部署和维护都非常简单。"
 date: "2024-01-15T23:35:21.817Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/26d9813a842c6ee5beee030716730c28.png"
+image: "https://static.osguider.com/history/osguider/26d9813a842c6ee5beee030716730c28.png"
 tags: []
 categories:
   - "daily"
@@ -73,7 +73,7 @@ gorse 是一个用 Go 语言编写的开源推荐系统引擎。
 
 {{< shields path="github/stars/Kanaries/pygwalker" alt="Github Repo Stars" >}} {{< shields path="github/license/Kanaries/pygwalker" alt="License: " >}} {{< shields path="github/languages/top/Kanaries/pygwalker" alt="Language: " >}}
 
-![demo-picture-of-pygwalker](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fc84cd18c4552f0083b524e2af807430.png)
+![demo-picture-of-pygwalker](https://static.osguider.com/history/osguider/fc84cd18c4552f0083b524e2af807430.png)
 
 pygwalker 是一个将 pandas 数据框转换为交互式 UI 进行可视化分析的 Python 库。
 

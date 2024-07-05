@@ -2,7 +2,7 @@
 title: "通过 USB 或网络控制安卓设备：无需 root 权限 | 开源日报 No.231"
 description: "QtScrcpy 是一款支持通过 USB 或网络显示和控制 Android 设备的实时显示控制软件，不需要 root 权限。"
 date: "2024-04-01T23:35:40.329Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/617e601a1a4bc36d5b3058699476768b.png"
+image: "https://static.osguider.com/history/osguider/617e601a1a4bc36d5b3058699476768b.png"
 tags: []
 categories:
   - "daily"
@@ -72,7 +72,7 @@ reference 是为开发人员分享快速参考备忘清单(速查表)的项目�
 
 {{< shields path="github/stars/barry-ran/QtScrcpy" alt="Github Repo Stars" >}} {{< shields path="github/license/barry-ran/QtScrcpy" alt="License: " >}} {{< shields path="github/languages/top/barry-ran/QtScrcpy" alt="Language: " >}}
 
-![demo-picture-of-QtScrcpy](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/97981ff4c43b22cb531da08a9834577b.png)
+![demo-picture-of-QtScrcpy](https://static.osguider.com/history/2024/97981ff4c43b22cb531da08a9834577b.png)
 
 QtScrcpy 是一款支持通过 USB 或网络显示和控制 Android 设备的实时显示控制软件，不需要 root 权限。
 其主要功能和优势包括：

@@ -2,7 +2,7 @@
 title: "React 组件库：开发者效率加速器 | 开源日报 No.279"
 description: "探索一下 mantine 吧！这个完整的 React 组件库拥有 100 多个核心组件，涵盖表单管理、图表、通知系统等功能模块，还整合了 50 多个针对状态和 UI 管理的 hooks。拥有友好的社区支持和贡献者计划，让你的 React 开发更加高效和便捷！"
 date: "2024-06-15T23:35:53.450Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/44c7d6e62fd6dd05e5b2c83d3251386e.png"
+image: "https://static.osguider.com/history/osguider/44c7d6e62fd6dd05e5b2c83d3251386e.png"
 tags: []
 categories:
   - "daily"
@@ -70,7 +70,7 @@ oblivion-desktop 是一个非官方的 Oblivion 桌面版本。
 
 {{< shields path="github/stars/mantinedev/mantine" alt="Github Repo Stars" >}} {{< shields path="github/license/mantinedev/mantine" alt="License: " >}} {{< shields path="github/languages/top/mantinedev/mantine" alt="Language: " >}}
 
-![demo-picture-of-mantine](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/2cee8cc8c53a948fcd4b1a27b5908575.png)
+![demo-picture-of-mantine](https://static.osguider.com/history/2024/2cee8cc8c53a948fcd4b1a27b5908575.png)
 
 mantine 是一个完整的 React 组件库。
 

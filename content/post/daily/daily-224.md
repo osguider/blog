@@ -2,7 +2,7 @@
 title: "借助 AI 对话文档：100% 私密且无数据泄漏 | 开源日报 No.224"
 description: "PrivateGPT 是一个与文档进行交互的项目，利用 GPT 的强大功能，100%私密且无数据泄漏。它提供 API 支持构建私密、上下文感知的 AI 应用程序，遵循和扩展 OpenAI API 标准，支持普通和流式响应。项目分为高级 API 和低级 API 两个逻辑块，分别提供 RAG 管道实现抽象化以及允许高级用户实现自己复杂管道等功能。此外，PrivateGPT 还提供 Gradio UI 客户端来测试 API，并附带一系列有用工具，如批量模型下载脚本、摄取脚本等。"
 date: "2024-03-24T23:35:38.870Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bc50ba52e1aa1292dd424c0cede84532.png"
+image: "https://static.osguider.com/history/osguider/bc50ba52e1aa1292dd424c0cede84532.png"
 tags: []
 categories:
   - "daily"

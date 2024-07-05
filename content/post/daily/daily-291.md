@@ -2,7 +2,7 @@
 title: "开源版 Sora：AI 视频生成的高性能实现 | 开源日报 No.291"
 description: "Open-Sora 是一个开源项目，它提供了类似于 OpenAI 的 Sora 的视频生成模型的高性能实现。该项目的主要功能和核心优势包括提供完整的 Sora 复制架构解决方案，支持动态分辨率，支持多种模型结构选择，支持多种视频压缩方法选择，支持多种并行训练优化方式。它还兼容 Colossal-AI 的 AI 大规模系统优化能力以及与 Ulysses 和 FastSeq 结合的混合序列并行性。如果你对视频生成模型和高性能实现感兴趣，Open-Sora 绝对是一个值得关注的开源项目。"
 date: "2024-07-03T23:35:35.420Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f0086d5e4ef3b2ceeae8092efeb1106a.png"
+image: "https://static.osguider.com/history/osguider/f0086d5e4ef3b2ceeae8092efeb1106a.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/espressif/esp-idf" alt="Github Repo Stars" >}} {{< shields path="github/license/espressif/esp-idf" alt="License: " >}} {{< shields path="github/languages/top/espressif/esp-idf" alt="Language: " >}}
 
-![demo-picture-of-esp-idf](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/2346ea5b9bce4b936b1bd72d3b722c8e.png)
+![demo-picture-of-esp-idf](https://static.osguider.com/history/2024/2346ea5b9bce4b936b1bd72d3b722c8e.png)
 
 esp-idf 是 Espressif SoCs 的官方开发框架。
 该项目提供了 Espressif SoCs 的官方开发框架，支持 Windows、Linux 和 macOS 平台。其主要功能和核心优势包括：

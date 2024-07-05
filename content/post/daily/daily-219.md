@@ -2,7 +2,7 @@
 title: "专为苹果系统设计的精美可视化图表 | 开源日报 No.219"
 description: "如果你正在寻找一个能够在苹果设备上提供美观图表的开源项目，那么不妨试试一下 Charts。这个跨平台的项目支持 iOS、tvOS 和 macOS，使用 Swift 编写，提供详细的使用说明和第三方教程链接，安装方式也非常方便。节省开发时间，保持代码在不同平台上的相似性，让你的图表展示更加高效和美观。"
 date: "2024-03-19T23:35:40.883Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/75feea236d57e5e34bb1e529e4ae857c.png"
+image: "https://static.osguider.com/history/osguider/75feea236d57e5e34bb1e529e4ae857c.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/youngle316/cover-paint" alt="Github Repo Stars" >}} {{< shields path="github/license/youngle316/cover-paint" alt="License: " >}} {{< shields path="github/languages/top/youngle316/cover-paint" alt="Language: " >}}
 
-![demo-picture-of-cover-paint](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/ed84f17622887f98175a9c5631fed033.png)
+![demo-picture-of-cover-paint](https://static.osguider.com/history/2024/ed84f17622887f98175a9c5631fed033.png)
 
 cover-paint 是一个封面创建工具。
 该项目的主要功能、关键特性、核心优势包括：
@@ -28,7 +28,7 @@ cover-paint 是一个封面创建工具。
 
 {{< shields path="github/stars/jupyterlab/jupyter-ai" alt="Github Repo Stars" >}} {{< shields path="github/license/jupyterlab/jupyter-ai" alt="License: " >}} {{< shields path="github/languages/top/jupyterlab/jupyter-ai" alt="Language: " >}}
 
-![demo-picture-of-jupyter-ai](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a006be3c7e579240e8742f2bc4f0e956.png)
+![demo-picture-of-jupyter-ai](https://static.osguider.com/history/osguider/a006be3c7e579240e8742f2bc4f0e956.png)
 
 jupyter-ai 是 JupyterLab 的生成式人工智能扩展。
 该项目连接了生成式人工智能与 Jupyter 笔记本，提供用户友好且强大的方式在笔记本中探索生成式 AI 模型，并提高您在 JupyterLab 和 Jupyter Notebook 中的生产力。具体功能包括：
@@ -75,7 +75,7 @@ OpenCorePkg 是一个开源的引导加载程序。
 
 {{< shields path="github/stars/danielgindi/Charts" alt="Github Repo Stars" >}} {{< shields path="github/license/danielgindi/Charts" alt="License: " >}} {{< shields path="github/languages/top/danielgindi/Charts" alt="Language: " >}}
 
-![demo-picture-of-Charts](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/0e34f6da7602cffd556633fb7a05ac05.png)
+![demo-picture-of-Charts](https://static.osguider.com/history/2024/0e34f6da7602cffd556633fb7a05ac05.png)
 
 Charts 是为 iOS/tvOS/OSX 提供美观图表的开源项目，是跨平台 MPAndroidChart 在苹果设备上的实现。该项目提供了以下主要功能和优势：
 

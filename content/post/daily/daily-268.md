@@ -2,7 +2,7 @@
 title: "Go 语言数据库迁移工具：支持多种数据库 | 开源日报 No.268"
 description: "《migrate》是一个用 Go 语言编写的数据库迁移工具，具有多种数据库驱动支持，支持使用 URL 指定数据库连接字符串，以及各种迁移源，如文件系统和 GitHub 等。它提供简单易用的 CLI 接口和稳定的 API，内部使用 io.Reader 流以降低内存开销，同时具有线程安全且无 goroutine 泄漏的特点。无论是作为命令行工具还是作为库导入使用，它都能够按正确顺序将迁移应用到数据库中。"
 date: "2024-05-28T23:35:45.345Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/88913718e7b21008ae73851195e636a1.png"
+image: "https://static.osguider.com/history/osguider/88913718e7b21008ae73851195e636a1.png"
 tags: []
 categories:
   - "daily"
@@ -43,7 +43,7 @@ tiktoken 提供了快速、高效、可扩展的 BPE 分词功能，并且性能
 
 {{< shields path="github/stars/obsidianmd/jsoncanvas" alt="Github Repo Stars" >}} {{< shields path="github/license/obsidianmd/jsoncanvas" alt="License: " >}} {{< shields path="github/languages/top/obsidianmd/jsoncanvas" alt="Language: " >}}
 
-![demo-picture-of-jsoncanvas](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/086a084467737d04add11e35d7e0ac1a.png)
+![demo-picture-of-jsoncanvas](https://static.osguider.com/history/2024/086a084467737d04add11e35d7e0ac1a.png)
 
 jsoncanvas 是一个用于无限画布数据的开放文件格式。
 

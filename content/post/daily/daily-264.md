@@ -2,7 +2,7 @@
 title: "Apache 开源现代数据编排平台：低代码易使用、高性能高可用 | 开源日报 No.264"
 description: "Apache DolphinScheduler 的主要优势包括易部署、易使用、高可靠性与高可用性、高性能以及云原生特性。无论是通过 Web UI、Python SDK、Yaml 文件还是 Open API，都能轻松创建和管理工作流。而且，它支持多种部署方式，包括独立、集群、Docker 和 Kubernetes，适用于不同的环境。"
 date: "2024-05-21T23:35:51.109Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/70acdc6833560ee6df1c6e59cd569e22.png"
+image: "https://static.osguider.com/history/osguider/70acdc6833560ee6df1c6e59cd569e22.png"
 tags: []
 categories:
   - "daily"

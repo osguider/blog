@@ -2,7 +2,7 @@
 title: "区块链项目大揭秘，优势各异创未来 | 开源专题 No.79"
 description: "区块链的世界充满了无限的可能，这些开源项目更是让我们看到了区块链技术的多元性和创新性。从跨链资产隐私平台到智能合约平台，每个项目都有着独特的魅力，为区块链的发展注入了新的活力。"
 date: "2024-05-16T23:35:57.415Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/83db52793e4c190ca912004476662b67.png"
+image: "https://static.osguider.com/history/osguider/83db52793e4c190ca912004476662b67.png"
 tags: []
 categories:
   - "topic"
@@ -49,7 +49,7 @@ Namada 是一个基于权益证明的 L1 跨链资产无关隐私平台。它使
 
 {{< shields path="github/stars/base-org/node" alt="Github Repo Stars" >}} {{< shields path="github/license/base-org/node" alt="License: " >}} {{< shields path="github/languages/top/base-org/node" alt="Language: " >}}
 
-![demo-picture-of-node](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/f10f6191c6ee962599c0cc9d9166c26f.png)
+![demo-picture-of-node](https://static.osguider.com/history/2023/f10f6191c6ee962599c0cc9d9166c26f.png)
 
 Base node 是一个安全、低成本且开发者友好的以太坊 L2，旨在将十亿用户引入链上。它构建于 Optimism 的开源 OP Stack 上。
 
@@ -68,7 +68,7 @@ Base node 是一个安全、低成本且开发者友好的以太坊 L2，旨在�
 
 {{< shields path="github/stars/MystenLabs/sui" alt="Github Repo Stars" >}} {{< shields path="github/license/MystenLabs/sui" alt="License: " >}} {{< shields path="github/languages/top/MystenLabs/sui" alt="Language: " >}}
 
-![demo-picture-of-sui](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/371983d3b8acd5bcaaae030fe7324759.png)
+![demo-picture-of-sui](https://static.osguider.com/history/2023/371983d3b8acd5bcaaae030fe7324759.png)
 
 Sui 是一个下一代智能合约平台，具有高吞吐量、低延迟和由 Move 编程语言驱动的资产导向编程模型。
 

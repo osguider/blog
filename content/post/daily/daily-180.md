@@ -2,7 +2,7 @@
 title: "Spring 源码阅读：深入探索内部工作机制 | 开源日报 No.180"
 description: "Spring 源码阅读系列带你深入探索 Spring 框架的内部工作机制。作者是一位有8年经验的 Java 后端开发人员，他希望与大家一起探索 Spring 的内部机制。系列涵盖了 Spring 框架中的资源加载、Bean 定义注册、依赖注入等基础知识，以及核心方法、后置处理器和初始化等内容。此外，还包括了 Aware 接口、核心注解和 JSR 规范相关内容。"
 date: "2024-02-09T23:35:46.191Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/374da341e292a0c8a1493aa24846c1bf.png"
+image: "https://static.osguider.com/history/osguider/374da341e292a0c8a1493aa24846c1bf.png"
 tags: []
 categories:
   - "daily"

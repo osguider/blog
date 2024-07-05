@@ -2,7 +2,7 @@
 title: "音乐去除人声神器：精准分离，专业之选 | 开源日报 No.282"
 description: "ultimatevocalremovergui 是一个使用深度神经网络的人声去除器的图形用户界面，具有先进的源分离模型，可以从音频文件中去除人声。该项目的核心开发者训练了所有提供的模型，除了 Demucs v3 和 v4 4-stem 模型。该软件可以在 Windows 和 MacOS 系统上安装和运行，无需预先安装任何依赖项，软件包含了 UVR 接口、Python、PyTorch 等必要组件。"
 date: "2024-06-20T23:35:16.781Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a5d27e6a9197ac1d61b62113b0f4c591.png"
+image: "https://static.osguider.com/history/osguider/a5d27e6a9197ac1d61b62113b0f4c591.png"
 tags: []
 categories:
   - "daily"

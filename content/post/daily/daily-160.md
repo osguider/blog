@@ -2,7 +2,7 @@
 title: "npm 依赖自动更新，依赖废弃不再烦恼 | 开源日报 No.160"
 description: "Renovate 是一个强大的自动化依赖项更新工具，支持多平台和多语言。它支持 monorepo 架构，无需额外配置，通过配置文件可定制机器人行为。它还使用类似 ESLint 共享配置预设，简化设置。Renovate 还支持在同一次提交中更新锁定文件，包括解决 PR 合并时的冲突。它还可以获取替换性拉取请求，帮助您从废弃的依赖项迁移到社区建议的替代方案。"
 date: "2024-01-20T23:35:43.683Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/688a2cef7cd510c44281093df76c5b5c.png"
+image: "https://static.osguider.com/history/osguider/688a2cef7cd510c44281093df76c5b5c.png"
 tags: []
 categories:
   - "daily"

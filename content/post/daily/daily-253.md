@@ -2,7 +2,7 @@
 title: "让照片开口说话！基于音频生成动画 | 开源日报 No.253"
 description: "SadTalker 是一个基于音频驱动的单幅图像对话头像动画生成项目。它可以将单幅人像图像与音频结合，生成逼真的视频对话头像。"
 date: "2024-05-01T23:35:56.401Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/33ba59521c1252a81274e6122e652ef8.png"
+image: "https://static.osguider.com/history/osguider/33ba59521c1252a81274e6122e652ef8.png"
 tags: []
 categories:
   - "daily"
@@ -67,7 +67,7 @@ SadTalker 是一个基于音频驱动的单幅图像对话头像动画生成项�
 
 {{< shields path="github/stars/Asabeneh/30-Days-Of-React" alt="Github Repo Stars" >}} {{< shields path="github/license/Asabeneh/30-Days-Of-React" alt="License: " >}} {{< shields path="github/languages/top/Asabeneh/30-Days-Of-React" alt="Language: " >}}
 
-![demo-picture-of-30-Days-Of-React](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/f7262f2e32bb8b38aac3f8a9c350e7d6.png)
+![demo-picture-of-30-Days-Of-React](https://static.osguider.com/history/2024/f7262f2e32bb8b38aac3f8a9c350e7d6.png)
 
 30-Days-Of-React 是一个逐步指南，帮助你在 30 天内学习 React。
 这个项目的主要功能、关键特性和核心优势包括：

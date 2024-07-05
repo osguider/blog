@@ -2,7 +2,7 @@
 title: "本地运行多种大语言模型：一行代码即可完成 | 开源日报 No.167"
 description: "ollama 是一个功能强大的本地语言模型构建和运行框架。它提供简单的 API，让您可以轻松地创建、运行和管理模型。框架内置了丰富的预构建模型库，可以方便地在各种应用中使用。同时，它还支持从 GGUF、PyTorch 或 Safetensors 导入自定义模型。您可以通过命令行进行各种操作，如创建、拉取、删除和复制模型。"
 date: "2024-01-27T23:35:06.428Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fed09e2b204baeade017cea0cf212b08.png"
+image: "https://static.osguider.com/history/osguider/fed09e2b204baeade017cea0cf212b08.png"
 tags: []
 categories:
   - "daily"

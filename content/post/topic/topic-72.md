@@ -2,7 +2,7 @@
 title: "激发数据活力，助力产业升级 | 开源专题 No.72"
 description: "开源数据管理技术正如一场革命，为我们的项目注入了新的活力。这些令人兴奋的开源项目，无论是在数据平台、时间序列数据库，还是存储引擎方面，都展现出了卓越的性能和无限的可能性。让我们一起迈入这个充满机遇的领域吧！"
 date: "2024-04-30T23:35:27.590Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e1430ab4f841d653158a45b93ad26746.png"
+image: "https://static.osguider.com/history/osguider/e1430ab4f841d653158a45b93ad26746.png"
 tags: []
 categories:
   - "topic"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/StarRocks/starrocks" alt="Github Repo Stars" >}} {{< shields path="github/license/StarRocks/starrocks" alt="License: " >}} {{< shields path="github/languages/top/StarRocks/starrocks" alt="Language: " >}}
 
-![demo-picture-of-starrocks](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/a00834a07ed8f76a6042b01e7641fa3a.png)
+![demo-picture-of-starrocks](https://static.osguider.com/history/2023/a00834a07ed8f76a6042b01e7641fa3a.png)
 
 StarRocks 是下一代数据平台，旨在实现高速且简便的数据密集型实时分析。其查询速度比其他流行解决方案快 5 到 10 倍，并能够同时进行历史记录更新和实时分析，轻松地从数据湖中获取历史数据以增强实时分析。主要功能包括原生矢量化 SQL 引擎、标准 SQL 支持、智能查询优化、实时更新模型等特性。核心优势如下：
 
@@ -28,7 +28,7 @@ StarRocks 是下一代数据平台，旨在实现高速且简便的数据密集�
 
 {{< shields path="github/stars/apache/iotdb" alt="Github Repo Stars" >}} {{< shields path="github/license/apache/iotdb" alt="License: " >}} {{< shields path="github/languages/top/apache/iotdb" alt="Language: " >}}
 
-![demo-picture-of-iotdb](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c8c3ddf4e40a99e0600942e5683882d1.png)
+![demo-picture-of-iotdb](https://static.osguider.com/history/2023/c8c3ddf4e40a99e0600942e5683882d1.png)
 
 IoTDB (物联网数据库) 是一个用于时间序列数据的数据管理系统，为用户提供包括数据收集、存储和分析在内的特定服务。由于其轻量级结构、高性能和高可用功能以及与 Hadoop 和 Spark 生态系统无缝集成，IoTDB 满足了工业物联网领域中海量数据集存储、高吞吐率数据输入和复杂数据分析的要求。
 

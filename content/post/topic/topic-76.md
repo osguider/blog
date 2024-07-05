@@ -2,7 +2,7 @@
 title: "性能与效率比拼：开源大语言模型竞逐 | 开源专题 No.76"
 description: "想感受最前沿的人工智能技术吗？这里有多款功能强大、独具特色的语言模型和多模态模型，它们将为你展现人工智能的无限魅力，带你探索未知的领域！"
 date: "2024-05-14T23:35:29.135Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ccfac4dc16078b2b8b115254224fca20.png"
+image: "https://static.osguider.com/history/osguider/ccfac4dc16078b2b8b115254224fca20.png"
 tags: []
 categories:
   - "topic"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/apple/ml-ferret" alt="Github Repo Stars" >}} {{< shields path="github/license/apple/ml-ferret" alt="License: " >}} {{< shields path="github/languages/top/apple/ml-ferret" alt="Language: " >}}
 
-![demo-picture-of-ml-ferret](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/5a3bfedb075171000c8ab3bb7b9905c1.png)
+![demo-picture-of-ml-ferret](https://static.osguider.com/history/2024/5a3bfedb075171000c8ab3bb7b9905c1.png)
 
 Ferret 是一个端到端的 MLLM (多模态语言和视觉学习) 模型，可以接受任何形式的指代，并在响应中对任何内容进行定位。其主要功能包括 FERRET 模型、GRIT 数据集以及 Ferret-Bench 评估基准。该项目的关键优势和核心特点包括：
 
@@ -24,7 +24,7 @@ Ferret 是一个端到端的 MLLM (多模态语言和视觉学习) 模型，可�
 
 {{< shields path="github/stars/ise-uiuc/magicoder" alt="Github Repo Stars" >}} {{< shields path="github/license/ise-uiuc/magicoder" alt="License: " >}} {{< shields path="github/languages/top/ise-uiuc/magicoder" alt="Language: " >}}
 
-![demo-picture-of-magicoder](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/cb7eb628c3d21c7f6dd54f5da5e89bdd.png)
+![demo-picture-of-magicoder](https://static.osguider.com/history/2024/cb7eb628c3d21c7f6dd54f5da5e89bdd.png)
 
 Magicoder 是一个由 🪄OSS-Instruct 提供支持的模型系列，它采用一种新颖的方法来启发 LLMs 使用开源代码片段生成低偏差和高质量指令数据。🪄OSS-Instruct 通过赋予 LLM 丰富的开源参考资料，以产生更多样化、真实和可控制的数据，从而减轻了 LLM 合成指令数据固有的偏见。
 
@@ -44,7 +44,7 @@ Yi 系列模型是由 01.AI 的开发人员从头开始训练的大型语言模�
 
 {{< shields path="github/stars/THUDM/ChatGLM3" alt="Github Repo Stars" >}} {{< shields path="github/license/THUDM/ChatGLM3" alt="License: " >}} {{< shields path="github/languages/top/THUDM/ChatGLM3" alt="Language: " >}}
 
-![demo-picture-of-ChatGLM3](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9b0ce084d7cfd11bc6dbbb2d913f7c73.png)
+![demo-picture-of-ChatGLM3](https://static.osguider.com/history/osguider/9b0ce084d7cfd11bc6dbbb2d913f7c73.png)
 
 ChatGLM3 是智谱 AI 和清华大学 KEG 实验室联合发布的新一代对话预训练模型。其主要功能包括更强大的基础模型、更完整的功能支持以及全面开源序列。具体特点如下：
 

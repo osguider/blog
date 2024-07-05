@@ -2,7 +2,7 @@
 title: "实用图像视频修复工具：完善细节、提高分辨率 | 开源日报 No.225"
 description: "Real-ESRGAN 项目旨在开发实用的图像/视频恢复算法，提供动漫视频小模型和动漫插图模型，支持在线 Colab 演示和跨平台可执行文件，实现了真实世界盲目超分辨率训练，支持纯合成数据微调，集成了 GFPGAN 以支持面部增强功能，提供详细的训练指南和训练代码发布。让你的图像和视频恢复更加简单高效！"
 date: "2024-03-25T23:35:08.442Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a37ff315ca29670f902c95e4f4b287d8.png"
+image: "https://static.osguider.com/history/osguider/a37ff315ca29670f902c95e4f4b287d8.png"
 tags: []
 categories:
   - "daily"
@@ -48,7 +48,7 @@ garnet 是来自微软研究院的远程缓存存储，具有强大的性能（�
 
 {{< shields path="github/stars/xyflow/xyflow" alt="Github Repo Stars" >}} {{< shields path="github/license/xyflow/xyflow" alt="License: " >}} {{< shields path="github/languages/top/xyflow/xyflow" alt="Language: " >}}
 
-![demo-picture-of-xyflow](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/1050a060bfce7d792fe4ebd8481f45b1.png)
+![demo-picture-of-xyflow](https://static.osguider.com/history/2024/1050a060bfce7d792fe4ebd8481f45b1.png)
 
 xyflow 是用于使用 React（<https://reactflow.dev）或> Svelte（<https://svelteflow.dev）构建基于节点的用户界面的强大开源库。>
 

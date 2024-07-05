@@ -2,7 +2,7 @@
 title: "生成图像和音频：的先进扩散模型库 | 开源日报 No.285"
 description: "diffusers 是一个用于在 PyTorch 和 FLAX 中生成图像和音频的先进扩散模型库，提供了最先进的扩散管道和可互换的噪声调度器，让用户能够通过几行代码进行推理，同时还能够使用预训练模型作为构建块，结合调度器创建自己的端到端扩散系统。"
 date: "2024-06-24T23:35:21.826Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/32905599890e51b1a905234080966a4a.png"
+image: "https://static.osguider.com/history/osguider/32905599890e51b1a905234080966a4a.png"
 tags: []
 categories:
   - "daily"

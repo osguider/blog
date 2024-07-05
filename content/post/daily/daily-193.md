@@ -2,7 +2,7 @@
 title: "比 pip 快 10-100 倍！更快更强的 Python 包管理器 | 开源日报 No.193"
 description: "uv 是一个用 Rust 编写的极快速的 Python 包安装器和解析器。比 pip 和 pip-tools（如 pip-compile 和 pip-sync）快 10 到 100 倍。"
 date: "2024-02-22T23:36:00.958Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e7bb97b545402e3341ee9db25041d67f.png"
+image: "https://static.osguider.com/history/osguider/e7bb97b545402e3341ee9db25041d67f.png"
 tags: []
 categories:
   - "daily"
@@ -51,7 +51,7 @@ segment-anything 是一个用于运行 SegmentAnything Model (SAM) 推理的代�
 
 {{< shields path="github/stars/Stability-AI/StableCascade" alt="Github Repo Stars" >}} {{< shields path="github/license/Stability-AI/StableCascade" alt="License: " >}} {{< shields path="github/languages/top/Stability-AI/StableCascade" alt="Language: " >}}
 
-![demo-picture-of-StableCascade](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/8e39c65e05edb916f764112c075cd364.jpg)
+![demo-picture-of-StableCascade](https://static.osguider.com/history/2024/8e39c65e05edb916f764112c075cd364.jpg)
 
 StableCascade 是一个建立在 Würstchen 架构之上的模型，与其他模型（如 Stable Diffusion）相比，其工作在更小的潜空间。其主要优势包括：
 

@@ -2,7 +2,7 @@
 title: "定义、组织、跟踪、管理：开源的项目管理工具 | 开源日报 No.179"
 description: "Focalboard 是一个开源的、多语言支持的自托管项目管理工具，可作为 Trello、Notion 和 Asana 的替代品。它帮助定义、组织、跟踪和管理个人和团队之间的工作。"
 date: "2024-02-08T23:35:17.433Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/96a06c7721cf5bb535ab55575cbbb55b.png"
+image: "https://static.osguider.com/history/osguider/96a06c7721cf5bb535ab55575cbbb55b.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/mattermost/focalboard" alt="Github Repo Stars" >}} {{< shields path="github/license/mattermost/focalboard" alt="License: " >}} {{< shields path="github/languages/top/mattermost/focalboard" alt="Language: " >}}
 
-![demo-picture-of-focalboard](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6d2ffa9ebcc053bf01326366cccda310.jpeg)
+![demo-picture-of-focalboard](https://static.osguider.com/history/osguider/6d2ffa9ebcc053bf01326366cccda310.jpeg)
 
 Focalboard 是一个开源的、多语言支持的自托管项目管理工具，可作为 Trello、Notion 和 Asana 的替代品。它帮助定义、组织、跟踪和管理个人和团队之间的工作，并提供三种版本：
 
@@ -56,7 +56,7 @@ Composer 是 MosaicML 开源的深度学习训练库，基于 PyTorch 构建。�
 
 {{< shields path="github/stars/firstcontributions/first-contributions" alt="Github Repo Stars" >}} {{< shields path="github/license/firstcontributions/first-contributions" alt="License: " >}} {{< shields path="github/languages/top/firstcontributions/first-contributions" alt="Language: " >}}
 
-![demo-picture-of-first-contributions](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/530299cee588f08af47b4028615ca24e.png)
+![demo-picture-of-first-contributions](https://static.osguider.com/history/2023/530299cee588f08af47b4028615ca24e.png)
 
 这个项目是一个旨在简化和指导初学者进行第一次开源贡献的项目。它提供了一系列步骤来帮助用户完成 fork、clone、编辑和提交 pull request 等操作，以便他们能够轻松地参与到开源社区中。该项目的主要功能包括：
 
@@ -69,7 +69,7 @@ Composer 是 MosaicML 开源的深度学习训练库，基于 PyTorch 构建。�
 
 {{< shields path="github/stars/jetlinks/jetlinks-community" alt="Github Repo Stars" >}} {{< shields path="github/license/jetlinks/jetlinks-community" alt="License: " >}} {{< shields path="github/languages/top/jetlinks/jetlinks-community" alt="Language: " >}}
 
-![demo-picture-of-jetlinks-community](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f64c1b8b4f0cc2e510f3fa558cbddd41.png)
+![demo-picture-of-jetlinks-community](https://static.osguider.com/history/osguider/f64c1b8b4f0cc2e510f3fa558cbddd41.png)
 
 JetLinks 物联网基础平台
 

@@ -3,7 +3,7 @@ title: "基于人工智能的网络爬虫：让数据唾手可得 | 开源日报
 description: "Scrapegraph-ai 是一个基于人工智能的 Python 网络爬虫库。
 它使用 LLM 和直接图逻辑来创建用于网站、文档和 XML 文件的爬取流水线。只需指定要提取的信息，该库就会为您完成！"
 date: "2024-06-08T23:35:07.884Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0c3d9950fc385ee4793893ed4a906575.png"
+image: "https://static.osguider.com/history/osguider/0c3d9950fc385ee4793893ed4a906575.png"
 tags: []
 categories:
   - "daily"

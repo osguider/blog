@@ -2,7 +2,7 @@
 title: "跨平台 Shell 提示渲染器：可定制、低延迟、易配置 | 开源日报 No.287"
 description: "oh-my-posh 是一个跨平台的 Shell 提示渲染器，具有易于配置、高度可定制、快速响应的特点，支持次要提示信息、右侧提示信息和临时提示信息，让你的 Shell 提示更加个性化和高效。"
 date: "2024-06-26T23:35:24.076Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/93d18343c3f9671e0c8a5cbb08e3e225.png"
+image: "https://static.osguider.com/history/osguider/93d18343c3f9671e0c8a5cbb08e3e225.png"
 tags: []
 categories:
   - "daily"

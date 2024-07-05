@@ -2,7 +2,7 @@
 title: "AI 图像无损放大器：多平台支持，轻松上手 | 开源日报 No.241"
 description: "尽享 AI 技术魔法，upscayl 免费开源 AI 图像放大器，让你的低分辨率图像焕然一新！跨平台支持，Linux 优先，放大图像不损失质量，让你的图像处理更加轻松便捷！"
 date: "2024-04-11T23:35:23.043Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4b98b4bbdf5cae5508f6cb00d9b16ff1.png"
+image: "https://static.osguider.com/history/osguider/4b98b4bbdf5cae5508f6cb00d9b16ff1.png"
 tags: []
 categories:
   - "daily"

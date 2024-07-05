@@ -2,7 +2,7 @@
 title: "视频通话实时换脸：支持训练面部模型 | 开源日报 No.235"
 description: "DeepFaceLive 是一个用于 PC 实时流媒体或视频通话的人脸换装工具。"
 date: "2024-04-05T23:35:16.974Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7f9ad7a1ee3df6f1a1e3d7cbecead2b8.png"
+image: "https://static.osguider.com/history/osguider/7f9ad7a1ee3df6f1a1e3d7cbecead2b8.png"
 tags: []
 categories:
   - "daily"
@@ -29,7 +29,7 @@ podinfo 是一个用 Go 编写的微服务模板，展示了在 Kubernetes 中�
 
 {{< shields path="github/stars/layerdiffusion/sd-forge-layerdiffuse" alt="Github Repo Stars" >}} {{< shields path="github/license/layerdiffusion/sd-forge-layerdiffuse" alt="License: " >}} {{< shields path="github/languages/top/layerdiffusion/sd-forge-layerdiffuse" alt="Language: " >}}
 
-![demo-picture-of-sd-forge-layerdiffuse](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/8a36459034e197550a33b77e0c376e94.png)
+![demo-picture-of-sd-forge-layerdiffuse](https://static.osguider.com/history/2024/8a36459034e197550a33b77e0c376e94.png)
 
 sd-forge-layerdiffuse 是一个通过 Forge 实现的 WebUI 的图层扩散项目。
 
@@ -42,7 +42,7 @@ sd-forge-layerdiffuse 是一个通过 Forge 实现的 WebUI 的图层扩散项�
 
 {{< shields path="github/stars/seaweedfs/seaweedfs" alt="Github Repo Stars" >}} {{< shields path="github/license/seaweedfs/seaweedfs" alt="License: " >}} {{< shields path="github/languages/top/seaweedfs/seaweedfs" alt="Language: " >}}
 
-![demo-picture-of-seaweedfs](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/096f8ff17dd66faeefaccddc1757123b.png)
+![demo-picture-of-seaweedfs](https://static.osguider.com/history/2024/096f8ff17dd66faeefaccddc1757123b.png)
 
 SeaweedFS 是一个快速的分布式存储系统，适用于大量文件的 blobs、objects、files 和 data lake。其主要功能和核心优势包括：
 
@@ -69,7 +69,7 @@ runc 是一个根据 OCI 规范在 Linux 上生成和运行容器的 CLI 工具�
 
 {{< shields path="github/stars/iperov/DeepFaceLive" alt="Github Repo Stars" >}} {{< shields path="github/license/iperov/DeepFaceLive" alt="License: " >}} {{< shields path="github/languages/top/iperov/DeepFaceLive" alt="Language: " >}}
 
-![demo-picture-of-DeepFaceLive](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/7e23c636979486ede86ef9fda2c0b403.png)
+![demo-picture-of-DeepFaceLive](https://static.osguider.com/history/2024/7e23c636979486ede86ef9fda2c0b403.png)
 
 DeepFaceLive 是一个用于 PC 实时流媒体或视频通话的人脸换装工具。
 

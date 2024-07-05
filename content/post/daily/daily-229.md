@@ -2,7 +2,7 @@
 title: "统一所有 LLM API：支持预算与速率限制 | 开源日报 No.229"
 description: "litellm 是一个使用 OpenAI 格式调用所有 LLM API 的工具。它支持 Bedrock、Azure、OpenAI、Cohere、Anthropic 等 100 多种 LLMs，提供企业级代理服务器"
 date: "2024-03-30T23:35:27.308Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7716c9b7fbb176ea1ee0d0acbbd5ef0b.png"
+image: "https://static.osguider.com/history/osguider/7716c9b7fbb176ea1ee0d0acbbd5ef0b.png"
 tags: []
 categories:
   - "daily"

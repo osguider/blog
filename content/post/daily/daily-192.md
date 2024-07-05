@@ -2,7 +2,7 @@
 title: "谷歌新作：AI 检测文件内容类型，5ms 即可完成 | 开源日报 No.192"
 description: "magika 是一个利用深度学习技术开发的文件内容类型检测工具，具有高度优化的 Keras 模型，仅 1MB 大小，能在毫秒内准确识别文件。在超过 1M 文件和 100 种内容类型的评估中，准确率和召回率均超过 99%。支持 Python 命令行工具和 API，推理速度快，每个文件仅需 5ms，且与文件大小无关。快速、准确、高效，是文件内容识别的理想选择。"
 date: "2024-02-21T23:35:17.191Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2f46d592182d6e722abb65c94238bc96.png"
+image: "https://static.osguider.com/history/osguider/2f46d592182d6e722abb65c94238bc96.png"
 tags: []
 categories:
   - "daily"
@@ -51,7 +51,7 @@ magika 是一个利用深度学习来检测文件内容类型的工具。
 
 {{< shields path="github/stars/smartcontractkit/chainlink" alt="Github Repo Stars" >}} {{< shields path="github/license/smartcontractkit/chainlink" alt="License: " >}} {{< shields path="github/languages/top/smartcontractkit/chainlink" alt="Language: " >}}
 
-![demo-picture-of-chainlink](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/e134a9892f36bd3b5774d1352207f1b7.png)
+![demo-picture-of-chainlink](https://static.osguider.com/history/2024/e134a9892f36bd3b5774d1352207f1b7.png)
 
 chainlink 是一个去中心化预言机网络的节点，连接了链上和链下计算。
 

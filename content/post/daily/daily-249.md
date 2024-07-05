@@ -2,7 +2,7 @@
 title: "微信团队开源的跨平台数据库框架 | 开源日报 No.249"
 description: "wcdb 是由微信开发的跨平台数据库框架。"
 date: "2024-04-24T23:35:09.642Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/87fa1e6d21aeb55411a72d07ee1924b1.png"
+image: "https://static.osguider.com/history/osguider/87fa1e6d21aeb55411a72d07ee1924b1.png"
 tags: []
 categories:
   - "daily"

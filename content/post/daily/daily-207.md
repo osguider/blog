@@ -2,7 +2,7 @@
 title: "最快的 Python API 框架之一：简单、现代、高性能 | 开源日报 No.207"
 description: "快速高效的 Python 框架 FastAPI，以其高性能、快速编码、减少错误、直观易用、易学易用、简洁高效、健壮可靠、符合标准等优势，解决了构建 API 的问题，是最快的 Python 框架之一，极大提高开发效率，减少错误，节省调试时间，适合生产环境使用，是开发 API 的理想选择。"
 date: "2024-03-07T23:35:38.912Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/69efcb081357a7842a20fde7c5fe0789.png"
+image: "https://static.osguider.com/history/osguider/69efcb081357a7842a20fde7c5fe0789.png"
 tags: []
 categories:
   - "daily"

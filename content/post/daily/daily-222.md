@@ -2,7 +2,7 @@
 title: "打造你的私有云盘：安全优先、支持分享 | 开源日报 No.222"
 description: "基于用户提供的文章内容，这是关于一个安全的数据存储空间的介绍，名为 nextcloud/server。这个项目提供了存储文件、联系人、日历等功能，并能够在不同设备之间同步数据。用户可以分享数据，通过应用商店扩展功能，并提供了加密机制、HackerOne 悬赏计划和双因素认证以确保安全性。这个项目的功能丰富，安全可靠，是一个值得信赖的数据存储工具。"
 date: "2024-03-22T23:35:14.339Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b0b49b4462dcf8b8ec6fb6fe21b4ce50.png"
+image: "https://static.osguider.com/history/osguider/b0b49b4462dcf8b8ec6fb6fe21b4ce50.png"
 tags: []
 categories:
   - "daily"
@@ -39,7 +39,7 @@ awesome-free-chatgpt 是一个持续更新的免费 ChatGPT 镜像网站列表�
 
 {{< shields path="github/stars/qgis/QGIS" alt="Github Repo Stars" >}} {{< shields path="github/license/qgis/QGIS" alt="License: " >}} {{< shields path="github/languages/top/qgis/QGIS" alt="Language: " >}}
 
-![demo-picture-of-QGIS](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/50178738fd54986557068e448c7d3b91.jpeg)
+![demo-picture-of-QGIS](https://static.osguider.com/history/osguider/50178738fd54986557068e448c7d3b91.jpeg)
 
 QGIS 是一个功能齐全、用户友好的免费开源地理信息系统 (GIS)，可在 Unix 平台、Windows 和 MacOS 上运行。
 
@@ -60,7 +60,7 @@ QGIS 是一个功能齐全、用户友好的免费开源地理信息系统 (GIS)
 
 {{< shields path="github/stars/browserless/browserless" alt="Github Repo Stars" >}} {{< shields path="github/license/browserless/browserless" alt="License: " >}} {{< shields path="github/languages/top/browserless/browserless" alt="Language: " >}}
 
-![demo-picture-of-browserless](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2581f909f68ab6cf2db20fac1ade9e7d.png)
+![demo-picture-of-browserless](https://static.osguider.com/history/osguider/2581f909f68ab6cf2db20fac1ade9e7d.png)
 
 browserless 是一个在 Docker 中部署无头浏览器的项目。
 它允许远程客户端连接并执行无头工作，支持标准的 Puppeteer 和 Playwright 库，并提供基于 REST 的 API 用于常见操作，如数据收集、PDF 生成等。该项目解决了部署无头浏览器时常见问题并进行了性能改进，支持在云端或自己的环境中运行，非商业使用免费。

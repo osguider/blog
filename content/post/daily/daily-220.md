@@ -2,7 +2,7 @@
 title: "基于 WebRTC 实现的点对点文件传输和音视频聊天工具 | 开源日报 No.220"
 description: "tl-rtc-file 是一个基于 WebRTC 的文件传输工具，支持跨终端、不限平台的在线文件传输。"
 date: "2024-03-20T23:35:21.822Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/765979b7b73d86e8863b8e651250d847.png"
+image: "https://static.osguider.com/history/osguider/765979b7b73d86e8863b8e651250d847.png"
 tags: []
 categories:
   - "daily"
@@ -30,7 +30,7 @@ axolotl 是一个旨在简化各种 AI 模型微调的工具。
 
 {{< shields path="github/stars/plankanban/planka" alt="Github Repo Stars" >}} {{< shields path="github/license/plankanban/planka" alt="License: " >}} {{< shields path="github/languages/top/plankanban/planka" alt="Language: " >}}
 
-![demo-picture-of-planka](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/621c1ced65dd8a3ef41c8dbd888aad98.png)
+![demo-picture-of-planka](https://static.osguider.com/history/2024/621c1ced65dd8a3ef41c8dbd888aad98.png)
 
 planka 是使用 React 和 Redux 构建的工作组实时看板。
 
@@ -61,7 +61,7 @@ Next-js-Boilerplate 是一个为 Next.js 14+ 提供支持的脚手架和起步�
 
 {{< shields path="github/stars/tl-open-source/tl-rtc-file" alt="Github Repo Stars" >}} {{< shields path="github/license/tl-open-source/tl-rtc-file" alt="License: " >}} {{< shields path="github/languages/top/tl-open-source/tl-rtc-file" alt="Language: " >}}
 
-![demo-picture-of-tl-rtc-file](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/464e4e1d37df7e387758a47ad65f9074.png)
+![demo-picture-of-tl-rtc-file](https://static.osguider.com/history/2024/464e4e1d37df7e387758a47ad65f9074.png)
 
 tl-rtc-file 是一个基于 WebRTC 的文件传输工具，支持跨终端、不限平台的在线文件传输。它提供了丰富的功能和特性：
 

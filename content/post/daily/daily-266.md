@@ -2,7 +2,7 @@
 title: "基于 React 的 Material UI 组件库：永久免费使用 | 开源日报 No.266"
 description: "material-ui 是一个免费永久使用的基础 React UI 组件库项目，包含了 Google 的 Material Design 系统，提供了 Joy UI 和 Base UI 两个美观设计的 React UI 组件库，同时还提供了 MUI System，是一套 CSS 实用工具集，帮助快速布局自定义设计。"
 date: "2024-05-25T23:35:59.924Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c684c1a55738624a7e30798540a0afbf.png"
+image: "https://static.osguider.com/history/osguider/c684c1a55738624a7e30798540a0afbf.png"
 tags: []
 categories:
   - "daily"
@@ -66,7 +66,7 @@ llvm-project 是一个模块化和可重用的编译器和工具链技术集合�
 
 {{< shields path="github/stars/mui/material-ui" alt="Github Repo Stars" >}} {{< shields path="github/license/mui/material-ui" alt="License: " >}} {{< shields path="github/languages/top/mui/material-ui" alt="Language: " >}}
 
-![demo-picture-of-material-ui](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/c10d8e70fa6afd76347aff365cc43b1d.png)
+![demo-picture-of-material-ui](https://static.osguider.com/history/2024/c10d8e70fa6afd76347aff365cc43b1d.png)
 
 material-ui 是一个包含基础 React UI 组件库的项目，免费永久使用。它包括 Material UI，实现了谷歌的 Material Design 系统。
 

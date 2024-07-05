@@ -2,7 +2,7 @@
 title: "Notion 风格所见即所得编辑器：AI 自动补全 | 开源日报 No.245"
 description: "novel 是一个类似 Notion 风格的所见即所得编辑器，具有 AI 助力自动补全功能。"
 date: "2024-04-17T23:35:47.490Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bd0f49ae4ad47acfd42c3aa4d03ebfc2.png"
+image: "https://static.osguider.com/history/osguider/bd0f49ae4ad47acfd42c3aa4d03ebfc2.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/lukas-blecher/LaTeX-OCR" alt="Github Repo Stars" >}} {{< shields path="github/license/lukas-blecher/LaTeX-OCR" alt="License: " >}} {{< shields path="github/languages/top/lukas-blecher/LaTeX-OCR" alt="Language: " >}}
 
-![demo-picture-of-LaTeX-OCR](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/422997f26197fb88dffa8cb01ebca125.png)
+![demo-picture-of-LaTeX-OCR](https://static.osguider.com/history/osguider/422997f26197fb88dffa8cb01ebca125.png)
 
 LaTeX-OCR 是一个使用 ViT 将数学公式图像转换为 LaTeX 代码的项目。
 

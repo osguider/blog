@@ -2,7 +2,7 @@
 title: "C++ 算法宝库：多领域覆盖，注释详细 | 开源日报 No.153"
 description: "Algorithms-C++ 是一个收集了数学、机器学习、计算机科学和物理等领域算法的开源项目。它用 C++ 实现，旨在供教育目的使用。项目提供了多种基础通用语言 C++ 中各种算法的实现，源代码有详细解释文档，对教育工作者和学生来说是宝贵资源。每个源代码都是原子性地使用 STL 类编写，不需要外部库进行编译和执行。严格遵循 C++11 标准，确保代码的可移植性强。"
 date: "2024-01-13T23:35:12.391Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2fb5de78817f3f8030eb25c214d191a0.png"
+image: "https://static.osguider.com/history/osguider/2fb5de78817f3f8030eb25c214d191a0.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/ublue-os/bazzite" alt="Github Repo Stars" >}} {{< shields path="github/license/ublue-os/bazzite" alt="License: " >}} {{< shields path="github/languages/top/ublue-os/bazzite" alt="Language: " >}}
 
-![demo-picture-of-bazzite](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/2b36d17ccdbb7143a2182db60205cbdc.png)
+![demo-picture-of-bazzite](https://static.osguider.com/history/2024/2b36d17ccdbb7143a2182db60205cbdc.png)
 
 Bazzite 是一个 OCI 镜像，用作 Steam Deck 的替代操作系统，并为台式电脑、家庭影院 PC 和许多其他手持 PC 提供了一款准备好的 SteamOS-like 游戏系统。
 
@@ -26,7 +26,7 @@ Bazzite 是一个 OCI 镜像，用作 Steam Deck 的替代操作系统，并为�
 
 {{< shields path="github/stars/ossu/bioinformatics" alt="Github Repo Stars" >}} {{< shields path="github/license/ossu/bioinformatics" alt="License: " >}} {{< shields path="github/languages/top/ossu/bioinformatics" alt="Language: " >}}
 
-![demo-picture-of-bioinformatics](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/b67db7af01425a71d2a9944f0cba9270.png)
+![demo-picture-of-bioinformatics](https://static.osguider.com/history/2024/b67db7af01425a71d2a9944f0cba9270.png)
 
 这个项目是一个开源的大学教育路径，旨在为自我学习生物信息学提供免费课程。主要功能包括提供了完整的生物信息学课程，并且给予 MOOC 风格的在线课程优先考虑。其核心优势和特点包括：
 
@@ -53,7 +53,7 @@ Algorithms-C++ 是一个收集了数学、机器学习、计算机科学和物�
 
 {{< shields path="github/stars/ChrisTitusTech/winutil" alt="Github Repo Stars" >}} {{< shields path="github/license/ChrisTitusTech/winutil" alt="License: " >}} {{< shields path="github/languages/top/ChrisTitusTech/winutil" alt="Language: " >}}
 
-![demo-picture-of-winutil](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/de01fcd5fe615e899ffd4e869fc082f3.png)
+![demo-picture-of-winutil](https://static.osguider.com/history/osguider/de01fcd5fe615e899ffd4e869fc082f3.png)
 
 Chris Titus Tech's Windows Utility 是一个用于安装程序、调整、修复和更新的 Windows 实用工具。
 
@@ -66,7 +66,7 @@ Chris Titus Tech's Windows Utility 是一个用于安装程序、调整、修复
 
 {{< shields path="github/stars/salesforce/CodeT5" alt="Github Repo Stars" >}} {{< shields path="github/license/salesforce/CodeT5" alt="License: " >}} {{< shields path="github/languages/top/salesforce/CodeT5" alt="Language: " >}}
 
-![demo-picture-of-CodeT5](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a1e03615a97433402a2be73b65155139.gif)
+![demo-picture-of-CodeT5](https://static.osguider.com/history/osguider/a1e03615a97433402a2be73b65155139.gif)
 
 CodeT5 和 CodeT5+ 是 Salesforce Research 发布的用于代码理解和生成的官方研究版本，由以下论文介绍：
 

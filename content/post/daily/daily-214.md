@@ -2,7 +2,7 @@
 title: "程序员延寿指南：科学延寿 20 年 | 开源日报 No.214"
 description: "《HowToLiveLonger》是一个专为程序员设计的延寿指南项目，涵盖饮食、运动、睡眠等健康方面，提供科学支持，助力程序员延年益寿。食疗、运动、睡眠，健康指南，助力程序员延寿。"
 date: "2024-03-14T23:35:47.322Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a6f2c1e770b9e88a4d504c7b8201dac2.png"
+image: "https://static.osguider.com/history/osguider/a6f2c1e770b9e88a4d504c7b8201dac2.png"
 tags: []
 categories:
   - "daily"
@@ -26,7 +26,7 @@ mail-server 是一个安全且现代的一体化邮件服务器（IMAP、JMAP、
 
 {{< shields path="github/stars/RUCAIBox/LLMSurvey" alt="Github Repo Stars" >}} {{< shields path="github/license/RUCAIBox/LLMSurvey" alt="License: " >}} {{< shields path="github/languages/top/RUCAIBox/LLMSurvey" alt="Language: " >}}
 
-![demo-picture-of-LLMSurvey](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6d463fab50bcb3935d7ae7a18d55e809.png)
+![demo-picture-of-LLMSurvey](https://static.osguider.com/history/osguider/6d463fab50bcb3935d7ae7a18d55e809.png)
 
 LLMSurvey 是一个关于大型语言模型的调查论文的官方 GitHub 页面。
 该项目主要功能、关键特性、核心优势包括：
@@ -42,7 +42,7 @@ LLMSurvey 是一个关于大型语言模型的调查论文的官方 GitHub 页�
 
 {{< shields path="github/stars/jart/blink" alt="Github Repo Stars" >}} {{< shields path="github/license/jart/blink" alt="License: " >}} {{< shields path="github/languages/top/jart/blink" alt="Language: " >}}
 
-![demo-picture-of-blink](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/21f2d6aa23bc57da1b3994014741feb2.png)
+![demo-picture-of-blink](https://static.osguider.com/history/osguider/21f2d6aa23bc57da1b3994014741feb2.png)
 
 blink 是一个最小的 x86-64-linux 模拟器。
 该项目旨在提供一个轻量级的虚拟机，用于在不同操作系统和硬件架构上运行 x86-64-linux 程序。
@@ -57,7 +57,7 @@ blink 是一个最小的 x86-64-linux 模拟器。
 
 {{< shields path="github/stars/geekan/HowToLiveLonger" alt="Github Repo Stars" >}} {{< shields path="github/license/geekan/HowToLiveLonger" alt="License: " >}} {{< shields path="github/languages/top/geekan/HowToLiveLonger" alt="Language: " >}}
 
-![demo-picture-of-HowToLiveLonger](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1cfa4854694c85a3f2553b110eccf27c.jpeg)
+![demo-picture-of-HowToLiveLonger](https://static.osguider.com/history/osguider/1cfa4854694c85a3f2553b110eccf27c.jpeg)
 
 HowToLiveLonger 是一个程序员延寿指南项目。
 该项目旨在提供关于如何延长寿命的指南，特别是针对程序员群体。该项目包括术语、目标、关键结果、分析、行动和证据等内容，涵盖了各种与健康相关的方面，并提供了相应的科学研究作为支持。
@@ -72,7 +72,7 @@ HowToLiveLonger 是一个程序员延寿指南项目。
 
 {{< shields path="github/stars/openai/shap-e" alt="Github Repo Stars" >}} {{< shields path="github/license/openai/shap-e" alt="License: " >}} {{< shields path="github/languages/top/openai/shap-e" alt="Language: " >}}
 
-![demo-picture-of-shap-e](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/dc82986229575a52851faccdb412fd7a.gif)
+![demo-picture-of-shap-e](https://static.osguider.com/history/2023/dc82986229575a52851faccdb412fd7a.gif)
 
 shap-e 是一个根据文本或图像生成 3D 对象的项目。
 该项目主要功能、关键特性、核心优势包括：

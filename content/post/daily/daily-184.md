@@ -2,7 +2,7 @@
 title: "将任何网页变成桌面应用，全平台支持 | 开源日报 No.184"
 description: "Pake，用 Rust 将任何网页变成桌面应用程序。优点是比 Electron 打包小 20 倍（约为 5M），使用 Rust Tauri 比 JS-based frameworks 更轻量级和更快速，并且具有自带的功能，如快捷键、沉浸式窗口和极简主义定制等。"
 date: "2024-02-13T23:35:32.875Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5b405cbc9d8729c518434122c90a3665.png"
+image: "https://static.osguider.com/history/osguider/5b405cbc9d8729c518434122c90a3665.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/gogf/gf" alt="Github Repo Stars" >}} {{< shields path="github/license/gogf/gf" alt="License: " >}} {{< shields path="github/languages/top/gogf/gf" alt="Language: " >}}
 
-![demo-picture-of-gf](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/d4d3bf30a945f471fba4a40497496e9a.png)
+![demo-picture-of-gf](https://static.osguider.com/history/2023/d4d3bf30a945f471fba4a40497496e9a.png)
 
 GoFrame 是一款模块化、高性能、企业级的 Go 基础开发框架。GoFrame 是一款通用性的基础开发框架，是 Golang 标准库的一个增强扩展级，包含通用核心的基础开发组件，优点是实战化、模块化、文档全面、模块丰富、易用性高、通用性强、面向团队。GoFrame 既可用于开发完整的工程化项目，由于框架基础采用模块化解耦设计，因此也可以作为工具库使用。
 
@@ -44,7 +44,7 @@ Haystack 是一个开源的自然语言处理 (NLP) 框架，可以使用 Transf
 
 {{< shields path="github/stars/nvbn/thefuck" alt="Github Repo Stars" >}} {{< shields path="github/license/nvbn/thefuck" alt="License: " >}} {{< shields path="github/languages/top/nvbn/thefuck" alt="Language: " >}}
 
-![demo-picture-of-thefuck](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/a50d3fe088eea19c9ffb2b8cc90606ac.gif)
+![demo-picture-of-thefuck](https://static.osguider.com/history/2023/a50d3fe088eea19c9ffb2b8cc90606ac.gif)
 
 The Fuck 是一个令人惊叹的应用程序，它可以纠正你之前在控制台输入的命令。
 
@@ -58,7 +58,7 @@ The Fuck 是一个令人惊叹的应用程序，它可以纠正你之前在控�
 
 {{< shields path="github/stars/MineDojo/Voyager" alt="Github Repo Stars" >}} {{< shields path="github/license/MineDojo/Voyager" alt="License: " >}} {{< shields path="github/languages/top/MineDojo/Voyager" alt="Language: " >}}
 
-![demo-picture-of-Voyager](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/29558fd4ece9f468115f0845e00d4139.png)
+![demo-picture-of-Voyager](https://static.osguider.com/history/2023/29558fd4ece9f468115f0845e00d4139.png)
 
 Voyager 是一个基于大型语言模型的开放式体验代理，它在 Minecraft 中不断探索世界、获取多样化技能并进行新颖发现而无需人类干预。
 其主要功能包括：
@@ -77,7 +77,7 @@ Voyager 是一个基于大型语言模型的开放式体验代理，它在 Minec
 
 {{< shields path="github/stars/tw93/Pake" alt="Github Repo Stars" >}} {{< shields path="github/license/tw93/Pake" alt="License: " >}} {{< shields path="github/languages/top/tw93/Pake" alt="Language: " >}}
 
-![demo-picture-of-Pake](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/2d8ab8abde618354d698d4f0335e7a2e.png)
+![demo-picture-of-Pake](https://static.osguider.com/history/2023/2d8ab8abde618354d698d4f0335e7a2e.png)
 
 Pake 是利用 Rust 轻松构建轻量级多端桌面应用的工具。
 

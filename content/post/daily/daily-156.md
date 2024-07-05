@@ -2,7 +2,7 @@
 title: "阿里开源低代码引擎，100+ 垂直领域支持！ | 开源日报 No.156"
 description: "LowCodeEngine 是一套面向扩展设计的企业级低代码技术体系"
 date: "2024-01-16T23:35:18.137Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f2534fb59c6b09d651c6b0c81742984b.png"
+image: "https://static.osguider.com/history/osguider/f2534fb59c6b09d651c6b0c81742984b.png"
 tags: []
 categories:
   - "daily"

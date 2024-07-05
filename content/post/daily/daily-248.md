@@ -2,7 +2,7 @@
 title: "500 个 AI 项目代码库：计算机视觉到 NLP | 开源日报 No.248"
 description: "这个代码库包含了 500 多个涵盖了计算机视觉、自然语言处理等多个领域的 AI、机器学习、深度学习项目。持续更新并欢迎贡献者提交新项目或修复链接问题，同时提供各种实际应用场景下的示例代码和资源。如果你对这些领域感兴趣，这个代码库绝对值得一看！"
 date: "2024-04-22T23:35:25.888Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f353e407d677004c68c1664fe691d71d.png"
+image: "https://static.osguider.com/history/osguider/f353e407d677004c68c1664fe691d71d.png"
 tags: []
 categories:
   - "daily"

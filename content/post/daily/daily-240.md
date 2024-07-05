@@ -2,7 +2,7 @@
 title: "帮助 Python 用户构建 CLI 界面：直观易写、简单高效 | 开源日报 No.240"
 description: "想要轻松创建用户友好的命令行界面吗？试试 typer 吧！这个基于 Python 类型提示的库让您的 CLI 应用程序开发更直观易写、易用性更强、简短高效、简单上手、可扩展性强。"
 date: "2024-04-10T23:35:17.957Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a330044d2d3389a60349517a30dcbb1b.png"
+image: "https://static.osguider.com/history/osguider/a330044d2d3389a60349517a30dcbb1b.png"
 tags: []
 categories:
   - "daily"
@@ -67,7 +67,7 @@ bun 是 SQL-first 的 Golang ORM。
 
 {{< shields path="github/stars/tiangolo/typer" alt="Github Repo Stars" >}} {{< shields path="github/license/tiangolo/typer" alt="License: " >}} {{< shields path="github/languages/top/tiangolo/typer" alt="Language: " >}}
 
-![demo-picture-of-typer](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/7f17a85f239fc41312d7a7cfd51be9fc.png)
+![demo-picture-of-typer](https://static.osguider.com/history/2024/7f17a85f239fc41312d7a7cfd51be9fc.png)
 
 typer 是一个构建出色命令行界面（CLI）的库，基于 Python 类型提示。它旨在让开发者轻松创建用户喜欢使用的 CLI 应用程序。其主要功能和核心优势包括：
 

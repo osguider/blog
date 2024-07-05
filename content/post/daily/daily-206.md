@@ -2,7 +2,7 @@
 title: "打包成 WASM 的 Postgres：可在浏览器运行 | 开源日报 No.206"
 description: "pglite 将轻量级的 Postgres 打包成 WASM，并封装为 TypeScript 库，可在浏览器、Node.js、Bun 和 Deno 中运行。"
 date: "2024-03-06T23:35:58.855Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/53b617db9420f25aacc9961bbff368f0.png"
+image: "https://static.osguider.com/history/osguider/53b617db9420f25aacc9961bbff368f0.png"
 tags: []
 categories:
   - "daily"
@@ -26,7 +26,7 @@ pglite 将轻量级的 Postgres 打包成 WASM，并封装为 TypeScript 库，�
 
 {{< shields path="github/stars/backstage/backstage" alt="Github Repo Stars" >}} {{< shields path="github/license/backstage/backstage" alt="License: " >}} {{< shields path="github/languages/top/backstage/backstage" alt="Language: " >}}
 
-![demo-picture-of-backstage](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/1b37fec203b7a3ded049b0cc1d7a5826.png)
+![demo-picture-of-backstage](https://static.osguider.com/history/2024/1b37fec203b7a3ded049b0cc1d7a5826.png)
 
 Backstage 是一个用于构建开发者门户的开放平台，通过集中式软件目录，恢复了对微服务和基础设施的秩序，并使产品团队能够快速交付高质量代码而不影响自治性。其主要功能和核心优势包括：
 
@@ -68,7 +68,7 @@ unilm 是一个大规模的自监督预训练项目，跨任务、语言和模�
 
 {{< shields path="github/stars/steven-tey/chathn" alt="Github Repo Stars" >}} {{< shields path="github/license/steven-tey/chathn" alt="License: " >}} {{< shields path="github/languages/top/steven-tey/chathn" alt="Language: " >}}
 
-![demo-picture-of-chathn](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/e3c08204b024d2510b5daf3a68853aad.png)
+![demo-picture-of-chathn](https://static.osguider.com/history/2023/e3c08204b024d2510b5daf3a68853aad.png)
 
 ChatHN 是一个开源的 AI 聊天机器人项目，它使用 OpenAI Functions 和 Vercel AI SDK 与 Hacker News API 进行自然语言交互。该项目具有以下核心优势和特点：
 

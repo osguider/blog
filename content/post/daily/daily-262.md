@@ -2,7 +2,7 @@
 title: "白嫖 coze 接口：OpenAI 格式兼容 | 开源日报 No.262"
 description: "coze-discord-proxy 是一个代理服务，通过接口调用被 coze 托管的 discord-bot。"
 date: "2024-05-17T23:35:11.425Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a5b1b71764efb7197914edc6acd04801.png"
+image: "https://static.osguider.com/history/osguider/a5b1b71764efb7197914edc6acd04801.png"
 tags: []
 categories:
   - "daily"

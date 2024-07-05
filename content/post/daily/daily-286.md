@@ -2,7 +2,7 @@
 title: "加解密、编解码、数据处理：一个应用全搞定 | 开源日报 No.286"
 description: "CyberChef 是一个功能强大的网络应用程序，可以帮助用户进行加密、编码、压缩和数据分析。它支持多种加密方式，包括简单的 XOR 和 Base64，以及复杂的 AES、DES 和 Blowfish。除此之外，CyberChef 还可以进行数据的编码、压缩、哈希和校验和计算，IPv6 和 X.509 解析，字符编码转换等操作。设计简单直观，使技术和非技术分析人员能够以复杂方式操作数据，而无需复杂的工具或算法。支持拖放操作，自动烘烤和自动编码检测等功能，操作更加便捷和灵活。无论是加密解密还是数据分析，CyberChef 都是一个非常实用的工具。"
 date: "2024-06-25T23:35:50.039Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d7b257c95e7a164a24e07152a023998e.png"
+image: "https://static.osguider.com/history/osguider/d7b257c95e7a164a24e07152a023998e.png"
 tags: []
 categories:
   - "daily"

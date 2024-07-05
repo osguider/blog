@@ -2,7 +2,7 @@
 title: "《红色警戒》开源：重温经典游戏！ | 开源日报 No.152"
 description: "CnC_Remastered_Collection 是一个提供了《泰伯利亚黎明》和《红色警戒》源代码的开源项目。"
 date: "2024-01-12T23:35:15.715Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/28f109aae1a67abc2c45e5d11c3e28d9.png"
+image: "https://static.osguider.com/history/osguider/28f109aae1a67abc2c45e5d11c3e28d9.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/ktock/container2wasm" alt="Github Repo Stars" >}} {{< shields path="github/license/ktock/container2wasm" alt="License: " >}} {{< shields path="github/languages/top/ktock/container2wasm" alt="Language: " >}}
 
-![demo-picture-of-container2wasm](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/32b181212a8f0917ccfbb26b5dd79e8d.png)
+![demo-picture-of-container2wasm](https://static.osguider.com/history/2024/32b181212a8f0917ccfbb26b5dd79e8d.png)
 
 container2wasm 是一个容器到 WASM 镜像转换器，能够在 WASM 上运行容器。
 

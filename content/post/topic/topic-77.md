@@ -2,7 +2,7 @@
 title: "高效实用工具库，简化操作没难度 | 开源专题 No.77"
 description: "这里汇聚了众多实用工具，涵盖办公、系统优化、文件清理等领域。它们能让你的工作与生活更加便捷高效，一键解决各种难题，快来探索这个实用工具的宝库吧！"
 date: "2024-05-10T23:35:44.597Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f3a4863fe1646a4fa3bd2475e2e4f751.png"
+image: "https://static.osguider.com/history/osguider/f3a4863fe1646a4fa3bd2475e2e4f751.png"
 tags: []
 categories:
   - "topic"
@@ -29,7 +29,7 @@ LKY_OfficeTools 是一个一键自动化下载、安装、激活 Office 的开�
 
 {{< shields path="github/stars/qarmin/czkawka" alt="Github Repo Stars" >}} {{< shields path="github/license/qarmin/czkawka" alt="License: " >}} {{< shields path="github/languages/top/qarmin/czkawka" alt="Language: " >}}
 
-![demo-picture-of-czkawka](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a78c8e37590a116bcaa18171741b374f.png)
+![demo-picture-of-czkawka](https://static.osguider.com/history/osguider/a78c8e37590a116bcaa18171741b374f.png)
 
 Czkawka 是一个简单、快速和免费的应用程序，可以从计算机中删除不必要的文件。
 
@@ -59,7 +59,7 @@ ExplorerPatcher 是一个旨在改善 Windows 工作环境的开源项目。
 
 {{< shields path="github/stars/GopeedLab/gopeed" alt="Github Repo Stars" >}} {{< shields path="github/license/GopeedLab/gopeed" alt="License: " >}} {{< shields path="github/languages/top/GopeedLab/gopeed" alt="Language: " >}}
 
-![demo-picture-of-gopeed](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/a1ff828ff4199aea3662795d8442bbaa.png)
+![demo-picture-of-gopeed](https://static.osguider.com/history/2023/a1ff828ff4199aea3662795d8442bbaa.png)
 
 Gopeed 是一个高速下载器，支持所有平台。
 
@@ -71,7 +71,7 @@ Gopeed 是一个高速下载器，支持所有平台。
 
 {{< shields path="github/stars/ChrisTitusTech/winutil" alt="Github Repo Stars" >}} {{< shields path="github/license/ChrisTitusTech/winutil" alt="License: " >}} {{< shields path="github/languages/top/ChrisTitusTech/winutil" alt="Language: " >}}
 
-![demo-picture-of-winutil](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/de01fcd5fe615e899ffd4e869fc082f3.png)
+![demo-picture-of-winutil](https://static.osguider.com/history/osguider/de01fcd5fe615e899ffd4e869fc082f3.png)
 
 Chris Titus Tech's Windows Utility 是一个用于安装程序、调整、修复和更新的 Windows 实用工具。
 

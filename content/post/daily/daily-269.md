@@ -3,7 +3,7 @@ title: "LLM DevOps 平台：加速大模型应用开发 | 开源日报 No.269"
 description: "bisheng 是一款开源的 LLM DevOps 平台。
 该项目旨在赋能和加速大模型应用开发，帮助用户以最佳体验进入下一代应用开发模式。"
 date: "2024-05-29T23:35:44.870Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/405a68188c2da43ec5e559fa3efc1ebb.png"
+image: "https://static.osguider.com/history/osguider/405a68188c2da43ec5e559fa3efc1ebb.png"
 tags: []
 categories:
   - "daily"
@@ -73,7 +73,7 @@ bisheng 是一款开源的 LLM DevOps 平台。
 
 {{< shields path="github/stars/LemmyNet/lemmy" alt="Github Repo Stars" >}} {{< shields path="github/license/LemmyNet/lemmy" alt="License: " >}} {{< shields path="github/languages/top/LemmyNet/lemmy" alt="Language: " >}}
 
-![demo-picture-of-lemmy](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d35e2044fe6f09029e7b3580e6614d7b.webp)
+![demo-picture-of-lemmy](https://static.osguider.com/history/osguider/d35e2044fe6f09029e7b3580e6614d7b.webp)
 
 lemmy 是一个面向联合网络的链接聚合器和论坛。
 该项目提供了一个类似于 Reddit、Lobste.rs 或 Hacker News 的网站，用户可以订阅感兴趣的论坛、发布链接和讨论，进行投票和评论。它是一个易于自行托管的去中心化替代品，不受 Reddit 等公司控制干预。

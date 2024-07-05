@@ -2,7 +2,7 @@
 title: "60 个深度学习教程：包含论文、实现和注释 | 开源日报 No.202"
 description: "annotated_deep_learning_paper_implementations 是一个包含深度学习论文的 60 个实现/教程，附带并排注释；包括 transformers（原始、xl、switch、feedback、vit 等）、优化器（adam, adabelief, sophia 等）、gans(cyclegan, stylegan2 等) ，强化学习 (ppo, dqn), capsnet 和 distillation 等。"
 date: "2024-03-02T23:35:32.847Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e00a3bc3f92a1019175fe6ea190586ab.png"
+image: "https://static.osguider.com/history/osguider/e00a3bc3f92a1019175fe6ea190586ab.png"
 tags: []
 categories:
   - "daily"

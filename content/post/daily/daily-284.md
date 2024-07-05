@@ -2,7 +2,7 @@
 title: "个人理财与资产管理：开源的个人财务操作系统 | 开源日报 No.284"
 description: "《maybe》是一个开源的个人财务操作系统，旨在帮助用户管理个人财务，具有全面的个人理财和资产管理功能，支持多货币操作，还有与真实理财师连接的功能，让用户可以获取理财建议。全面开源，可以免费运行并自行托管应用程序。"
 date: "2024-06-23T23:35:54.271Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a156c0d067c97a379efff8d9bce30bef.png"
+image: "https://static.osguider.com/history/osguider/a156c0d067c97a379efff8d9bce30bef.png"
 tags: []
 categories:
   - "daily"
@@ -43,7 +43,7 @@ winget-pkgs 是微软社区 Windows Package Manager 的清单存储库。
 
 {{< shields path="github/stars/google/mesop" alt="Github Repo Stars" >}} {{< shields path="github/license/google/mesop" alt="License: " >}} {{< shields path="github/languages/top/google/mesop" alt="Language: " >}}
 
-![demo-picture-of-mesop](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/0fd4d8d3bf2248fb21743b1ea8079127.png)
+![demo-picture-of-mesop](https://static.osguider.com/history/2024/0fd4d8d3bf2248fb21743b1ea8079127.png)
 
 mesop 是一个基于 Python 的 UI 框架，可以快速构建令人愉悦的 Web 应用程序。
 

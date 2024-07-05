@@ -2,7 +2,7 @@
 title: "58k Star 的前端可视化图表库！功能强大、海量模板 | 开源日报 No.197"
 description: "echarts 是一个功能强大、交互式的图表和数据可视化库，适用于浏览器。纯 JavaScript 编写，基于轻量级画布库 zrender，提供直观、交互式且高度可定制的图表，支持各种类型的图表展示。可通过 npm 安装或 CDN 获取，同时提供详细文档和示例代码。是一个不可多得的数据可视化利器。"
 date: "2024-02-26T23:35:41.624Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/47c203944e2acabe6c7349cceab3e9e8.png"
+image: "https://static.osguider.com/history/osguider/47c203944e2acabe6c7349cceab3e9e8.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/apache/echarts" alt="Github Repo Stars" >}} {{< shields path="github/license/apache/echarts" alt="License: " >}} {{< shields path="github/languages/top/apache/echarts" alt="Language: " >}}
 
-![demo-picture-of-echarts](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/c8b2a6a4a4738e0b4cd625715dd112e2.png)
+![demo-picture-of-echarts](https://static.osguider.com/history/2024/c8b2a6a4a4738e0b4cd625715dd112e2.png)
 
 echarts 是一个功能强大、交互式的图表和数据可视化库，适用于浏览器。
 
@@ -42,7 +42,7 @@ linux-tutorial 是一个 Linux 教程。
 
 {{< shields path="github/stars/vosen/ZLUDA" alt="Github Repo Stars" >}} {{< shields path="github/license/vosen/ZLUDA" alt="License: " >}} {{< shields path="github/languages/top/vosen/ZLUDA" alt="Language: " >}}
 
-![demo-picture-of-ZLUDA](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/592a10211dd4389448fed7b6a432b26d.png)
+![demo-picture-of-ZLUDA](https://static.osguider.com/history/2024/592a10211dd4389448fed7b6a432b26d.png)
 
 ZLUDA 是在 AMD GPU 上运行 CUDA 的项目。
 该项目允许在 Intel AMD GPU 上以接近原生性能运行未经修改的 CUDA 应用程序。主要功能和核心优势包括：

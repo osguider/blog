@@ -2,7 +2,7 @@
 title: "把家里的镜子变成个人助手：体验魔镜的神奇魅力 | 开源日报 No.260"
 description: "MagicMirror 是一个开源的模块化智能镜面平台，可以将你的走廊或浴室镜子变成个人助手。"
 date: "2024-05-13T23:35:38.264Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b93ed5e8ef958d0122cdf13a8bc6a432.png"
+image: "https://static.osguider.com/history/osguider/b93ed5e8ef958d0122cdf13a8bc6a432.png"
 tags: []
 categories:
   - "daily"

@@ -3,7 +3,7 @@ title: "Cloudflare CDN 速度测试：找到最快的 IP 段 | 开源日报 No.2
 description: "国外很多网站都在使用 Cloudflare CDN，但分配给中国内地访客的 IP 并不友好（延迟高、丢包多、速度慢）。
 虽然 Cloudflare 公开了所有 IP 段 ，但想要在这么多 IP 中找到适合自己的，怕是要累死，于是就有了这个软件。"
 date: "2024-05-07T23:35:59.976Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f7113b507c51b22a54ad8133baff7f3e.png"
+image: "https://static.osguider.com/history/osguider/f7113b507c51b22a54ad8133baff7f3e.png"
 tags: []
 categories:
   - "daily"

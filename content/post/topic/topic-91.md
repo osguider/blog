@@ -2,7 +2,7 @@
 title: "打造极致工作环境：开源项目助你效率腾飞 | 开源专题 No.91"
 description: "对于追求高效率和多功能性的专业人士而言，这些开源项目提供了完善的解决方案，以满足您在日常工作中的各种需求。"
 date: "2024-06-14T23:35:24.677Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/60e3bce01d6068ba7fcfbf352de5da9d.png"
+image: "https://static.osguider.com/history/osguider/60e3bce01d6068ba7fcfbf352de5da9d.png"
 tags: []
 categories:
   - "topic"
@@ -64,7 +64,7 @@ FileConverter 是一个非常简单的工具，允许您使用 Windows 资源管
 
 {{< shields path="github/stars/gorhill/uBlock" alt="Github Repo Stars" >}} {{< shields path="github/license/gorhill/uBlock" alt="License: " >}} {{< shields path="github/languages/top/gorhill/uBlock" alt="Language: " >}}
 
-![demo-picture-of-uBlock](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c1bf06b825ebc9ae46115a80bc15c70d.png)
+![demo-picture-of-uBlock](https://static.osguider.com/history/2023/c1bf06b825ebc9ae46115a80bc15c70d.png)
 
 uBlock Origin (uBO) 是一个 CPU 和内存高效的广谱内容拦截器，适用于 Chromium 和 Firefox。它默认使用 EasyList、EasyPrivacy、Peter Lowe's Blocklist、Online Malicious URL Blocklist 以及 uBO filter lists 等来阻止广告、追踪器、虚拟货币挖矿程序、弹窗广告等。该项目具有以下核心优势：
 

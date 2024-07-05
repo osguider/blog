@@ -3,7 +3,7 @@ title: "适用于 JS/TS 的 ORM 框架：高质量、松耦合、可扩展 | 开
 description: "TypeORM 是 TypeScript 和 JavaScript 的 ORM。
 TypeORM 的核心目标是始终支持最新的 JavaScript 特性，并提供额外的功能，帮助您开发任何类型的数据库应用程序——从具有少量表的小型应用程序到具有多个数据库的大型企业应用程序。"
 date: "2024-06-02T23:36:10.422Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a283a015194da6077af241d24140b699.png"
+image: "https://static.osguider.com/history/osguider/a283a015194da6077af241d24140b699.png"
 tags: []
 categories:
   - "daily"
@@ -13,7 +13,7 @@ categories:
 
 {{< shields path="github/stars/Ph0enixKM/Amber" alt="Github Repo Stars" >}} {{< shields path="github/license/Ph0enixKM/Amber" alt="License: " >}} {{< shields path="github/languages/top/Ph0enixKM/Amber" alt="Language: " >}}
 
-![demo-picture-of-Amber](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/c9c6c15bd415dcdb3699855a97d6ef4b.png)
+![demo-picture-of-Amber](https://static.osguider.com/history/2024/c9c6c15bd415dcdb3699855a97d6ef4b.png)
 
 Amber 是编译成 Bash 的编程语言。
 

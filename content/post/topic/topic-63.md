@@ -2,7 +2,7 @@
 title: "漏洞扫描、密钥管理和破解工具集 | 开源专题 No.63"
 description: "trickest/cve 是一个开源项目，收集和整理各种最新热门的漏洞利用代码，并提供相应链接。hashicorp/vault 是一个用于安全访问密钥的工具，提供安全存储、动态凭据、数据加密等功能。frida/frida 是一个动态仪器工具包，提供动态插桩技术。trufflesecurity/trufflehog 是一个用于查找泄露凭据的开源项目。RsaCtfTool/RsaCtfTool 是一个用于解密弱公钥数据的工具。swisskyrepo/PayloadsAllTheThings 是一个 Web 应用安全知识库。"
 date: "2024-01-12T23:35:15.714Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/70be784cc8715bce01ce598427c1badd.png"
+image: "https://static.osguider.com/history/osguider/70be784cc8715bce01ce598427c1badd.png"
 tags: []
 categories:
   - "topic"
@@ -25,7 +25,7 @@ RsaCtfTool 是一个复杂的实用工具，旨在解密弱公钥数据并尝试
 
 {{< shields path="github/stars/trickest/cve" alt="Github Repo Stars" >}} {{< shields path="github/license/trickest/cve" alt="License: " >}} {{< shields path="github/languages/top/trickest/cve" alt="Language: " >}}
 
-![demo-picture-of-cve](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/01b97c667c85c776a83e30b25d29b550.png)
+![demo-picture-of-cve](https://static.osguider.com/history/2023/01b97c667c85c776a83e30b25d29b550.png)
 
 该项目是一个 CVE PoC (Proof of Concept) 的开源项目，几乎包含了所有公开可用的 CVE PoC。其主要功能是收集和整理各种最新热门的漏洞利用代码，并提供相应链接。该项目具有以下核心优势和特点：
 
@@ -50,7 +50,7 @@ Frida 是一个动态仪器工具包，适用于开发人员、逆向工程师�
 
 {{< shields path="github/stars/hashicorp/vault" alt="Github Repo Stars" >}} {{< shields path="github/license/hashicorp/vault" alt="License: " >}} {{< shields path="github/languages/top/hashicorp/vault" alt="Language: " >}}
 
-![demo-picture-of-vault](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/654dc94f73579db77bc6793da892107c.png)
+![demo-picture-of-vault](https://static.osguider.com/history/2023/654dc94f73579db77bc6793da892107c.png)
 
 Vault 是一个用于安全访问密钥的工具。密钥可以是您想要严格控制访问权限的任何内容，例如 API 密钥、密码、证书等。Vault 提供了统一接口来管理这些密钥，并提供紧密的访问控制和详细的审计日志记录。
 该项目主要功能包括：
@@ -65,7 +65,7 @@ Vault 是一个用于安全访问密钥的工具。密钥可以是您想要严�
 
 {{< shields path="github/stars/trufflesecurity/trufflehog" alt="Github Repo Stars" >}} {{< shields path="github/license/trufflesecurity/trufflehog" alt="License: " >}} {{< shields path="github/languages/top/trufflesecurity/trufflehog" alt="Language: " >}}
 
-![demo-picture-of-trufflehog](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/d61a49b6ad688554ca88475155628b50.png)
+![demo-picture-of-trufflehog](https://static.osguider.com/history/2023/d61a49b6ad688554ca88475155628b50.png)
 
 TruffleHog 是一个开源项目，主要功能是查找泄露的凭据。该项目的核心优势和关键特点包括：
 
@@ -79,7 +79,7 @@ TruffleHog 是一个开源项目，主要功能是查找泄露的凭据。该项
 
 {{< shields path="github/stars/swisskyrepo/PayloadsAllTheThings" alt="Github Repo Stars" >}} {{< shields path="github/license/swisskyrepo/PayloadsAllTheThings" alt="License: " >}} {{< shields path="github/languages/top/swisskyrepo/PayloadsAllTheThings" alt="Language: " >}}
 
-![demo-picture-of-PayloadsAllTheThings](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/1873cafec15fdb1f6abe4f84368f1973.png)
+![demo-picture-of-PayloadsAllTheThings](https://static.osguider.com/history/2023/1873cafec15fdb1f6abe4f84368f1973.png)
 
 这个项目是一个 Web 应用安全知识库，提供了漏洞描述、利用方法和多种有效荷载等信息，可以帮助我们增强 Web 安全。
   

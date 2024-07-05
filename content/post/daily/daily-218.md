@@ -2,7 +2,7 @@
 title: "完全可定制的富文本编辑器：逻辑清晰，插件赋能 | 开源日报 No.218"
 description: "slate 是一个完全可定制的框架，用于构建富文本编辑器。"
 date: "2024-03-18T23:35:32.136Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0b4fbf090bdc270234d6f0d16e7e3681.png"
+image: "https://static.osguider.com/history/osguider/0b4fbf090bdc270234d6f0d16e7e3681.png"
 tags: []
 categories:
   - "daily"

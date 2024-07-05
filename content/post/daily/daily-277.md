@@ -3,7 +3,7 @@ title: "GPT-4o 客户端替代方案：支持屏幕阅读、麦克风交互 | �
 description: "gpt-computer-assistant 是一个为 Windows、macOS 和 Ubuntu 提供的 GPT-4o 替代方案。
 该项目旨在为用户提供 ChatGPT MacOS 应用程序的替代品，支持在 Windows 和 Linux 系统上运行。"
 date: "2024-06-12T23:35:56.701Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4b82163ccb317776674136435931f2b7.png"
+image: "https://static.osguider.com/history/osguider/4b82163ccb317776674136435931f2b7.png"
 tags: []
 categories:
   - "daily"

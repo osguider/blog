@@ -2,7 +2,7 @@
 title: "信息安全工具集：实用便捷全搞定 | 开源专题 No.66"
 description: "这些开源项目各具特色，涵盖安全测试、网络监控、网络分割等领域，能满足多种需求，提供便捷与实用，快来体验吧！"
 date: "2024-04-18T23:35:58.623Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0f91d32b32b334f720382149cb93a3f9.png"
+image: "https://static.osguider.com/history/osguider/0f91d32b32b334f720382149cb93a3f9.png"
 tags: []
 categories:
   - "topic"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/danielmiessler/SecLists" alt="Github Repo Stars" >}} {{< shields path="github/license/danielmiessler/SecLists" alt="License: " >}} {{< shields path="github/languages/top/danielmiessler/SecLists" alt="Language: " >}}
 
-![demo-picture-of-SecLists](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/410960b5c1f73d0efed7a27aadff4fff.png)
+![demo-picture-of-SecLists](https://static.osguider.com/history/2024/410960b5c1f73d0efed7a27aadff4fff.png)
 
 SecLists 是安全测试人员的伴侣，它是一个收集了多种类型列表的项目，用于安全评估。这些列表包括用户名、密码、URL、敏感数据模式、模糊负载、Web shell 等。其目标是使安全测试人员能够将该存储库拉到新的测试环境中，并测试可能需要的每种类型的列表。
 
@@ -37,7 +37,7 @@ NucleiTP 是一个全网监控 Nuclei Poc 实时更新的项目。
 
 {{< shields path="github/stars/sergiomarotco/Network-segmentation-cheat-sheet" alt="Github Repo Stars" >}} {{< shields path="github/license/sergiomarotco/Network-segmentation-cheat-sheet" alt="License: " >}} {{< shields path="github/languages/top/sergiomarotco/Network-segmentation-cheat-sheet" alt="Language: " >}}
 
-![demo-picture-of-Network-segmentation-cheat-sheet](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/16e031bd961599decdd362588fa896b6.png)
+![demo-picture-of-Network-segmentation-cheat-sheet](https://static.osguider.com/history/2023/16e031bd961599decdd362588fa896b6.png)
 
 这个项目是关于企业网络分割的最佳实践，旨在发布适用于任何公司的企业网络分割方案。该项目提供了图形示意图以及网络拓扑结构源代码，并介绍了不同级别的网络分割：基本分隔、采纳基本安全实践、高度采纳安全实践和大规模部署先进安全实践。主要功能包括保护生产环境免受攻击、增加对支持基础设施的复制来确保生产环境稳定等。
   

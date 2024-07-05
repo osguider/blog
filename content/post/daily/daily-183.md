@@ -2,7 +2,7 @@
 title: "替代 Intercom 和 Zendesk： 开源的客户互动套件 | 开源日报 No.183"
 description: "chatwoot 是一个开源的客户互动套件，是 Intercom、Zendesk、Salesforce Service Cloud 等的替代品。"
 date: "2024-02-12T23:35:54.327Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/079c6ab212c60028f566a20def0c420c.png"
+image: "https://static.osguider.com/history/osguider/079c6ab212c60028f566a20def0c420c.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/iDvel/rime-ice" alt="Github Repo Stars" >}} {{< shields path="github/license/iDvel/rime-ice" alt="License: " >}} {{< shields path="github/languages/top/iDvel/rime-ice" alt="Language: " >}}
 
-![demo-picture-of-rime-ice](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/99b6a3dd5bdbbf5c7dab74c444c335ad.webp)
+![demo-picture-of-rime-ice](https://static.osguider.com/history/osguider/99b6a3dd5bdbbf5c7dab74c444c335ad.webp)
 
 RIME | 中州韵输入法引擎是一个跨平台的输入法算法框架，这里是 Rime 的一个配置仓库。雾凇拼音提供了一整套开箱即用的完整配置，包括了多个输入方案、词库及其他功能扩展。主要功能包括 melt_eng 英文输入、优化英文输入体验、两分输入法拼字等。其核心优势和特点包括长期维护词库以及全面校对异形词、错别字，并且欢迎用户在词库方面提 issue 进行更新修正。
   
@@ -20,7 +20,7 @@ RIME | 中州韵输入法引擎是一个跨平台的输入法算法框架，这�
 
 {{< shields path="github/stars/activepieces/activepieces" alt="Github Repo Stars" >}} {{< shields path="github/license/activepieces/activepieces" alt="License: " >}} {{< shields path="github/languages/top/activepieces/activepieces" alt="Language: " >}}
 
-![demo-picture-of-activepieces](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a44679a96c9542d2d141772c527d58ed.gif)
+![demo-picture-of-activepieces](https://static.osguider.com/history/osguider/a44679a96c9542d2d141772c527d58ed.gif)
 
 Activepiece 是一个友好的开源全能自动化工具，旨在通过使用 TypeScript 编写的类型安全 pieces 框架进行扩展。其主要功能包括流程构建器、Pieces 集成以及 LLM 聊天机器人和数据源 (BETA 版)。该项目的关键特点和核心优势包括：
 
@@ -34,7 +34,7 @@ Activepiece 是一个友好的开源全能自动化工具，旨在通过使用 T
 
 {{< shields path="github/stars/chatwoot/chatwoot" alt="Github Repo Stars" >}} {{< shields path="github/license/chatwoot/chatwoot" alt="License: " >}} {{< shields path="github/languages/top/chatwoot/chatwoot" alt="Language: " >}}
 
-![demo-picture-of-chatwoot](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/aedef1ec2f4f614758a987fbd3cc865c.png)
+![demo-picture-of-chatwoot](https://static.osguider.com/history/2023/aedef1ec2f4f614758a987fbd3cc865c.png)
 
 chatwoot 是一个开源的客户互动套件，是 Intercom、Zendesk、Salesforce Service Cloud 等的替代品。
 该项目主要功能、关键特性和核心优势包括：
@@ -62,7 +62,7 @@ Consistency Decoder
 
 {{< shields path="github/stars/jxnl/instructor" alt="Github Repo Stars" >}} {{< shields path="github/license/jxnl/instructor" alt="License: " >}} {{< shields path="github/languages/top/jxnl/instructor" alt="Language: " >}}
 
-![demo-picture-of-instructor](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/825ab43d9746920d3437835a0a2f8c4c.png)
+![demo-picture-of-instructor](https://static.osguider.com/history/osguider/825ab43d9746920d3437835a0a2f8c4c.png)
 
 这个项目是一个使用 OpenAI 的函数调用 API 进行结构化提取的 Python 库，旨在简单、透明和可控。它专门与 openai 的函数调用 api 交互，并且设计得直观易用，同时能够很好地展示如何通过文档来利用它。该项目具有以下核心优势：
 

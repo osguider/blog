@@ -3,7 +3,7 @@ title: "支持编写任何类型的爬虫：基于 Golang 的优雅爬虫框架 
 description: "colly 是 Golang 的优雅爬虫和爬虫框架。
 该项目提供了一个清晰的接口，用于编写任何类型的爬虫/抓取器/蜘蛛。Colly 可以轻松从网站中提取结构化数据，可用于数据挖掘、数据处理或存档等各种应用。"
 date: "2024-03-16T23:35:08.589Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4f9142779c9143e8105172cde9eb7cf6.png"
+image: "https://static.osguider.com/history/osguider/4f9142779c9143e8105172cde9eb7cf6.png"
 tags: []
 categories:
   - "daily"
@@ -48,7 +48,7 @@ Postgres Language Server 是一个为 Postgres 设计的语言服务器，它实
 
 {{< shields path="github/stars/FranxYao/chain-of-thought-hub" alt="Github Repo Stars" >}} {{< shields path="github/license/FranxYao/chain-of-thought-hub" alt="License: " >}} {{< shields path="github/languages/top/FranxYao/chain-of-thought-hub" alt="Language: " >}}
 
-![demo-picture-of-chain-of-thought-hub](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ad501bd3be06c439feb27cc9178e1408.png)
+![demo-picture-of-chain-of-thought-hub](https://static.osguider.com/history/osguider/ad501bd3be06c439feb27cc9178e1408.png)
 
 这个项目是 Chain-of-Thought Hub，旨在衡量大型语言模型 (LLMs) 在复杂推理任务上的表现。该项目编译了一系列包括数学、科学、符号逻辑、知识和编码等领域的复杂推理任务，并提供评估脚本以及各种模型的结果。其核心优势和主要功能包括：
 

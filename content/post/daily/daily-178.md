@@ -2,7 +2,7 @@
 title: "定制学习风格、满足多元需求：Mr. Ranedeer 帮你打造 AI 家教 | 开源日报 No.178"
 description: "Mr. Ranedeer 是一个个性化的 AI 辅导项目，主要功能包括使用 GPT-4 生成定制化提示，为用户提供个性化学习体验。"
 date: "2024-02-07T23:35:17.259Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3daa3c0bccee635e94dff2c27d400a80.png"
+image: "https://static.osguider.com/history/osguider/3daa3c0bccee635e94dff2c27d400a80.png"
 tags: []
 categories:
   - "daily"
@@ -45,7 +45,7 @@ Sokol 是一个简单的、跨平台的 C 和 C++ 库，提供了一系列类似
 
 {{< shields path="github/stars/microsoft/ML-For-Beginners" alt="Github Repo Stars" >}} {{< shields path="github/license/microsoft/ML-For-Beginners" alt="License: " >}} {{< shields path="github/languages/top/microsoft/ML-For-Beginners" alt="Language: " >}}
 
-![demo-picture-of-ML-For-Beginners](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2ee5851fdd14fb777163c9dfef721412.png)
+![demo-picture-of-ML-For-Beginners](https://static.osguider.com/history/osguider/2ee5851fdd14fb777163c9dfef721412.png)
 
 这个项目是一个面向初学者的机器学习课程，主要功能包括使用 Scikit-learn 库进行经典机器学习教育，并且避开深度学习。该课程以 12 周、26 节课为周期，涵盖了从基础概念到实际应用的多个领域数据分析和建模技术。其核心优势和特点包括：
 
@@ -77,7 +77,7 @@ AzerothCore 是一个开源的游戏服务器应用程序和框架，旨在托�
 
 {{< shields path="github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor" alt="Github Repo Stars" >}} {{< shields path="github/license/JushBJJ/Mr.-Ranedeer-AI-Tutor" alt="License: " >}} {{< shields path="github/languages/top/JushBJJ/Mr.-Ranedeer-AI-Tutor" alt="Language: " >}}
 
-![demo-picture-of-Mr.-Ranedeer-AI-Tutor](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ebb1047aff7ff4fdb5e20eb21a0f455b.png)
+![demo-picture-of-Mr.-Ranedeer-AI-Tutor](https://static.osguider.com/history/osguider/ebb1047aff7ff4fdb5e20eb21a0f455b.png)
 
 Mr. Ranedeer 是一个个性化的 AI 辅导项目，主要功能包括使用 GPT-4 生成定制化提示，为用户提供个性化学习体验。其核心优势和特点包括：
 

@@ -2,7 +2,7 @@
 title: "智能且用户友好的命令行：实时自动建议、精美标签补全 | 开源日报 No.246"
 description: "探索全新的命令行体验！fish-shell 是一款智能且用户友好的命令行 shell，拥有语法高亮、实时自动建议和精美的标签补全等特性，无需额外配置即可使用。"
 date: "2024-04-19T23:35:51.350Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5ee0980dfb8c50dcdf1c29491f701960.png"
+image: "https://static.osguider.com/history/osguider/5ee0980dfb8c50dcdf1c29491f701960.png"
 tags: []
 categories:
   - "daily"
@@ -24,7 +24,7 @@ awesome-python-applications 是一个免费且开源的 Python 软件集合。
 
 {{< shields path="github/stars/fish-shell/fish-shell" alt="Github Repo Stars" >}} {{< shields path="github/license/fish-shell/fish-shell" alt="License: " >}} {{< shields path="github/languages/top/fish-shell/fish-shell" alt="Language: " >}}
 
-![demo-picture-of-fish-shell](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/8b25c8b19c22b9e648bed5e49dfebce0.png)
+![demo-picture-of-fish-shell](https://static.osguider.com/history/2024/8b25c8b19c22b9e648bed5e49dfebce0.png)
 
 fish-shell 是一个用户友好的命令行 shell。
 它是一个智能且用户友好的命令行 shell，适用于 macOS、Linux 以及其他相关系统。其特性包括语法高亮、实时自动建议和精美的标签补全，无需额外配置即可使用。同时提供详细的用户文档，并支持在不同平台上进行安装和构建。
@@ -39,7 +39,7 @@ fish-shell 是一个用户友好的命令行 shell。
 
 {{< shields path="github/stars/AILab-CVC/VideoCrafter" alt="Github Repo Stars" >}} {{< shields path="github/license/AILab-CVC/VideoCrafter" alt="License: " >}} {{< shields path="github/languages/top/AILab-CVC/VideoCrafter" alt="Language: " >}}
 
-![demo-picture-of-VideoCrafter](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/98cb54863df802dba190948279722a5d.jpeg)
+![demo-picture-of-VideoCrafter](https://static.osguider.com/history/osguider/98cb54863df802dba190948279722a5d.jpeg)
 
 VideoCrafter1 是一个用于高质量视频生成的开源工具箱。它包括了 Text2Video 和 Image2Video 模型，可以通过文本或图像生成视频内容。其主要功能如下：
 
@@ -71,7 +71,7 @@ python-mastery 是 David Beazley 的《高级 Python 掌握》课程。
 
 {{< shields path="github/stars/svc-develop-team/so-vits-svc" alt="Github Repo Stars" >}} {{< shields path="github/license/svc-develop-team/so-vits-svc" alt="License: " >}} {{< shields path="github/languages/top/svc-develop-team/so-vits-svc" alt="Language: " >}}
 
-![demo-picture-of-so-vits-svc](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/17c8abe09997b01186d7d980f5949fb7.png)
+![demo-picture-of-so-vits-svc](https://static.osguider.com/history/osguider/17c8abe09997b01186d7d980f5949fb7.png)
 
 so-vits-svc 是 SoftVC VITS Singing Voice Conversion 项目。该项目专注于歌声转换（SVC），而不是文本到语音（TTS）功能。
 其主要特点和优势包括：

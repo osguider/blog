@@ -2,7 +2,7 @@
 title: "安卓开发好帮手，提升效率不用愁 | 开源专题 No.80"
 description: "在这个移动设备盛行的时代，你是否渴望拥有一套强大的工具，让你的移动体验更上一层楼？这里，我们为你汇聚了一系列令人惊叹的开源项目，它们将助你轻松驾驭移动世界！"
 date: "2024-05-18T23:35:25.616Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0c3d1d768272d95f3c27f3945fac58be.png"
+image: "https://static.osguider.com/history/osguider/0c3d1d768272d95f3c27f3945fac58be.png"
 tags: []
 categories:
   - "topic"
@@ -25,7 +25,7 @@ _fastlane_ 是一个用于 iOS 和 Android 开发人员自动化繁琐任务的�
 
 {{< shields path="github/stars/TeamNewPipe/NewPipe" alt="Github Repo Stars" >}} {{< shields path="github/license/TeamNewPipe/NewPipe" alt="License: " >}} {{< shields path="github/languages/top/TeamNewPipe/NewPipe" alt="Language: " >}}
 
-![demo-picture-of-NewPipe](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/77a264ab4024c4eff0d83565032889f6.png)
+![demo-picture-of-NewPipe](https://static.osguider.com/history/2023/77a264ab4024c4eff0d83565032889f6.png)
 
 NewPipe 是一个轻量级 Android 流媒体前端。该项目通过从所使用服务的官方 API (例如 PeerTube) 获取所需数据来工作。
 
@@ -39,7 +39,7 @@ NewPipe 是一个轻量级 Android 流媒体前端。该项目通过从所使用
 
 {{< shields path="github/stars/ASHWIN990/ADB-Toolkit" alt="Github Repo Stars" >}} {{< shields path="github/license/ASHWIN990/ADB-Toolkit" alt="License: " >}} {{< shields path="github/languages/top/ASHWIN990/ADB-Toolkit" alt="Language: " >}}
 
-![demo-picture-of-ADB-Toolkit](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/6e8c1e286260b7930455fe63c72877cd.png)
+![demo-picture-of-ADB-Toolkit](https://static.osguider.com/history/2023/6e8c1e286260b7930455fe63c72877cd.png)
 
 ADB-Toolkit V2 是一个用于 Android 设备测试和渗透测试的工具。它是一个 BASH 脚本，提供了 28 个选项以及包含有关 Metasploit payload 的 6 个选项的 METASPLOIT 部分。
 

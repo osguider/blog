@@ -2,7 +2,7 @@
 title: "高效 UI 组件，节省开发时间 | 开源专题 No.70"
 description: "想要让你的前端项目脱颖而出？快来看看这些开源的 UI 组件库和 CSS 引擎吧，它们会给你带来意想不到的效果！"
 date: "2024-04-26T23:35:32.249Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f63e4000175f9d253ce2ff5a0cc54637.png"
+image: "https://static.osguider.com/history/osguider/f63e4000175f9d253ce2ff5a0cc54637.png"
 tags: []
 categories:
   - "topic"
@@ -30,7 +30,7 @@ chakra-ui 是一个为 React 应用程序提供的简单、模块化和可访问
 
 {{< shields path="github/stars/unocss/unocss" alt="Github Repo Stars" >}} {{< shields path="github/license/unocss/unocss" alt="License: " >}} {{< shields path="github/languages/top/unocss/unocss" alt="Language: " >}}
 
-![demo-picture-of-unocss](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/e2fdb00f66ac03fd71c1ea4fb4fb1bb6.png)
+![demo-picture-of-unocss](https://static.osguider.com/history/2024/e2fdb00f66ac03fd71c1ea4fb4fb1bb6.png)
 
 该项目是一个即时的按需原子 CSS 引擎，受到 Windi CSS、Tailwind CSS 和 Twind 的启发，解决了定制化、速度和体积的问题。
 
@@ -49,7 +49,7 @@ chakra-ui 是一个为 React 应用程序提供的简单、模块化和可访问
 
 {{< shields path="github/stars/chokcoco/iCSS" alt="Github Repo Stars" >}} {{< shields path="github/license/chokcoco/iCSS" alt="License: " >}} {{< shields path="github/languages/top/chokcoco/iCSS" alt="Language: " >}}
 
-![demo-picture-of-iCSS](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/3c85066411cb7bbe5d12acb55ed55114.gif)
+![demo-picture-of-iCSS](https://static.osguider.com/history/2023/3c85066411cb7bbe5d12acb55ed55114.gif)
 
 这个项目是围绕 CSS/Web 动画展开的，内容包括有趣的话题和容易忽视但十分有趣的 CSS 细节。
 该项目的核心优势在于：
@@ -62,7 +62,7 @@ chakra-ui 是一个为 React 应用程序提供的简单、模块化和可访问
 
 {{< shields path="github/stars/EmergeTools/Pow" alt="Github Repo Stars" >}} {{< shields path="github/license/EmergeTools/Pow" alt="License: " >}} {{< shields path="github/languages/top/EmergeTools/Pow" alt="Language: " >}}
 
-![demo-picture-of-Pow](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/11ce1b5138409cae17a17b202808eb5c.png)
+![demo-picture-of-Pow](https://static.osguider.com/history/2023/11ce1b5138409cae17a17b202808eb5c.png)
 
 Pow 是一个为您的应用程序提供愉快的 SwiftUI 效果的项目。
 
@@ -75,7 +75,7 @@ Pow 是一个为您的应用程序提供愉快的 SwiftUI 效果的项目。
 
 {{< shields path="github/stars/primefaces/primeng" alt="Github Repo Stars" >}} {{< shields path="github/license/primefaces/primeng" alt="License: " >}} {{< shields path="github/languages/top/primefaces/primeng" alt="Language: " >}}
 
-![demo-picture-of-primeng](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/71da6c9794faac33838fc4bb761659ea.jpeg)
+![demo-picture-of-primeng](https://static.osguider.com/history/osguider/71da6c9794faac33838fc4bb761659ea.jpeg)
 
 最完整的 Angular UI 组件库。
   

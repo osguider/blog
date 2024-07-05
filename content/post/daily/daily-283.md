@@ -2,7 +2,7 @@
 title: "基于 Rust 的 Warp 终端：现代化、支持人工智能 | 开源日报 No.283"
 description: "Warp 是一个基于 Rust 的现代化终端，内置人工智能，能帮助您和团队更快地构建优秀的软件。支持 macOS 和 Linux 平台，无需等待列表，提供公共测试版，用户体验优于其他终端。未来计划支持 Windows 和 Web (WASM)，提供平台特定的安装指南和文档，每周发布更新，有社区搜索页面和 GitHub 问题模板。计划首先开源 Rust UI 框架，然后是部分或全部客户端代码库，开源扩展点，允许社区贡献新主题和工作流程。"
 date: "2024-06-22T23:35:18.643Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/12737b3820a1356b63648a8f450499c1.png"
+image: "https://static.osguider.com/history/osguider/12737b3820a1356b63648a8f450499c1.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,7 @@
 title: "数据同步神器：支持 40 种异构数据库！ | 开源日报 No.217"
 description: "DataX 是阿里云 DataWorks 数据集成的开源版本，实现了各种异构数据源之间高效的数据同步功能，包括 MySQL、Oracle、HDFS 等多种数据源"
 date: "2024-03-17T23:36:03.365Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/916e73e885303a8dca3b962709accdd8.png"
+image: "https://static.osguider.com/history/osguider/916e73e885303a8dca3b962709accdd8.png"
 tags: []
 categories:
   - "daily"
@@ -26,7 +26,7 @@ docker-magento 是 Mark Shust 为 Magento 提供的 Docker 配置。
 
 {{< shields path="github/stars/alibaba/DataX" alt="Github Repo Stars" >}} {{< shields path="github/license/alibaba/DataX" alt="License: " >}} {{< shields path="github/languages/top/alibaba/DataX" alt="Language: " >}}
 
-![demo-picture-of-DataX](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/279728074947901a0a7e5e866ea4b33d.png)
+![demo-picture-of-DataX](https://static.osguider.com/history/2024/279728074947901a0a7e5e866ea4b33d.png)
 
 DataX 是阿里云 DataWorks 数据集成的开源版本。
 该项目主要功能、关键特性、核心优势包括：
@@ -54,7 +54,7 @@ git-credential-manager 是一个安全的、跨平台的 Git 凭证存储工具�
 
 {{< shields path="github/stars/BlinkDL/RWKV-LM" alt="Github Repo Stars" >}} {{< shields path="github/license/BlinkDL/RWKV-LM" alt="License: " >}} {{< shields path="github/languages/top/BlinkDL/RWKV-LM" alt="Language: " >}}
 
-![demo-picture-of-RWKV-LM](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ef419aff7eb23265791d53242fc771e3.png)
+![demo-picture-of-RWKV-LM](https://static.osguider.com/history/osguider/ef419aff7eb23265791d53242fc771e3.png)
 
 RWKV-LM 是一个具有变压器级别语言模型性能的 RNN。它可以像 GPT 一样直接进行训练（可并行化）。因此，它结合了 RNN 和变压器的优点 - 出色的性能、快速推理、节省 VRAM、快速训练、“无限”ctx_len 以及免费句子嵌入。
 

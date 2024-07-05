@@ -2,7 +2,7 @@
 title: "利用 AI 解放双手：把“贾维斯”带进现实 | 开源专题 No.64"
 description: "open-interpreter、AgentGPT、JARVIS、LaVague 和 jarvis 等项目都是利用人工智能和自然语言处理技术的项目。open-interpreter 提供自然语言接口控制计算机功能，AgentGPT 用于自主 AI 代理，JARVIS 连接 LLMs 和 ML 社区，LaVague 自动生成工作流，jarvis 是语音助手。这些项目都注重隐私和用户控制，提供各种功能，如自然语言处理、自动化、语音识别等。"
 date: "2024-03-26T23:35:51.893Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4349661b8267fc737aab99a0ad99a838.png"
+image: "https://static.osguider.com/history/osguider/4349661b8267fc737aab99a0ad99a838.png"
 tags: []
 categories:
   - "topic"
@@ -53,7 +53,7 @@ LaVague 是一个使用大型动作模型框架自动生成自动化工作流的
 
 {{< shields path="github/stars/Significant-Gravitas/AutoGPT" alt="Github Repo Stars" >}} {{< shields path="github/license/Significant-Gravitas/AutoGPT" alt="License: " >}} {{< shields path="github/languages/top/Significant-Gravitas/AutoGPT" alt="Language: " >}}
 
-![demo-picture-of-AutoGPT](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/8f8310c11036b5a236b5bee6431a40b8.png)
+![demo-picture-of-AutoGPT](https://static.osguider.com/history/2023/8f8310c11036b5a236b5bee6431a40b8.png)
 
 AutoGPT 是开源 AI 代理生态系统的核心工具包。
 

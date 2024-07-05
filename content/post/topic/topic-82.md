@@ -2,7 +2,7 @@
 title: "自动化新潮流，解放双手不再愁 | 开源专题 No.82"
 description: "自动化的魅力无处不在，它可以让我们的生活变得更加轻松和高效。从流程构建到屏幕点击，从配置管理到浏览器扩展，这些开源项目无疑是自动化领域的璀璨明星。"
 date: "2024-05-22T23:35:31.252Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c989744e99963897b3448436ae6f33d0.png"
+image: "https://static.osguider.com/history/osguider/c989744e99963897b3448436ae6f33d0.png"
 tags: []
 categories:
   - "topic"
@@ -31,7 +31,7 @@ Ansible 是一个极其简单的 IT 自动化系统，它处理配置管理、�
 
 {{< shields path="github/stars/gkd-kit/gkd" alt="Github Repo Stars" >}} {{< shields path="github/license/gkd-kit/gkd" alt="License: " >}} {{< shields path="github/languages/top/gkd-kit/gkd" alt="Language: " >}}
 
-![demo-picture-of-gkd](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/f6327576879fee12e4da00f80ce2933d.png)
+![demo-picture-of-gkd](https://static.osguider.com/history/2023/f6327576879fee12e4da00f80ce2933d.png)
 
 基于无障碍 + 高级选择器 + 订阅规则的自定义屏幕点击 APP，主要功能包括实现跳过任意开屏广告、关闭应用内部弹窗广告以及一些快捷操作，如微信电脑登录自动同意和领取红包等。其核心优势和特点包括：
 
@@ -43,7 +43,7 @@ Ansible 是一个极其简单的 IT 自动化系统，它处理配置管理、�
 
 {{< shields path="github/stars/activepieces/activepieces" alt="Github Repo Stars" >}} {{< shields path="github/license/activepieces/activepieces" alt="License: " >}} {{< shields path="github/languages/top/activepieces/activepieces" alt="Language: " >}}
 
-![demo-picture-of-activepieces](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a44679a96c9542d2d141772c527d58ed.gif)
+![demo-picture-of-activepieces](https://static.osguider.com/history/osguider/a44679a96c9542d2d141772c527d58ed.gif)
 
 Activepiece 是一个友好的开源全能自动化工具，旨在通过使用 TypeScript 编写的类型安全 pieces 框架进行扩展。其主要功能包括流程构建器、Pieces 集成以及 LLM 聊天机器人和数据源 (BETA 版)。该项目的关键特点和核心优势包括：
 
@@ -57,7 +57,7 @@ Activepiece 是一个友好的开源全能自动化工具，旨在通过使用 T
 
 {{< shields path="github/stars/kestra-io/kestra" alt="Github Repo Stars" >}} {{< shields path="github/license/kestra-io/kestra" alt="License: " >}} {{< shields path="github/languages/top/kestra-io/kestra" alt="Language: " >}}
 
-![demo-picture-of-kestra](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/acedeb2f50f00c6dfce08765b29c7576.gif)
+![demo-picture-of-kestra](https://static.osguider.com/history/osguider/acedeb2f50f00c6dfce08765b29c7576.gif)
 
 Kestra 是一个通用的开源编排器，可以轻松地构建定时和事件驱动的工作流。通过将基础设施即代码最佳实践引入数据、过程和微服务编排中，您可以构建可靠的工作流并自信地管理它们。Kestra 提供了一套多功能且与语言无关的开发者工具，并同时为业务专业人员提供直观易用的用户界面。核心优势包括：
 
@@ -73,7 +73,7 @@ Kestra 是一个通用的开源编排器，可以轻松地构建定时和事件�
 
 {{< shields path="github/stars/AutomaApp/automa" alt="Github Repo Stars" >}} {{< shields path="github/license/AutomaApp/automa" alt="License: " >}} {{< shields path="github/languages/top/AutomaApp/automa" alt="Language: " >}}
 
-![demo-picture-of-automa](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/5bd7f4ecf86609d9509029394ddf9a9f.png)
+![demo-picture-of-automa](https://static.osguider.com/history/2023/5bd7f4ecf86609d9509029394ddf9a9f.png)
 
 Automa 是一个浏览器扩展，通过连接块来自动化您的浏览器。
 

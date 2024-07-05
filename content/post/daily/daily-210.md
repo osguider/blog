@@ -2,7 +2,7 @@
 title: "多协议支持 API 调测客户端：Postman 的强力替代品 | 开源日报 No.210"
 description: "Insomnia 是一款功能强大的开源 API 客户端，支持 GraphQL、REST、WebSockets、SSE 和 gRPC 协议，提供多种存储方式，包括云存储、本地存储和 Git 存储。它支持调试、设计、测试 API，即将推出模拟 API 功能，还可以通过 Insomnia CLI 构建 CI/CD 流水线，实现代码检查和测试。多种协作功能让团队合作更加高效。是开发者们不可多得的利器！"
 date: "2024-03-10T23:35:32.488Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9a2b516c1ffd86bd5fdf702e08651fb7.png"
+image: "https://static.osguider.com/history/osguider/9a2b516c1ffd86bd5fdf702e08651fb7.png"
 tags: []
 categories:
   - "daily"
@@ -28,7 +28,7 @@ Solady 是一个优化的 Solidity 代码片段库。
 
 {{< shields path="github/stars/StudioCherno/Walnut" alt="Github Repo Stars" >}} {{< shields path="github/license/StudioCherno/Walnut" alt="License: " >}} {{< shields path="github/languages/top/StudioCherno/Walnut" alt="Language: " >}}
 
-![demo-picture-of-Walnut](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f3df003f22fcd46bc9497590c7176b5e.jpeg)
+![demo-picture-of-Walnut](https://static.osguider.com/history/osguider/f3df003f22fcd46bc9497590c7176b5e.jpeg)
 
 Walnut 是一个简单的应用程序框架，专为 Vulkan 和 Dear ImGui 应用程序设计。
 

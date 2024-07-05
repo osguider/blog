@@ -2,7 +2,7 @@
 title: "开源 UI 设计：灵活定制新趋势 | 开源专题 No.86"
 description: "每当我们在屏幕上滑动手指，感受那些精美的图形和流畅的动画，都是开发者对细节的执着追求。这些开源项目，正是他们智慧和创造力的结晶。"
 date: "2024-06-01T23:35:33.158Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/44d1fc968d28e9e6a2f37e190ce2c9b7.png"
+image: "https://static.osguider.com/history/osguider/44d1fc968d28e9e6a2f37e190ce2c9b7.png"
 tags: []
 categories:
   - "topic"
@@ -26,7 +26,7 @@ bulma 是基于 Flexbox 的现代 CSS 框架。
 
 {{< shields path="github/stars/apache/echarts" alt="Github Repo Stars" >}} {{< shields path="github/license/apache/echarts" alt="License: " >}} {{< shields path="github/languages/top/apache/echarts" alt="Language: " >}}
 
-![demo-picture-of-echarts](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/c8b2a6a4a4738e0b4cd625715dd112e2.png)
+![demo-picture-of-echarts](https://static.osguider.com/history/2024/c8b2a6a4a4738e0b4cd625715dd112e2.png)
 
 echarts 是一个功能强大、交互式的图表和数据可视化库，适用于浏览器。
 
@@ -40,7 +40,7 @@ echarts 是一个功能强大、交互式的图表和数据可视化库，适用
 
 {{< shields path="github/stars/tailwindlabs/tailwindcss" alt="Github Repo Stars" >}} {{< shields path="github/license/tailwindlabs/tailwindcss" alt="License: " >}} {{< shields path="github/languages/top/tailwindlabs/tailwindcss" alt="Language: " >}}
 
-![demo-picture-of-tailwindcss](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/5df7493fd6522c00fcbbd9a40fc5b16a.png)
+![demo-picture-of-tailwindcss](https://static.osguider.com/history/2023/5df7493fd6522c00fcbbd9a40fc5b16a.png)
 
 一个用于快速构建自定义用户界面的实用 CSS 框架。
 
@@ -54,7 +54,7 @@ echarts 是一个功能强大、交互式的图表和数据可视化库，适用
 
 {{< shields path="github/stars/saadeghi/daisyui" alt="Github Repo Stars" >}} {{< shields path="github/license/saadeghi/daisyui" alt="License: " >}} {{< shields path="github/languages/top/saadeghi/daisyui" alt="Language: " >}}
 
-![demo-picture-of-daisyui](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/59c94545f46ab3b6b7780bbeb72b0c23.png)
+![demo-picture-of-daisyui](https://static.osguider.com/history/2023/59c94545f46ab3b6b7780bbeb72b0c23.png)
 
 daisyUI 是 Tailwind CSS 的最受欢迎、免费且开源的组件库，主要功能包括提供各种组件和工具来简化使用 Tailwind CSS 进行网页设计。其核心优势和关键特性包括：
 
@@ -66,7 +66,7 @@ daisyUI 是 Tailwind CSS 的最受欢迎、免费且开源的组件库，主要�
 
 {{< shields path="github/stars/mui/material-ui" alt="Github Repo Stars" >}} {{< shields path="github/license/mui/material-ui" alt="License: " >}} {{< shields path="github/languages/top/mui/material-ui" alt="Language: " >}}
 
-![demo-picture-of-material-ui](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/c10d8e70fa6afd76347aff365cc43b1d.png)
+![demo-picture-of-material-ui](https://static.osguider.com/history/2024/c10d8e70fa6afd76347aff365cc43b1d.png)
 
 material-ui 是一个包含基础 React UI 组件库的项目，免费永久使用。它包括 Material UI，实现了谷歌的 Material Design 系统。
 

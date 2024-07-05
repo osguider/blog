@@ -2,7 +2,7 @@
 title: "拖拉拽做游戏？轻松打造个人掌机世界 | 开源日报 No.176"
 description: "gb-studio 是一个快速、易于使用的拖放式复古游戏创建器，适用于您最喜爱的掌上游戏机系统。"
 date: "2024-02-03T23:35:16.058Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/603cd6c37d627387a3cd1a85c9ac604e.png"
+image: "https://static.osguider.com/history/osguider/603cd6c37d627387a3cd1a85c9ac604e.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/chrismaltby/gb-studio" alt="Github Repo Stars" >}} {{< shields path="github/license/chrismaltby/gb-studio" alt="License: " >}} {{< shields path="github/languages/top/chrismaltby/gb-studio" alt="Language: " >}}
 
-![demo-picture-of-gb-studio](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/5006ee8db68635d9c03264f3255068af.png)
+![demo-picture-of-gb-studio](https://static.osguider.com/history/2024/5006ee8db68635d9c03264f3255068af.png)
 
 gb-studio 是一个快速、易于使用的拖放式复古游戏创建器，适用于您最喜爱的掌上游戏机系统。
 该项目主要功能、关键特性和核心优势包括：

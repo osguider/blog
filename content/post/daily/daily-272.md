@@ -2,7 +2,7 @@
 title: "Web 端异步数据获取和状态管理工具 | 开源日报 No.272"
 description: "如果你正在寻找一个强大的异步状态管理工具，用于 Web 端的服务器状态实用程序和数据获取，那么 query 是你的不二之选。query 支持多种前端框架，包括 React、Solid、Svelte 和 Vue，具有异步数据获取、缓存和更新的功能。它支持传输、协议和后端无关的数据获取，可以自动缓存和重新获取数据。query 还支持并行和依赖查询，可以进行变更操作和响应式查询重新获取数据。它还具有多层次缓存和自动垃圾回收的功能，以及分页和基于游标的查询功能。无论你是前端开发者还是后端开发者，query 都是一个不可或缺的工具。"
 date: "2024-06-04T23:35:35.419Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7f96199912c3871d5cef2b7925638821.png"
+image: "https://static.osguider.com/history/osguider/7f96199912c3871d5cef2b7925638821.png"
 tags: []
 categories:
   - "daily"

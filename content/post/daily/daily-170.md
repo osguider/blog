@@ -2,7 +2,7 @@
 title: "互联网时代的文学复兴：中文诗词大数据分析 | 开源日报 No.170"
 description: "《中文诗歌古典文集数据库》是一个包含了大量中文古典诗歌作品的数据库，包括了 5.5 万首唐诗、26 万首宋诗、2.1 万首宋词以及其他古典文集。这个开源项目以 JSON 格式分发，方便用户在自己的项目中使用，并且可以通过技术生成格式化的 JSON 数据来构建诗词类的应用程序。这个数据库丰富多样，包含了古代中国各种经典作品，还提供了高频次分析图等功能。"
 date: "2024-02-04T23:35:22.353Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f7645f26ea447454ca5a522be5b986c7.png"
+image: "https://static.osguider.com/history/osguider/f7645f26ea447454ca5a522be5b986c7.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/citra-emu/citra" alt="Github Repo Stars" >}} {{< shields path="github/license/citra-emu/citra" alt="License: " >}} {{< shields path="github/languages/top/citra-emu/citra" alt="Language: " >}}
 
-![demo-picture-of-citra](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/f7ecc998ed72ff592d9ef49480d1a62a.png)
+![demo-picture-of-citra](https://static.osguider.com/history/2023/f7ecc998ed72ff592d9ef49480d1a62a.png)
 
 Citra 是世界上最受欢迎的开源任天堂 3DS 模拟器。该项目使用 C++ 编写，注重可移植性，并积极维护适用于 Windows、Linux、Android 和 macOS 的版本。
 
@@ -27,7 +27,7 @@ Citra 是世界上最受欢迎的开源任天堂 3DS 模拟器。该项目使用
 
 {{< shields path="github/stars/chinese-poetry/chinese-poetry" alt="Github Repo Stars" >}} {{< shields path="github/license/chinese-poetry/chinese-poetry" alt="License: " >}} {{< shields path="github/languages/top/chinese-poetry/chinese-poetry" alt="Language: " >}}
 
-![demo-picture-of-chinese-poetry](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/04b1db9c248b929d4607240cc12048bc.png)
+![demo-picture-of-chinese-poetry](https://static.osguider.com/history/2023/04b1db9c248b929d4607240cc12048bc.png)
 
 最全的中文诗歌古典文集数据库，包含 5.5 万首唐诗、26 万首宋诗、2.1 万首宋词和其他古典文集。数据来源于互联网。该开源项目旨在通过 JSON 格式分发，方便用户开始自己的项目，并借助技术生成格式化 (JSON) 数据来构建诗词类应用程序。案例展示了一些基于该仓库创建的相关应用。
 
@@ -40,7 +40,7 @@ Citra 是世界上最受欢迎的开源任天堂 3DS 模拟器。该项目使用
 
 {{< shields path="github/stars/ricklamers/gpt-code-ui" alt="Github Repo Stars" >}} {{< shields path="github/license/ricklamers/gpt-code-ui" alt="License: " >}} {{< shields path="github/languages/top/ricklamers/gpt-code-ui" alt="Language: " >}}
 
-![demo-picture-of-gpt-code-ui](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/ecf79231b811aca0e8b07c89b23a1c4d.png)
+![demo-picture-of-gpt-code-ui](https://static.osguider.com/history/2023/ecf79231b811aca0e8b07c89b23a1c4d.png)
 
 这个项目是 OpenAI 的 ChatGPT 代码解释器的开源实现。用户可以简单地向 OpenAI 模型提出要求，它将为您生成并执行代码。该项目具有以下主要功能和核心优势：
 

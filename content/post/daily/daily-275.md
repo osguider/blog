@@ -2,7 +2,7 @@
 title: "WebRTC 端到端堆栈：可扩展的多人会议 | 开源日报 No.275"
 description: "LiveKit 是一个基于 WebRTC 的端到端堆栈，提供了 SFU 媒体服务器和 SDK。旨在为开发人员提供可扩展的、多用户会议功能，包括实时视频、音频和数据。"
 date: "2024-06-09T23:35:37.212Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/85786fcb44be399c6c668814391ba24e.png"
+image: "https://static.osguider.com/history/osguider/85786fcb44be399c6c668814391ba24e.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/livekit/livekit" alt="Github Repo Stars" >}} {{< shields path="github/license/livekit/livekit" alt="License: " >}} {{< shields path="github/languages/top/livekit/livekit" alt="Language: " >}}
 
-![demo-picture-of-livekit](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/3f28513b03c1adc9fa0fdd51a3e7a77c.png)
+![demo-picture-of-livekit](https://static.osguider.com/history/2024/3f28513b03c1adc9fa0fdd51a3e7a77c.png)
 
 LiveKit 是一个基于 WebRTC 的端到端堆栈，提供了 SFU 媒体服务器和 SDK。旨在为开发人员提供可扩展的、多用户会议功能，包括实时视频、音频和数据。
 其主要特性和优势包括：

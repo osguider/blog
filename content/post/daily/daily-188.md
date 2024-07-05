@@ -2,7 +2,7 @@
 title: "精准唇语同步：Wav2Lip 引领视频技术前沿 | 开源日报 No.188"
 description: "Wav2Lip 是一个开源项目，其主要功能是在野外环境中准确地进行视频唇同步。"
 date: "2024-02-17T23:35:48.003Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6bcfa662c1de43250ef75a7060e813e5.png"
+image: "https://static.osguider.com/history/osguider/6bcfa662c1de43250ef75a7060e813e5.png"
 tags: []
 categories:
   - "daily"
@@ -45,7 +45,7 @@ Terraform AWS Provider 是一个允许使用 Terraform 管理 AWS 资源的项�
 
 {{< shields path="github/stars/Rudrabha/Wav2Lip" alt="Github Repo Stars" >}} {{< shields path="github/license/Rudrabha/Wav2Lip" alt="License: " >}} {{< shields path="github/languages/top/Rudrabha/Wav2Lip" alt="Language: " >}}
 
-![demo-picture-of-Wav2Lip](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/584c787f9ca03b0f7cfb0921561a92d5.gif)
+![demo-picture-of-Wav2Lip](https://static.osguider.com/history/osguider/584c787f9ca03b0f7cfb0921561a92d5.gif)
 
 Wav2Lip 是一个准确地在野外进行视频唇语同步的项目。
 该项目的主要功能、关键特性和核心优势包括：

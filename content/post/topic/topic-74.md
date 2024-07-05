@@ -2,7 +2,7 @@
 title: "中后台管理系统模板：配置丰富、搭建快速 | 开源专题 No.74"
 description: "这篇文章介绍了几个基于 Vue 和 TypeScript 的中后台模板项目。这些项目使用了最新的前端技术栈，提供了丰富的主题配置和代码规范，同时支持权限路由和国际化等功能。这些模板项目可以用于快速搭建中后台管理系统，也可以用于学习和参考。"
 date: "2024-05-06T23:35:33.826Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d870cf130caace1e444c38e005fc1e3e.png"
+image: "https://static.osguider.com/history/osguider/d870cf130caace1e444c38e005fc1e3e.png"
 tags: []
 categories:
   - "topic"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/Armour/vue-typescript-admin-template" alt="Github Repo Stars" >}} {{< shields path="github/license/Armour/vue-typescript-admin-template" alt="License: " >}} {{< shields path="github/languages/top/Armour/vue-typescript-admin-template" alt="Language: " >}}
 
-![demo-picture-of-vue-typescript-admin-template](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d80091579fd2c4adf083ff37b90e4e2a.png)
+![demo-picture-of-vue-typescript-admin-template](https://static.osguider.com/history/osguider/d80091579fd2c4adf083ff37b90e4e2a.png)
 
 这个项目是一个基于 vue、typescript 和 UI 工具包 element-ui 的面向管理员界面的生产就绪前端解决方案。该项目主要功能是提供了一套可用于开发管理后台界面的模板代码，其中使用到了 vue、vuex、vue-router 等技术，并且所有请求数据都是通过 faker.js 进行模拟。以下为该项目的核心优势和关键特性：
 
@@ -24,7 +24,7 @@ categories:
 
 {{< shields path="github/stars/vbenjs/vue-vben-admin" alt="Github Repo Stars" >}} {{< shields path="github/license/vbenjs/vue-vben-admin" alt="License: " >}} {{< shields path="github/languages/top/vbenjs/vue-vben-admin" alt="Language: " >}}
 
-![demo-picture-of-vue-vben-admin](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/bb8f3783474becd99bb43bc61fcd7b6e.png)
+![demo-picture-of-vue-vben-admin](https://static.osguider.com/history/2023/bb8f3783474becd99bb43bc61fcd7b6e.png)
 
 Vue Vben Admin 是一个免费开源的中后台模板，使用最新的 vue3、vite4 和 TypeScript 等主流技术进行开发。该项目提供了现成的中后台前端解决方案，并可用于学习参考。
 
@@ -39,7 +39,7 @@ Vue Vben Admin 是一个免费开源的中后台模板，使用最新的 vue3、
 
 {{< shields path="github/stars/PanJiaChen/vue-admin-template" alt="Github Repo Stars" >}} {{< shields path="github/license/PanJiaChen/vue-admin-template" alt="License: " >}} {{< shields path="github/languages/top/PanJiaChen/vue-admin-template" alt="Language: " >}}
 
-![demo-picture-of-vue-admin-template](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/96f9f3a5b42b6044b027dc6b53801d30.png)
+![demo-picture-of-vue-admin-template](https://static.osguider.com/history/2023/96f9f3a5b42b6044b027dc6b53801d30.png)
 
 这个项目是一个使用 Element UI、axios、iconfont 和权限控制的最小化 vue 管理模板。它提供了以下核心优势：
 
@@ -53,7 +53,7 @@ Vue Vben Admin 是一个免费开源的中后台模板，使用最新的 vue3、
 
 {{< shields path="github/stars/honghuangdc/soybean-admin" alt="Github Repo Stars" >}} {{< shields path="github/license/honghuangdc/soybean-admin" alt="License: " >}} {{< shields path="github/languages/top/honghuangdc/soybean-admin" alt="Language: " >}}
 
-![demo-picture-of-soybean-admin](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/7a17ea92bb536fd45c9e6f804a9e450d.png)
+![demo-picture-of-soybean-admin](https://static.osguider.com/history/2023/7a17ea92bb536fd45c9e6f804a9e450d.png)
 
 Soybean Admin 是一个基于 Vue3、Vite3、TypeScript、NaiveUI、Pinia 和 UnoCSS 的清新优雅的中后台模版。它使用最新流行的前端技术栈，内置丰富的主题配置，有着极高的代码规范。该项目具有以下特性：
 
@@ -68,7 +68,7 @@ Soybean Admin 是一个基于 Vue3、Vite3、TypeScript、NaiveUI、Pinia 和 Un
 
 {{< shields path="github/stars/pure-admin/vue-pure-admin" alt="Github Repo Stars" >}} {{< shields path="github/license/pure-admin/vue-pure-admin" alt="License: " >}} {{< shields path="github/languages/top/pure-admin/vue-pure-admin" alt="Language: " >}}
 
-![demo-picture-of-vue-pure-admin](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/61be3b5878b7343611f3be5e77f63a80.webp)
+![demo-picture-of-vue-pure-admin](https://static.osguider.com/history/2023/61be3b5878b7343611f3be5e77f63a80.webp)
 
 vue-pure-admin 是一款开源免费且开箱即用的中后台管理系统模版。主要功能包括使用最新的 Vue3、Vite、Element-Plus、TypeScript 等技术进行开发。该项目具有以下核心优势和特点：
 

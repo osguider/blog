@@ -2,7 +2,7 @@
 title: "压缩和转换文件格式：单击右键即刻完成 | 开源日报 No.165"
 description: "FileConverter 是一个非常简单的工具，允许您使用 Windows 资源管理器的上下文菜单来转换和压缩一个或多个文件。"
 date: "2024-01-25T23:35:58.180Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a66b7b3f647542b306d05863dee36f93.png"
+image: "https://static.osguider.com/history/osguider/a66b7b3f647542b306d05863dee36f93.png"
 tags: []
 categories:
   - "daily"

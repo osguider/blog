@@ -2,7 +2,7 @@
 title: "iOS 全平台矢量动画库：体积小巧、功能丰富 | 开源日报 No.227"
 description: "lottie-ios 是一个用于在 iOS 平台上本地渲染 After Effects 矢量动画的库"
 date: "2024-03-28T23:35:20.687Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8724140cdeddc5a84a04bb60953a4093.png"
+image: "https://static.osguider.com/history/osguider/8724140cdeddc5a84a04bb60953a4093.png"
 tags: []
 categories:
   - "daily"

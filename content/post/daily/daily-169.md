@@ -2,7 +2,7 @@
 title: "高颜值轻量化跨平台 Redis 桌面管理器 | 开源日报 No.169"
 description: "tiny-rdm 是一款现代化的轻量级跨平台 Redis 桌面管理器，适用于 Mac、Windows 和 Linux。它的特点包括超轻量级、直观的用户界面、多语言支持和更好的连接管理。它还提供可视化的键值操作和对多种数据格式的支持。"
 date: "2024-01-29T23:35:36.362Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/804455454644566c28f3db06e1368951.png"
+image: "https://static.osguider.com/history/osguider/804455454644566c28f3db06e1368951.png"
 tags: []
 categories:
   - "daily"
@@ -71,7 +71,7 @@ free-programming-books-zh_CN 是一个免费的计算机编程类中文书籍索
 
 {{< shields path="github/stars/mengjian-github/copilot-analysis" alt="Github Repo Stars" >}} {{< shields path="github/license/mengjian-github/copilot-analysis" alt="License: " >}} {{< shields path="github/languages/top/mengjian-github/copilot-analysis" alt="Language: " >}}
 
-![demo-picture-of-copilot-analysis](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b2106fc8fa0fe5e2fed76e1170da9c03.png)
+![demo-picture-of-copilot-analysis](https://static.osguider.com/history/osguider/b2106fc8fa0fe5e2fed76e1170da9c03.png)
 
 这是一个逆向分析 Github Copilot 的项目。
 众所周知，Github Copilot是一种基于机器学习的代码自动补全工具。它使用了来自GitHub的大量代码作为训练数据，并使用OpenAI的语言模型来生成代码。Copilot还可以学习用户的编码习惯，并根据上下文推断出正确的代码片段。

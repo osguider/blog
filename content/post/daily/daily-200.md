@@ -2,7 +2,7 @@
 title: "本地调试 Github Actions：维护纯净代码，减少调测记录 | 开源日报 No.200"
 description: "act 是一个可以在本地运行 GitHub Actions 的工具。"
 date: "2024-02-29T23:35:52.894Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/539149aa2819bf7988894c47573846ba.png"
+image: "https://static.osguider.com/history/osguider/539149aa2819bf7988894c47573846ba.png"
 tags: []
 categories:
   - "daily"
@@ -59,7 +59,7 @@ netbox 是网络自动化的权威真相来源。
 
 {{< shields path="github/stars/austinsonger/Incident-Playbook" alt="Github Repo Stars" >}} {{< shields path="github/license/austinsonger/Incident-Playbook" alt="License: " >}} {{< shields path="github/languages/top/austinsonger/Incident-Playbook" alt="Language: " >}}
 
-![demo-picture-of-Incident-Playbook](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/1e7bb4e68b23aa8fe1ab781d6698e16a.png)
+![demo-picture-of-Incident-Playbook](https://static.osguider.com/history/2023/1e7bb4e68b23aa8fe1ab781d6698e16a.png)
 
 这是一个面向 SOC/Incident Response 社区的项目，目标是将事件响应 Playbook 与 MITRE 攻击战术和技术相匹配。该项目旨在开发一套针对每个 MITRE 技巧 (某些策略除外) 的事件响应 Playbook 目录，并提供用于训练目的的演习场景、工具评估以及自动化方案等内容。
 

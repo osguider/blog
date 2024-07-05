@@ -2,7 +2,7 @@
 title: "各大公司用于生产环境的机器学习论文列表 | 开源日报 No.163"
 description: "applied-ml 是一个开源项目，收集整理了各大公司在生产中应用数据科学和机器学习过程中产生的论文和博客。它提供了宝贵的资源，帮助你了解最新的应用实践和技术趋势。"
 date: "2024-01-24T14:40:23.301Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e5c68f0e414c9d421df50fb1238ed1a9.png"
+image: "https://static.osguider.com/history/osguider/e5c68f0e414c9d421df50fb1238ed1a9.png"
 tags: []
 categories:
   - "daily"
@@ -70,7 +70,7 @@ all-in-one 是官方的 Nextcloud 安装方法。
 
 {{< shields path="github/stars/apache/incubator-paimon" alt="Github Repo Stars" >}} {{< shields path="github/license/apache/incubator-paimon" alt="License: " >}} {{< shields path="github/languages/top/apache/incubator-paimon" alt="Language: " >}}
 
-![demo-picture-of-incubator-paimon](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/cdb28689757806e5849cb859179408f8.png)
+![demo-picture-of-incubator-paimon](https://static.osguider.com/history/2023/cdb28689757806e5849cb859179408f8.png)
 
 Paimon 是一个流式数据湖平台，它提供了高速的数据摄入功能以及对变化性大量存储进行跟踪。同时，该项目还具备强大而有效率地处理海量实时分析任务能力。
 

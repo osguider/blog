@@ -2,7 +2,7 @@
 title: "AWS Aurora Postgres 的开源替代品：存储和计算分离 | 开源日报 No.278"
 description: "Neon 是一个无服务器的开源替代品，用于 AWS Aurora Postgres，它通过重新分配数据来替换 PostgreSQL 的存储层，提供自动扩展、分支和无限存储。Neon 安装包括计算节点和 Neon 存储引擎，以及可扩展的存储后端 Pageserver 和构成冗余 WAL 服务的 Safekeepers。这些功能使 Neon 成为一个强大的工具，为用户提供高效的数据存储和计算支持。"
 date: "2024-06-13T23:35:54.733Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b2a2930c5c6b336f959914a056116d9c.png"
+image: "https://static.osguider.com/history/osguider/b2a2930c5c6b336f959914a056116d9c.png"
 tags: []
 categories:
   - "daily"

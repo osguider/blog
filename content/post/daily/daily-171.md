@@ -2,7 +2,7 @@
 title: "能够解析任何编程语言的开源语法解析树 | 开源日报 No.171"
 description: "tree-sitter 是一个用于编程工具的增量解析系统，能够解析任何编程语言。"
 date: "2024-01-30T23:35:24.727Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2282c1ab7d4a58f93eee9b81081ed794.png"
+image: "https://static.osguider.com/history/osguider/2282c1ab7d4a58f93eee9b81081ed794.png"
 tags: []
 categories:
   - "daily"
@@ -77,7 +77,7 @@ serenity 是一个图形化的类 Unix 操作系统，适用于 x86-64 计算机
 
 {{< shields path="github/stars/moraroy/NonSteamLaunchers-On-Steam-Deck" alt="Github Repo Stars" >}} {{< shields path="github/license/moraroy/NonSteamLaunchers-On-Steam-Deck" alt="License: " >}} {{< shields path="github/languages/top/moraroy/NonSteamLaunchers-On-Steam-Deck" alt="Language: " >}}
 
-![demo-picture-of-NonSteamLaunchers-On-Steam-Deck](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/cefb81f220dbdc4238b19912b4bfbf04.png)
+![demo-picture-of-NonSteamLaunchers-On-Steam-Deck](https://static.osguider.com/history/2023/cefb81f220dbdc4238b19912b4bfbf04.png)
 
 NonSteamLaunchers 是一个脚本，它安装最新的 GE-Proton，在 compatdata 文件夹路径下创建一个名为 “NonSteamLaunchers” 的唯一 Proton 前缀文件夹，并将其添加到您的 Steam 库中。因此，您可以在桌面模式或游戏模式下使用它们。
 

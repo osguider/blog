@@ -2,7 +2,7 @@
 title: "全能视频下载工具：支持 100+ 网站 | 开源日报 No.212"
 description: "Hitomi-Downloader 是一个桌面实用程序，可以从各种网站下载图片/视频/音乐/文本等。"
 date: "2024-03-12T23:36:01.059Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9ffde5d0c3203f81320a0b825dec29fa.png"
+image: "https://static.osguider.com/history/osguider/9ffde5d0c3203f81320a0b825dec29fa.png"
 tags: []
 categories:
   - "daily"
@@ -28,7 +28,7 @@ valibot 是用于验证结构化数据的模块化且类型安全的模式库。
 
 {{< shields path="github/stars/turboderp/exllama" alt="Github Repo Stars" >}} {{< shields path="github/license/turboderp/exllama" alt="License: " >}} {{< shields path="github/languages/top/turboderp/exllama" alt="Language: " >}}
 
-![demo-picture-of-exllama](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/be3fe37fa26527b87275dd3b8fb2bc01.jpeg)
+![demo-picture-of-exllama](https://static.osguider.com/history/osguider/be3fe37fa26527b87275dd3b8fb2bc01.jpeg)
 
 exllama 是用于使用量化权重的 Llama 的 HF transformers 实现的更节省内存的重写。
 

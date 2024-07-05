@@ -2,7 +2,7 @@
 title: "跨平台同步 Shell 历史记录，无缝切换会话 | 开源日报 No.154"
 description: "Atuin 是一个强大的工具，用于用 SQLite 数据库替换 shell 历史记录。它能够记录命令的上下文，提供加密的历史同步功能，并具有许多其他功能，如全屏历史搜索界面、多终端同步、统计数据记录等。它支持多种 Shell 环境，并提供了清晰易懂的文档说明。"
 date: "2024-01-14T23:35:19.805Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/02f001e87f7587bfdfa10b5eabfb0367.png"
+image: "https://static.osguider.com/history/osguider/02f001e87f7587bfdfa10b5eabfb0367.png"
 tags: []
 categories:
   - "daily"
@@ -53,7 +53,7 @@ extensions 是 Tachiyomi 应用的源扩展。
 
 {{< shields path="github/stars/misskey-dev/misskey" alt="Github Repo Stars" >}} {{< shields path="github/license/misskey-dev/misskey" alt="License: " >}} {{< shields path="github/languages/top/misskey-dev/misskey" alt="Language: " >}}
 
-![demo-picture-of-misskey](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/aa6a2140f5a11e5fc6f422cbaf05ceb4.png)
+![demo-picture-of-misskey](https://static.osguider.com/history/2024/aa6a2140f5a11e5fc6f422cbaf05ceb4.png)
 
 misskey 是一个开源的、去中心化的社交媒体平台，永久免费！
 
@@ -66,7 +66,7 @@ misskey 是一个开源的、去中心化的社交媒体平台，永久免费！
 
 {{< shields path="github/stars/nuxt/ui" alt="Github Repo Stars" >}} {{< shields path="github/license/nuxt/ui" alt="License: " >}} {{< shields path="github/languages/top/nuxt/ui" alt="Language: " >}}
 
-![demo-picture-of-ui](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/55a5c944891f54fb2e27154e7870740f.png)
+![demo-picture-of-ui](https://static.osguider.com/history/osguider/55a5c944891f54fb2e27154e7870740f.png)
 
 Nuxt UI 是一个与构建 Nuxt 应用程序相关的 UI 库，提供了组件、图标、颜色和暗模式等功能，并支持键盘快捷方式。它由 NuxtLabs 为 Volta、Nuxt Studio 和 Nuxt 社区开发。
 

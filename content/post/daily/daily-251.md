@@ -2,7 +2,7 @@
 title: "llama3 发布！大语言模型新选择 | 开源日报 No.251"
 description: "Llama 是一个用于 Llama 模型推理的代码库，提供了预训练和微调的 Llama 语言模型，参数范围广泛，从 7B 到 70B 不等。用户可以通过下载脚本获取模型权重和 tokenizer，支持在本地快速运行推理，同时提供不同规格的模型并行值。如果您对 Llama 模型和语言模型推理感兴趣，不妨尝试使用 Llama 代码库，探索其中的丰富功能和灵活性。"
 date: "2024-04-27T23:35:37.536Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5bb0aab44811abd780a148846f21b81c.png"
+image: "https://static.osguider.com/history/osguider/5bb0aab44811abd780a148846f21b81c.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,7 @@
 title: "Python 全栈 Web 应用模板：成熟架构，急速开发 | 开源日报 No.223"
 description: "这篇文章主要介绍了一个现代化的全栈 Web 应用模板，名为 full-stack-fastapi-template。该模板使用了 FastAPI 构建 Python 后端 API，SQLModel 用于 Python SQL 数据库交互，Pydantic 用于数据验证和设置管理，PostgreSQL 作为 SQL 数据库，React 用于前端开发，使用了现代前端技术堆栈，Chakra UI 提供前端组件支持，同时还提供了自动生成的前端客户端和暗黑模式支持等功能。这篇文章为开发者提供了一个全面的技术栈，帮助他们快速构建现代化的全栈 Web 应用。"
 date: "2024-03-23T23:35:48.690Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fe9bf29a1c7458f8f67f22a7a2cadc18.png"
+image: "https://static.osguider.com/history/osguider/fe9bf29a1c7458f8f67f22a7a2cadc18.png"
 tags: []
 categories:
   - "daily"
@@ -54,7 +54,7 @@ Open-Sora-Plan 是一个旨在复现 Sora（Open AI T2V 模型）的项目，但
 
 {{< shields path="github/stars/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin" alt="Github Repo Stars" >}} {{< shields path="github/license/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin" alt="License: " >}} {{< shields path="github/languages/top/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin" alt="Language: " >}}
 
-![demo-picture-of-Auto-Photoshop-StableDiffusion-Plugin](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4109f46a4fcb63f28ab0301ab34a8304.jpeg)
+![demo-picture-of-Auto-Photoshop-StableDiffusion-Plugin](https://static.osguider.com/history/osguider/4109f46a4fcb63f28ab0301ab34a8304.jpeg)
 
 Auto-Photoshop-StableDiffusion-Plugin 是一个用户友好的插件，可以在 Photoshop 中使用 Automatic 或 ComfyUI 作为后端轻松生成稳定扩散图像。
 

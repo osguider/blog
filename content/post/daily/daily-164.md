@@ -2,7 +2,7 @@
 title: "二维图像生成 3D 场景：nerfstudio 帮你简化流程 | 开源日报 No.164"
 description: "nerfstudio 是一个友好的 NeRFs 协作工作室，它的目标是简化创建、训练和测试 NeRFs 的流程。它提供了简单易用的 API，让用户能够更轻松地实现模块化的 NeRFs。"
 date: "2024-01-24T23:35:52.521Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/09de10f53e774cdb69f2865796961595.png"
+image: "https://static.osguider.com/history/osguider/09de10f53e774cdb69f2865796961595.png"
 tags: []
 categories:
   - "daily"
@@ -75,7 +75,7 @@ torchscale 是一个 PyTorch 库，允许研究人员和开发者有效地扩展
 
 {{< shields path="github/stars/xcanwin/KeepChatGPT" alt="Github Repo Stars" >}} {{< shields path="github/license/xcanwin/KeepChatGPT" alt="License: " >}} {{< shields path="github/languages/top/xcanwin/KeepChatGPT" alt="Language: " >}}
 
-![demo-picture-of-KeepChatGPT](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/f1a3380cfe3f3d9bb4ef0f47807c68ea.png)
+![demo-picture-of-KeepChatGPT](https://static.osguider.com/history/2024/f1a3380cfe3f3d9bb4ef0f47807c68ea.png)
 
 KeepChatGPT 是一款提高 ChatGPT 的数据安全能力和效率的插件。
 这个项目主要功能、关键特性、核心优势包括：

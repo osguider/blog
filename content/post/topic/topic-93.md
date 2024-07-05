@@ -2,7 +2,7 @@
 title: "自托管应用集大成，内容管理自动化 | 开源专题 No.93"
 description: "在这个信息爆炸的时代，如何快速获取我们想要的内容？这些开源项目给出了答案。它们不仅整合了各类资源，还简化了操作流程，让我们的生活更加便捷。不妨一试，探索它们带来的无限可能。"
 date: "2024-06-20T23:35:20.039Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fa93ee3aec0991921264e81d02465ed0.png"
+image: "https://static.osguider.com/history/osguider/fa93ee3aec0991921264e81d02465ed0.png"
 tags: []
 categories:
   - "topic"
@@ -87,7 +87,7 @@ all-in-one 是官方的 Nextcloud 安装方法。
 
 {{< shields path="github/stars/jxxghp/MoviePilot" alt="Github Repo Stars" >}} {{< shields path="github/license/jxxghp/MoviePilot" alt="License: " >}} {{< shields path="github/languages/top/jxxghp/MoviePilot" alt="Language: " >}}
 
-![demo-picture-of-MoviePilot](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/438ac2e6202552f61a21ebacba17e2e7.png)
+![demo-picture-of-MoviePilot](https://static.osguider.com/history/osguider/438ac2e6202552f61a21ebacba17e2e7.png)
 
 基于 NAStool 部分代码重新设计的 MoviePilot 项目，主要聚焦自动化核心需求，并减少问题同时更易于扩展和维护。
 该项目具有以下优势：

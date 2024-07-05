@@ -2,7 +2,7 @@
 title: "根据 Figma 设计稿自动生成 Python GUI | 开源日报 No.221"
 description: "Tkinter-Designer 是一个用于快速创建 Python GUI 的工具，通过使用 Figma 设计软件，可以轻松地生成美观的 Tkinter GUI。"
 date: "2024-03-21T23:35:15.703Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3183a2ae8b312d3bf07dab7e46865dfd.png"
+image: "https://static.osguider.com/history/osguider/3183a2ae8b312d3bf07dab7e46865dfd.png"
 tags: []
 categories:
   - "daily"

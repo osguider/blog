@@ -2,7 +2,7 @@
 title: "Awesome 清单大合集，优质资源随心取 | 开源专题 No.83"
 description: "在这个信息爆炸的时代，我们总是渴望找到最优质、最适合自己的资源。这些精选的资源列表，就像一盏盏明灯，照亮我们在各个领域探索的道路。"
 date: "2024-05-24T23:35:53.609Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5b503efb74c93e61ff4ba38f17da67da.png"
+image: "https://static.osguider.com/history/osguider/5b503efb74c93e61ff4ba38f17da67da.png"
 tags: []
 categories:
   - "topic"

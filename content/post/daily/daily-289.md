@@ -2,7 +2,7 @@
 title: "谷歌开源的跨平台高效序列化库：极速访问，内存高效 | 开源日报 No.289"
 description: "如果你正在寻找一种跨平台的序列化库，那么 flatbuffers 可能是你的不二之选。它的最大特点是内存效率，能够直接访问序列化数据，不需要解析，从而实现最大内存效率。此外，它还提供了跨语言支持，支持多种流行编程语言的代码生成和运行时库，同时支持多个平台，包括 Windows、macOS、Linux 和 Android。如果你需要版本控制，flatbuffers 也能够提供支持，它使用日期格式作为版本号，确保数据可在不同语言和模式版本间取。"
 date: "2024-06-30T23:35:44.889Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9b89048825b533765eda09b599fc5e07.png"
+image: "https://static.osguider.com/history/osguider/9b89048825b533765eda09b599fc5e07.png"
 tags: []
 categories:
   - "daily"
@@ -26,7 +26,7 @@ flatbuffers 是一个跨平台的序列化库，旨在实现最大内存效率�
 
 {{< shields path="github/stars/argilla-io/argilla" alt="Github Repo Stars" >}} {{< shields path="github/license/argilla-io/argilla" alt="License: " >}} {{< shields path="github/languages/top/argilla-io/argilla" alt="Language: " >}}
 
-![demo-picture-of-argilla](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/7e9a927f401b9c3051b6840e61ae4643.png)
+![demo-picture-of-argilla](https://static.osguider.com/history/2024/7e9a927f401b9c3051b6840e61ae4643.png)
 
 argilla 是一个协作平台，为需要高质量输出、完全数据所有权和整体效率的 AI 工程师和领域专家提供支持。
 主要功能、关键特性、核心优势：

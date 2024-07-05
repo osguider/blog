@@ -2,7 +2,7 @@
 title: "前端开发入门神器：简短实用的代码片段集合 | 开源日报 No.265"
 description: "30-seconds-of-code 是一个提供各种开发需求简短代码片段的项目，您可以通过名称、标签、语言或描述搜索适合您需求的代码片段和集合，浏览所有代码片段或每个主题下的代码集合，点击每个代码片段卡查看完整内容，包括源码、解释和示例，方便快捷，是开发者的必备利器。"
 date: "2024-05-23T23:36:01.342Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2f394a15a9bed4328678cf96ba850512.png"
+image: "https://static.osguider.com/history/osguider/2f394a15a9bed4328678cf96ba850512.png"
 tags: []
 categories:
   - "daily"
@@ -65,7 +65,7 @@ yolov9 是 YOLOv9 论文的实现。
 
 {{< shields path="github/stars/Chalarangelo/30-seconds-of-code" alt="Github Repo Stars" >}} {{< shields path="github/license/Chalarangelo/30-seconds-of-code" alt="License: " >}} {{< shields path="github/languages/top/Chalarangelo/30-seconds-of-code" alt="Language: " >}}
 
-![demo-picture-of-30-seconds-of-code](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/d39cb3310eed5ae22ba89c523e5e2953.png)
+![demo-picture-of-30-seconds-of-code](https://static.osguider.com/history/2023/d39cb3310eed5ae22ba89c523e5e2953.png)
 
 30-seconds-of-code 是一个为您的开发需求提供简短代码片段的项目。
 

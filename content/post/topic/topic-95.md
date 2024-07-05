@@ -2,7 +2,7 @@
 title: "容器化技术的新篇章：提升安全与效率，搞定资源优化 | 开源专题 No.95"
 description: "随着云计算和微服务架构的兴起，容器化技术已成为现代应用部署的基石。从 gvisor 的安全隔离到 kubeshark 的流量监控，再到 dockge 的 Docker Compose 管理，这些项目正推动着容器技术的边界，确保我们在快速迭代的同时，也能享受到前所未有的安全性和便捷性。"
 date: "2024-06-27T23:35:16.948Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6b3ee6911752bbd43503cce974bc0f59.png"
+image: "https://static.osguider.com/history/osguider/6b3ee6911752bbd43503cce974bc0f59.png"
 tags: []
 categories:
   - "topic"
@@ -53,7 +53,7 @@ runc 是一个根据 OCI 规范在 Linux 上生成和运行容器的 CLI 工具�
 
 {{< shields path="github/stars/louislam/dockge" alt="Github Repo Stars" >}} {{< shields path="github/license/louislam/dockge" alt="License: " >}} {{< shields path="github/languages/top/louislam/dockge" alt="Language: " >}}
 
-![demo-picture-of-dockge](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/cc07f50b59c90713862d6fac46ef29fb.png)
+![demo-picture-of-dockge](https://static.osguider.com/history/2023/cc07f50b59c90713862d6fac46ef29fb.png)
 
 Dockge 是一个自托管的 Docker Compose.yaml 堆栈管理器，具有易用、时尚和响应式的特点。
 
@@ -126,7 +126,7 @@ Run 'docker compose COMMAND --help' for more information on a command. 命令与
 
 {{< shields path="github/stars/kubeshark/kubeshark" alt="Github Repo Stars" >}} {{< shields path="github/license/kubeshark/kubeshark" alt="License: " >}} {{< shields path="github/languages/top/kubeshark/kubeshark" alt="Language: " >}}
 
-![demo-picture-of-kubeshark](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9727862f6670b67a808dc56c3160bb71.png)
+![demo-picture-of-kubeshark](https://static.osguider.com/history/osguider/9727862f6670b67a808dc56c3160bb71.png)
 
 Kubeshark 是一个针对 Kubernetes 的 API 流量分析工具，提供实时、协议级别的可视化能力，捕获和监控所有进出容器、Pod、节点和集群的流量和数据包。它类似于重新设计过的用于 Kubernetes的 TCPDump 和 Wireshark。
 

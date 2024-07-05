@@ -2,7 +2,7 @@
 title: "突破内网限制，自由访问 NAS：网络穿透方案大合集！ | 开源日报 No.199"
 description: "想要了解 ngrok 替代方案和自托管的隧道软件？awesome-tunneling 项目为您提供解决方案！自动设置域名指向服务器、管理 HTTPS 证书、提供客户端工具和 GUI 界面，让您轻松实现 HTTP/TCP 连接，无需 root 权限。适合自托管者和开发人员使用。"
 date: "2024-02-28T23:35:29.623Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fba3eef61f3605930643fe50e8375416.png"
+image: "https://static.osguider.com/history/osguider/fba3eef61f3605930643fe50e8375416.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/biopython/biopython" alt="Github Repo Stars" >}} {{< shields path="github/license/biopython/biopython" alt="License: " >}} {{< shields path="github/languages/top/biopython/biopython" alt="Language: " >}}
 
-![demo-picture-of-biopython](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/2f03e93fe5736fc1b943649db186546a.png)
+![demo-picture-of-biopython](https://static.osguider.com/history/2024/2f03e93fe5736fc1b943649db186546a.png)
 
 biopython 是一个为计算分子生物学提供免费 Python 工具的国际开发者协会。
 
@@ -38,7 +38,7 @@ awesome-tunneling 是一个列出 ngrok 替代方案和其他类似 ngrok 的隧
 
 {{< shields path="github/stars/dockersamples/example-voting-app" alt="Github Repo Stars" >}} {{< shields path="github/license/dockersamples/example-voting-app" alt="License: " >}} {{< shields path="github/languages/top/dockersamples/example-voting-app" alt="Language: " >}}
 
-![demo-picture-of-example-voting-app](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/30e391620914be6f3a0a2c1d9075467a.png)
+![demo-picture-of-example-voting-app](https://static.osguider.com/history/2024/30e391620914be6f3a0a2c1d9075467a.png)
 
 example-voting-app 是一个示例分布式应用程序，由多个 Docker、Compose、Swarm 和 Kubernetes 容器组成。
 

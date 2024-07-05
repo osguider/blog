@@ -2,7 +2,7 @@
 title: "终端工具集概览：提升命令行效率与体验 | 开源专题 No.94"
 description: "命令行的世界充满了无限的可能性，而这些开源项目正是通往高效操作的钥匙。让我们一起踏上这段探索之旅，发现如何通过这些工具将命令行界面的潜力发挥到极致。"
 date: "2024-06-21T23:35:43.449Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4842daaf4760ef1f46ee1bc53d7c17f5.png"
+image: "https://static.osguider.com/history/osguider/4842daaf4760ef1f46ee1bc53d7c17f5.png"
 tags: []
 categories:
   - "topic"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/Ph0enixKM/Amber" alt="Github Repo Stars" >}} {{< shields path="github/license/Ph0enixKM/Amber" alt="License: " >}} {{< shields path="github/languages/top/Ph0enixKM/Amber" alt="Language: " >}}
 
-![demo-picture-of-Amber](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/c9c6c15bd415dcdb3699855a97d6ef4b.png)
+![demo-picture-of-Amber](https://static.osguider.com/history/2024/c9c6c15bd415dcdb3699855a97d6ef4b.png)
 
 Amber 是编译成 Bash 的编程语言。
 
@@ -35,7 +35,7 @@ zoxide 是一个更智能的 cd 命令，支持所有主要的 shell。
 
 {{< shields path="github/stars/microsoft/inshellisense" alt="Github Repo Stars" >}} {{< shields path="github/license/microsoft/inshellisense" alt="License: " >}} {{< shields path="github/languages/top/microsoft/inshellisense" alt="Language: " >}}
 
-![demo-picture-of-inshellisense](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/9d3d240c66ec87ffdb5ff019368de7aa.gif)
+![demo-picture-of-inshellisense](https://static.osguider.com/history/2023/9d3d240c66ec87ffdb5ff019368de7aa.gif)
 
  是一个为 Shell 提供 IDE 风格自动补全的工具。它是一个终端本地运行时自动完成，支持 600 多个命令行工具，并且可以在 Windows、Linux 和 macOS 上使用。主要功能包括安装后可通过运行  来启动所需 Shell 的自动补全会话，此外，在安装后还可以在  下进行别名设置。
 
@@ -47,7 +47,7 @@ zoxide 是一个更智能的 cd 命令，支持所有主要的 shell。
 
 {{< shields path="github/stars/zellij-org/zellij" alt="Github Repo Stars" >}} {{< shields path="github/license/zellij-org/zellij" alt="License: " >}} {{< shields path="github/languages/top/zellij-org/zellij" alt="Language: " >}}
 
-![demo-picture-of-zellij](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/670581d0bd2c7a3d6fd72209b7985bf5.png)
+![demo-picture-of-zellij](https://static.osguider.com/history/2023/670581d0bd2c7a3d6fd72209b7985bf5.png)
 
 Zellij 是一个面向开发人员、运维人员和热爱终端的用户的工作区，类似程序有时被称为 “终端复用器”。它以不牺牲简单性而追求强大功能为设计理念，引以为傲地提供出色的即插即用体验，并将先进功能置于用户指尖。Zellij 旨在满足初学者和高级用户的需求，允许深度定制、通过布局进行个性化自动化、真正多玩家协作等特殊 UX 功能，并且具备插件系统，可以使用任何可以编译成 WebAssembly 的语言创建插件。
 

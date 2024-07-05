@@ -2,7 +2,7 @@
 title: "用于复杂任务的 AI 编码引擎：多文件多步骤拆解实现  | 开源日报 No.239"
 description: "plandex 是一个用于复杂任务的 AI 编码引擎。使用长时间运行的代理完成跨多个文件且需要多个步骤的任务，将大型任务分解为较小子任务，逐一实现，直至完成整个工作"
 date: "2024-04-09T23:35:13.918Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c66a2ed90b31c146493cec4a110a4ce6.png"
+image: "https://static.osguider.com/history/osguider/c66a2ed90b31c146493cec4a110a4ce6.png"
 tags: []
 categories:
   - "daily"
@@ -25,7 +25,7 @@ setup-node 是一个为 GitHub Actions 用户提供特定版本的 node.js 的�
 
 {{< shields path="github/stars/AstroNvim/AstroNvim" alt="Github Repo Stars" >}} {{< shields path="github/license/AstroNvim/AstroNvim" alt="License: " >}} {{< shields path="github/languages/top/AstroNvim/AstroNvim" alt="Language: " >}}
 
-![demo-picture-of-AstroNvim](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/94d30a3d48629c37d0a9f122dc3d3757.png)
+![demo-picture-of-AstroNvim](https://static.osguider.com/history/2024/94d30a3d48629c37d0a9f122dc3d3757.png)
 
 AstroNvim 是一个美观且功能丰富的 neovim 配置，具有可扩展性和易用性，并配备一组出色的插件。
 
@@ -38,7 +38,7 @@ AstroNvim 是一个美观且功能丰富的 neovim 配置，具有可扩展性�
 
 {{< shields path="github/stars/nilsherzig/LLocalSearch" alt="Github Repo Stars" >}} {{< shields path="github/license/nilsherzig/LLocalSearch" alt="License: " >}} {{< shields path="github/languages/top/nilsherzig/LLocalSearch" alt="Language: " >}}
 
-![demo-picture-of-LLocalSearch](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/b42639f007873388717f923d5c72e9d8.png)
+![demo-picture-of-LLocalSearch](https://static.osguider.com/history/2024/b42639f007873388717f923d5c72e9d8.png)
 
 LLocalSearch 是一个完全在本地运行的搜索聚合器，使用 LLM 代理。用户可以提出问题，系统将使用一系列 LLMs 来找到答案。用户可以查看代理的进展和最终答案。无需 OpenAI 或 Google API 密钥。
 

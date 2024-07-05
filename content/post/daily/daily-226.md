@@ -2,7 +2,7 @@
 title: "Rust 编写的数据框架：多线程、矢量化查询引擎 | 开源日报 No.226"
 description: "polars 是使用 Rust 编写的多线程、矢量化查询引擎支持的数据框架。"
 date: "2024-03-27T23:35:25.523Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/53eb51fa99d108e3ad02c1fd9ea8bcdc.png"
+image: "https://static.osguider.com/history/osguider/53eb51fa99d108e3ad02c1fd9ea8bcdc.png"
 tags: []
 categories:
   - "daily"
@@ -24,7 +24,7 @@ DevOps-Roadmap 是一个为 2024 年的 DevOps 工程师提供学习资源的路
 
 {{< shields path="github/stars/cbh123/narrator" alt="Github Repo Stars" >}} {{< shields path="github/license/cbh123/narrator" alt="License: " >}} {{< shields path="github/languages/top/cbh123/narrator" alt="Language: " >}}
 
-![demo-picture-of-narrator](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/eb6e4b3287915f8785c4b7098e7fc742.png)
+![demo-picture-of-narrator](https://static.osguider.com/history/2024/eb6e4b3287915f8785c4b7098e7fc742.png)
 
 narrator 是一个项目，可以让 David Attenborough 解说你的摄像头画面。
 

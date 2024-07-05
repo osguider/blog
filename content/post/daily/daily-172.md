@@ -2,7 +2,7 @@
 title: "加密货币量化交易机器人：自动交易，智能洞察 | 开源日报 No.172"
 description: "freqtrade 是一个免费、开源的加密货币交易机器人，用 Python 编写。"
 date: "2024-02-03T05:44:21.097Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/89602c269988573f382e4a304f582373.png"
+image: "https://static.osguider.com/history/osguider/89602c269988573f382e4a304f582373.png"
 tags: []
 categories:
   - "daily"
@@ -30,7 +30,7 @@ nitter 是一个免费且开源的替代 Twitter 前端，专注于隐私和性�
 
 {{< shields path="github/stars/Stellarium/stellarium" alt="Github Repo Stars" >}} {{< shields path="github/license/Stellarium/stellarium" alt="License: " >}} {{< shields path="github/languages/top/Stellarium/stellarium" alt="Language: " >}}
 
-![demo-picture-of-stellarium](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/6ac55e116372dabe6020b688185485b3.png)
+![demo-picture-of-stellarium](https://static.osguider.com/history/2024/6ac55e116372dabe6020b688185485b3.png)
 
 stellarium 是一个使用 OpenGL 实时渲染逼真天空的免费 GPL 软件，支持 Linux/Unix、Windows 和 macOS。它能让用户以肉眼、双筒望远镜或小型望远镜所见到的一样来观测天空。
 

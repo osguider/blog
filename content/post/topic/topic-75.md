@@ -2,7 +2,7 @@
 title: "搞定求职难题：工作岗位列表+简历制作工具 | 开源专题 No.75"
 description: "求职路上的得力助手来啦！这些开源项目涵盖工作机会、简历制作和系统设计学习，全方位助力你的求职之旅，快一起来看看吧！"
 date: "2024-05-08T23:36:02.045Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ac03ac8def2c1dac9374a77d12d0ad3d.png"
+image: "https://static.osguider.com/history/osguider/ac03ac8def2c1dac9374a77d12d0ad3d.png"
 tags: []
 categories:
   - "topic"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/BartoszJarocki/cv" alt="Github Repo Stars" >}} {{< shields path="github/license/BartoszJarocki/cv" alt="License: " >}} {{< shields path="github/languages/top/BartoszJarocki/cv" alt="Language: " >}}
 
-![demo-picture-of-cv](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/26f4ecf13ed304c62b71eab977ffbd08.png)
+![demo-picture-of-cv](https://static.osguider.com/history/2024/26f4ecf13ed304c62b71eab977ffbd08.png)
 
 这是一个简单的网页应用程序，可以呈现出具有适合打印的布局的极简主义简历。它使用 Next.js 和 shadcn/ui 构建，并部署在 Vercel 上。
   
@@ -33,7 +33,7 @@ categories:
 
 {{< shields path="github/stars/AmruthPillai/Reactive-Resume" alt="Github Repo Stars" >}} {{< shields path="github/license/AmruthPillai/Reactive-Resume" alt="License: " >}} {{< shields path="github/languages/top/AmruthPillai/Reactive-Resume" alt="Language: " >}}
 
-![demo-picture-of-Reactive-Resume](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/34c56633ee767f7d916a30086d60fe4a.jpeg)
+![demo-picture-of-Reactive-Resume](https://static.osguider.com/history/osguider/34c56633ee767f7d916a30086d60fe4a.jpeg)
 
 Reactive Resume 是一个免费的开源简历构建工具，它简化了创建、更新和分享简历的流程。该平台极为用户友好，并且如果你希望完全拥有自己的数据，可以在不到 30 秒内进行自托管。其主要功能包括实时编辑、多种模板选择、拖放式定制以及与 OpenAI 集成以增强写作能力。其他关键特点和核心优势包括支持多语言、零用户追踪或广告投放、个性化链接分享给潜在雇主并跟踪查看量或下载次数等。
   
@@ -41,7 +41,7 @@ Reactive Resume 是一个免费的开源简历构建工具，它简化了创建�
 
 {{< shields path="github/stars/xitanggg/open-resume" alt="Github Repo Stars" >}} {{< shields path="github/license/xitanggg/open-resume" alt="License: " >}} {{< shields path="github/languages/top/xitanggg/open-resume" alt="Language: " >}}
 
-![demo-picture-of-open-resume](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a1488e0b5f8aedaf271f378dda49926b.gif)
+![demo-picture-of-open-resume](https://static.osguider.com/history/osguider/a1488e0b5f8aedaf271f378dda49926b.gif)
 
 OpenResume 是一个强大的开源简历构建器和简历解析器，旨在为每个人提供现代专业的简历设计，并使任何人都能自信地申请工作。其主要功能包括：
 

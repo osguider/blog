@@ -2,7 +2,7 @@
 title: "打造你的专属云开发环境：支持任意 IDE，任意云服务 | 开源日报 No.215"
 description: "devpod 是一个开源的、仅限客户端的、不受限制的工具，可以与任何集成开发环境（IDE）一起使用，并允许您在任何云端、Kubernetes 或本地 Docker 上进行开发。"
 date: "2024-03-15T23:36:06.590Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0a7d1b7f1d504a828b890bc9af1d4b4a.png"
+image: "https://static.osguider.com/history/osguider/0a7d1b7f1d504a828b890bc9af1d4b4a.png"
 tags: []
 categories:
   - "daily"
@@ -42,7 +42,7 @@ mysql 是 Go 语言中用于 database/sql 包的 MySQL 驱动程序。
 
 {{< shields path="github/stars/SizheAn/PanoHead" alt="Github Repo Stars" >}} {{< shields path="github/license/SizheAn/PanoHead" alt="License: " >}} {{< shields path="github/languages/top/SizheAn/PanoHead" alt="Language: " >}}
 
-![demo-picture-of-PanoHead](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/038a20a9f71e0db4a085ca5abab06f78.png)
+![demo-picture-of-PanoHead](https://static.osguider.com/history/2023/038a20a9f71e0db4a085ca5abab06f78.png)
 
 PanoHead 是一个几何感知的 3D 全头合成项目，其主要功能是使用野外非结构化图像进行训练，实现高质量、视角一致的 360° 全头图像合成。该项目具有以下核心优势和特点：
 
@@ -55,7 +55,7 @@ PanoHead 是一个几何感知的 3D 全头合成项目，其主要功能是使�
 
 {{< shields path="github/stars/loft-sh/devpod" alt="Github Repo Stars" >}} {{< shields path="github/license/loft-sh/devpod" alt="License: " >}} {{< shields path="github/languages/top/loft-sh/devpod" alt="Language: " >}}
 
-![demo-picture-of-devpod](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b94137a0def68e677fd5fad0439c28e9.png)
+![demo-picture-of-devpod](https://static.osguider.com/history/osguider/b94137a0def68e677fd5fad0439c28e9.png)
 
 devpod 是一个开源的、仅限客户端的、不受限制的工具，可以与任何集成开发环境（IDE）一起使用，并允许您在任何云端、Kubernetes 或本地 Docker 上进行开发。
 
@@ -71,7 +71,7 @@ devpod 是一个开源的、仅限客户端的、不受限制的工具，可以�
 
 {{< shields path="github/stars/ray-project/ray" alt="Github Repo Stars" >}} {{< shields path="github/license/ray-project/ray" alt="License: " >}} {{< shields path="github/languages/top/ray-project/ray" alt="Language: " >}}
 
-![demo-picture-of-ray](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/ad0bf726813484cdd06b43564e47a8c3.png)
+![demo-picture-of-ray](https://static.osguider.com/history/2024/ad0bf726813484cdd06b43564e47a8c3.png)
 
 ray 是一个用于扩展人工智能和 Python 应用程序的统一框架。
 Ray 解决了将 AI 和 Python 应用程序从笔记本电脑扩展到集群的问题。

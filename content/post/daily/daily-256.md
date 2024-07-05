@@ -2,7 +2,7 @@
 title: "高性能敏感词过滤工具：基于 DFA 算法实现 | 开源日报 No.256"
 description: "sensitive-word 是一个基于 DFA 算法实现的高性能敏感词过滤工具框架。"
 date: "2024-05-05T23:36:02.019Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/abb8aa1d30b1a5b06fc860c1d43882cd.png"
+image: "https://static.osguider.com/history/osguider/abb8aa1d30b1a5b06fc860c1d43882cd.png"
 tags: []
 categories:
   - "daily"

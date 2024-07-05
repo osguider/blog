@@ -2,7 +2,7 @@
 title: "Awesome Rust：精选 Rust 资源的终极指南 | 开源日报 No.189"
 description: "Awesome Rust 是一个精选的 Rust 代码和资源列表。"
 date: "2024-02-18T23:35:54.053Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/de1513209f439e7e41d87863d0702bdd.png"
+image: "https://static.osguider.com/history/osguider/de1513209f439e7e41d87863d0702bdd.png"
 tags: []
 categories:
   - "daily"

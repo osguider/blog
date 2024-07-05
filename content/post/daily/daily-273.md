@@ -2,7 +2,7 @@
 title: "多语言构建和测试系统：并行、快速、可扩展 | 开源日报 No.273"
 description: "Bazel 是一个快速、可扩展的多语言构建系统，支持 Java、C++、Android、iOS、Go 等多种语言，可在 Windows、macOS 和 Linux 上运行。通过高级本地和分布式缓存、优化的依赖分析和并行执行，Bazel 能够快速可靠地构建和测试任何规模的软件，适用于大型组织、代码库和持续集成解决方案。无论是多个存储库还是巨型单体代码库，Bazel 都能轻松处理，是处理任何规模代码库的绝佳选择。"
 date: "2024-06-06T23:36:01.201Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d5e36a0c764a63056279ffb2a11048f9.png"
+image: "https://static.osguider.com/history/osguider/d5e36a0c764a63056279ffb2a11048f9.png"
 tags: []
 categories:
   - "daily"

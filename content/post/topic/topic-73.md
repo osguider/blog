@@ -2,7 +2,7 @@
 title: "高效测试不用愁，丰富特性来加油 | 开源专题 No.73"
 description: "在代码的世界里，测试如同守护城堡的卫士，确保软件的坚固与稳定。这些开源项目，宛如一把把锋利的剑，为软件测试斩断荆棘，开辟出一条通往卓越的道路。"
 date: "2024-05-04T23:36:01.986Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0653a5f4b359edc1580fbf95834ef4a3.png"
+image: "https://static.osguider.com/history/osguider/0653a5f4b359edc1580fbf95834ef4a3.png"
 tags: []
 categories:
   - "topic"
@@ -52,7 +52,7 @@ Moto 是一个允许测试轻松模拟 AWS 服务的库。
 
 {{< shields path="github/stars/cypress-io/cypress" alt="Github Repo Stars" >}} {{< shields path="github/license/cypress-io/cypress" alt="License: " >}} {{< shields path="github/languages/top/cypress-io/cypress" alt="Language: " >}}
 
-![demo-picture-of-cypress](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/b7a6859fa49be011d5d8955e645a1039.png)
+![demo-picture-of-cypress](https://static.osguider.com/history/2024/b7a6859fa49be011d5d8955e645a1039.png)
 
 Cypress.io 是一个快速、简单和可靠的浏览器测试工具，可以用于任何在浏览器中运行的内容。它支持 Mac、Linux 和 Windows 系统，并提供了安装指南。
   

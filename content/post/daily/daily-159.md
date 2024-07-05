@@ -2,7 +2,7 @@
 title: "解锁安卓超能力，丰富插件为所欲为！ | 开源日报 No.159"
 description: "LSPosed 是一个强大的 ART hooking 框架，旨在为 Android 8.1 至 14 版本提供与 OG Xposed 一致的体验。它通过 LSPlant hooking framework 实现，提供一致的 API，允许通过 Magisk 进行安装。与原始的 Xposed Framework 相兼容，还提供了自己的模块仓库和社区讨论平台。"
 date: "2024-01-19T23:35:24.793Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7133119ca99f7509b652c633430bd33d.png"
+image: "https://static.osguider.com/history/osguider/7133119ca99f7509b652c633430bd33d.png"
 tags: []
 categories:
   - "daily"
@@ -89,7 +89,7 @@ ai 是一个用于使用 React、Svelte、Vue 和 Solid 构建 AI 动力应用�
 
 {{< shields path="github/stars/vanjs-org/van" alt="Github Repo Stars" >}} {{< shields path="github/license/vanjs-org/van" alt="License: " >}} {{< shields path="github/languages/top/vanjs-org/van" alt="Language: " >}}
 
-![demo-picture-of-van](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/3597b267ca52bd7afee9b66f339d4f22.png)
+![demo-picture-of-van](https://static.osguider.com/history/2023/3597b267ca52bd7afee9b66f339d4f22.png)
 
 VanJS 是世界上最小的响应式 UI 框架，旨在帮助每个人在一小时内构建有用的 UI 应用程序。
 

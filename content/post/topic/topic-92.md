@@ -2,7 +2,7 @@
 title: "预训练模型助力，真实动画视频生成 | 开源专题 No.92"
 description: "在这个数字化时代，将静态图像转化为栩栩如生的动态视频已成为现实。探索这些开源项目，一起揭开图像到视频动画合成的神秘面纱，感受技术的革新和创意的力量。"
 date: "2024-06-17T23:35:44.607Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6f7887bec88b6a3fd87e96ad4f74b091.png"
+image: "https://static.osguider.com/history/osguider/6f7887bec88b6a3fd87e96ad4f74b091.png"
 tags: []
 categories:
   - "topic"
@@ -40,7 +40,7 @@ AniPortrait 是一个通过音频驱动合成逼真肖像动画的开源项目�
 
 {{< shields path="github/stars/magic-research/magic-animate" alt="Github Repo Stars" >}} {{< shields path="github/license/magic-research/magic-animate" alt="License: " >}} {{< shields path="github/languages/top/magic-research/magic-animate" alt="Language: " >}}
 
-![demo-picture-of-magic-animate](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/b87dc6f057f2d978529c41232c9e4f5e.gif)
+![demo-picture-of-magic-animate](https://static.osguider.com/history/2023/b87dc6f057f2d978529c41232c9e4f5e.gif)
 
 这个项目是 MagicAnimate，它使用扩散模型实现了时间一致的人体图像动画。该项目提供了预训练基础模型和 MagicAnimate 检查点，并支持单 GPU 和多 GPU 推断。此外，还提供在线 Gradio 演示以及本地 Gradio 演示功能。
 
@@ -52,7 +52,7 @@ AniPortrait 是一个通过音频驱动合成逼真肖像动画的开源项目�
 
 {{< shields path="github/stars/HumanAIGC/AnimateAnyone" alt="Github Repo Stars" >}} {{< shields path="github/license/HumanAIGC/AnimateAnyone" alt="License: " >}} {{< shields path="github/languages/top/HumanAIGC/AnimateAnyone" alt="Language: " >}}
 
-![demo-picture-of-AnimateAnyone](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/11e1c168442ac7228958ae06b7544b30.png)
+![demo-picture-of-AnimateAnyone](https://static.osguider.com/history/2023/11e1c168442ac7228958ae06b7544b30.png)
 
 AniamteAnyone 是一个用于角色动画的一致且可控的图像到视频合成工具。
 

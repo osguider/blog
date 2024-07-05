@@ -2,7 +2,7 @@
 title: "AI 绘画百宝箱：无限创意任你挑 | 开源专题 No.67"
 description: "想要探索图像生成的奥秘？这里有各种创新项目，从实时交互到高分辨率图像生成，满足你的各种需求！"
 date: "2024-04-16T23:35:54.615Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/98ca7620697a36c4a2c02b96529319f3.png"
+image: "https://static.osguider.com/history/osguider/98ca7620697a36c4a2c02b96529319f3.png"
 tags: []
 categories:
   - "topic"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/cumulo-autumn/StreamDiffusion" alt="Github Repo Stars" >}} {{< shields path="github/license/cumulo-autumn/StreamDiffusion" alt="License: " >}} {{< shields path="github/languages/top/cumulo-autumn/StreamDiffusion" alt="Language: " >}}
 
-![demo-picture-of-StreamDiffusion](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c9f0de0723515aed9f42f108f2cfefbd.gif)
+![demo-picture-of-StreamDiffusion](https://static.osguider.com/history/2023/c9f0de0723515aed9f42f108f2cfefbd.gif)
 
 StreamDiffusion 是一个创新的扩散管道，旨在实现实时交互式生成。它针对当前基于扩散的图像生成技术引入了显著的性能增强。
 其主要功能和核心优势包括：
@@ -28,7 +28,7 @@ StreamDiffusion 是一个创新的扩散管道，旨在实现实时交互式生�
 
 {{< shields path="github/stars/damo-vilab/AnyDoor" alt="Github Repo Stars" >}} {{< shields path="github/license/damo-vilab/AnyDoor" alt="License: " >}} {{< shields path="github/languages/top/damo-vilab/AnyDoor" alt="Language: " >}}
 
-![demo-picture-of-AnyDoor](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/f1587e7ac1ee1e152ec4eb2399c5f4be.png)
+![demo-picture-of-AnyDoor](https://static.osguider.com/history/2023/f1587e7ac1ee1e152ec4eb2399c5f4be.png)
 
 AnyDoor 是一个零-shot 的对象级别的图像定制项目。
 其核心优势和关键特性包括：
@@ -43,7 +43,7 @@ AnyDoor 是一个零-shot 的对象级别的图像定制项目。
 
 {{< shields path="github/stars/PRIS-CV/DemoFusion" alt="Github Repo Stars" >}} {{< shields path="github/license/PRIS-CV/DemoFusion" alt="License: " >}} {{< shields path="github/languages/top/PRIS-CV/DemoFusion" alt="Language: " >}}
 
-![demo-picture-of-DemoFusion](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/9a5af7820452a256d2470465dcb68c08.png)
+![demo-picture-of-DemoFusion](https://static.osguider.com/history/2024/9a5af7820452a256d2470465dcb68c08.png)
 
 DemoFusion 是一个开源项目，旨在通过推进高分辨率图像生成的前沿，并保持对广泛受众的可访问性，来使高分辨率 GenAI 民主化。该框架无缝扩展了开源 GenAI 模型，采用渐进式放大、跳过残差和扩张抽样机制实现更高分辨率的图像生成。
 其核心优势包括：
@@ -56,7 +56,7 @@ DemoFusion 是一个开源项目，旨在通过推进高分辨率图像生成的
 
 {{< shields path="github/stars/leap-ai/headshots-starter" alt="Github Repo Stars" >}} {{< shields path="github/license/leap-ai/headshots-starter" alt="License: " >}} {{< shields path="github/languages/top/leap-ai/headshots-starter" alt="Language: " >}}
 
-![demo-picture-of-headshots-starter](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f4ab568659bc89d4c0cdab9f2f8bbe7f.png)
+![demo-picture-of-headshots-starter](https://static.osguider.com/history/osguider/f4ab568659bc89d4c0cdab9f2f8bbe7f.png)
 
 Headshot AI 是一个开源项目，它使用人工智能在几分钟内生成专业的头像照片。
 
@@ -71,7 +71,7 @@ Headshot AI 是一个开源项目，它使用人工智能在几分钟内生成�
 
 {{< shields path="github/stars/comfyanonymous/ComfyUI" alt="Github Repo Stars" >}} {{< shields path="github/license/comfyanonymous/ComfyUI" alt="License: " >}} {{< shields path="github/languages/top/comfyanonymous/ComfyUI" alt="Language: " >}}
 
-![demo-picture-of-ComfyUI](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/277183809cad76c37849c1f033a55241.png)
+![demo-picture-of-ComfyUI](https://static.osguider.com/history/osguider/277183809cad76c37849c1f033a55241.png)
 
 这个项目是 ComfyUI，它提供了一个图形化界面和后端来设计和执行复杂的稳定扩散工作流程。
 

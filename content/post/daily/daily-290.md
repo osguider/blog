@@ -2,7 +2,7 @@
 title: "网站安全全方位扫描：全能的 OSINT 工具 | 开源日报 No.290"
 description: "如果你想深入了解一个网站，web-check 是一个不错的选择。这款全能的 OSINT 工具能够揭示网站的内部运作，包括潜在的攻击向量、服务器架构、安全配置以及使用的技术。此外，web-check 还能够显示 IP 信息、SSL 链路、DNS 记录等多种信息，帮助你轻松理解、优化和保护你的网站。"
 date: "2024-07-02T23:35:30.007Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d462faf71bfa5f889feb62b0face1753.png"
+image: "https://static.osguider.com/history/osguider/d462faf71bfa5f889feb62b0face1753.png"
 tags: []
 categories:
   - "daily"
@@ -69,7 +69,7 @@ sudachi 是一个用 C++ 编写的适用于 Android、Linux 和 Windows 的任�
 
 {{< shields path="github/stars/Lissy93/web-check" alt="Github Repo Stars" >}} {{< shields path="github/license/Lissy93/web-check" alt="License: " >}} {{< shields path="github/languages/top/Lissy93/web-check" alt="Language: " >}}
 
-![demo-picture-of-web-check](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/8ccde91ebbe22493e1250e667bc6e710.png)
+![demo-picture-of-web-check](https://static.osguider.com/history/2024/8ccde91ebbe22493e1250e667bc6e710.png)
 
 web-check 是一款全能的 OSINT 工具，用于分析任何网站。
 

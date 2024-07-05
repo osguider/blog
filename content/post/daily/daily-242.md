@@ -2,7 +2,7 @@
 title: "基于 VITS 的变声框架：杜绝音色泄漏问题 | 开源日报 No.242"
 description: "Retrieval-based-Voice-Conversion-WebUI 是一个基于 VITS 的简单易用的变声框架。"
 date: "2024-04-12T23:35:34.119Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4bc5f7b91156a46edb6892b708f49b8d.png"
+image: "https://static.osguider.com/history/osguider/4bc5f7b91156a46edb6892b708f49b8d.png"
 tags: []
 categories:
   - "daily"
@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/halfrost/LeetCode-Go" alt="Github Repo Stars" >}} {{< shields path="github/license/halfrost/LeetCode-Go" alt="License: " >}} {{< shields path="github/languages/top/halfrost/LeetCode-Go" alt="Language: " >}}
 
-![demo-picture-of-LeetCode-Go](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/c25ec3f1f56320c5a8065e18d3cd5227.png)
+![demo-picture-of-LeetCode-Go](https://static.osguider.com/history/2024/c25ec3f1f56320c5a8065e18d3cd5227.png)
 
 LeetCode-Go 是使用 Go 语言解决 LeetCode 题目的项目。
 该项目的主要功能、关键特性、核心优势：
@@ -68,7 +68,7 @@ reverse-proxy 是一个用于开发高性能 HTTP 反向代理应用程序的工
 
 {{< shields path="github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI" alt="Github Repo Stars" >}} {{< shields path="github/license/RVC-Project/Retrieval-based-Voice-Conversion-WebUI" alt="License: " >}} {{< shields path="github/languages/top/RVC-Project/Retrieval-based-Voice-Conversion-WebUI" alt="Language: " >}}
 
-![demo-picture-of-Retrieval-based-Voice-Conversion-WebUI](https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/89b4b1132884d8eda5325eb9eaa5d225.png)
+![demo-picture-of-Retrieval-based-Voice-Conversion-WebUI](https://static.osguider.com/history/osguider/89b4b1132884d8eda5325eb9eaa5d225.png)
 
 Retrieval-based-Voice-Conversion-WebUI 是一个基于 VITS 的简单易用的变声框架，具有以下特点：
 

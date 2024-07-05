@@ -2,7 +2,7 @@
 title: "高级 AI 图像处理：打造高清视觉盛宴 | 开源专题 No.85"
 description: "随着AI技术的飞速发展，图像处理领域正迎来革命性的变革。从人脸修复到3D对象生成，这些开源项目不仅展示了AI技术的前沿进展，也为开发者和用户提供了强大的工具和解决方案。"
 date: "2024-05-30T23:35:16.962Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/cad7acbec12aec8c6195cdc3ff2bae8a.png"
+image: "https://static.osguider.com/history/osguider/cad7acbec12aec8c6195cdc3ff2bae8a.png"
 tags: []
 categories:
   - "topic"
@@ -42,7 +42,7 @@ IOPaint 是一款由 SOTA AI 模型驱动的图像修复工具。
 
 {{< shields path="github/stars/TencentARC/GFPGAN" alt="Github Repo Stars" >}} {{< shields path="github/license/TencentARC/GFPGAN" alt="License: " >}} {{< shields path="github/languages/top/TencentARC/GFPGAN" alt="Language: " >}}
 
-![demo-picture-of-GFPGAN](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/32865e7e23747ba67e1eac954a346214.jpeg)
+![demo-picture-of-GFPGAN](https://static.osguider.com/history/2023/32865e7e23747ba67e1eac954a346214.jpeg)
 
 GFPGAN 是一个面向实际应用的人脸修复算法。它利用预训练的面部 GAN (如 StyleGAN2) 中包含的丰富多样化先验知识进行盲目人脸修复。该项目具有以下核心优势和特点：
 
@@ -69,7 +69,7 @@ Real-ESRGAN 是一个旨在开发实用的图像/视频恢复算法的项目。
 
 {{< shields path="github/stars/openai/shap-e" alt="Github Repo Stars" >}} {{< shields path="github/license/openai/shap-e" alt="License: " >}} {{< shields path="github/languages/top/openai/shap-e" alt="Language: " >}}
 
-![demo-picture-of-shap-e](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/dc82986229575a52851faccdb412fd7a.gif)
+![demo-picture-of-shap-e](https://static.osguider.com/history/2023/dc82986229575a52851faccdb412fd7a.gif)
 
 shap-e 是一个根据文本或图像生成 3D 对象的项目。
 该项目主要功能、关键特性、核心优势包括：
