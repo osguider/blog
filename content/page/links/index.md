@@ -22,6 +22,10 @@ links:
     description: 工欲善其事，必先利其器。
     website: https://idea.diqigan.cn/
     image: https://idea.diqigan.cn/assets/images/idea-512x512.svg
+  - title: 小红花·文摘
+    description: 小红花·文摘：汇聚分发优质内容
+    website: https://xhh.club/
+    image: https://xhh.club/static/image/logo.png
   - title: 打工人PPT
     description: 为打工人提供免费PPT模板及PPT课件下载服务
     website: https://dgrppt.com/
