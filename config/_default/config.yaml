@@ -1,8 +1,9 @@
 baseurl: https://osguider.com/blog/
 languageCode: zh-cn
 theme: hugo-theme-stack
-paginate: 6
 title: 开源服务指南
+pagination:
+  paperSize: 6
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -15,11 +16,11 @@ hasCJKLanguage: true
 copyright: "开源服务指南"
 cleanDestinationDir: true
 enableRobotsTXT: true
-redirects:
-  - frome: /**
-    status: 404
-    to: /
 # GA Tracking ID
 googleAnalytics: G-ZSQ35SS15L
 # Change it to your Disqus shortname before using
 # disqusShortname: hugo-theme-stack
+
+services:
+  rss:
+    limit: 30

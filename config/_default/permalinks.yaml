@@ -2,4 +2,3 @@
 # post: /post/:slugorfilename/
 page: /:slug/
 categories: /categories/:slug/
-rss: /rss.xml
