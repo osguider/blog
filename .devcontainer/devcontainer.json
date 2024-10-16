@@ -1,5 +1,5 @@
 {
-  "name": "klakegg/hugo:ext-alpine",
+  "name": "hugomods/hugo:git",
   "build": {
     "dockerfile": "Dockerfile"
   },
@@ -19,10 +19,10 @@
     1313
   ],
   "postCreateCommand": {
-    "git-submodule": "git pull && git submodule update --init --recursive"
+    "git-submodule": "git pull && git submodule update --init --remote --recursive"
   },
   "postStartCommand": {
-    "git-update": "git pull && git submodule update",
+    "git-update": "git pull && git submodule update --remote",
     "start": "hugo server --buildDrafts --buildExpired --buildFuture --navigateToChanged"
   },
   "mounts": [
