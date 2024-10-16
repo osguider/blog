@@ -12,7 +12,7 @@ DefaultContentLanguage: zh-cn
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
 
-copyright: "- present 开源服务指南"
+copyright: "开源服务指南"
 cleanDestinationDir: true
 enableRobotsTXT: true
 redirects:

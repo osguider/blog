@@ -4,7 +4,7 @@ mainSections:
   - post
 # 定义封面图在 Front Matter 中的字段名称
 featuredImageField: image
-rssFullContent: true
+rssFullContent: false
 favicon: /blog/favicon.svg # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
 # https://stack.jimmycai.com/config/footer
