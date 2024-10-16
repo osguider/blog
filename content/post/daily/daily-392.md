@@ -95,3 +95,6 @@ RasaGPT 是建立在 Rasa 和 Langchain 之上的第一个无头 LLM 聊天机�
 - 根据用户问题自动生成标签
 - 包含完整的 API 文档，并提供 PGAdmin 方便浏览数据库
   
+---
+
+This message is used to verify that this feed (feedId:55855418052542493) belongs to me (userId:67121212129218560). Join me in enjoying the next generation information browser https://follow.is.
