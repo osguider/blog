@@ -29,8 +29,4 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "seven-steven"
-          git config user.email "seven@diqigan.cn"
-          git add ./content/post/${{ github.event.inputs.path }}
-          git commit -m "add post: ${{ github.event.inputs.path }}"
-          .github/workflows/script/pull-before-push.sh
+          .github/workflows/script/git-push.sh ${{ github.event.inputs.path }}
