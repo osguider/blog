@@ -23,7 +23,7 @@ jobs:
 
       - name: Create Post
         run: |
-          cat << EOF > ./content/post/${{ github.event.inputs.path }}
+          cat << 'EOF' > ./content/post/${{ github.event.inputs.path }}
           ${{ github.event.inputs.content }}
           EOF
 
