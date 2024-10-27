@@ -7,12 +7,6 @@ POST_PATH="./content/post/$1"
 # 先拉取最新代码
 git pull --rebase origin main
 
-# 检查文件是否已存在
-if [ -f "$POST_PATH" ]; then
-    echo "File already exists: $POST_PATH"
-    exit 0
-fi
-
 # 添加更改
 git add "$POST_PATH"
 
