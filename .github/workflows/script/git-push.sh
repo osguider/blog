@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# 将文件添加到 Git 索引
+git add "./content/post/$1"
+
 # 检查是否有未提交的更改
 if git rev-parse --quiet --verify HEAD >/dev/null && git diff-index --quiet HEAD --; then
   echo "No changes to commit"
@@ -10,8 +13,7 @@ fi
 git config --local user.name "seven-steven"
 git config --local user.email "seven@diqigan.cn"
 
-# 添加更改并提交
-git add "./content/post/$1"
+# 提交变更
 git commit -m "add post: $1"
 
 # 推送到远程分支
