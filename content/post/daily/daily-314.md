@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/jgraph/drawio-desktop" alt="Github Repo Stars" >}} {{< shields path="github/license/jgraph/drawio-desktop" alt="License: " >}} {{< shields path="github/languages/top/jgraph/drawio-desktop" alt="Language: " >}}
 
-![demo-picture-of-drawio-desktop](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/eca2803c85deaa196f70f215118ce0fa.png)
+![demo-picture-of-drawio-desktop](https://static.osguider.com/history/2024/eca2803c85deaa196f70f215118ce0fa.png)
 
 drawio-desktop 是基于 Electron 的图表绘制和白板桌面应用程序，包装了 draw.io 编辑器。
 该项目主要解决的核心问题是提供一个功能强大的桌面应用程序，用于创建和编辑图表和白板，同时保证安全和隔离性。
@@ -26,7 +26,7 @@ drawio-desktop 是基于 Electron 的图表绘制和白板桌面应用程序，�
 - 支持本地存储和会话存储，文件存储位置详细说明。
 - 提供基于业务约束的支持，所有支持都通过该项目的 GitHub 存储库提供。
 - 不支持对项目的开放贡献，由于复杂性高且测试要求严格，所有变更需由项目团队实施。
-  
+
 ## [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy)
 
 {{< shields path="github/stars/miss-mumu/developer2gwy" alt="Github Repo Stars" >}} {{< shields path="github/license/miss-mumu/developer2gwy" alt="License: " >}} {{< shields path="github/languages/top/miss-mumu/developer2gwy" alt="Language: " >}}
@@ -40,7 +40,7 @@ developer2gwy 是一个开源项目，旨在为公务员考试提供最佳实践
 - 深入讨论公考备考的高效方法和应用 APP 推荐。
 - 更新项目内容以反映最新的国考和省考备考信息。
 - 由开源社区接管项目发展，确保内容的更新和方向的持续发展。
-  
+
 ## [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 
 {{< shields path="github/stars/ValdikSS/GoodbyeDPI" alt="Github Repo Stars" >}} {{< shields path="github/license/ValdikSS/GoodbyeDPI" alt="License: " >}} {{< shields path="github/languages/top/ValdikSS/GoodbyeDPI" alt="Language: " >}}
@@ -55,7 +55,7 @@ GoodbyeDPI 是一个用于绕过深度数据包检查系统的实用工具（适
 - 支持 Windows 7, 8, 8.1, 10 或 11
 - 提供快速启动指南和使用说明
 - 可配置多种选项，如 HTTP 和 HTTPS 分段、DNS 重定向等功能
-  
+
 ## [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io)
 
 {{< shields path="github/stars/LLMBook-zh/LLMBook-zh.github.io" alt="Github Repo Stars" >}} {{< shields path="github/license/LLMBook-zh/LLMBook-zh.github.io" alt="License: " >}} {{< shields path="github/languages/top/LLMBook-zh/LLMBook-zh.github.io" alt="Language: " >}}
@@ -69,7 +69,7 @@ LLMBook-zh.github.io 是关于大语言模型的开源项目。
 - 提供中文参考资料
 - 包含英文综述论文《A Survey of Large Language Models》
 - 提供配套资源 LLMSurvey, LLMBox 和 YuLan 大语言模型代码库
-  
+
 ## [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo)
 
 {{< shields path="github/stars/ZCShou/GoGoGo" alt="Github Repo Stars" >}} {{< shields path="github/license/ZCShou/GoGoGo" alt="License: " >}} {{< shields path="github/languages/top/ZCShou/GoGoGo" alt="Language: " >}}
@@ -85,4 +85,4 @@ GoGoGo 是一个基于 Android 调试 API + 百度地图实现的虚拟定位工
 - 提供简单用法和常见问题解答（FAQ）
 - 在鸿蒙系统上正常运行
 - 使用 GPL 许可证，开源共享。
-  
+

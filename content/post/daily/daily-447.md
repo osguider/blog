@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/supertokens/supertokens-core" alt="Github Repo Stars" >}} {{< shields path="github/license/supertokens/supertokens-core" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/supertokens/supertokens-core" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-supertokens-core](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/25874adb6b29440663a6d3a3bfa4212d.png)
+![demo-picture-of-supertokens-core](https://static.osguider.com/history/2024/25874adb6b29440663a6d3a3bfa4212d.png)
 
 supertokens-core 是一个开源的身份验证提供者，作为 Auth0、Firebase Auth 和 AWS Cognito 的替代方案。
 
@@ -22,7 +22,7 @@ supertokens-core 是一个开源的身份验证提供者，作为 Auth0、Fireba
 - 实现了会话管理、多因素认证及企业单点登录支持
 - 开放源码，无用户数量限制，用户数据完全控制在自己手中
 - 简化实现过程，提高安全性，同时避免 OAuth 协议的复杂性
-  
+
 ## [spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql)
 
 {{< shields path="github/stars/spaceandtimelabs/sxt-proof-of-sql" alt="Github Repo Stars" >}} {{< shields path="github/license/spaceandtimelabs/sxt-proof-of-sql" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/spaceandtimelabs/sxt-proof-of-sql" alt="Language: `Unknown`" >}}
@@ -36,7 +36,7 @@ sxt-proof-of-sql 是一个由 Space and Time 团队开发的高性能零知识�
 - 可以与任何 SQL 数据库集成，包括集中式和去中心化数据库。
 - 在单个 NVIDIA T4 GPU 上，可以聚合数百万行索引数据，并满足以太坊区块时间要求。
 - 已被多个知名 Web3 应用、金融机构及企业采用。
-  
+
 ## [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
 {{< shields path="github/stars/pydantic/pydantic-ai" alt="Github Repo Stars" >}} {{< shields path="github/license/pydantic/pydantic-ai" alt="License: `MIT`" >}} {{< shields path="github/languages/top/pydantic/pydantic-ai" alt="Language: `Unknown`" >}}
@@ -51,7 +51,7 @@ pydantic-ai 是一个用于将 Pydantic 与大型语言模型（LLMs）结合的
 - 提供结构化响应验证功能，并支持流式响应验证。
 - 拥有新颖的类型安全依赖注入系统，有助于测试和迭代开发。
 - 集成 Logfire，用于调试和监控 LLM 应用程序性能。
-  
+
 ## [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
 
 {{< shields path="github/stars/itzg/docker-minecraft-server" alt="Github Repo Stars" >}} {{< shields path="github/license/itzg/docker-minecraft-server" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/itzg/docker-minecraft-server" alt="Language: `Unknown`" >}}
@@ -66,7 +66,7 @@ docker-minecraft-server 是一个提供 Minecraft 服务器的 Docker 镜像，�
 - 自动下载和清理管理模组及插件
 - 使用多种模组包提供者/平台
 - 提供多个示例以供参考
-  
+
 ## [khcrysalis/Feather](https://github.com/khcrysalis/Feather)
 
 {{< shields path="github/stars/khcrysalis/Feather" alt="Github Repo Stars" >}} {{< shields path="github/license/khcrysalis/Feather" alt="License: `GPL-3.0`" >}} {{< shields path="github/languages/top/khcrysalis/Feather" alt="Language: `Unknown`" >}}
@@ -84,4 +84,4 @@ Feather 是一款免费的 iOS 设备应用管理器/安装程序，使用 Apple
 - 与 Apple 开发者计划相关联的账户兼容，但也支持其他证书
 - 简单易用的重新签名功能，可以为已有应用更换证书并重新安装
 - 不进行跟踪或分析，用户信息如 UDID 和证书不会离开设备
-  
+

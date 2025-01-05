@@ -23,12 +23,12 @@ Tracy 的主要功能、关键特性和核心优势包括：
 - 支持 CPU、GPU、内存分配、锁、上下文切换等性能分析
 - 提供 C、C++、Lua 和 Python 的直接支持，以及 Rust、Zig、C#、OCaml、Odin 等其他语言的第三方绑定
 - 自动将截图与捕获的帧相关联
-  
+
 ## [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
 
 {{< shields path="github/stars/ruffle-rs/ruffle" alt="Github Repo Stars" >}} {{< shields path="github/license/ruffle-rs/ruffle" alt="License: " >}} {{< shields path="github/languages/top/ruffle-rs/ruffle" alt="Language: " >}}
 
-![demo-picture-of-ruffle](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/deeca9f7cc576f318afc8c64362a9d3a.png)
+![demo-picture-of-ruffle](https://static.osguider.com/history/2024/deeca9f7cc576f318afc8c64362a9d3a.png)
 
 ruffle 是用 Rust 编写的 Adobe Flash Player 模拟器。
 该项目具有以下主要功能和核心优势：
@@ -38,7 +38,7 @@ ruffle 是用 Rust 编写的 Adobe Flash Player 模拟器。
 - 提供了 Web Demo 页面，可方便地尝试 Ruffle
 - 支持夜间构建，提供给开发者进行测试
 - 提供了详细的 Wiki 页面，指导用户构建和使用 Ruffle
-  
+
 ## [stacks-network/stacks-core](https://github.com/stacks-network/stacks-core)
 
 {{< shields path="github/stars/stacks-network/stacks-core" alt="Github Repo Stars" >}} {{< shields path="github/license/stacks-network/stacks-core" alt="License: " >}} {{< shields path="github/languages/top/stacks-network/stacks-core" alt="Language: " >}}
@@ -54,7 +54,7 @@ stacks-core 是 Stacks 区块链的 Rust 参考实现。
 - 无需修改比特币即可实现智能合约和去中心化应用程序。
 - 使用 Clarity 语言实现智能合约和去中心化应用程序。
 - 可以通过运行测试来观察状态机的运行情况。
-  
+
 ## [tencent-ailab/V-Express](https://github.com/tencent-ailab/V-Express)
 
 {{< shields path="github/stars/tencent-ailab/V-Express" alt="Github Repo Stars" >}} {{< shields path="github/license/tencent-ailab/V-Express" alt="License: " >}} {{< shields path="github/languages/top/tencent-ailab/V-Express" alt="Language: " >}}
@@ -67,7 +67,7 @@ V-Express 是一个用于生成根据参考图像、音频和一系列 V-Kps 图
 - 平衡不同控制信号
 - 通过渐进式丢弃操作平衡不同条件
 - 解决音频信号在训练中难以收敛的问题
-  
+
 ## [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero)
 
 {{< shields path="github/stars/iam-veeramalla/aws-devops-zero-to-hero" alt="Github Repo Stars" >}} {{< shields path="github/license/iam-veeramalla/aws-devops-zero-to-hero" alt="License: " >}} {{< shields path="github/languages/top/iam-veeramalla/aws-devops-zero-to-hero" alt="Language: " >}}
@@ -86,4 +86,4 @@ V-Express 是一个用于生成根据参考图像、音频和一系列 V-Kps 图
 - 项目驱动学习：每天都有具体任务和相关案例，让您能够将所学知识应用到真实场景中，并获得与 AWS 在 DevOps 环境下工作时相对应的实际技能。
 
 通过这个开源项目，你可以在短时间内系统地了解并掌握 AWS。无论是初次接触还是希望加深自己已有经验，在这里都会找到适合自己的内容。
-  
+

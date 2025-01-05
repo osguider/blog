@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/sz3/libcimbar" alt="Github Repo Stars" >}} {{< shields path="github/license/sz3/libcimbar" alt="License: " >}} {{< shields path="github/languages/top/sz3/libcimbar" alt="Language: " >}}
 
-![demo-picture-of-libcimbar](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/9255ba5569d89ad709d0fdc1dd9ed9c5.png)
+![demo-picture-of-libcimbar](https://static.osguider.com/history/2024/9255ba5569d89ad709d0fdc1dd9ed9c5.png)
 
 libcimbar 是用于颜色图标矩阵条形码的优化实现。
 
@@ -21,7 +21,7 @@ libcimbar 是用于颜色图标矩阵条形码的优化实现。
 - 使用动态条形码进行编码，并通过手机摄像头读取。
 - 数据存储在彩色瓦片网格中，应用 Reed Solomon 纠错以处理视频到数字解码过程中可能出现的损失。期望低于 1% 的错误率并得到修正。
 - 包括基于喷泉代码（wirehair）和 zstd 压缩构建文件编码简单协议。支持最多 33MB 文件大小，并可以输出为图像或实时视频流。即使接收到无序、损坏或丢失帧，也可以成功重建和解压缩文件。
-  
+
 ## [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
 
 {{< shields path="github/stars/krayin/laravel-crm" alt="Github Repo Stars" >}} {{< shields path="github/license/krayin/laravel-crm" alt="License: " >}} {{< shields path="github/languages/top/krayin/laravel-crm" alt="Language: " >}}
@@ -35,7 +35,7 @@ laravel-crm 是一款面向中小企业和企业的免费开源 Laravel CRM 解�
 - 简单易懂的管理员面板和仪表盘
 - 支持自定义属性和模块化设计
 - 集成了 Sendgrid 进行邮件解析功能
-  
+
 ## [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
 
 {{< shields path="github/stars/ashishps1/awesome-behavioral-interviews" alt="Github Repo Stars" >}} {{< shields path="github/license/ashishps1/awesome-behavioral-interviews" alt="License: " >}} {{< shields path="github/languages/top/ashishps1/awesome-behavioral-interviews" alt="Language: " >}}
@@ -54,7 +54,7 @@ awesome-behavioral-interviews 是一个准备行为面试的技巧和资源库�
 - 强调个人优势
 - 提出深思熟虑的问题
 - 团队合作能力突出
-  
+
 ## [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium)
 
 {{< shields path="github/stars/Codium-ai/AlphaCodium" alt="Github Repo Stars" >}} {{< shields path="github/license/Codium-ai/AlphaCodium" alt="License: " >}} {{< shields path="github/languages/top/Codium-ai/AlphaCodium" alt="Language: " >}}
@@ -66,7 +66,7 @@ AlphaCodium 是一个代码生成工具，它在 CodeContests 中超越了大多
 - 提供了新的代码生成方法 AlphaCodium，通过测试驱动、多阶段、面向代码的迭代流程来改善 LLMs 在代码问题上的性能。
 - 在挑战性很高的 CodeContests 数据集上进行了测试，并且提出的流程显著地提高了结果。
 - 可以根据配置选择要使用的模型，并解决特定问题或整个数据集。
-  
+
 ## [hustvl/Vim](https://github.com/hustvl/Vim)
 
 {{< shields path="github/stars/hustvl/Vim" alt="Github Repo Stars" >}} {{< shields path="github/license/hustvl/Vim" alt="License: " >}} {{< shields path="github/languages/top/hustvl/Vim" alt="Language: " >}}
@@ -81,4 +81,4 @@ Vim 是一个用于高效视觉表示学习的项目。
 - 比 DeiT 快 2.8 倍，并且在 1248×1248 分辨率图像进行批量推断时节省 86.8% GPU 内存
 - 能够克服执行 Transformer-style 理解高分辨率图像时的计算与内存限制
 此外，该项目还提供了预训练环境设置、模型权重下载及评估等相关内容。
-  
+

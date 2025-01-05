@@ -22,7 +22,7 @@ GraphRAG 是一个模块化的基于图的检索增强生成（RAG）系统。
 - 提供解决方案加速包，便于用户端到端体验 Azure 资源。
 - 支持提示调优，以优化使用效果。
 - 包含负责任 AI 的 FAQ 和指南，确保有效和负责任的使用。
-  
+
 ## [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
 
 {{< shields path="github/stars/BLAKE3-team/BLAKE3" alt="Github Repo Stars" >}} {{< shields path="github/license/BLAKE3-team/BLAKE3" alt="License: " >}} {{< shields path="github/languages/top/BLAKE3-team/BLAKE3" alt="Language: " >}}
@@ -38,7 +38,7 @@ BLAKE3 是 BLAKE3 密码哈希函数的官方 Rust 和 C 实现。具有以下�
 - 除了作为常规哈希函数外，还可以用作伪随机函数（PRF）、消息认证码（MAC）、密钥派生函数（KDF）和可扩展输出函数（XOF）。
 - 只有一种算法，适用于 x86-64 和较小的架构，具有良好的性能。
 - 提供了 Rust 和 C 两种实现，包括 SIMD 代码和在 x86 上的运行时 CPU 特性检测。
-  
+
 ## [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten)
 
 {{< shields path="github/stars/hajimehoshi/ebiten" alt="Github Repo Stars" >}} {{< shields path="github/license/hajimehoshi/ebiten" alt="License: " >}} {{< shields path="github/languages/top/hajimehoshi/ebiten" alt="Language: " >}}
@@ -53,12 +53,12 @@ ebiten 是一个用于 Go 语言的简单的 2D 游戏引擎。
 - 支持 Windows、macOS、Linux 等多个平台
 - 包括图形处理、输入控制和音频支持等功能
 - 具有丰富社区支持，许可证允许商业应用。
-  
+
 ## [dromara/x-file-storage](https://github.com/dromara/x-file-storage)
 
 {{< shields path="github/stars/dromara/x-file-storage" alt="Github Repo Stars" >}} {{< shields path="github/license/dromara/x-file-storage" alt="License: " >}} {{< shields path="github/languages/top/dromara/x-file-storage" alt="Language: " >}}
 
-![demo-picture-of-x-file-storage](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/e4a668d19d7f2b9c174ebe93c719f69c.png)
+![demo-picture-of-x-file-storage](https://static.osguider.com/history/2024/e4a668d19d7f2b9c174ebe93c719f69c.png)
 
 x-file-storage 是一个可以将文件存储到多个平台的开源项目。一行代码即可将文件存储到本地、FTP、SFTP、WebDAV 等多个平台。
 主要功能和核心优势如下：
@@ -67,12 +67,12 @@ x-file-storage 是一个可以将文件存储到多个平台的开源项目。�
 - 只需一行代码即可实现文件上传功能。
 - 支持大文件分片上传和断点续传。
 - 提供丰富的配置选项，方便用户根据自己的需求进行定制化设置。
-  
+
 ## [joschan21/digitalhippo](https://github.com/joschan21/digitalhippo)
 
 {{< shields path="github/stars/joschan21/digitalhippo" alt="Github Repo Stars" >}} {{< shields path="github/license/joschan21/digitalhippo" alt="License: " >}} {{< shields path="github/languages/top/joschan21/digitalhippo" alt="Language: " >}}
 
-![demo-picture-of-digitalhippo](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/65ba614162fd30dc0160739a5e177404.png)
+![demo-picture-of-digitalhippo](https://static.osguider.com/history/2024/65ba614162fd30dc0160739a5e177404.png)
 
 digitalhippo 是一个现代化的全栈电子商务数字产品市场。
 该项目解决了构建数字产品市场的核心问题。
@@ -84,4 +84,4 @@ digitalhippo 是一个现代化的全栈电子商务数字产品市场。
 - 用户可以购买和出售自己的产品
 - 本地持久化购物车功能
 - 使用 Payload 进行身份验证
-  
+

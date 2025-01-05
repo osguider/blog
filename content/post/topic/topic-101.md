@@ -20,7 +20,7 @@ slint 是一个声明式的 GUI 工具包，用于为 Rust、C++ 或 JavaScript 
 - 轻量级：需要最少的内存和处理能力资源，在任何设备上提供类似智能手机般流畅的用户体验。
 - 直观易用：设计师和开发人员在享受 GUI 设计和开发过程时应感到高效。设计工具对设计师来说易于使用。对于开发人员来说，API 应该一致且易于使用，无论选择哪种编程语言。
 - 原生体验：Slint 构建的 GUI 应符合终端用户对本机应用程序的期望 —— 无论是桌面、移动端、Web 还是嵌入式系统。UI 设计应被编译成机器码，并提供只有本机应用程序才能提供的灵活性: 访问完整操作系统 API, 利用所有 CPU 和 GPU 核心, 连接到任何外围设备。
-  
+
 ## [renovatebot/renovate](https://github.com/renovatebot/renovate)
 
 {{< shields path="github/stars/renovatebot/renovate" alt="Github Repo Stars" >}} {{< shields path="github/license/renovatebot/renovate" alt="License: " >}} {{< shields path="github/languages/top/renovatebot/renovate" alt="Language: " >}}
@@ -34,7 +34,7 @@ Renovate 是一个自动化的依赖项更新工具，支持多平台和多语�
 - 使用类似 ESLint 共享配置预设进行简化设置 (仅限 JSON 格式)
 - 支持并在同一次提交中更新锁定文件，包括立即解决 PR 合并时出现的冲突
 - 获取替换性拉取请求以从废弃依赖迁移到社区建议替代方案，并适用于大部分管理者 (有例外情况，请参见 issue 14149)
-  
+
 ## [tokio-rs/axum](https://github.com/tokio-rs/axum)
 
 {{< shields path="github/stars/tokio-rs/axum" alt="Github Repo Stars" >}} {{< shields path="github/license/tokio-rs/axum" alt="License: " >}} {{< shields path="github/languages/top/tokio-rs/axum" alt="Language: " >}}
@@ -49,12 +49,12 @@ axum 是一个使用 Tokio、Tower 和 Hyper 构建的人体工程学和模块�
 - 简单可预测的错误处理模型。
 - 最小化样板代码生成响应。
 - 充分利用 tower 和 tower-http 生态系统中的中间件、服务和实用工具。axum 不具备自己的中间件系统，而是使用 ，从而获得超时控制、追踪、压缩等功能，并能与使用 hyper 或 tonic 编写的应用程序共享中间件。
-  
+
 ## [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio)
 
 {{< shields path="github/stars/verdaccio/verdaccio" alt="Github Repo Stars" >}} {{< shields path="github/license/verdaccio/verdaccio" alt="License: " >}} {{< shields path="github/languages/top/verdaccio/verdaccio" alt="Language: " >}}
 
-![demo-picture-of-verdaccio](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/f4dd8317df43a6e805e4d2b88fbe1524.png)
+![demo-picture-of-verdaccio](https://static.osguider.com/history/2023/f4dd8317df43a6e805e4d2b88fbe1524.png)
 
 Verdaccio 是一个轻量级的 Node.js 私有代理仓库。
 
@@ -64,12 +64,12 @@ Verdaccio 是一个轻量级的 Node.js 私有代理仓库。
 - 本地化管理：通过内置小型数据库进行简单而高效地包管理。
 - 代理功能：支持将其他注册表 (如 npmjs.org) 作为上游源并缓存已下载模块。
 - 插件系统：提供多样化丰富实用插件生态系统，方便用户根据需求拓展额外功能。
-  
+
 ## [aidenybai/million](https://github.com/aidenybai/million)
 
 {{< shields path="github/stars/aidenybai/million" alt="Github Repo Stars" >}} {{< shields path="github/license/aidenybai/million" alt="License: " >}} {{< shields path="github/languages/top/aidenybai/million" alt="Language: " >}}
 
-![demo-picture-of-million](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/af4b0c5955413343dfb54201f7f50d30.png)
+![demo-picture-of-million](https://static.osguider.com/history/2023/af4b0c5955413343dfb54201f7f50d30.png)
 
 Million.js 是一个极快且轻量级 (<4kb) 的虚拟 DOM，可以使 React 组件速度提高 70%。它与 React 兼容，并通过精心调整和优化的虚拟 DOM 来降低 React 的开销，从而实现更快的渲染和加载速度。
 
@@ -79,4 +79,4 @@ Million.js 是一个极快且轻量级 (<4kb) 的虚拟 DOM，可以使 React �
 - 与 React 兼容
 - 良好扩展性
 - 提供文档资源和社区支持
-  
+

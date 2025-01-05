@@ -24,7 +24,7 @@ sqlite-vec 是一个可以在任何地方运行的向量搜索 SQLite 扩展程�
 - 可以与 Python、Node.js、Ruby、Go、Rust、Datasette、sqlite-utils 等语言和工具集成；
 - 可以使用 JSON 或紧凑的二进制格式提供向量；
 - 可以进行 KNN 风格的查询，并按距离排序返回结果。
-  
+
 ## [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 
 {{< shields path="github/stars/mtdvio/every-programmer-should-know" alt="Github Repo Stars" >}} {{< shields path="github/license/mtdvio/every-programmer-should-know" alt="License: " >}} {{< shields path="github/languages/top/mtdvio/every-programmer-should-know" alt="Language: " >}}
@@ -37,7 +37,7 @@ Every Programmer Should Know 是一个收集（主要是）每个软件开发人
 - 提供了计算机科学地图和 40 个关键计算机科学概念的解释。
 - 包含了对数据结构、算法、数字、字符串、延迟、时间、内存、分布式系统、正则表达式、安全性、用户体验等方面的资源。
 - 资源涵盖了广泛的主题，旨在帮助程序员提高技能水平，提供实用知识和指导
-  
+
 ## [bol-van/zapret](https://github.com/bol-van/zapret)
 
 {{< shields path="github/stars/bol-van/zapret" alt="Github Repo Stars" >}} {{< shields path="github/license/bol-van/zapret" alt="License: " >}} {{< shields path="github/languages/top/bol-van/zapret" alt="Language: " >}}
@@ -52,7 +52,7 @@ Every Programmer Should Know 是一个收集（主要是）每个软件开发人
 - 可以帮助绕过 HTTP(S) 网站的封锁或减速，以及 TCP 和 UDP 协议的签名分析，例如用于 VPN 的封锁。
 - 提供自动化工具来避免 DPI 触发的封锁机制，通过修改 iptables 规则进行 RST 包的阻止和重定向。
 - 针对不同的 DPI 实施策略，包括识别和混淆 HTTP 请求的方法，从而防止封锁触发。
-  
+
 ## [c3lang/c3c](https://github.com/c3lang/c3c)
 
 {{< shields path="github/stars/c3lang/c3c" alt="Github Repo Stars" >}} {{< shields path="github/license/c3lang/c3c" alt="License: " >}} {{< shields path="github/languages/top/c3lang/c3c" alt="Language: " >}}
@@ -71,12 +71,12 @@ c3c 是用于 C3 语言的编译器。
 - 基于“Result”的零开销错误处理。
 - 支持延迟执行（Defer）、值方法和关联枚举数据。
 - 移除预处理器，减少未定义行为并增加运行时检查。
-  
+
 ## [niedev/RTranslator](https://github.com/niedev/RTranslator)
 
 {{< shields path="github/stars/niedev/RTranslator" alt="Github Repo Stars" >}} {{< shields path="github/license/niedev/RTranslator" alt="License: " >}} {{< shields path="github/languages/top/niedev/RTranslator" alt="Language: " >}}
 
-![demo-picture-of-RTranslator](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/47b368971cab1fcd7927f8c03058a785.png)
+![demo-picture-of-RTranslator](https://static.osguider.com/history/2024/47b368971cab1fcd7927f8c03058a785.png)
 
 RTranslator 是一个开源的实时翻译应用程序。
 该项目的主要功能、关键特性和核心优势包括：
@@ -86,4 +86,4 @@ RTranslator 是一个开源的实时翻译应用程序。
 - 文本翻译模式，提供经典的文本翻译功能
 - 使用 Meta's NLLB 进行翻译和 OpenAi's Whisper 进行语音识别，保证隐私并支持离线使用
 - 2.0 版本中更新了 AI 模型，并添加了经典文本翻译模式以及改进蓝牙 LE 设备搜索等功能。
-  
+

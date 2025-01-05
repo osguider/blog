@@ -24,7 +24,7 @@ Popcorn Time 是一个跨平台、免费的 BitTorrent 客户端，包含集成�
 - 适配 Apple Silicon
 - 支持 Linux - Debian/Ubuntu 等发行版
 - 提供从源代码克隆到运行的快速入门指南
-  
+
 ## [stretchr/testify](https://github.com/stretchr/testify)
 
 {{< shields path="github/stars/stretchr/testify" alt="Github Repo Stars" >}} {{< shields path="github/license/stretchr/testify" alt="License: " >}} {{< shields path="github/languages/top/stretchr/testify" alt="Language: " >}}
@@ -42,7 +42,7 @@ testify 是一个与标准库兼容的常见断言和模拟工具包。
 - assert 包提供了友好易读的失败描述，并且可以在每个断言上附加消息。
 - require 包提供了与 assert 包相同的全局函数，但不返回布尔值而是终止当前测试。
 - mock 包提供了编写模拟对象以便在编写测试代码时替代真实对象的机制。
-  
+
 ## [weaviate/Verba](https://github.com/weaviate/Verba)
 
 {{< shields path="github/stars/weaviate/Verba" alt="Github Repo Stars" >}} {{< shields path="github/license/weaviate/Verba" alt="License: " >}} {{< shields path="github/languages/top/weaviate/Verba" alt="Language: " >}}
@@ -57,7 +57,7 @@ Verba 是一个由 Weaviate 提供支持的 Retrieval Augmented Generation (RAG)
 - 实现了混合搜索、语义缓存等 RAG 特性
 - 可通过 pip 安装或使用 Docker 部署
 - 具备可定制化前端界面
-  
+
 ## [IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV)
 
 {{< shields path="github/stars/IvanGlinkin/CCTV" alt="Github Repo Stars" >}} {{< shields path="github/license/IvanGlinkin/CCTV" alt="License: " >}} {{< shields path="github/languages/top/IvanGlinkin/CCTV" alt="Language: " >}}
@@ -70,12 +70,12 @@ CCTV 是一款革新定位追踪的开源设计，集成了 Telegram API。提�
 - 集成 Telegram API
 - 提供精准追踪功能
 - 实时监控能力
-  
+
 ## [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)
 
 {{< shields path="github/stars/Lunakepio/Mario-Kart-3.js" alt="Github Repo Stars" >}} {{< shields path="github/license/Lunakepio/Mario-Kart-3.js" alt="License: " >}} {{< shields path="github/languages/top/Lunakepio/Mario-Kart-3.js" alt="Language: " >}}
 
-![demo-picture-of-Mario-Kart-3.js](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/ce88cbaab8cd45a63f7f17f169bb4003.png)
+![demo-picture-of-Mario-Kart-3.js](https://static.osguider.com/history/2024/ce88cbaab8cd45a63f7f17f169bb4003.png)
 
 Mario-Kart-3.js 是一个 JavaScript/WebGL 实现的马里奥卡丁车游戏。
 
@@ -83,4 +83,4 @@ Mario-Kart-3.js 是一个 JavaScript/WebGL 实现的马里奥卡丁车游戏。
 - 按住空格键进行漂移，通过转向和反向转向来保持漂移状态，并在释放时获得小涡轮。
 - 按 E 键使用当前物品。
 - 按 R 重置位置，可随时使用。
-  
+

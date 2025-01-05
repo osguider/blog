@@ -24,7 +24,7 @@ sharedrop 是一个受苹果 AirDrop 启发的易用的基于 WebRTC 技术的 P
 - 需要互联网连接来发现其他设备
 - 可以在支持的浏览器上使用（Chrome、Edge、Firefox、Opera、Safari 13+）
 - 提供本地开发和部署指南
-  
+
 ## [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
 
 {{< shields path="github/stars/openvinotoolkit/openvino" alt="Github Repo Stars" >}} {{< shields path="github/license/openvinotoolkit/openvino" alt="License: " >}} {{< shields path="github/languages/top/openvinotoolkit/openvino" alt="Language: " >}}
@@ -36,12 +36,12 @@ OpenVINO™ 是一个用于优化和部署 AI 推断的开源工具包。
 - 推断优化：提升计算机视觉、自动语音识别、生成式 AI、自然语言处理等领域的深度学习性能。
 - 灵活的模型支持：支持使用 TensorFlow、PyTorch、ONNX、Keras 和 PaddlePaddle 等流行框架训练的模型，无需原始框架即可转换和部署模型。
 - 广泛的平台兼容性：在从边缘到云端的各种平台上降低资源需求并高效部署。支持在 CPU（x86、ARM）、GPU（支持 OpenCL 的集成和独立 GPU）和 AI 加速器（Intel NPU）上进行推断。
-  
+
 ## [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 
 {{< shields path="github/stars/bunkerity/bunkerweb" alt="Github Repo Stars" >}} {{< shields path="github/license/bunkerity/bunkerweb" alt="License: " >}} {{< shields path="github/languages/top/bunkerity/bunkerweb" alt="Language: " >}}
 
-![demo-picture-of-bunkerweb](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/dc076d9aae718de860c847cf64c0657c.png)
+![demo-picture-of-bunkerweb](https://static.osguider.com/history/2024/dc076d9aae718de860c847cf64c0657c.png)
 
 bunkerweb 是一个开源的下一代 Web 应用程序防火墙（WAF），它是一个全功能的 Web 服务器（基于 NGINX），可以保护您的 Web 服务，使其“默认安全”。BunkerWeb 可以无缝地集成到您现有的环境中（Linux、Docker、Swarm、Kubernetes 等），并且可以完全配置，以满足您自己的用例。BunkerWeb 包含了一些主要的安全功能，但也可以通过插件系统轻松扩展。其主要功能、关键特性和核心优势包括：
 
@@ -53,12 +53,12 @@ bunkerweb 是一个开源的下一代 Web 应用程序防火墙（WAF），它�
 - 自由软件：BunkerWeb 在自由的 AGPLv3 许可下发布，拥抱自由和开放的原则。享受使用、修改和分发软件的自由，得到支持性社区的支持。
 - 专业服务：直接从 BunkerWeb 的维护者那里获得技术支持、定制咨询和定制开发。访问 Bunker Panel 了解更多信息。
 BunkerWeb 的核心优势在于可以轻松地保护您的 Web 服务，使其“默认安全”，并且可以根据您的特定要求进行定制。它还提供了出色的 Web 用户界面（UI）和插件系统，以扩展其功能。
-  
+
 ## [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste)
 
 {{< shields path="github/stars/ayangweb/EcoPaste" alt="Github Repo Stars" >}} {{< shields path="github/license/ayangweb/EcoPaste" alt="License: " >}} {{< shields path="github/languages/top/ayangweb/EcoPaste" alt="Language: " >}}
 
-![demo-picture-of-EcoPaste](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/ec61ea2332cd2b495433d8bc598f7fb3.png)
+![demo-picture-of-EcoPaste](https://static.osguider.com/history/2024/ec61ea2332cd2b495433d8bc598f7fb3.png)
 
 EcoPaste 是一款开源的跨平台剪切板管理工具，它可以帮助用户高效地管理剪切板内容，提高工作效率。该项目的主要功能、关键特性和核心优势包括：
 
@@ -75,7 +75,7 @@ EcoPaste 是一款开源的跨平台剪切板管理工具，它可以帮助用�
 - 软件支持自动更新和手动检查更新功能，确保始终保持最新版本。
 
 总之，EcoPaste 是一款功能强大、易于使用的剪切板管理工具，可以帮助用户更加高效地处理剪切板内容。
-  
+
 ## [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book)
 
 {{< shields path="github/stars/alex-shpak/hugo-book" alt="Github Repo Stars" >}} {{< shields path="github/license/alex-shpak/hugo-book" alt="License: " >}} {{< shields path="github/languages/top/alex-shpak/hugo-book" alt="Language: " >}}
@@ -94,4 +94,4 @@ hugo-book 是 Hugo 的文档主题，简约而简单。
 - 简单的博客和分类功能
 - 主要功能无需 JavaScript 支持
 - 暗模式
-  
+

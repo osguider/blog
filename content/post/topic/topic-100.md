@@ -21,12 +21,12 @@ ripgrep 是一个面向行的搜索工具，可以递归地在当前目录中搜
 - 支持多种  特性，例如显示匹配结果上下文、同时搜索多个模式等
 - 有 PCRE2 引擎支持及部分替换功能
 - 支持不同编码格式和压缩格式的文件检索
-  
+
 ## [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 {{< shields path="github/stars/louislam/uptime-kuma" alt="Github Repo Stars" >}} {{< shields path="github/license/louislam/uptime-kuma" alt="License: " >}} {{< shields path="github/languages/top/louislam/uptime-kuma" alt="Language: " >}}
 
-![demo-picture-of-uptime-kuma](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/66d3df3124ee10e284e7ecd1a875a094.png)
+![demo-picture-of-uptime-kuma](https://static.osguider.com/history/2023/66d3df3124ee10e284e7ecd1a875a094.png)
 
 Uptime Kuma 是一个易于使用的自托管监控工具，主要功能和核心优势包括：
 
@@ -36,12 +36,12 @@ Uptime Kuma 是一个易于使用的自托管监控工具，主要功能和核�
 - 可以设置 20 秒间隔进行监测
 - 多语言支持，并提供多个状态页面和将状态页面映射到特定域名的功能
 - 显示 Ping 图表及证书信息，同时支持代理与双因素认证。
-  
+
 ## [netdata/netdata](https://github.com/netdata/netdata)
 
 {{< shields path="github/stars/netdata/netdata" alt="Github Repo Stars" >}} {{< shields path="github/license/netdata/netdata" alt="License: " >}} {{< shields path="github/languages/top/netdata/netdata" alt="Language: " >}}
 
-![demo-picture-of-netdata](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/c13e8da906da96374e8e9a23998e55c8.png)
+![demo-picture-of-netdata](https://static.osguider.com/history/2023/c13e8da906da96374e8e9a23998e55c8.png)
 
 Netdata 是一个监控工具，可以实时高分辨率地监视服务器、容器和应用程序。
 
@@ -53,12 +53,12 @@ Netdata 是一个监控工具，可以实时高分辨率地监视服务器、容
 - 强大可视化能力：清晰精确的可视化界面，使您能够快速理解任何数据集，在不需要学习查询语言的情况下直接在仪表板上进行筛选和切片处理。
 - 开箱即用警报功能：提供数百种开箱即用警报以便发现常见问题并揭示可能被忽略的问题。支持各种通知方式提醒用户关注重点事项
 - 低维护成本：自动完成全部任务，包括自动生成仪表盘，出厂设置预置告警规则，指定默认配置文件及 CI/CD 友好。
-  
+
 ## [nvbn/thefuck](https://github.com/nvbn/thefuck)
 
 {{< shields path="github/stars/nvbn/thefuck" alt="Github Repo Stars" >}} {{< shields path="github/license/nvbn/thefuck" alt="License: " >}} {{< shields path="github/languages/top/nvbn/thefuck" alt="Language: " >}}
 
-![demo-picture-of-thefuck](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/a50d3fe088eea19c9ffb2b8cc90606ac.gif)
+![demo-picture-of-thefuck](https://static.osguider.com/history/2023/a50d3fe088eea19c9ffb2b8cc90606ac.gif)
 
 The Fuck 是一个令人惊叹的应用程序，它可以纠正你之前在控制台输入的命令。
 
@@ -67,7 +67,7 @@ The Fuck 是一个令人惊叹的应用程序，它可以纠正你之前在控�
 - 自动修复错误：当你输错了一个命令时，The Fuck 可以自动检测并生成正确的命令，并执行。
 - 多种规则支持：通过使用各种预定义规则和插件，The Fuck 能够处理多个常见错误情况。
 - 实验性即时模式：The Fuck 的速度较慢？试试实验性即时模式！
-  
+
 ## [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 
 {{< shields path="github/stars/ventoy/Ventoy" alt="Github Repo Stars" >}} {{< shields path="github/license/ventoy/Ventoy" alt="License: " >}} {{< shields path="github/languages/top/ventoy/Ventoy" alt="Language: " >}}
@@ -81,5 +81,5 @@ Ventoy 是一个开源工具，用于创建支持 ISO/WIM/IMG/VHD(x)/EFI 文件�
 - 快速 (仅受 iso 文件复制速度限制)
 - 支持各种分区格式和操作系统类型
 - 可直接从 ISO/WIM/IMG/VHD(x)/EFI 文件启动，无需解压缩
-- 多种 BIOS 架构与分区样式均得到支持  
-  
+- 多种 BIOS 架构与分区样式均得到支持
+

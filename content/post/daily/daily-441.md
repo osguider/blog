@@ -21,12 +21,12 @@ website 是 Kubernetes 网站和文档的构建仓库。
 - 提供 API 参考页面生成工具，基于 Swagger 规范
 - 使用 Docsy Hugo 主题，确保一致性与美观性
 - 易于更新和维护，通过 Git 子模块管理依赖项
-  
+
 ## [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 
 {{< shields path="github/stars/jesseduffield/lazydocker" alt="Github Repo Stars" >}} {{< shields path="github/license/jesseduffield/lazydocker" alt="License: `MIT`" >}} {{< shields path="github/languages/top/jesseduffield/lazydocker" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-lazydocker](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/ee54f40cb0b777c2bfc8aa9e178fe931.png)
+![demo-picture-of-lazydocker](https://static.osguider.com/history/2024/ee54f40cb0b777c2bfc8aa9e178fe931.png)
 
 lazydocker 是一个用于更轻松管理 Docker 的简单终端用户界面。
 
@@ -34,7 +34,7 @@ lazydocker 是一个用于更轻松管理 Docker 的简单终端用户界面。
 - 集成常用命令，使所有信息集中在一个窗口中，减少记忆负担。
 - 支持自定义命令，提高灵活性和效率。
 - 兼容多种安装方式，包括 Homebrew、Scoop 和 Chocolatey。
-  
+
 ## [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)
 
 {{< shields path="github/stars/justcallmekoko/ESP32Marauder" alt="Github Repo Stars" >}} {{< shields path="github/license/justcallmekoko/ESP32Marauder" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/justcallmekoko/ESP32Marauder" alt="Language: `Unknown`" >}}
@@ -47,7 +47,7 @@ ESP32Marauder 是一套针对 ESP32 的 WiFi/Bluetooth 攻击和防御工具。
 - 适用于 ESP32 平台，便于开发和使用
 - 包含最新的固件版本，易于下载和安装
 - 项目文档齐全，方便用户了解各项功能
-  
+
 ## [odygrd/quill](https://github.com/odygrd/quill)
 
 {{< shields path="github/stars/odygrd/quill" alt="Github Repo Stars" >}} {{< shields path="github/license/odygrd/quill" alt="License: `MIT`" >}} {{< shields path="github/languages/top/odygrd/quill" alt="Language: `Unknown`" >}}
@@ -62,7 +62,7 @@ quill 是一个异步低延迟的 C++ 日志库。
 - 编译时优化：在编译时消除特定日志级别。
 - 自定义格式化器：定义自己的日志输出模式。支持时间戳排序、灵活时间戳、回溯记录等功能。
 - 多种输出端点、JSON 日志输出、可配置队列模式等功能，适用于各种需求场景。
-  
+
 ## [lining808/CS-Ebook](https://github.com/lining808/CS-Ebook)
 
 {{< shields path="github/stars/lining808/CS-Ebook" alt="Github Repo Stars" >}} {{< shields path="github/license/lining808/CS-Ebook" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/lining808/CS-Ebook" alt="Language: `Unknown`" >}}
@@ -76,4 +76,4 @@ CS-Ebook 是一个高质量、经典计算机书籍推荐清单。
 - 分类涵盖计算机基础、编程语言、软件工程、数学工具等多个方向；
 - 保持更新，推荐最新版本的书籍；
 - 提供精选而非数量众多的书单。
-  
+

@@ -12,7 +12,7 @@ categories:
 
 {{< shields path="github/stars/sebastianstarke/AI4Animation" alt="Github Repo Stars" >}} {{< shields path="github/license/sebastianstarke/AI4Animation" alt="License: " >}} {{< shields path="github/languages/top/sebastianstarke/AI4Animation" alt="Language: " >}}
 
-![demo-picture-of-AI4Animation](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/cd01556cc831879517600265db0cbb43.png)
+![demo-picture-of-AI4Animation](https://static.osguider.com/history/2024/cd01556cc831879517600265db0cbb43.png)
 
 AI4Animation 是一个在 Unity 中利用计算机智能为角色赋予生命的项目。
 
@@ -21,7 +21,7 @@ AI4Animation 是一个在 Unity 中利用计算机智能为角色赋予生命的
 - 展示了使用神经网络实现双足和四足 locomotion、角色与环境中物体的交互、体育和格斗游戏，以及 AR/VR 中的 avatar 动作等能力。
 - 通过引入 codebook matching 技术，成功处理了运动生成中的模糊性，并从非结构化的运动捕捉数据生成高质量的角色控制器。
 - 该框架同时从输入和输出学习，形成了一个关于控制信号的运动流形，使其特别适用于需要高准确性和响应性的交互应用
-  
+
 ## [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)
 
 {{< shields path="github/stars/PaddlePaddle/Paddle" alt="Github Repo Stars" >}} {{< shields path="github/license/PaddlePaddle/Paddle" alt="License: " >}} {{< shields path="github/languages/top/PaddlePaddle/Paddle" alt="Language: " >}}
@@ -34,7 +34,7 @@ Paddle 是中国首个独立自主研发的深度学习平台，提供高性能�
 - 支持超大规模训练
 - 高性能推理引擎
 - 行业导向的开源模型和库
-  
+
 ## [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 {{< shields path="github/stars/Shubhamsaboo/awesome-llm-apps" alt="Github Repo Stars" >}} {{< shields path="github/license/Shubhamsaboo/awesome-llm-apps" alt="License: " >}} {{< shields path="github/languages/top/Shubhamsaboo/awesome-llm-apps" alt="Language: " >}}
@@ -47,7 +47,7 @@ awesome-llm-apps 是一个精选的使用 RAG 和 AI 代理构建的精彩 LLM �
 
 - 发现 LLM 在不同领域中实际和创造性应用的方式
 - 探索结合来自 OpenAI、Anthropic、Gemini 和开源替代品等多种模型与 RAG 和 AI 代理相结合的应用
-  
+
 ## [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent)
 
 {{< shields path="github/stars/Codium-ai/cover-agent" alt="Github Repo Stars" >}} {{< shields path="github/license/Codium-ai/cover-agent" alt="License: " >}} {{< shields path="github/languages/top/Codium-ai/cover-agent" alt="Language: " >}}
@@ -61,7 +61,7 @@ cover-agent 是一个利用人工智能技术自动生成合格测试并增强�
 - 包括 Test Runner、Coverage Parser、Prompt Builder 和 AI Caller 等多个组件
 - 可作为 Python Pip 包安装或作为独立可执行文件运行
 - 提供了详细的安装和使用说明，包括环境变量设置、依赖管理等信息
-  
+
 ## [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 
 {{< shields path="github/stars/Mintplex-Labs/anything-llm" alt="Github Repo Stars" >}} {{< shields path="github/license/Mintplex-Labs/anything-llm" alt="License: " >}} {{< shields path="github/languages/top/Mintplex-Labs/anything-llm" alt="Language: " >}}
@@ -81,4 +81,4 @@ anything-llm 是一款全功能的桌面和 Docker AI 应用程序，具有完�
 - “自带 LLM”模型。
 - 非常高效节省成本措施，可管理非常大型文件。比其他文档聊天机器人解决方案更节约 90% 成本。
 - 全面开发者 API 以进行定制集成！
-  
+

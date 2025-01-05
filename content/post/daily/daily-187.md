@@ -18,19 +18,19 @@ Public APIs 是一个开发者的协作公共 API 列表项目，主要功能是
 
 - 提供了大量不同领域的 API，包括动物、动漫、反恶意软件等。
 - 每个 API 都有详细描述和认证方式，并指示是否支持 HTTPS 和 CORS。
-  
+
 ## [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 {{< shields path="github/stars/PaddlePaddle/PaddleOCR" alt="Github Repo Stars" >}} {{< shields path="github/license/PaddlePaddle/PaddleOCR" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/PaddlePaddle/PaddleOCR" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-PaddleOCR](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/3c3eedd406485b05b3e0a4d041137095.png)
+![demo-picture-of-PaddleOCR](https://static.osguider.com/history/2023/3c3eedd406485b05b3e0a4d041137095.png)
 
 PaddleOCR 是一个丰富、领先和实用的 OCR 工具库，旨在帮助开发者训练更好的模型并将其应用到实际场景中。该项目具有以下特点和优势：
 
 - 支持多种 OCR 相关前沿算法
 - 提供产业级特色模型 PP-OCR、PP-Structure 和 PP-ChatOCR
 - 打通数据生产、模型训练、压缩和预测部署全流程
-  
+
 ## [o3de/o3de](https://github.com/o3de/o3de)
 
 {{< shields path="github/stars/o3de/o3de" alt="Github Repo Stars" >}} {{< shields path="github/license/o3de/o3de" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/o3de/o3de" alt="Language: `Unknown`" >}}
@@ -42,7 +42,7 @@ O3DE (Open 3D Engine) 是一个开源的、实时的、多平台的三维引擎�
 - 免费使用并没有商业义务
 - 支持跨平台
 - 构建 AAA 级别游戏以及高保真度模拟
-  
+
 ## [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 
 {{< shields path="github/stars/NVIDIA/TensorRT-LLM" alt="Github Repo Stars" >}} {{< shields path="github/license/NVIDIA/TensorRT-LLM" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/NVIDIA/TensorRT-LLM" alt="Language: `Unknown`" >}}
@@ -55,7 +55,7 @@ TensorRT-LLM 是一个用于大型语言模型的 TensorRT 工具箱，它提供
 - Python API 类似于 PyTorch API，并提供常用函数 (如 `einsum`、`softmax`、`matmul` 或者 `view`) 和有用组件 (例如 Attention 块、MLP 或整个 Transformer 层)
 - 内置支持 INT4/INT8 权重量化和 SmoothQuant 技术
 - 提供预定义模型并可轻松修改扩展适应自定义需求
-  
+
 ## [modularml/mojo](https://github.com/modularml/mojo)
 
 {{< shields path="github/stars/modularml/mojo" alt="Github Repo Stars" >}} {{< shields path="github/license/modularml/mojo" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/modularml/mojo" alt="Language: `Unknown`" >}}
@@ -67,4 +67,4 @@ Mojo 是一个新的编程语言，它通过将 Python 语法和生态系统与�
 - 可以使用现有的 Python 库和工具
 - 具备系统级别编程能力
 - 支持元程序设计特性
-  
+

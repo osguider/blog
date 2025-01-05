@@ -30,7 +30,7 @@ ydb 是一个开源的分布式 SQL 数据库，结合了高可用性、可扩�
 - 支持多租户和无服务器设置。
 - 运行在 64 位 x86 平台上，需要至少 8 GB RAM。
 - 支持 Ubuntu Linux、MacOS 和 Windows 操作系统。
-  
+
 ## [overleaf/overleaf](https://github.com/overleaf/overleaf)
 
 {{< shields path="github/stars/overleaf/overleaf" alt="Github Repo Stars" >}} {{< shields path="github/license/overleaf/overleaf" alt="License: " >}} {{< shields path="github/languages/top/overleaf/overleaf" alt="Language: " >}}
@@ -44,7 +44,7 @@ Overleaf 是一个基于 Web 的协作 LaTeX 编辑器。它可以实时协作�
 - 可以在本地运行
 - 支持多人同时编辑
 - 可以安装和维护 Overleaf Server Pro 版本，该版本包括更多的安全功能和协作功能（如跟踪更改）
-  
+
 ## [YaLTeR/niri](https://github.com/YaLTeR/niri)
 
 {{< shields path="github/stars/YaLTeR/niri" alt="Github Repo Stars" >}} {{< shields path="github/license/YaLTeR/niri" alt="License: " >}} {{< shields path="github/languages/top/YaLTeR/niri" alt="Language: " >}}
@@ -61,7 +61,7 @@ niri 是一个可滚动的平铺式 Wayland 组合器，用于在无限向右延
 - 可以阻止敏感窗口显示在屏幕录制中
 - 触摸板和鼠标手势操作支持
 - 可配置布局：间隙、边框、窗口大小等等
-  
+
 ## [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)
 
 {{< shields path="github/stars/mrdbourke/pytorch-deep-learning" alt="Github Repo Stars" >}} {{< shields path="github/license/mrdbourke/pytorch-deep-learning" alt="License: " >}} {{< shields path="github/languages/top/mrdbourke/pytorch-deep-learning" alt="Language: " >}}
@@ -76,12 +76,12 @@ pytorch-deep-learning 是一个用于学习深度学习的材料项目，它是�
 - 通过代码实践和实验，学习者可以深入了解 PyTorch 的使用方法，并掌握解决深度学习问题的技巧和方法。
 - 提供了额外的资源和参考书籍，帮助学习者进一步扩展他们在 PyTorch 和深度学习领域的知识。
 总之，pytorch-deep-learning 项目是一个全面的学习资源，旨在帮助学习者掌握 PyTorch 深度学习的基础知识和实践技巧。
-  
+
 ## [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 
 {{< shields path="github/stars/modelscope/DiffSynth-Studio" alt="Github Repo Stars" >}} {{< shields path="github/license/modelscope/DiffSynth-Studio" alt="License: " >}} {{< shields path="github/languages/top/modelscope/DiffSynth-Studio" alt="Language: " >}}
 
-![demo-picture-of-DiffSynth-Studio](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/0a8aba1ae8ce404a75c239fd3a8a203f.png)
+![demo-picture-of-DiffSynth-Studio](https://static.osguider.com/history/2024/0a8aba1ae8ce404a75c239fd3a8a203f.png)
 
 DiffSynth-Studio 是一个扩展了开源社区模型的 Diffusion 引擎。
 
@@ -89,4 +89,4 @@ DiffSynth-Studio 是一个扩展了开源社区模型的 Diffusion 引擎。
 - 提供视频生成和图像合成等功能。
 - 通过重构架构以提高计算性能。
 - 支持长视频生成等创新功能。
-  
+

@@ -20,7 +20,7 @@ nuttx 是一款成熟的实时嵌入式操作系统（RTOS）。
 - 从 8 位到 64 位微控制器环境可扩展。
 - 遵循 POSIX 和 ANSI 标准，同时采用来自 Unix 和其他常见 RTOS 的额外标准 API。
 - 提供仿真器以便在终端上运行，支持广泛的平台。
-  
+
 ## [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
 
 {{< shields path="github/stars/unclecode/crawl4ai" alt="Github Repo Stars" >}} {{< shields path="github/license/unclecode/crawl4ai" alt="License: " >}} {{< shields path="github/languages/top/unclecode/crawl4ai" alt="Language: " >}}
@@ -37,18 +37,18 @@ crawl4ai 是一个开源的友好的 LLM 网页爬虫和数据提取工具。
 - 提取所有外部和内部链接
 - 从页面中提取元数据
 - 自定义钩子用于身份验证、头信息以及在爬行之前对页面进行修改等操作
-  
+
 ## [shuding/nextra](https://github.com/shuding/nextra)
 
 {{< shields path="github/stars/shuding/nextra" alt="Github Repo Stars" >}} {{< shields path="github/license/shuding/nextra" alt="License: " >}} {{< shields path="github/languages/top/shuding/nextra" alt="Language: " >}}
 
-![demo-picture-of-nextra](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/29ede81a2ba09b48a131d9d463f30722.png)
+![demo-picture-of-nextra](https://static.osguider.com/history/2024/29ede81a2ba09b48a131d9d463f30722.png)
 
 nextra 是一个简单、强大且灵活的站点生成框架，拥有你喜爱的 Next.js 的所有功能。
 
 - 提供简单、强大和灵活的站点生成框架
 - 继承了 Next.js 的优势
-  
+
 ## [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps)
 
 {{< shields path="github/stars/meta-llama/llama-stack-apps" alt="Github Repo Stars" >}} {{< shields path="github/license/meta-llama/llama-stack-apps" alt="License: " >}} {{< shields path="github/languages/top/meta-llama/llama-stack-apps" alt="Language: " >}}
@@ -62,7 +62,7 @@ llama-stack-apps 是 Llama Stack APIs 的代理组件。
 - 使用工具执行某些操作，包括内置搜索或代码解释器等工具的知识
 - 0-shot：模型可以学习使用先前未见过的、上下文中定义的工具来调用工具
 - 利用像 Llama Guard 这样的模型提供系统级安全保护功能
-  
+
 ## [Zipstack/unstract](https://github.com/Zipstack/unstract)
 
 {{< shields path="github/stars/Zipstack/unstract" alt="Github Repo Stars" >}} {{< shields path="github/license/Zipstack/unstract" alt="License: " >}} {{< shields path="github/languages/top/Zipstack/unstract" alt="Language: " >}}
@@ -73,4 +73,4 @@ unstract 是一个无代码的 LLM 平台，用于启动 API 和 ETL 管道从�
 
 - 可以通过简单的无代码方法启动接受复杂文档并返回结构化 JSON 的 API。
 - 可以启动读取各种云文件/对象存储系统中复杂文档并将结构化数据写入流行数据仓库和数据库的非结构化数据 ETL 管道。
-  
+

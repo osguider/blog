@@ -24,7 +24,7 @@ ExpressLRS 是一个基于 STM32/ESP32/ESP8285 的高性能射频链路，用于
 - 提供 2.4 GHz、900 MHz 以及双频段 RC 链路支持
 - SMD 天线，便于安装到微型设备中
 - 支持多种接收器协议：CRSF, SBUS, SUMD, HoTT Telemetry 和 PWM 等
-  
+
 ## [karpathy/micrograd](https://github.com/karpathy/micrograd)
 
 {{< shields path="github/stars/karpathy/micrograd" alt="Github Repo Stars" >}} {{< shields path="github/license/karpathy/micrograd" alt="License: " >}} {{< shields path="github/languages/top/karpathy/micrograd" alt="Language: " >}}
@@ -37,7 +37,7 @@ micrograd 是一个微型的自动微分引擎，以及在其之上具有类似�
 - 神经网络库具有 PyTorch-like API，代码量非常小。
 - DAG 仅操作标量值，但足够构建完整的深度神经网络进行二元分类。
 - 可能对教育目的很有用。
-  
+
 ## [goauthentik/authentik](https://github.com/goauthentik/authentik)
 
 {{< shields path="github/stars/goauthentik/authentik" alt="Github Repo Stars" >}} {{< shields path="github/license/goauthentik/authentik" alt="License: " >}} {{< shields path="github/languages/top/goauthentik/authentik" alt="Language: " >}}
@@ -50,7 +50,7 @@ authentik 是一个开源的身份提供者，强调灵活性和多功能性。�
 - 多协议支持：支持 SAML2, OpenID Connect 和 OAuth2 协议。
 - 安全可靠：具备安全机制保障用户数据安全。
 通过 Docker Compose 或 Helm Chart 可以方便地进行部署。
-  
+
 ## [Doriandarko/maestro](https://github.com/Doriandarko/maestro)
 
 {{< shields path="github/stars/Doriandarko/maestro" alt="Github Repo Stars" >}} {{< shields path="github/license/Doriandarko/maestro" alt="License: " >}} {{< shields path="github/languages/top/Doriandarko/maestro" alt="Language: " >}}
@@ -71,12 +71,12 @@ maestro 是一个为 Claude Opus 智能编排子代理的框架。
 - 使用 Groq 快速 API 响应来提高 maestro 的性能
 - 支持 GPT-4 作为 maestro 的编排器
 - 在创建子代理的任务时，Claude Opus 将执行搜索，并获取最佳答案来帮助子代理更好地解决该任务
-  
+
 ## [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 
 {{< shields path="github/stars/lobehub/lobe-chat" alt="Github Repo Stars" >}} {{< shields path="github/license/lobehub/lobe-chat" alt="License: " >}} {{< shields path="github/languages/top/lobehub/lobe-chat" alt="Language: " >}}
 
-![demo-picture-of-lobe-chat](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/2d994dce504b2651e04982251cacc125.png)
+![demo-picture-of-lobe-chat](https://static.osguider.com/history/2024/2d994dce504b2651e04982251cacc125.png)
 
 LobeChat 是一个开源的、可扩展的高性能聊天机器人框架。它支持一键免费部署私有 ChatGPT/LLM Web 应用程序。
 
@@ -85,4 +85,4 @@ LobeChat 是一个开源的、可扩展的高性能聊天机器人框架。它�
 - 流畅对话体验：流畅响应确保顺畅对话体验。完全支持 Markdown 渲染，包括代码高亮、LaTex 公式、Mermaid 流程图等；
 - 插件支持与自定义插件开发：通过插件可以扩展会话功能。用户可以安装并使用各种插件，如搜索引擎、网页抽取等；还支持定制化插件以满足特定需求；
 - 隐私保护：所有数据都存储在用户浏览器中，保证了用户隐私；
-  
+

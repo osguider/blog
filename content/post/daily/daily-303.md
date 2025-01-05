@@ -20,12 +20,12 @@ tokio 是使用 Rust 编程语言编写可靠的异步应用程序的运行时�
 - 快速：零成本抽象使其具有裸金属性能。
 - 可靠：利用 Rust 的所有权、类型系统和并发模型，减少错误并确保线程安全。
 - 可扩展：具有最小的占用空间，并自然地处理背压和取消操作。
-  
+
 ## [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card)
 
 {{< shields path="github/stars/ygh3279799773/streamer-card" alt="Github Repo Stars" >}} {{< shields path="github/license/ygh3279799773/streamer-card" alt="License: " >}} {{< shields path="github/languages/top/ygh3279799773/streamer-card" alt="Language: " >}}
 
-![demo-picture-of-streamer-card](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2024/902b444d3a42d2206133e26ee6f4137d.png)
+![demo-picture-of-streamer-card](https://static.osguider.com/history/2024/902b444d3a42d2206133e26ee6f4137d.png)
 
 streamer-card 是一个流光卡片 API，通过该 API 可以生成精美的卡片，用于集成到程序或业务流中，例如批量生成营销内容等。
 
@@ -34,7 +34,7 @@ streamer-card 是一个流光卡片 API，通过该 API 可以生成精美的卡
 - 提供丰富的参数配置和接口说明，包括模板选择、颜色配置、图标、标题、日期、正文等
 - 支持 Markdown 语法和实时预览
 - 可通过 API 接口直接生成二进制图片响应
-  
+
 ## [free-educa/books](https://github.com/free-educa/books)
 
 {{< shields path="github/stars/free-educa/books" alt="Github Repo Stars" >}} {{< shields path="github/license/free-educa/books" alt="License: " >}} {{< shields path="github/languages/top/free-educa/books" alt="Language: " >}}
@@ -48,7 +48,7 @@ books 是一个由 Free-Educa 提供支持的开发书籍仓库。
 - 便于浏览不同主题下相关内容
 - 鼓励用户贡献并提供免费获取图书
 - 可以为读者提供宝贵反馈和建议
-  
+
 ## [pytube/pytube](https://github.com/pytube/pytube)
 
 {{< shields path="github/stars/pytube/pytube" alt="Github Repo Stars" >}} {{< shields path="github/license/pytube/pytube" alt="License: " >}} {{< shields path="github/languages/top/pytube/pytube" alt="Language: " >}}
@@ -65,7 +65,7 @@ pytube 是一个轻量级、无依赖的 Python 库（和命令行实用程序�
 - 源代码有详细的文档，无第三方依赖。
 
 此外，pytube 还包括一个命令行实用程序，允许您直接从终端下载视频。
-  
+
 ## [aome510/spotify-player](https://github.com/aome510/spotify-player)
 
 {{< shields path="github/stars/aome510/spotify-player" alt="Github Repo Stars" >}} {{< shields path="github/license/aome510/spotify-player" alt="License: " >}} {{< shields path="github/languages/top/aome510/spotify-player" alt="Language: " >}}
@@ -85,4 +85,4 @@ spotify-player 是一个在终端中具有完整功能对等性的 Spotify 播�
 - 桌面通知支持
 - 可以作为后台进程运行应用程序
 - 提供广泛的 CLI 命令。
-  
+
