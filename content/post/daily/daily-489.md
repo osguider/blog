@@ -1,7 +1,7 @@
 ---
 title: "开源 AI 嵌入数据库：集成 LangChain, 简单易用 | 开源日报 No.489"
 description: "Chroma 是一个开源的嵌入数据库，专为原生 AI 设计，具有简单易用的特点，提供全面的文档和测试支持，支持与 LangChain 和 LlamaIndex 等工具的集成，提供一致的 API 以便于在不同环境中使用，功能包括查询、过滤和密度估计等。"
-date: "2025-01-25T03:20:52.370Z"
+date: "2025-01-25T03:23:30.605Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2c3249f95296d1e66d75d89db741a564.png"
 tags: []
 categories:
