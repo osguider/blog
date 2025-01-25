@@ -1,7 +1,7 @@
 ---
 title: "自动 PHP 代码升级与重构利器：一键提升至 PHP 8.4！ | 开源日报 No.493"
 description: "Rector 是一个开源工具，旨在自动升级和重构 PHP 5.3 及以上版本的代码，支持从 PHP 5.3 升级到 PHP 8.4，简化框架和库的更新，提升代码质量和一致性。它灵活支持单个规则或规则集，配备全面文档和社区支持，便于用户快速上手。"
-date: "2025-01-25T03:20:51.138Z"
+date: "2025-01-25T03:23:32.574Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/542a3c7b80cbcc3cb4c83c23ec92940b.png"
 tags: []
 categories:
