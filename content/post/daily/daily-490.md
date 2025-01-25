@@ -1,7 +1,7 @@
 ---
 title: "端侧多模态大语言模型：伴随图像、语音和文本的实时对话 | 开源日报 No.490"
 description: "MiniCPM-o 是一款开源的端侧多模态大语言模型，支持图像、视频、文本和音频输入，具备高质量的文本和语音输出。最新版本 MiniCPM-o 2.6 拥有 8 亿参数，性能与 GPT-4o 相当，具备双语实时对话、情感和风格控制等功能，具备强大的 OCR、视频理解和多语言支持，适用于多种终端设备。该模型在开源社区中被认为是性能卓越的多模态模型之一。"
-date: "2025-01-25T03:20:57.874Z"
+date: "2025-01-25T03:23:31.232Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f857ded56588686d475509b831d4484a.png"
 tags: []
 categories:
