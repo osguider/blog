@@ -1,7 +1,7 @@
 ---
 title: "开发环境版本管理重塑：一个工具管理多语言运行时 | 开源日报 No.520"
 description: "asdf 是一个可扩展的版本管理工具，支持多种编程语言的运行时版本管理，提供统一的命令行工具和全局配置，允许每个项目使用独立的版本配置文件，支持现有配置文件的迁移，自动切换运行时版本，并具备简单的插件系统和多种 shell 的补全功能。"
-date: "2025-02-22T02:09:08.141Z"
+date: "2025-02-22T02:10:47.067Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0b46cf40cb01ee76c9e16f6f8844dd56.png"
 tags: []
 categories:
