@@ -1,7 +1,7 @@
 ---
 title: "deepseek 开源：统一的多模态理解和生成模型 | 开源日报 No.516"
 description: "Janus 是一个开源的统一多模态理解和生成模型系列，支持多模态数据的理解与生成，提升文本到图像的指令跟随能力。它采用解耦视觉编码，增强了框架的灵活性和有效性。Janus-Pro 和 JanusFlow 提供了更先进的功能，显著提升视觉生成质量，成为下一代统一多模态模型的有力候选。"
-date: "2025-02-22T02:08:51.108Z"
+date: "2025-02-22T02:10:46.801Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9196dc53b9784146c57b74a8997cc923.png"
 tags: []
 categories:
