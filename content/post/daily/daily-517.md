@@ -1,7 +1,7 @@
 ---
 title: "AI 代理网页操作：轻松搞定浏览器自动化 | 开源日报 No.517"
 description: "browser-use 是一个开源工具，旨在使网站能够被 AI 代理访问，支持自动化操作，提供即用型托管版本，支持多种任务执行，用户可通过简单的 Python 代码快速启动，且附有丰富的示例和演示，便于理解和使用。"
-date: "2025-02-22T02:08:53.928Z"
+date: "2025-02-22T02:10:46.764Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e3965f6952e74f8903560e5dee3a60ef.png"
 tags: []
 categories:
