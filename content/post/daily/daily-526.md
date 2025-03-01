@@ -1,7 +1,7 @@
 ---
 title: "提升 Go 开发效率：标准项目结构模板 | 开源日报 No.526"
 description: "项目布局 (project-layout) 是一个为 Go 应用项目提供标准项目结构的开源项目，旨在帮助开发者保持代码整洁，避免隐藏依赖和全局状态。它提供通用的目录模式，支持 Go Modules 管理依赖，灵活适应不同项目需求，适合各种规模的 Go 项目。"
-date: "2025-03-01T08:56:57.389Z"
+date: "2025-03-01T08:58:33.827Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3c92764a36642c6be137d31485dcac41.png"
 tags: []
 categories:
