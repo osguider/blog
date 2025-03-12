@@ -27,14 +27,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4.1.1
+      - uses: actions/checkout@v4.2.2
         # see: https://github.com/actions/checkout
         with:
           submodules: recursive
           fetch-depth: 1
 
       - name: Cache Hugo resources
-        uses: actions/cache@v4.0.2
+        uses: actions/cache@v4.2.2
         env:
           cache-name: cache-hugo-resources
         with:
@@ -92,7 +92,7 @@ jobs:
     steps:
       - name: Download Artifact
         # see: https://github.com/actions/download-artifact
-        uses: actions/download-artifact@v4.1.5
+        uses: actions/download-artifact@v4.1.9
         with:
           name: github-pages
           path: ./public
