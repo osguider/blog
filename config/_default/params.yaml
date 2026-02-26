@@ -144,7 +144,7 @@ defaultImage:
   opengraph:
     enabled: true
     local: true
-    src: images/gradient.svg
+    src: images/cover-black.svg
 
 # See: https://stack.jimmycai.com/config/color-scheme
 colorScheme:
