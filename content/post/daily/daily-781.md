@@ -2,7 +2,6 @@
 title: "开放式数据可视化：与监控平台 | 开源日报 No.781"
 description: "Grafana 是一个开源的可观察性和数据可视化平台，支持从多个数据源 (如 Prometheus、Loki、Elasticsearch) 可视化指标、日志和追踪。它提供灵活的图形展示、动态可重用的仪表板、数据探索和比较功能，支持无缝切换指标和日志，定义警报规则并发送通知，能够在同一图表中混合不同数据源。"
 date: "2025-11-06T07:35:47.525Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

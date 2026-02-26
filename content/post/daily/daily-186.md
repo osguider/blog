@@ -2,7 +2,6 @@
 title: "一张照片一键换脸：无需数据集和训练 | 开源日报 No.186"
 description: "roop 是一个一键式深度伪造 (换脸) 的开源项目。"
 date: "2024-10-27T17:25:38.152Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/aaeb6eb9bb7cd1882f5c1a7704b275f0.png"
 tags: []
 categories:
   - "daily"
@@ -77,4 +76,3 @@ roop 是一个一键换脸的项目。
 - 提供多种参数选项来控制程序行为
 - 旨在为艺术家提供辅助工具，如角色动画和服装模型设计
 - 实施了措施以防止软件被用于不当内容，并鼓励用户遵守当地法律并负责任地使用软件。
-

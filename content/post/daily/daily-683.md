@@ -2,7 +2,6 @@
 title: "轻量级静态代码分析利器：精准识别漏洞与编码规范 | 开源日报 No.683"
 description: "semgrep 是一个轻量级的静态代码分析工具，支持 30+ 种编程语言，提供语义化代码扫描功能，能够本地运行保障隐私安全。它支持 IDE 集成和 CI/CD 流水线，提供社区版和功能更强大的 AppSec 平台版本，后者支持跨文件分析并内置 2 万+专业规则，大幅减少误报。"
 date: "2025-08-01T07:35:34.249Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4ea3520ebb48739a40de188cfee20ac0.png"
 tags: []
 categories:
   - "daily"

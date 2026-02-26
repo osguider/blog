@@ -2,7 +2,6 @@
 title: "开源安全工具 Prowler：覆盖多种合规框架 | 开源日报 No.308"
 description: "prowler 是一个功能强大的开源安全工具，适用于 AWS、Azure、GCP 和 Kubernetes 等平台，涵盖多种合规框架和自定义安全框架。其覆盖数百个控制点，提供 CLI 和仪表板支持，可通过 Pip 安装或容器版本运行。具有高度灵活的架构，适用于各种环境，并提供详细文档和社区支持，满足各种安全需求"
 date: "2024-07-25T23:35:17.682Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/611d66ceaf14cdd3049ae699d3ce1296.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "高性能 Flutter 游戏引擎，简化开发与扩展！ | 开源日报 No.495"
 description: "Flame 是一个基于 Flutter 的开源游戏引擎，提供完整的游戏循环、组件系统、碰撞检测、手势处理、图像和动画支持，及多种开发工具，支持通过桥接库扩展功能，适用于音频、状态管理和物理引擎等集成。"
 date: "2025-02-15T09:04:24.509Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/43d1205a8d2e992d95992685daf70d92.png"
 tags: []
 categories:
   - "daily"

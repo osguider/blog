@@ -2,7 +2,6 @@
 title: "分阶实战项目与资源集：分类明确、结构完整、学习闭环 | 开源日报 No.718"
 description: "Project-Ideas-And-Resources 是一个为开发者提供分阶段编程实践项目的开源创意库，按难度分为初学者、中级和高级三类，每个项目包含目标说明、用户故事和增强模块，并提供配套技术栈支持，覆盖从游戏到机器学习等多种场景需求。"
 date: "2025-09-05T07:35:16.070Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject81578f7468de19981f2b97590aa9c7b5.png"
 tags: []
 categories:
   - "daily"

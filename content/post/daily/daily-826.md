@@ -2,7 +2,6 @@
 title: "将文件编码为视频格式：享受视频平台数据托管 | 开源日报 No.826"
 description: "Video-Encode 是一个开源项目，旨在将文件编码为视频格式，便于在支持无限视频存储的云视频托管服务上存储。该项目利用 lodepng、ffmpeg 和 opencv2 进行编码，展示了无限存储数据的概念。"
 date: "2025-12-21T07:36:04.018Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

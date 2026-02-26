@@ -2,7 +2,6 @@
 title: "给你的种子提供 API 支持：时刻掌握资源动态 | 开源日报 No.366"
 description: "Jackett 是一个支持 API 的项目，为您喜爱的种子追踪器提供服务。作为代理服务器，Jackett 可以将来自应用程序的查询转换成特定于追踪站点的 http 查询，并返回结果给请求软件。通过提供维护索引器抓取和翻译逻辑的单一存储库，Jackett 减轻了其他应用程序的负担。它支持多个操作系统和大量公共及半私有种子追踪器。"
 date: "2024-09-20T23:35:33.713Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/db5ad9cdcaa14861fa624faf8340fac6.png"
 tags: []
 categories:
   - "daily"

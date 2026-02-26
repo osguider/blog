@@ -2,7 +2,6 @@
 title: "DeepSeek-V3 开源！高效混合专家语言模型 | 开源日报 No.563"
 description: "DeepSeek-V3 是一个高效强大的 671B 参数混合专家 (MoE) 语言模型，采用创新的 DeepSeekMoE 架构和 MLA 注意力机制，以仅 2.788M GPU 小时的成本完成训练，在 14.8 万亿令牌数据上预训练，实现高性能推理和经济训练。"
 date: "2025-04-06T15:29:19.536Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/24db58f2e7f2a6067f6591cb55d17762.png"
 tags: []
 categories:
   - "daily"

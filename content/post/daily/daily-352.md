@@ -2,7 +2,6 @@
 title: "功能极其丰富的开源 ERP 系统！简化企业管理的方方面面 | 开源日报 No.352"
 description: "想要简化企业管理各个方面？试试免费开源的 ERPNext 吧！拥有完整的解决方案，包括会计、仓库管理、CRM、销售、采购等多个模块，助您管理企业轻松有序！"
 date: "2024-09-06T23:35:25.318Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c690ccba008bc96adea7bf4cd39d2a66.png"
 tags: []
 categories:
   - "daily"
@@ -79,4 +78,3 @@ Rope 是一个具有 GUI 界面的人脸交换项目。
 - 遮罩预览功能，可以直接评估遮罩效果
 - 可以合并和保存源图像中的人脸信息
 - 支持图片或视频交换
-

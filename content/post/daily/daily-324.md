@@ -2,7 +2,6 @@
 title: "任何数据源，快速可视化，创建仪表板，共享与协作 | 开源日报 No.324"
 description: "Redash 是一个开源项目，它可以帮助您的公司实现数据驱动。它提供了连接到任何数据源的功能，可以快速可视化、创建仪表板并分享数据。Redash 具有易用性，无需复杂软件即可快速上手，提高数据生产力。它还提供了查询编辑器，可提供 SQL 和 NoSQL 查询功能，带有模式浏览器和自动完成。Redash 还支持可视化和仪表板，可以通过拖放功能创建精美的可视化效果，并将它们组合成一个仪表板。此外，Redash 还支持共享、定时刷新、警报和 REST API 等功能。它支持超过 35 种 SQL 和 NoSQL 数据源，并可以通过扩展支持更多。"
 date: "2024-08-10T23:35:33.199Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/75d35a8bf7de0c82150c11a8208488ff.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "AI 知识图谱引擎：实时构建与混合检索 | 开源日报 No.612"
 description: "Graphiti 是一个实时知识图框架，支持动态增量更新、双时间模型跟踪、混合检索和自定义实体定义，专为 AI 代理设计，可高效扩展处理大规模数据。"
 date: "2025-05-21T07:35:22.452Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7332b8ef7d8d660ff4a5cdd8185935ac.png"
 tags: []
 categories:
   - "daily"

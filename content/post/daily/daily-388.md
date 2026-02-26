@@ -2,7 +2,6 @@
 title: "自然语言操作电脑：控制程序、运行代码样样能行！ | 开源日报 No.388"
 description: "想要通过自然语言与计算机进行交互，实现各种操作吗？open-interpreter 项目为您提供了完美的解决方案！无论是运行代码、操作文件、控制浏览器，还是进行数据分析，open-interpreter 都能轻松胜任。"
 date: "2024-10-11T23:36:00.535Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3d10ed053a21b2f520b9bb774edacb94.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "提升 AI 开发效率：配置与监控 Claude Code 的全能工具 | 开源日报 No.776"
 description: "claude-code-templates 是一个命令行工具，旨在配置和监控 Anthropic 的 Claude Code，提供丰富的预设配置和组件，支持与多种外部服务集成，提升开发工作流效率。它具备交互式网页界面，实时分析工具和健康检查功能，确保用户能够高效、安全地开发和监控 AI 项目。"
 date: "2025-11-01T23:35:53.894Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

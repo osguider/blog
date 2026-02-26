@@ -2,7 +2,6 @@
 title: "阿里深度学习的移动端利器：多种场景生产验证 | 开源日报 No.613"
 description: "MNN 是阿里巴巴开源的高性能轻量级深度学习框架，专注于移动和嵌入式设备，支持模型推理/训练，提供 LLM 和稳定扩散本地部署方案，已广泛应用于阿里业务场景。"
 date: "2025-05-22T07:35:36.545Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/cd7d94ec71f9ec1c5b33c7ba39b3b40b.png"
 tags: []
 categories:
   - "daily"

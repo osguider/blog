@@ -2,7 +2,6 @@
 title: "比其他工具快 10 到 100 倍！Rust 编写的 py 代码格式化工具 | 开源日报 No.339"
 description: "快速高效的 Python 代码检查器和格式化工具 Ruff，基于 Rust 编写，比传统工具快 10 到 100 倍，支持自动修复错误，兼容 Python 3.12，内置缓存，广泛应用于主流开源项目，是您 Python 开发的不二之选！"
 date: "2024-08-24T23:36:04.381Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2a27448a4306937f5794e17304e2b440.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "一张照片实时换脸！一键体验 AI 魔法 | 开源日报 No.346"
 description: "这篇文章介绍了一个名为 Deep-Live-Cam 的实时人脸交换和一键视频深度伪造项目，具有实时人脸交换和一键视频深度伪造的功能，同时内置了检查功能，遵守法律和伦理，用户需在使用时遵守法律责任，同时提供了简便的安装说明。"
 date: "2024-08-27T23:35:34.538Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7ff8814767f030fd816f9b774edb20a8.png"
 tags: []
 categories:
   - "daily"

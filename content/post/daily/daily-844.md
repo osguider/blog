@@ -2,7 +2,6 @@
 title: "Twitter 推荐算法核心揭秘：个性化推荐与高性能特征生成 | 开源日报 No.844"
 description: "the-algorithm 是 Twitter 的推荐算法开源项目，提供推文和内容的动态推荐服务，包含推文服务、用户行为流和用户信号平台等核心组件，采用多种机器学习模型进行社区检测和内容安全，支持个性化推荐和高性能特征生成。"
 date: "2026-01-08T07:35:57.867Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

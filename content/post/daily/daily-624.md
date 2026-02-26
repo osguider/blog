@@ -2,7 +2,6 @@
 title: "加密货币交易统一接口：支持多交易所 API 集成 | 开源日报 No.624"
 description: "ccxt 是一个多语言加密货币交易 API 库，支持 100+交易所的统一访问，提供标准化数据和跨平台兼容性 (JS/TS/Python/C#/PHP/Go)，简化加密货币交易和套利开发。"
 date: "2025-06-02T07:35:39.296Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f0edbe0ac7106b181070b4652ba7196e.png"
 tags: []
 categories:
   - "daily"

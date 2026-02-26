@@ -2,7 +2,6 @@
 title: "Windows/Linux 按键统一 Mac 风格：多系统操作再无障碍 | 开源日报 No.424"
 description: "Kinto 是一个为 Linux 和 Windows 提供 Mac 风格快捷键的工具。"
 date: "2024-11-16T23:35:56.000Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d375a1bb340f001e6ceae11748ec1196.png"
 tags: []
 categories:
   - "daily"

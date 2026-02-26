@@ -2,7 +2,6 @@
 title: "PaddleOCR 高精度文字识别：丰富多样的前沿算法 | 开源日报 No.187"
 description: "PaddleOCR 是一个功能强大、领先技术、实用的 OCR 工具库，具备多种前沿算法，可帮助开发者训练更好的模型并应用于实际场景。它提供了产业级特色模型 PP-OCR、PP-Structure 和 PP-ChatOCR，并实现了数据生产、模型训练、压缩和预测部署的全流程打通。无论您是开发者还是应用场景需求者，PaddleOCR 都是您的不二选择。"
 date: "2024-10-27T17:25:44.954Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/796f6abcbb89829eb289de6e2bec7938.png"
 tags: []
 categories:
   - "daily"
@@ -67,4 +66,3 @@ Mojo 是一个新的编程语言，它通过将 Python 语法和生态系统与�
 - 可以使用现有的 Python 库和工具
 - 具备系统级别编程能力
 - 支持元程序设计特性
-

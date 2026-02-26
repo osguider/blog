@@ -2,7 +2,6 @@
 title: "高效多功能的 2D 图形编辑器：满足艺术创作与动画制作的需求 | 开源日报 No.709"
 description: "PixiEditor 是一个开源的通用二维图形编辑器，支持像素艺术、绘画和矢量图形的创作，具备像素级编辑、动画制作和多种格式导出功能。其直观的界面和高度可定制的图像处理能力，适合多种应用场景，如游戏精灵设计和标志制作。"
 date: "2025-08-27T07:35:43.296Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject417fcf52aa5c6bb12e145fb608d910f5.png"
 tags: []
 categories:
   - "daily"

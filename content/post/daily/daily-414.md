@@ -2,7 +2,6 @@
 title: "支持 100 多个 LLM 的 AI 网关：多模态、负载均衡、超时重试 | 开源日报 No.414"
 description: "快速友好的 AI 网关 gateway，支持负载均衡、多模态路由，安装仅约 45kb，适用于企业级部署，安全可靠，让 AI 服务更高效！"
 date: "2024-11-06T23:35:34.209Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/05888e57848603a343f2828f8ae3e3bb.png"
 tags: []
 categories:
   - "daily"

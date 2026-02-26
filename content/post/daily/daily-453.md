@@ -2,7 +2,6 @@
 title: "构建现代化用户界面的渐进式框架 | 开源日报 No.453"
 description: "如果你正在寻找一个灵活且易于上手的 JavaScript 框架来构建现代化的用户界面，Vue.js 无疑是一个理想的选择。它的渐进式特点让你可以根据项目需求逐步采用，强大的生态系统和活跃的社区支持更是让开发者如虎添翼。"
 date: "2024-12-15T23:36:03.492Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/dba75bad870c3c681024d356b3910673.png"
 tags: []
 categories:
   - "daily"

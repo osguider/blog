@@ -2,7 +2,6 @@
 title: "构建网页应用程序的现代开发框架 | 开源日报 No.475"
 description: "Angular 是一个现代开发平台，用于构建移动和桌面网页应用程序，支持 TypeScript 和 JavaScript 等多种语言，提供快速、可扩展的跨平台解决方案，拥有强大的工具和生态系统，具备懒加载和动画等高级功能，且提供详细文档以帮助用户快速上手和深入学习。"
 date: "2025-01-09T23:35:40.546Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f61e54358a0cafa702a979e628b8bc35.png"
 tags: []
 categories:
   - "daily"

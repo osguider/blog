@@ -2,7 +2,6 @@
 title: "VSCode 智能编程助手：帮你提升开发效率与代码质量 | 开源日报 No.726"
 description: "Kilocode 是一个开源的 VS Code AI 编程助手，旨在提升开发效率，支持自然语言生成代码、自动检查代码质量、执行终端命令和自动化浏览器操作。它集成了多种最新 AI 模型，无需额外配置 API 密钥，并提供多种模式 (如架构设计、编码和调试) 及自定义功能。Kilocode 还具备自动重构代码和生成 Git 提交信息的能力，致力于改善代码质量与协作体验。"
 date: "2025-09-13T07:35:20.431Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectf1df6931ef4391f8571efc0548feef14.png"
 tags: []
 categories:
   - "daily"

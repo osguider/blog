@@ -2,7 +2,6 @@
 title: "Elasticsearch：分布式 RESTful 搜索引擎 | 开源日报 No.350"
 description: "Elasticsearch 是一个免费且开源的分布式 RESTful 搜索引擎，具有分布式架构、实时搜索、向量搜索、与生成式 AI 应用集成等特点，支持全文搜索、日志、指标、应用性能监控等多种用例，是 Elastic Stack 平台的基石。通过 Elasticsearch，用户可以在大规模数据集上进行几乎实时的搜索，执行向量搜索，集成生成式 AI 应用程序等功能。是优化生产规模工作负载速度和相关性的理想选择。"
 date: "2024-09-04T23:35:50.274Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/716459710601ab54ed37cf833a6ff264.png"
 tags: []
 categories:
   - "daily"

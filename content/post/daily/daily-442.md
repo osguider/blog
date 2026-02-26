@@ -2,7 +2,6 @@
 title: "AI 图像生成与编辑的：Flux 模型推理库 | 开源日报 No.442"
 description: "探索图像生成与编辑的无限可能，FLUX 官方推理库为您提供强大的模型支持，轻松实现文本到图像的转换与编辑。无论您是开发者还是创作者，简单易用的 Python 接口与详尽的文档将助您快速上手，开启创意之旅！"
 date: "2024-12-04T23:35:38.770Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/88d54e69cb8ef7ea441b79628b1b7d8e.png"
 tags: []
 categories:
   - "daily"

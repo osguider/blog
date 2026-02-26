@@ -2,7 +2,6 @@
 title: "早期 PS4 模拟器：跨平台游戏体验 | 开源日报 No.474"
 description: "shadPS4 是一个跨平台的早期 PlayStation 4 模拟器，支持 Windows、Linux 和 macOS，使用 C++ 编写。它能够成功运行多款游戏，提供快速入门指南和游戏兼容性列表，支持 Xbox 和 DualShock 控制器即插即用，并定期更新以提升模拟体验。"
 date: "2025-01-05T23:35:17.481Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/eaed969f9b0c82c61dcde4dcc10bc247.png"
 tags: []
 categories:
   - "daily"

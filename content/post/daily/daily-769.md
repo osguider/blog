@@ -2,7 +2,6 @@
 title: "提升 Copilot 使用体验：代码标准与最佳实践 | 开源日报 No.769"
 description: "awesome-copilot 是一个社区驱动的 GitHub Copilot 定制工具集，旨在提升用户的使用效率和体验。它提供专用提示和指导，包含代码标准和最佳实践，设有多种 AI 角色，支持通过 Docker 轻松集成自定义内容，结构清晰，便于管理和扩展。"
 date: "2025-10-26T07:35:14.750Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

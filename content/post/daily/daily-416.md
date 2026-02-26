@@ -2,7 +2,6 @@
 title: "运行在浏览器的宝可梦游戏！探索别样乐趣 | 开源日报 No.416"
 description: "pokerogue 是一个受到 roguelite 游戏类型启发的基于浏览器的 Pokémon 粉丝游戏。"
 date: "2024-11-08T23:36:06.923Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/993b5b87c14750be06ce3c42e726e9b1.png"
 tags: []
 categories:
   - "daily"
@@ -75,4 +74,3 @@ IP-Adapter 是一个旨在为预训练的文本到图像扩散模型提供图像
 - 支持自定义模型和现有可控工具，实现灵活生成
 - 能够同时处理文本和图像提示，增强生成效果
 - 提供多个实验版本以支持不同需求，如人脸识别等
-

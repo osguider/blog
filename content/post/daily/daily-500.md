@@ -2,7 +2,6 @@
 title: "一键打包代码库为单一文件：助力 AI 理解与处理 | 开源日报 No.500"
 description: "Repomix 是一个开源工具，旨在将整个代码库打包成一个适合 AI 处理的文件，便于输入到大型语言模型 (LLMs) 或其他 AI 工具中。其核心功能包括 AI 优化的代码格式化、令牌计数、简单的打包命令、强大的可定制性、对 .gitignore 文件的自动尊重，以及集成的安全检查功能，确保不包含敏感信息。"
 date: "2025-02-15T09:04:54.933Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8b43d4f4822dfee46ed74e9cea6cdf67.png"
 tags: []
 categories:
   - "daily"

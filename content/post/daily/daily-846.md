@@ -2,7 +2,6 @@
 title: "Windows 个性桌面：美观舒适、随心定制 | 开源日报 No.846"
 description: "Seelen-UI 是一个为 Windows 10/11 设计的可定制桌面环境，支持 70 多种语言，允许用户根据个人风格自定义桌面元素，集成平铺窗口管理器以提升多任务处理效率，内置媒体模块兼容多种音乐播放器，提供直观的应用启动器以便快速访问应用程序。"
 date: "2026-01-10T07:35:26.696Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

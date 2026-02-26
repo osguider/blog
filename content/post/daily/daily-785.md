@@ -2,7 +2,6 @@
 title: "替代 AirDrop！跨平台文件和消息传输 | 开源日报 No.785"
 description: "LocalSend 是一个开源的跨平台文件和消息共享应用，作为 AirDrop 的替代方案，支持在本地网络中安全地共享文件和消息，使用 REST API 和 HTTPS 加密确保通信安全，兼容 Android、iOS、macOS、Windows 和 Linux，快速可靠，无需依赖第三方服务器。"
 date: "2025-11-10T15:35:48.495Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

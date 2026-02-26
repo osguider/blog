@@ -2,7 +2,6 @@
 title: "智能代理人开发库：轻松构建多场景 AI 解决方案 | 开源日报 No.724"
 description: "ottomator-agents 是一个开源项目，提供多种基于 Live Agent Studio 平台的 AI 代理人解决方案，包含完整的工作流程定义 (以 JSON 格式)，支持多种技术栈 (如 Python 和 n8n)，并配备令牌经济模型以平衡资源消耗与用户体验，致力于整合最新的研究工具和 API 接口，持续扩展技术生态。"
 date: "2025-09-11T07:35:56.932Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject8a89b063d642849605dd3d09b9cc6649.png"
 tags: []
 categories:
   - "daily"

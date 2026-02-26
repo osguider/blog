@@ -2,7 +2,6 @@
 title: "致敬 AirDrop！基于 WebRTC 的 P2P 文件传输工具 | 开源日报 No.299"
 description: "sharedrop 是一个基于 WebRTC 技术的 P2P 文件传输工具，受苹果 AirDrop 启发而设计。它使用 WebRTC 进行安全的点对点文件传输，无需将文件上传到任何服务器即可直接在设备之间传输。此外，它还利用 Firebase 进行在线状态管理和 WebRTC 信令，支持在相同本地网络内设备之间发送文件，也可跨网络发送文件。它可以在移动设备 (Android 和 iOS) 和桌面设备之间共享文件，并且可以在支持的浏览器上使用 (Chrome、Edge、Firefox、Opera、Safari 13+)。如果你需要一个易用的 P2P 文件传输工具，sharedrop 是一个不错的选择。"
 date: "2024-07-14T23:35:19.676Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/96034aeff0adf98125b6042edf5a32b0.png"
 tags: []
 categories:
   - "daily"
@@ -94,4 +93,3 @@ hugo-book 是 Hugo 的文档主题，简约而简单。
 - 简单的博客和分类功能
 - 主要功能无需 JavaScript 支持
 - 暗模式
-

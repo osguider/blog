@@ -2,7 +2,6 @@
 title: "专为地理空间数据设计的 PyTorch 领域库 | 开源日报 No.459"
 description: "TorchGeo 是一个专为地理空间数据提供数据集、采样器、转换和预训练模型的 PyTorch 领域库。"
 date: "2024-12-23T23:35:32.044Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bb3f0e0f58ea60df5230322908ef0245.png"
 tags: []
 categories:
   - "daily"

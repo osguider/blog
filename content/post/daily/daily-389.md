@@ -2,7 +2,6 @@
 title: "AI 驱动的 SQL 客户端：支持智能 SQL 开发 | 开源日报 No.389"
 description: "Chat2DB 是一个支持多种数据库的 AI 驱动数据库工具和 SQL 客户端，具有智能 SQL 开发、智能报告生成和数据探索功能。"
 date: "2024-10-12T23:35:30.496Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/04963fc0d7a5ec948bac42fd977ca7a3.png"
 tags: []
 categories:
   - "daily"

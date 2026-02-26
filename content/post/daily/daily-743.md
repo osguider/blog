@@ -2,7 +2,6 @@
 title: "轻量化 JavaScript 行为框架：简化 HTML 交互过程 | 开源日报 No.743"
 description: "Alpine 是一个轻量级的 JavaScript 框架，旨在简化在 HTML 中添加交互行为的过程，提供易用的 API 和多种插件扩展，支持单一代码库管理，内置测试工具以确保代码质量，并兼容 CSP 安全构建以提升安全性。"
 date: "2025-09-29T07:35:34.652Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject7a8a994c9d04fbe7898d2ab1388b2e30.png"
 tags: []
 categories:
   - "daily"

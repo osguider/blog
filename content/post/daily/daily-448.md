@@ -2,7 +2,6 @@
 title: "专为 1 位大语言模型设计的高效推理框架 | 开源日报 No.448"
 description: "探索 BitNet，这一为大语言模型量身打造的推理框架，凭借其优化的内核，助力在 CPU 上实现快速且无损的推理，甚至在单个 CPU 上运行 100B 模型，速度媲美人类阅读。"
 date: "2024-12-10T23:35:23.578Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/acb4e2c913372c0ab24516e0d8e34002.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "LLM 评测利器：一站式自动化评估框架 | 开源日报 No.647"
 description: "deepeval 是一个开源 LLM 评估框架，提供端到端测试、多种现成评估指标 (如 G-Eval、RAG)、合成数据集生成、CI/CD 集成和自定义指标功能，并支持与 Confident AI 平台集成。"
 date: "2025-06-27T23:35:25.987Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a5a96c8ae6de05a26f3418308f7af730.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "抓包结果生成 Swagger 文档：反向工程如虎添翼 | 开源日报 No.480"
 description: "mitmproxy2swagger 是一个开源工具，旨在自动将 mitmproxy 捕获的数据转换为 OpenAPI 3.0 规范，便于反向工程 REST API。它支持处理浏览器 DevTools 导出的 HAR 文件，操作简单，允许合并多个流数据并提供示例数据选项以增强 API 文档。"
 date: "2025-01-25T02:32:33.686Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8292df6b07d157f6c8c7196ae087a4c8.png"
 tags: []
 categories:
   - "daily"

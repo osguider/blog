@@ -2,7 +2,6 @@
 title: "YouTube Music 桌面客户端：无广告畅听体验   | 开源日报 No.572"
 description: "youtube-music 是一个基于 Electron 的 YouTube Music 桌面客户端，提供原生界面体验，内置广告拦截、音频下载、插件支持及歌词同步等功能。"
 date: "2025-04-13T09:10:08.348Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d5cb9f7d267e316f4e3bfbc04ff24f5e.png"
 tags: []
 categories:
   - "daily"

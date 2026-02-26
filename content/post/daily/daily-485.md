@@ -2,7 +2,6 @@
 title: "HTTP 反向代理和负载均衡器：轻松部署微服务，实时配置更新 | 开源日报 No.485"
 description: "Traefik 是一个现代化的 HTTP 反向代理和负载均衡器，专为简化微服务的部署而设计。它支持自动动态配置，能够与 Docker 和 Kubernetes 等基础设施组件无缝集成，实时更新配置而无需重启，支持多种负载均衡算法和 HTTPS，提供用户友好的 Web UI 和 REST API，且易于使用，能够以单个二进制文件或 Docker 镜像的形式部署。"
 date: "2025-01-25T02:56:45.820Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a16ae5440ab825603e6f8f397214a606.png"
 tags: []
 categories:
   - "daily"

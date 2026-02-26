@@ -2,7 +2,6 @@
 title: "极简终端编辑器：经典与现代的完美融合 | 开源日报 No.655"
 description: "edit 是一个现代化终端编辑器，灵感来自 MS-DOS 编辑器，提供类似 VS Code 的输入控制，界面简洁易用，支持 Windows 安装和 Rust 工具链配置。"
 date: "2025-07-04T07:35:14.744Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/51b2780314f2f97f100241f860f42d17.png"
 tags: []
 categories:
   - "daily"

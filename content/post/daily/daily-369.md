@@ -2,7 +2,6 @@
 title: "Python 编程创建数学动画：教学解释不再烦恼 | 开源日报 No.369"
 description: "想要通过编程方式精确创建数学动画吗？manim 是您的不二选择！manim 是一个社区维护的 Python 框架，专为创建数学动画而生。不仅适用于制作解释性数学视频，而且提供丰富的文档和示例，让您轻松上手。"
 date: "2024-09-23T23:35:37.449Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b350f2bd42643917a39835ccc56a54b2.png"
 tags: []
 categories:
   - "daily"

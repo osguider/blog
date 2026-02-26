@@ -2,7 +2,6 @@
 title: "微软开发的 AI 编程框架：功能强大、编排简单 | 开源日报 No.345"
 description: "autogen 编程框架，支持多代理人对话，定制化交互，简化复杂工作流程，提供多领域示例，增强 LLM 推断功能，由 Microsoft 等推动。"
 date: "2024-08-31T23:35:38.263Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/aadd6b00261890a3213ddeb72c3c066e.png"
 tags: []
 categories:
   - "daily"

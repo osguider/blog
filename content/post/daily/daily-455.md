@@ -2,7 +2,6 @@
 title: "强大的自托管软件开发平台：Git 托管、代码审查、团队协作、CI/CD | 开源日报 No.455"
 description: "Gitea 是一款功能强大的自托管软件开发服务，轻松实现 Git 托管、代码审查和团队协作，支持多平台，快速设置，助力开发团队高效协作。"
 date: "2024-12-18T23:36:06.529Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6b9f86089703cb90715f377f0feaee3e.png"
 tags: []
 categories:
   - "daily"

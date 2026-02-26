@@ -2,7 +2,6 @@
 title: "50k Star换脸工具，支持视频图片，GUI 可视化操作！ | 开源日报 No.357"
 description: "想要利用深度学习技术进行人脸交换吗？试试使用具有伦理使用宣言的 faceswap 工具吧！它支持图片和视频，拥有直观的 GUI 可视化界面。快来体验吧！"
 date: "2024-09-11T23:35:28.614Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ec8dba12d8bcb9a403296003cea49977.png"
 tags: []
 categories:
   - "daily"

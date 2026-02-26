@@ -2,7 +2,6 @@
 title: "构建企业级服务器端应用程序的渐进式 Node.js 框架 | 开源日报 No.450"
 description: "Nest.js 是一个强大且灵活的 Node.js 框架，专为构建高效的企业级应用而设计。它结合了多种编程范式，提供了开箱即用的架构，极大地提升了开发者的生产力。"
 date: "2024-12-12T23:35:07.909Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/61f41b2d027efdaaecf01da6366a3c89.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "浏览器点对点文件传输：快速、私密、安全 | 开源日报 No.559"
 description: "FilePizza 是一个基于 WebRTC 技术的点对点文件传输工具，支持在浏览器中实现快速、私密、安全的文件传输。它支持黑暗模式、现代浏览器技术、多文件上传、密码保护和传输进度监控，兼容大多数移动浏览器。"
 date: "2025-04-06T15:29:21.094Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/cb89309933dfb0aa263021045e8c3219.png"
 tags: []
 categories:
   - "daily"

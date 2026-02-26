@@ -2,7 +2,6 @@
 title: "Python ETL 框架：流处理、实时分析、LLM 管道、RAG | 开源日报 No.482"
 description: "Pathway 是一个高效的 Python ETL 框架，专注于流处理和实时分析，支持批处理和流式数据，具备多线程和分布式计算能力。它提供易于使用的 API，连接超过 300 种数据源，支持多种数据转换和持久性功能，确保计算结果一致性和管道状态的恢复。"
 date: "2025-01-25T02:33:16.520Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/81bc36980a90072d5216e55b81b2dad2.png"
 tags: []
 categories:
   - "daily"

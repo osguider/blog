@@ -2,7 +2,6 @@
 title: "跨云 AI 编排：一键部署异构算力 | 开源日报 No.600"
 description: "SkyPilot 是一个开源 AI 批处理框架，提供统一接口支持多平台部署，智能调度降低云成本，自动管理作业并最大化 GPU 利用率，无需修改现有代码。"
 date: "2025-05-09T07:36:04.040Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/effe48190ceb665a1e3d72d424bc44e5.png"
 tags: []
 categories:
   - "daily"

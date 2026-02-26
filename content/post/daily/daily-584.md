@@ -2,7 +2,6 @@
 title: "MinIO：S3 兼容的高性能对象存储 | 开源日报 No.584"
 description: "MinIO 是一个高性能、兼容 S3 的对象存储，支持机器学习、分析和应用数据工作负载，可在裸金属和 Kubernetes 环境中部署。"
 date: "2025-04-25T07:36:14.702Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fc5beb259f05e619c44b795d82e8fc08.png"
 tags: []
 categories:
   - "daily"

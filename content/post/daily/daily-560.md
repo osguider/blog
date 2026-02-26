@@ -2,7 +2,6 @@
 title: "Jinja 引擎：安全高效的模板渲染 | 开源日报 No.560"
 description: "Jinja 是一个快速、富有表现力的模板引擎，支持模板继承、宏定义、自动转义以防止 XSS 攻击，并提供沙箱环境安全渲染。它支持 AsyncIO、国际化，模板可即时编译为优化后的 Python 代码并缓存，异常指向正确的行以便调试，且可扩展过滤器、测试、函数及语法。"
 date: "2025-04-06T15:29:19.317Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/07071f5b535f8c4ab883a0a3d987b957.png"
 tags: []
 categories:
   - "daily"

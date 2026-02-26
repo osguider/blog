@@ -2,7 +2,6 @@
 title: "轻松显示和控制 Android 设备：无需 root，轻松使用 | 开源日报 No.535"
 description: "scrcpy 是一个开源应用程序，允许用户通过 USB 或 TCP/IP 连接显示和控制 Android 设备，支持高达 1920×1080 的分辨率和 30~120fps 的高性能，延迟低至 35~70ms，且无需 root 权限。它兼容 Linux、Windows 和 macOS，提供音频转发、录制和双向复制粘贴等功能，且不在设备上留下安装痕迹。"
 date: "2025-03-11T14:01:53.376Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/266d590b74b878da5b92a5dc2ceeeb91.png"
 tags: []
 categories:
   - "daily"

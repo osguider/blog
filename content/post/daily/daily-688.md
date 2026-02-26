@@ -2,7 +2,6 @@
 title: "本地构建 AI 应用：确保隐私与快速响应 | 开源日报 No.688"
 description: "dyad 是一个本地化、跨平台的开源 AI 应用构建工具，支持自带 API 密钥，注重隐私和灵活性，无需注册即可使用。"
 date: "2025-08-06T07:35:26.473Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectc42215e35dec9b1579360e609e167472.png"
 tags: []
 categories:
   - "daily"

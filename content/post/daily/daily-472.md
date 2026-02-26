@@ -2,7 +2,6 @@
 title: "在 Rust 中调用 Windows API：安全、简便的调用体验 | 开源日报 No.472"
 description: "windows-rs 是一个开源项目，旨在为 Rust 开发者提供安全、动态生成的 Windows API 绑定，支持所有 Windows 版本，包含多个库 (如 windows、windows-sys 和 windows-bindgen)，并提供 COM 和 WinRT 接口支持，遵循 C++/WinRT 传统，增强了错误处理和字符串类型的安全性。该项目的许可证为 Apache-2.0，已获得 10.8k 星。"
 date: "2025-01-05T03:03:59.871Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/12bf4651fa142bc76986672cfebc1a2c.png"
 tags: []
 categories:
   - "daily"

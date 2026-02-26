@@ -2,7 +2,6 @@
 title: "应用模板、主题、动画组件应有尽有：专注于链上开发的 JS SDK | 开源日报 No.575"
 description: "Ink Kit 是一个链上开发 SDK，提供可定制的应用模板、动画组件和主题，专注于提升开发者体验和界面设计。"
 date: "2025-04-16T16:06:03.555Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/08597d430b6f89a65de5567c9291bea4.png"
 tags: []
 categories:
   - "daily"

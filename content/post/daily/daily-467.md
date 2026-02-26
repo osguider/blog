@@ -2,7 +2,6 @@
 title: "高性能 NoSQL 数据库：兼容 Cassandra 与 DynamoDB | 开源日报 No.467"
 description: "ScyllaDB 是一个高性能的 NoSQL 数据库，兼容 Apache Cassandra 和 Amazon DynamoDB，采用无共享架构以提高吞吐量和存储能力，提供预配置的 Docker 镜像和丰富的文档，旨在简化构建和快速上手。"
 date: "2025-01-05T03:04:04.366Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/89beb28a5c33ccc57bb89c7f413a4b0a.png"
 tags: []
 categories:
   - "daily"

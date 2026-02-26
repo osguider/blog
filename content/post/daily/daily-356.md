@@ -2,7 +2,6 @@
 title: "快速创建内部应用程序！支持 25 种数据库和任何 API | 开源日报 No.356"
 description: "快速构建管理面板和内部工具的利器！appsmith 集成多个数据库和 API，支持快速开发内部应用，多种安装方式，丰富学习资源，让您的工作更高效！赶快体验吧！"
 date: "2024-09-10T23:35:56.627Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0a35305f476ca5a1465840a875295b6b.png"
 tags: []
 categories:
   - "daily"

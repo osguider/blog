@@ -2,7 +2,6 @@
 title: "促进协作智能的角色扮演 AI 代理框架 | 开源日报 No.337"
 description: "crewAI 是一个用于编排角色扮演的自主 AI 代理框架，旨在促进协作智能，使代理能够无缝合作，解决复杂任务。如果你对角色扮演、AI 代理和协作智能感兴趣，不妨了解一下这个项目！"
 date: "2024-08-22T23:36:03.919Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a70e468d8cbfb90c46078b6487cbafe5.png"
 tags: []
 categories:
   - "daily"

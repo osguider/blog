@@ -2,7 +2,6 @@
 title: "前端开发工具集：开源项目助力效率起飞 | 开源专题 No.101"
 description: "在快节奏的软件开发领域，效率是衡量工具价值的重要标准。这些项目通过精心设计的功能和优化的算法，大幅提升了工作效率，让开发者能够更快地实现目标。"
 date: "2024-07-23T23:35:52.131Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e79d7e1279071b42246265c6cd2b9a4c.png"
 tags: []
 categories:
   - "topic"
@@ -79,4 +78,3 @@ Million.js 是一个极快且轻量级 (<4kb) 的虚拟 DOM，可以使 React �
 - 与 React 兼容
 - 良好扩展性
 - 提供文档资源和社区支持
-

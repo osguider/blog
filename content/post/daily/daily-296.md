@@ -2,7 +2,6 @@
 title: "AI 图像与长视频生成：支持动漫风格 | 开源日报 No.296"
 description: "DiffSynth-Studio 是一个扩展了开源社区模型的 Diffusion 引擎。"
 date: "2024-07-08T23:35:16.261Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ee4caa9b191b1db6b389d5faa5684853.png"
 tags: []
 categories:
   - "daily"
@@ -89,4 +88,3 @@ DiffSynth-Studio 是一个扩展了开源社区模型的 Diffusion 引擎。
 - 提供视频生成和图像合成等功能。
 - 通过重构架构以提高计算性能。
 - 支持长视频生成等创新功能。
-

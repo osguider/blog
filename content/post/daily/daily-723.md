@@ -2,7 +2,6 @@
 title: "高效低代码开发平台：提升 Java 项目效率 70%！ | 开源日报 No.723"
 description: "JeecgBoot 是一款企业级低代码开发平台，采用前后端分离架构，旨在通过代码生成器和 AI 模型提升 Java 项目的开发效率，支持现代技术栈 (如 SpringBoot 和 SpringCloud)，提供在线表单和报表设计，支持一键生成前后端代码，灵活支持单体和微服务架构，具备完善的用户权限管理和基础功能，能显著提高开发效率。"
 date: "2025-09-10T07:35:18.610Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectcf2c0f2e69df948d1b15949cb7b86c4a.png"
 tags: []
 categories:
   - "daily"

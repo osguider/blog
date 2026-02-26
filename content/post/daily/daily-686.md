@@ -2,7 +2,6 @@
 title: "从零构建检索增强生成系统：提升大型语言模型的知识获取能力 | 开源日报 No.686"
 description: "rag-from-scratch 是一个 RAG (检索增强生成) 技术学习项目，通过示例代码和视频教程系统性地讲解如何从零构建基于外部文档检索的系统，无需微调即可扩展语言模型对私有或最新信息的处理能力。"
 date: "2025-08-04T07:35:31.919Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/86ad9161c53e32536c8891993889df78.png"
 tags: []
 categories:
   - "daily"

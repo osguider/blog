@@ -2,7 +2,6 @@
 title: "自然语言对话数据：轻松生成图表/报告 | 开源日报 No.512"
 description: "WrenAI 是一个开源的人工智能代理，旨在帮助数据驱动的团队与他们的数据进行对话，从而生成文本到 SQL、图表、电子表格、报告和商业智能。"
 date: "2025-02-15T08:56:07.975Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4e18b6c73694dc58d4020a29c733f3ad.png"
 tags: []
 categories:
   - "daily"

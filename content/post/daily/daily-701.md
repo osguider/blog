@@ -2,7 +2,6 @@
 title: "FastAPI 秒变 MCP：极少配置、灵活部署 | 开源日报 No.701"
 description: "fastapi_mcp 是一个扩展工具，旨在将 FastAPI 端点转换为 Model Context Protocol (MCP)，并内置身份验证功能。它与 FastAPI 无缝集成，支持自动生成接口文档，配置简单，支持灵活部署，利用 ASGI 接口实现高效通信，提供详尽文档和示例，便于快速上手。"
 date: "2025-08-19T07:35:45.681Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject84f7fa2cd2fdf9067c0a5567d271480a.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "功能全面的 PHP 邮件创建和发送类库 | 开源日报 No.766"
 description: "PHPMailer 是一个功能强大的 PHP 邮件发送库，支持 SMTP 集成、多个收件人、附件、HTML 和纯文本邮件发送，兼容多种邮箱客户端，具备安全性功能如 SMTP 认证、邮箱地址验证、DKIM 和 S/MIME 签名，支持多种编码和国际化，兼容 PHP 5.5 及以上版本。"
 date: "2025-10-22T23:35:17.923Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "Java 编写的自动化塔防游戏：探索 Mindustry 的战略世界 | 开源日报 No.821"
 description: "Mindustry 是一款基于 Java 的自动化塔防实时战略游戏，支持自动化与策略结合，提供多种建筑和单位选择，具备多人在线合作与竞争模式，且可在多个平台上运行。"
 date: "2025-12-16T07:35:36.218Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

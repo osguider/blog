@@ -2,7 +2,6 @@
 title: "高性能 RISC-V 处理器：国产开源！ | 开源日报 No.476"
 description: "XiangShan 是一个开源高性能 RISC-V 处理器项目，提供高效的微架构设计，配备完整的文档和技术幻灯片，支持多种开发工具，促进芯片开发，拥有多个稳定版本和仿真环境，便于功能验证与调试。"
 date: "2025-01-09T23:35:35.510Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3b87bc673fc35b51aa5f75de36b922d6.png"
 tags: []
 categories:
   - "daily"

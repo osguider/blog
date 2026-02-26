@@ -2,7 +2,6 @@
 title: "开源堡垒机标杆：安全运维管控利器 | 开源日报 No.561"
 description: "JumpServer 是一个开源的特权访问管理 (PAM) 工具，支持多种协议 (如 SSH、RDP、Kubernetes、数据库等)，提供基于浏览器的即时安全访问。其组件化架构强调操作管理与安全控制，是 CyberArk 的替代方案，广受欢迎。"
 date: "2025-04-06T15:29:20.632Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/df9e5cd0494d130ff90ed0a8c31372ed.png"
 tags: []
 categories:
   - "daily"

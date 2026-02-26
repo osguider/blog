@@ -2,7 +2,6 @@
 title: "集中信息管理神器：AI 驱动的纯净信息流 | 开源日报 No.567"
 description: "Folo 是一个智能信息管理工具，提供自定义信息中心、AI 助手和动态内容支持，通过$POWER 经济模式连接创作者和用户，打造社区驱动的开放体验。"
 date: "2025-04-07T15:28:35.887Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f10acc7feb5e52c9d314e4ba6503b512.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "一套键鼠控制多台电脑：跨平台的键鼠共享工具！ | 开源日报 No.394"
 description: "想要在 Windows、macOS 和 Linux 上实现一台键盘和鼠标控制多台计算机的梦想吗？deskflow 应用程序能帮你实现！支持 Wayland、保护用户隐私，现在是 Synergy 的上游项目，赶快体验一下吧！"
 date: "2024-10-27T15:52:28.603Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a8d11de38ec72dc9ac048dec66d5a55b.png"
 tags: []
 categories:
   - "daily"

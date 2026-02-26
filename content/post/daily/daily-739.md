@@ -2,7 +2,6 @@
 title: "无 JavaScript 构建机器学习应用：Dash 框架助力数据科学可视化 | 开源日报 No.739"
 description: "Dash 是一个开源的 Python 框架，专为构建机器学习和数据科学网页应用而设计，支持现代 UI 元素的直接交互，提供多达 50 种可视化图表，简化应用开发，支持本地和企业级部署，具备 ML Ops 功能和低代码开发支持，且可嵌入现有网站。"
 date: "2025-09-22T07:35:30.617Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectdcad7449b705327748fd74a33dfea8fa.png"
 tags: []
 categories:
   - "daily"

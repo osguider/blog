@@ -2,7 +2,6 @@
 title: "协作型文档图数据库：可扩展、分布式、API 接口支持 | 开源日报 No.443"
 description: "探索 SurrealDB，这款专为实时网络应用设计的分布式文档图数据库，助您简化数据库和 API 基础设施，显著缩短开发周期。支持多种查询语言，提供实时协作 API，确保您在数据管理上的精确控制。"
 date: "2024-12-05T23:35:43.816Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0284e3b1fec9569e3dc9afa6c0258a66.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "Awesome-Chinese-LLM：开源中文大语言模型整理 | 开源日报 No.312"
 description: "这篇文章介绍了一个名为 Awesome-Chinese-LLM 的项目，该项目是一个整理开源中文大语言模型的资源库，包括各种规模的中文大语言模型、可私有化部署、低训练成本等特点。此外，该项目还涵盖了底座模型、垂直领域微调及应用、数据集与教程等内容。如果你对中文大语言模型感兴趣，那么这个项目将会为你提供丰富的资源和工具。"
 date: "2024-07-29T23:35:36.460Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d5368cbb6cca17f091ce4443b2d110ea.png"
 tags: []
 categories:
   - "daily"

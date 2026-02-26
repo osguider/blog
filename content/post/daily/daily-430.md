@@ -2,7 +2,6 @@
 title: "开源数据库 libSQL：扩展 SQLite 的新选择 | 开源日报 No.430"
 description: "探索 libSQL，这一开源 SQLite 分支，打破了传统数据库的局限，支持社区贡献，助力多种用例的实现。无论是嵌入式数据库的复制，还是远程访问的灵活性，libSQL 都为开发者提供了强大的支持。"
 date: "2024-11-22T23:35:26.502Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e5b26bd3be290037317385dd02b6b377.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "能够帮你开发、运行代码、修正报错的编码代理 | 开源日报 No.391"
 description: "cline 是一个在你的集成开发环境中运行的自主编码代理，能够在每一步骤中征得你的许可来创建/编辑文件、执行命令等。"
 date: "2024-10-14T23:35:29.532Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d146ce38ff046db85ecb688cf5932e57.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "极速开发新体验：Vite 革新前端工具链 | 开源日报 No.692"
 description: "Vite 是一个高性能前端构建工具，提供极速开发体验，支持快速启动、热更新、优化构建，并具有插件系统和类型化 API。"
 date: "2025-08-10T07:35:11.739Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject2a23997cd7ff37ae2527206bf1387de1.png"
 tags: []
 categories:
   - "daily"

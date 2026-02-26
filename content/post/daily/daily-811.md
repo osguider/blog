@@ -2,7 +2,6 @@
 title: "以键盘操作为核心的网页浏览器：基于 FireFox 构建 | 开源日报 No.811"
 description: "Glide 是一个基于 Firefox 构建的可扩展网页浏览器，专注于键盘操作，提升导航效率。它支持自定义快捷键，使用 TypeScript 进行灵活配置，兼容 Web 扩展 API，内置模糊标签管理器，提供个性化的站点设置和按键映射。"
 date: "2025-12-06T07:35:39.174Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

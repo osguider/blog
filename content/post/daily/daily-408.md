@@ -2,7 +2,6 @@
 title: "从 Yahoo 下载金融市场数据：财务报表、分红、历史市场等等 | 开源日报 No.408"
 description: "想要便捷获取股票市场数据吗？试试使用 yfinance 吧！这个工具基于 Yahoo！Finance 的 API，支持多种 Pythonic 方式获取股票信息、历史市场数据、财务报表等内容，让你轻松获取市场动态，快来体验吧！"
 date: "2024-10-31T23:35:17.904Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3b6908e4f800265cb729d9ea88762be6.png"
 tags: []
 categories:
   - "daily"

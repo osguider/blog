@@ -2,7 +2,6 @@
 title: "设计领域的开源 Cursor: 实时设计应用并生成代码 | 开源日报 No.518"
 description: "Onlook 是一个开源设计工具，允许用户在实时的 React 应用中进行设计，支持与 TailwindCSS 集成，提供实时编辑、项目聊天功能、快速定位代码的右键功能，旨在提升设计与代码的无缝协作。"
 date: "2025-02-22T02:10:50.478Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f84ad9a8106d62fcd242ad9b810e64f9.png"
 tags: []
 categories:
   - "daily"

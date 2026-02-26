@@ -2,7 +2,6 @@
 title: "加速大语言模型推理： 降低资源消耗的高效 KV 缓存系统 | 开源日报 No.706"
 description: "LMCache 是一个开源的关键值缓存优化系统，旨在提升大语言模型服务的性能并降低 GPU 资源消耗。它支持跨 GPU、CPU DRAM 和本地磁盘的多层级存储，能够高效复用任意非前缀文本块的 KV 缓存，并提供点对点缓存共享机制以提升分布式推理的效率。LMCache 与 vLLM 生态系统深度集成，能够在 RAG 和多轮对话中实现 3~10 倍的延迟优化。"
 date: "2025-08-24T15:35:37.892Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectcd69f3ee23f43b23112c8331c214f47d.png"
 tags: []
 categories:
   - "daily"

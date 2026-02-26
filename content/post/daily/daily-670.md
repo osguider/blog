@@ -2,7 +2,6 @@
 title: "自主生物医疗研究助手：简化复杂科研任务 | 开源日报 No.670"
 description: "Biomni 是一个基于 AI 的生物医学研究代理，通过集成语言模型、检索增强规划和代码执行技术，支持自然语言指令完成复杂科研任务 (如 CRISPR 设计、单细胞分析)，提供无代码界面并管理大规模数据湖 (11GB)，具备可扩展的开放科学生态系统。正在开发下一代环境 Biomni-E2 以标准化生物医学操作。"
 date: "2025-07-19T07:35:34.336Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/294195e96aafc43fc54266eb48bf3778.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "高效管理界面模板：基于 Vue 的全功能前端解决方案 | 开源日报 No.542"
 description: "vue-element-admin 是一个基于 Vue 的前端解决方案，专为管理界面设计，具备登录/登出功能、权限认证、国际化支持、动态主题、丰富的组件库和响应式设计，支持多环境构建，适用于开发、测试和生产环境。"
 date: "2025-03-19T15:44:49.729Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ecab3e17da47957b5de09e35d794a14c.png"
 tags: []
 categories:
   - "daily"

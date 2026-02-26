@@ -2,7 +2,6 @@
 title: "轻量检索增强系统：快速构建知识问答应用 | 开源日报 No.581"
 description: "LightRAG 是一个简单快速的检索增强生成系统，支持多种文件类型、引用功能、长视频理解，提供 MiniRAG 简化版、多种存储选项和知识图谱集成，并配有用户友好的 Web UI。"
 date: "2025-04-20T23:35:49.691Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/cffea6e9a43285189fcac096939e4300.png"
 tags: []
 categories:
   - "daily"

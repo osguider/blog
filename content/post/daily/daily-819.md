@@ -2,7 +2,6 @@
 title: "构建伟大 Web 应用： Ember.js 框架的强大力量 | 开源日报 No.819"
 description: "Ember.js 是一个用于构建复杂 Web 应用程序的 JavaScript 框架，具有友好的社区支持、持久的应用基础、定期的 LTS 版本和安全修复，支持现代 JavaScript 特性，提供详细的文档和强大的数据管理工具，灵活适配各种后端，简化更新过程，支持零配置应用和高质量的插件生态系统。"
 date: "2025-12-14T23:35:43.066Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

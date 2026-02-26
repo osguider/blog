@@ -2,7 +2,6 @@
 title: "远程桌面新选择：完全自托管，安全无忧！ | 开源日报 No.541"
 description: "RustDesk 是一款开源的远程桌面应用程序，旨在自托管，作为 TeamViewer 的替代方案，提供完全控制用户数据的安全性，开箱即用的简便性，支持默认或自建的服务器，且以 Rust 编写，具备优越的性能。"
 date: "2025-03-19T15:44:40.998Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1a3be653c41f9842e7a1691c601929d7.png"
 tags: []
 categories:
   - "daily"

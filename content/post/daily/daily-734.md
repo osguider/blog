@@ -2,7 +2,6 @@
 title: "轻量级分布式任务调度平台：快速、简单、高可用 | 开源日报 No.734"
 description: "XXL-JOB 是一个轻量级的分布式任务调度平台，旨在快速开发和易于学习，支持通过 Web 页面进行任务的 CRUD 操作和动态状态修改，具备中心化调度和高可用性设计，支持集群部署和多种触发策略，提供实时监控和日志功能，支持跨语言的 RESTful API，且可通过 Docker 镜像实现快速部署。"
 date: "2025-09-17T07:35:23.357Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjecte2993f12340555c235774167ec972a65.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "在隐私模式下定位唯一用户：最先进的浏览器指纹识别库 | 开源日报 No.399"
 description: "fingerprintjs 是一款最先进的浏览器指纹识别库。"
 date: "2024-10-27T16:51:01.256Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/50636d8d513feb694b70cc781a408afa.png"
 tags: []
 categories:
   - "daily"

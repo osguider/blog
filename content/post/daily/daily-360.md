@@ -2,7 +2,6 @@
 title: "一体化融资和货币化平台：专为开发者设计！ | 开源日报 No.360"
 description: "Polar 是一个面向开发者的开源融资和货币化平台，提供全方位资金筹集和变现功能，支持销售数字产品和服务。"
 date: "2024-09-14T23:35:32.696Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a0093dc31e7480f97342bbf6bc901ce9.png"
 tags: []
 categories:
   - "daily"

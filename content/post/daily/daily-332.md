@@ -2,7 +2,6 @@
 title: "AI 控制手机自动化！财富密码速速发掘 | 开源日报 No.332"
 description: "这个项目是 AppAgent，一个基于 LLM 的多模态代理框架，旨在操作智能手机应用程序。该框架通过简化的动作空间使代理可以模拟人类式交互 (如点击和滑动) 来操作智能手机应用程序，并且无需系统后端访问即可广泛适用于各种应用。"
 date: "2024-08-18T23:35:10.887Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8b014d312586c8d41b94e0897a33ee4e.png"
 tags: []
 categories:
   - "daily"

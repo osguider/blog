@@ -2,7 +2,6 @@
 title: "V0、Cursor、Manus 提示词合集：组织良好、结构清晰 | 开源日报 No.660"
 description: "一个收集整理多种 AI 系统提示、工具和模型的资源库，包含 7000+行结构化代码和多种实用资源，采用 GPL-3.0 许可。"
 date: "2025-07-09T07:35:36.513Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/872d34a76fa61d2455540438acb24ccd.png"
 tags: []
 categories:
   - "daily"

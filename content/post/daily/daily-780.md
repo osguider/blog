@@ -2,7 +2,6 @@
 title: "聊天机器人系统提示语汇总：便捷了解各模型内部设计 | 开源日报 No.780"
 description: "system_prompts_leaks 是一个开源项目，旨在收集和汇总来自流行聊天机器人 (如 ChatGPT、Claude 和 Gemini) 的系统提示语，提供对不同模型内部提示设计的洞察，方便研究者和开发者了解和比较聊天机器人的系统设置，项目持续更新，包含最新版本的提示语文件。"
 date: "2025-11-05T07:35:36.661Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

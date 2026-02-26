@@ -2,7 +2,6 @@
 title: "智能 ER 图绘制：一键生成交互式数据库图谱 | 开源日报 No.577"
 description: "liam 是一个开源工具，能够自动从数据库生成美观、可交互的 ER 图，支持平移、缩放和过滤功能，零配置即可使用，适用于小型和大型项目。"
 date: "2025-04-17T00:00:39.092Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a78bce76ba753e07a0eab9ba9775b471.png"
 tags: []
 categories:
   - "daily"

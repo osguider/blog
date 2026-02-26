@@ -2,7 +2,6 @@
 title: "实时新闻阅读应用：界面优雅智能更新 | 开源日报 No.564"
 description: "newsnow 是一个优雅的实时新闻阅读应用，提供干净界面、实时更新、GitHub 登录同步，并采用智能抓取策略优化资源使用。支持多语言和个性化选项 (计划中)，采用 MIT 开源协议。"
 date: "2025-04-06T15:29:19.501Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/67c67dc0301e4a8a0d686e81959281c8.png"
 tags: []
 categories:
   - "daily"

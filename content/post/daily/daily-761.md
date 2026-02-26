@@ -2,7 +2,6 @@
 title: "渗透测试利器：开启安全漏洞的全面评估与利用之旅 | 开源日报 No.761"
 description: "Metasploit Framework 是一个开源渗透测试框架，专注于安全漏洞利用和评估，提供丰富的模块库和强大的命令行界面，支持跨平台安装，配备详尽的文档和活跃的社区支持，持续更新以提供最新功能。"
 date: "2025-10-17T07:35:44.983Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

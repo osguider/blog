@@ -2,7 +2,6 @@
 title: "适用于微控制器和 WebAssembly 的 Go 编译器 | 开源日报 No.362"
 description: "TinyGo 是一个专为小型环境设计的 Go 编译器，支持超过 94 种微控制器板的编译，可以编译成 WebAssembly 和 WASI 目标，支持 Linux、macOS 和 Windows 平台的编译，提供小型二进制文件，减少未使用功能的开销，同时兼容大部分 Go 语言标准库和代码。"
 date: "2024-09-16T23:36:04.333Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8bca8cc38041332d8ede33b9ba8eb5cd.png"
 tags: []
 categories:
   - "daily"

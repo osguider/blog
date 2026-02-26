@@ -2,7 +2,6 @@
 title: "开源跨平台终端：目录浏览、文件预览、网页浏览 | 开源日报 No.456"
 description: "这款开源跨平台终端将终端体验提升至全新高度！它不仅支持图形小部件与命令行的无缝集成，还提供了强大的文件预览和图形编辑功能。无论你是开发者还是普通用户，waveterm 都能为你提供高效的工作流程与智能的 AI 聊天体验，完美适配 macOS、Linux 和 Windows，助你轻松跨越 CLI 与 Web 的界限！"
 date: "2024-12-18T23:36:06.447Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ded61144ae972d18c20c39f1d2937752.png"
 tags: []
 categories:
   - "daily"

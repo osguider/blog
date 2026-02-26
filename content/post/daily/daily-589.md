@@ -2,7 +2,6 @@
 title: "股权补偿全解析：助力员工与雇主共赢 | 开源日报 No.589"
 description: "`og-equity-compensation` 是一个开源指南，旨在帮助员工和雇主理解复杂的股权补偿机制。它提供全面的股权补偿知识，包括股票期权、限制性股票单位等，结合专家评论和实用建议，帮助读者做出明智决策。指南整合了丰富资源与视觉材料，适合不同背景的人士，并为初学者及有经验人士提供清晰易懂的信息，以避免常见错误。"
 date: "2025-04-29T07:35:32.571Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5d04f942949bf1a7547e17beb3a938fb.png"
 tags: []
 categories:
   - "daily"

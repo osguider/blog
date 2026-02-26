@@ -2,7 +2,6 @@
 title: "智能购物清单和食谱管理工具：自托管的家庭收支助手 | 开源日报 No.678"
 description: "kitchenowl 是一个自托管的智能购物清单和食谱管理工具，支持多平台使用 (移动/网页/桌面)，具有实时同步、离线功能、食谱管理、膳食计划和家庭收支跟踪等实用功能。"
 date: "2025-07-28T07:36:03.592Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1d6edf4ba7889612af7d2a94aa01e5d5.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "深度学习利器：高效张量计算与动态网络构建 | 开源日报 No.539"
 description: "PyTorch 是一个强大的 Python 张量和动态神经网络库，支持 GPU 加速，提供类似 NumPy 的张量计算，具备动态神经网络的自动微分功能，深度集成 Python，易于使用，且与其他 Python 包兼容，灵活且快速，适合深度学习研究。"
 date: "2025-03-11T14:01:56.597Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/14705481f3b48776fad43c45eb247fbc.png"
 tags: []
 categories:
   - "daily"

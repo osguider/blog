@@ -2,7 +2,6 @@
 title: "智能终端助手：用 AI 高效处理开发任务 | 开源日报 No.654"
 description: "gemini-cli 是一个终端 AI 工具，将 Gemini 的多模态能力集成到命令行中，支持代码编辑、PDF 处理、任务自动化 (如 Git 操作) 和媒体生成 (通过 Imagen/Veo)，并内置 Google 搜索支持。"
 date: "2025-07-03T15:35:34.612Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/50043ce0d56911f52a0f86a6b25f922b.png"
 tags: []
 categories:
   - "daily"

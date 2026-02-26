@@ -2,7 +2,6 @@
 title: "多平台游戏模拟器、游戏启动器和游戏引擎 | 开源专题 No.98"
 description: "每个人的心中都有一段难以忘怀的游戏记忆。这些开源项目正是为了唤醒那些沉睡的记忆，让我们在忙碌的生活中找到一丝慰藉。它们不仅仅是代码的集合，更是情感的载体，让我们一起感受那份跨越时代的共鸣。"
 date: "2024-07-11T23:35:20.562Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d20c7cc9653a65dd1dad29cb99687217.png"
 tags: []
 categories:
   - "topic"

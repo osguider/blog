@@ -2,7 +2,6 @@
 title: "轻松生成 Go RESTful API 文档：基于 Swagger 实现 | 开源日报 No.470"
 description: "swag 是一个用于自动生成 Go 语言 RESTful API 文档的工具，基于 Swagger 2，能够将 Go 注释转换为 Swagger 文档，支持多种 Go Web 框架，快速集成到现有项目中，提供命令行工具和 Docker 镜像，支持自定义类型和请求头等功能。"
 date: "2025-01-05T03:03:59.015Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5b98eb8f2311cdd4902e20afe666bd85.png"
 tags: []
 categories:
   - "daily"

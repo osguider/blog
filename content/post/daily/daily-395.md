@@ -2,7 +2,6 @@
 title: "低代码平台 Budibase：构建高性能业务应用 | 开源日报 No.395"
 description: "budibase 是一个开源且可扩展的低代码平台，可帮助您在几分钟内构建业务应用程序和工作流。支持多种数据库和技术，构建性能优越的真实软件。提供开发者友好的体验，可从多个数据源加载数据或从零开始创建业务应用程序。拥有强大的预制组件用于设计和构建应用程序界面，实现自动化流程并与其他工具集成，支持部署时的安全性保障。是您提升工作效率和业务发展的利器！"
 date: "2024-10-27T16:28:28.960Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d32cbdf70c030db8658ab216aaffb4af.png"
 tags: []
 categories:
   - "daily"

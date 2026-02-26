@@ -2,7 +2,6 @@
 title: "PHP 开发新选择：Symfony 框架助力高效编码 | 开源日报 No.570"
 description: "Symfony 是一个流行的 PHP 框架和组件库，提供语义版本控制、长期支持、简单安装和丰富的文档，拥有活跃的社区支持。"
 date: "2025-04-13T09:10:08.450Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/788dcc5143a2d1d0e0186e133cb16e75.png"
 tags: []
 categories:
   - "daily"

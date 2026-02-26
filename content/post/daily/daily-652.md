@@ -2,7 +2,6 @@
 title: "轻量高效：Loki 重塑云原生日志聚合 | 开源日报 No.652"
 description: "Loki 是一个高可用、多租户的日志聚合系统，采用类似 Prometheus 的标签索引方法而非全文检索，降低运行成本。它无缝集成 Kubernetes 日志和 Grafana 可视化，特别适合云原生环境。"
 date: "2025-07-01T23:36:06.746Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/749aee54dfbc7020aac022888d898b81.png"
 tags: []
 categories:
   - "daily"

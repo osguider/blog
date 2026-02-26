@@ -2,7 +2,6 @@
 title: "一站式智能邮件管家：邮件分析、草拟回复、批量退订 | 开源日报 No.576"
 description: "inbox-zero 是一个 AI 驱动的开源邮件管理工具，核心功能包括：智能邮件分类、批量退订、冷邮拦截、邮件分析，以及通过 AI 助手实现自动归档/回复等操作，帮助用户快速清空收件箱。"
 date: "2025-04-16T16:06:03.720Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7bad0566c7411881eedb3fc2cc82befd.png"
 tags: []
 categories:
   - "daily"

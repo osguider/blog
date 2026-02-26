@@ -2,7 +2,6 @@
 title: "隐私保护的智能合约框架：全同态加密与区块链深度结合 | 开源日报 No.732"
 description: "fhevm 是一个全栈框架，旨在将全同态加密 (FHE) 与区块链应用结合，支持在 EVM 兼容区块链上创建机密智能合约。它通过端到端加密保护数据隐私，兼容 Solidity 和现有开发工具，提供高精度运算和丰富的算术操作，利用多方计算管理解密密钥，具备量子抗性，支持高效的异步加解密操作，适用于 DeFi 和游戏等多种应用场景。"
 date: "2025-09-24T07:35:39.219Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjecte58ec7bd54110d2e6cf07465513ecc61.png"
 tags: []
 categories:
   - "daily"

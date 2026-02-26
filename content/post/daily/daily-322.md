@@ -2,7 +2,6 @@
 title: "开源的实时翻译应用程序：实时对讲、离线翻译 | 开源日报 No.322"
 description: "RTranslator 是一个开源的实时翻译应用程序。"
 date: "2024-08-08T23:35:45.595Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/38e27b1867beff635b12e7adb7cbefbc.png"
 tags: []
 categories:
   - "daily"
@@ -86,4 +85,3 @@ RTranslator 是一个开源的实时翻译应用程序。
 - 文本翻译模式，提供经典的文本翻译功能
 - 使用 Meta's NLLB 进行翻译和 OpenAi's Whisper 进行语音识别，保证隐私并支持离线使用
 - 2.0 版本中更新了 AI 模型，并添加了经典文本翻译模式以及改进蓝牙 LE 设备搜索等功能。
-

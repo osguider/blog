@@ -2,7 +2,6 @@
 title: "实时媒体服务器：多协议支持，实时转换协议 | 开源日报 No.513"
 description: "mediamtx 是一个开源的实时媒体服务器和代理，支持多种流媒体协议 (如 SRT、WebRTC、RTSP、RTMP、LL-HLS)，具备实时协议转换、流的多路径服务、录制和播放功能、用户身份验证、负载均衡以及管理控制 API，适用于视频和音频流的处理和管理。"
 date: "2025-02-15T08:56:08.933Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1d60b5466303788c7003bd8ae0e0305c.png"
 tags: []
 categories:
   - "daily"

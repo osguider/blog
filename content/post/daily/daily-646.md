@@ -2,7 +2,6 @@
 title: "跨平台设计利器：微软开源的现代化图标库 | 开源日报 No.646"
 description: "微软开源的 Fluent UI 系统图标库，提供 6.8k 现代友好图标，支持多平台和语言方向，通过主流包管理器轻松集成。"
 date: "2025-06-23T07:35:13.908Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/dbd17c4dbff59a28aab620220ed57b1e.png"
 tags: []
 categories:
   - "daily"

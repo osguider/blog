@@ -2,7 +2,6 @@
 title: "全栈开发利器：Next.js 快速构建高性能应用 | 开源日报 No.479"
 description: "Next.js 是一个基于 React 的全栈 web 应用程序框架，支持最新的 React 特性，集成高效的 Rust 基础 JavaScript 工具，广泛应用于大型企业，提供丰富的文档和学习资源，拥有活跃的社区支持。"
 date: "2025-01-25T02:31:21.165Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9f9545ac4b200eac51102f42583b2cef.png"
 tags: []
 categories:
   - "daily"

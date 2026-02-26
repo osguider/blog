@@ -2,7 +2,6 @@
 title: "高效 JSON 解析库： 支持大规模数据处理 | 开源日报 No.777"
 description: "simdjson 是一个高性能的 JSON 解析库，采用 SIMD 指令和微并行算法，解析速度超过传统解析器 4 倍，支持高达 6 GB/s 的 JSON 压缩和 13 GB/s 的 UTF-8 验证，广泛应用于多个大型项目。它提供易用的 API，遵循 JSON 和 UTF-8 标准，自动优化解析方案，注重内存管理和错误处理，确保高稳定性和可靠性。"
 date: "2025-11-02T07:35:37.171Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

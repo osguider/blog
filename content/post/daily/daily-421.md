@@ -3,7 +3,6 @@ title: "赋能 RAG：把文档转换成 Markdown/JSON | 开源日报 No.421"
 description: "Docling 是一个用于快速解析文档并导出为所需格式的工具。
 它解决了将多种文档格式转换为 Markdown 和 JSON 的需求，使得处理和利用文档变得更加高效。"
 date: "2024-11-14T23:35:49.069Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d5800f8d711d21e004d11c6440aebe59.png"
 tags: []
 categories:
   - "daily"

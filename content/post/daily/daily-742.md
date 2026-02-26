@@ -2,7 +2,6 @@
 title: "开源文本转语音模型：实现个性化与情感表达的新高度 | 开源日报 No.742"
 description: "Chatterbox 是由 Resemble AI 开发的开源文本转语音 (TTS) 模型，具备生产级性能，采用 0.5B 参数的 Llama 骨干网络，支持零样本文本转语音和情感夸张控制，基于 50 万小时清洗数据训练，输出稳定且信息丰富。它内置 PerTh 水印技术，确保音频的责任使用，性能优于多个领先的闭源系统，且提供简单的安装和调用接口，当前支持英语合成。"
 date: "2025-09-28T07:36:03.559Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjecta0ec79c01419f421601cd90133823ca3.png"
 tags: []
 categories:
   - "daily"

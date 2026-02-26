@@ -2,7 +2,6 @@
 title: "功能齐全的下载管理器：界面美观、下载神速 | 开源日报 No.787"
 description: "Motrix 是一款功能强大的开源下载管理器，支持多种下载协议 (HTTP、FTP、BitTorrent 和 Magnet)，具备简洁的用户界面、选择性下载、自动更新追踪器、端口映射、限速功能及下载完成通知，最多可同时处理 10 个下载任务，单个任务支持 64 个线程。"
 date: "2025-11-12T07:35:14.047Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

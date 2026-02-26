@@ -2,7 +2,6 @@
 title: " 配置文件解析处理命令行工具：多种格式全支持 | 开源日报 No.367"
 description: "如果你正在寻找一个轻量级且便携的命令行工具来处理 YAML、JSON 和 XML 文件，那么 yq 绝对是你的不二选择！它支持处理多种文件格式，具有类似 jq 的语法操作，提供丰富的操作和函数，而且基于 Go 编写，可以轻松下载并使用。"
 date: "2024-09-21T23:36:02.039Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/712bd89b978c70a63449331282ca8d82.png"
 tags: []
 categories:
   - "daily"

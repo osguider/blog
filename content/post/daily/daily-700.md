@@ -2,7 +2,6 @@
 title: "IntelliJ IDEA 开源代码库：构建和定制你的开发环境 | 开源日报 No.700"
 description: "intellij-community 是 IntelliJ IDEA 的开源代码库，提供完整源代码，支持开发和定制基于 IntelliJ 平台的集成开发环境 (IDE)。项目支持通过 Git 克隆，提供详细的构建和配置指导，支持 Android 模块，强调使用 JetBrains Runtime 17 进行编译，确保环境一致性与稳定性。"
 date: "2025-08-19T07:35:47.006Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject0db3da91fc9e6229cc15fbbdbd1d9cdf.png"
 tags: []
 categories:
   - "daily"

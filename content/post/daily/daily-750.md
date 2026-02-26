@@ -2,7 +2,6 @@
 title: "快速构建自定义 OpenCV 算法：可视化节点编辑器直观友好 | 开源日报 No.750"
 description: "PaperVision 是一个基于节点编辑器的用户友好界面，旨在帮助用户创建自定义的 OpenCV 算法，灵感来源于 Blender 和 Unreal Engine 的蓝图。它提供直观的编辑界面和实时预览功能，支持与 EOCV-Sim 的集成，适合开发者和研究人员进行计算机视觉算法的实验和原型设计。"
 date: "2025-10-06T07:35:48.125Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

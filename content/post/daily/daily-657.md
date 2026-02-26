@@ -2,7 +2,6 @@
 title: "功能强大的 TypeScript 框架：打造类型安全的异步应用 | 开源日报 No.657"
 description: "Effect 是一个功能强大的 TypeScript 框架，专注于类型安全、副作用管理和并发处理，提供丰富的标准库和扩展工具 (如 AI、分布式计算、SQL 等)，支持多平台运行和 RPC 功能，适用于生产级应用开发。"
 date: "2025-07-08T07:35:29.212Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4e7ee3a8645c34e082347f6d8770e72c.png"
 tags: []
 categories:
   - "daily"

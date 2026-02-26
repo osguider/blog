@@ -2,7 +2,6 @@
 title: "识别性别、年龄、情绪、种族：轻量级人脸识别库 | 开源日报 No.400"
 description: "深度学习爱好者必备！深度学习面部识别库 deepface，支持人脸验证、查找和分析，使用最先进模型，安装简便，一行代码搞定现代人脸识别流程！赶快体验吧！"
 date: "2024-10-27T16:51:12.388Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/dbe29df7b9c1596218aec4ba6bc7c377.png"
 tags: []
 categories:
   - "daily"

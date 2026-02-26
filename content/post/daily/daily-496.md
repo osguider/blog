@@ -2,7 +2,6 @@
 title: "从数千个网站收集个人档案：无需 API 密钥，易于使用 | 开源日报 No.496"
 description: "maigret 是一个开源工具，能够通过用户名从超过 3000 个网站收集个人档案，默认搜索 500 个热门网站。它易于使用，无需 API 密钥，能够解析个人资料页面，提取信息和链接，并支持递归搜索和请求重试，能够处理审查和验证码问题。"
 date: "2025-02-15T09:04:30.083Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1f0a9eb843e964cbbde8860dabedd7a3.png"
 tags: []
 categories:
   - "daily"

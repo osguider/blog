@@ -2,7 +2,6 @@
 title: "强大的多维监控系统与时间序列数据库 | 开源日报 No.488"
 description: "Prometheus 是一个开源的监控系统和时间序列数据库，具有多维数据模型和强大的查询语言 PromQL，支持时间序列的 HTTP 拉取和推送，能够通过服务发现和静态配置发现监控目标，且支持多种图形化展示和层次化的联邦功能。"
 date: "2025-01-25T03:13:40.325Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/85e241017f0ef8b78f78273a55ce618d.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "构建魅力地图世界：开源 3D 地球库 cesium！ | 开源日报 No.507"
 description: "Cesium 是一个开源的 JavaScript 库，用于创建高质量的 3D 地球和地图，具备 WebGL 硬件加速、跨平台和跨浏览器的特性，特别优化了动态数据可视化。"
 date: "2025-02-15T08:56:05.807Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8d4e95221ba86ce234a1abd4c5d4419b.png"
 tags: []
 categories:
   - "daily"

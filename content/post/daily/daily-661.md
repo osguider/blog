@@ -2,7 +2,6 @@
 title: "AI 文档转换利器：PDF/图像一键生成网页表单 | 开源日报 No.661"
 description: "form-extractor-prototype 是一个基于 AI 的文档表单转换工具，能够自动从 PDF/图像中提取表单结构并生成符合 GOV.UK 标准的网页表单，支持 Claude 3 和 OpenAI 处理，输出结构化 JSON 数据。"
 date: "2025-07-10T07:35:28.019Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b635a1099bdcf9bd2de0c58680b5122f.png"
 tags: []
 categories:
   - "daily"

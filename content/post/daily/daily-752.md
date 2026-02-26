@@ -2,7 +2,6 @@
 title: "深度信息检索的强大助手：高效长文本处理与推理能力再升级 | 开源日报 No.752"
 description: "DeepResearch 是由 Tongyi Lab 开发的开源大型语言模型代理，专为深度信息检索设计，拥有 305 亿参数，且每次激活 33 亿参数。该项目具备全自动数据生成流水线，支持代理预训练、监督微调和强化学习，利用大规模预训练提升模型能力。采用端到端强化学习策略，支持 ReAct 和 IterResearch-based 推理范式，且在多个复杂搜索基准测试中表现优异。"
 date: "2025-10-08T23:35:51.284Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

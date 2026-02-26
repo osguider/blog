@@ -2,7 +2,6 @@
 title: "GPU 加速的跨平台终端：快速、功能丰富，让操作更顺畅！ | 开源日报 No.494"
 description: "Kitty 是一个跨平台的 GPU 加速终端，具有快速性能和丰富的自定义功能，适用于多种操作系统，拥有一个友好的用户社区和活跃的讨论区。"
 date: "2025-02-15T09:04:13.961Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/af6ca5e39d7ce484329becc11adbcf7f.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "适用于联机分析的列式数据库管理系统 | 开源日报 No.317"
 description: "ClickHouse 是一个免费的大数据分析数据库管理系统，以其强大的实时数据分析能力和跨平台支持脱颖而出。它不仅能够实时生成分析数据报告，支持 Linux、macOS 和 FreeBSD 等多种操作系统，还通过官方网站、云服务、教程、文档等多种资源形式为用户提供全面的支持。每月举办社区电话会议和全球各地的 Meetup 活动，使用户能够与开发团队直接互动并获取最新版本信息，进一步增强了其社区参与和技术支持的深度。"
 date: "2024-08-03T23:35:26.301Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f6a550b660a05acbe79220738725a1fb.png"
 tags: []
 categories:
   - "daily"

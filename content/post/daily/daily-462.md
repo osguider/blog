@@ -2,7 +2,6 @@
 title: "模块化的 SQL 代码检查与格式化工具 | 开源日报 No.462"
 description: "如果你是一名 SQL 开发者，sqlfluff 将是你不可或缺的工具！它不仅支持多种 SQL 方言和模板代码，还能与 Jinja 和 dbt 无缝集成，极大提升开发灵活性。自动修复 linting 错误的功能，让你能将更多精力放在重要的开发任务上。"
 date: "2025-01-05T03:24:10.026Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f31664bfddf044997d1f780f6b6d1756.png"
 tags: []
 categories:
   - "daily"

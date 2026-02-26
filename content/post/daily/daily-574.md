@@ -2,7 +2,6 @@
 title: "轻量级自托管 Git 服务：简单、稳定、可扩展 | 开源日报 No.574"
 description: "Gogs 是一个轻量级、跨平台的自托管 Git 服务，提供简单易用的代码托管、协作功能和多语言支持，适合个人和小团队使用。"
 date: "2025-04-16T16:06:05.158Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/41eb2644f11df5b564dae8a5e40d4eac.png"
 tags: []
 categories:
   - "daily"

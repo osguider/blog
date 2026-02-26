@@ -2,7 +2,6 @@
 title: "记忆构建新范式：5 行代码实现 AI 动态关联 | 开源日报 No.659"
 description: "cognee 是一个轻量级 AI 记忆构建工具，通过创新的 ECL 管道简化 RAG 系统开发，支持多模态数据 (文本/图像/音频) 处理和 30+ 数据源集成，5 行代码即可快速部署。"
 date: "2025-07-07T15:36:03.122Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/71d9ab20a726e31852e69e45b52371f8.png"
 tags: []
 categories:
   - "daily"

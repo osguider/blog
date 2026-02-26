@@ -2,7 +2,6 @@
 title: "轻松玩转 GTA：支持多种操作系统！ | 开源日报 No.411"
 description: "re3 是一个完全反向工程的 GTA III 和 GTA VC 的开源项目。"
 date: "2024-11-03T23:35:25.977Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7898979095e325bac67eeca5a0c61f91.png"
 tags: []
 categories:
   - "daily"

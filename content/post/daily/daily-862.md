@@ -2,7 +2,6 @@
 title: "AI 编程口粮：模型接口代理工具 | 开源日报 No.862"
 description: "cc-switch 是一款跨平台的桌面助手工具，集成管理 Claude Code、Codex 和 Gemini 三大 AI 编程接口，支持多种 AI 编码模型的无缝切换。它采用 SQLite 和 JSON 双层数据存储，具备高效的配置管理和未来的云同步能力。界面支持中英日三种语言，具备自动启动、技能管理和多预设提示词管理功能，提升用户体验和便捷性。"
 date: "2026-01-26T15:36:00.976Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

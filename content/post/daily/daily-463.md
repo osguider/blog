@@ -2,7 +2,6 @@
 title: "Home Assistant 集成小米家居：小米官方支持 | 开源日报 No.463"
 description: "ha_xiaomi_home 是一个为 Home Assistant 提供小米家居集成的组件，支持使用小米物联网智能设备。"
 date: "2025-01-05T03:24:21.814Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/79fe574c957853cbabe1833d2495ca8f.png"
 tags: []
 categories:
   - "daily"

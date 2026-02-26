@@ -2,7 +2,6 @@
 title: "AI 助手浏览器自动化，实时性能追踪分析专家 | 开源日报 No.861"
 description: "chrome-devtools-mcp 是一个开源工具，允许 AI 编码助手通过 Model-Context-Protocol (MCP) 服务器实时控制和检查 Chrome 浏览器。它利用 Chrome DevTools 记录性能，支持高级调试功能，基于 puppeteer 实现可靠的自动化，确保操作的准确性。"
 date: "2026-01-25T07:36:10.871Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

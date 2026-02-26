@@ -2,7 +2,6 @@
 title: "拖放式构建 LLM 流程：跨平台灵活部署 | 开源日报 No.556"
 description: "Flowise 是一个开源工具，提供拖放式用户界面，用于快速构建和部署自定义大语言模型 (LLM) 流程。它支持多种部署选项，包括 AWS、Azure 和本地自托管，并包含 Node.js 后端和 React 前端，支持 API 文档自动生成，通过环境变量配置实例设置，提高灵活性。"
 date: "2025-03-28T15:54:42.831Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8ab0b2d0d497f74ffa0affce91b3900c.png"
 tags: []
 categories:
   - "daily"

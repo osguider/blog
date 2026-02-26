@@ -2,7 +2,6 @@
 title: "解放双手：借助 AI 完成浏览器自动化！ | 开源日报 No.313"
 description: "skyvern 是使用 LLMs 和计算机视觉自动化基于浏览器的工作流程。"
 date: "2024-07-30T23:35:55.433Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/caec70134d251bfa8e3726d228ee1b9a.png"
 tags: []
 categories:
   - "daily"

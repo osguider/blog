@@ -2,7 +2,6 @@
 title: "基于 HOOK 机制的微信机器人：广告检测、AI 回复、自动拉群 | 开源日报 No.420"
 description: "NGCBot 是一个基于 HOOK 机制的微信机器人，支持安全新闻定时推送、KFC 文案、备案查询等多种功能。"
 date: "2024-11-14T23:35:46.285Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/84fdc32bb4017a1820e53056d03f50a7.png"
 tags: []
 categories:
   - "daily"

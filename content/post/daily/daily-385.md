@@ -2,7 +2,6 @@
 title: "GIT 历史分析图表工具：快速、洞察力强、高度可定制 | 开源日报 No.385"
 description: "hercules 是一个快速、洞察力强且高度可定制的 Git 历史分析工具。"
 date: "2024-10-08T23:35:46.108Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f4fd1969c4aa67b67678a93764bb6df2.png"
 tags: []
 categories:
   - "daily"

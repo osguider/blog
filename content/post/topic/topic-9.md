@@ -2,7 +2,6 @@
 title: "轻松剪辑视频：开源视频处理工具推荐"
 description: ""
 date: "2023-11-23T06:16:31.423Z"
-image: "undefined"
 tags: []
 categories:
   - "topic"

@@ -2,7 +2,6 @@
 title: "构建现代化的跨平台移动应用程序"
 description: ""
 date: "2023-11-23T06:16:26.928Z"
-image: "undefined"
 tags: []
 categories:
   - "topic"

@@ -2,7 +2,6 @@
 title: "轻量高效的 WebAssembly 运行时：专为云原生与边缘计算打造 | 开源日报 No.681"
 description: "WasmEdge 是一个高性能 WebAssembly 运行时，专为云原生和边缘计算设计，支持多语言开发，提供安全沙箱环境，并集成网络、数据库和 AI 扩展，是 CNCF 托管的轻量级 Wasm 虚拟机。"
 date: "2025-07-30T07:35:48.111Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/737877e6957fd9bdc5d974d25510b6ff.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "高性能全栈应用框架：Nuxt 让开发更简单！ | 开源日报 No.842"
 description: "Nuxt 是一个基于 Vue 的开源框架，旨在创建类型安全、高性能的全栈 web 应用和网站，支持多种渲染方式 (如服务器端渲染和静态站点生成)，具备自动路由、数据获取、状态管理和 SEO 优化等功能，支持 TypeScript，具备强大的扩展性和多种部署选项。"
 date: "2026-01-07T15:35:33.138Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

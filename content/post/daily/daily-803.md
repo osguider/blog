@@ -2,7 +2,6 @@
 title: "高性能 3D 网页图形引擎：为浏览器带来沉浸式互动体验 | 开源日报 No.803"
 description: "engine 是一个基于 WebGL 和 WebGPU 的开源网页图形运行时环境，旨在实现高性能的交互式 3D 内容和游戏。它支持先进的图形渲染和状态驱动动画，内置物理引擎，兼容多种输入设备，支持三维音效和异步资源加载，允许使用 TypeScript 或 JavaScript 进行灵活的脚本编写。"
 date: "2025-11-28T07:35:26.496Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

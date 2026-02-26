@@ -2,7 +2,6 @@
 title: " Awesome Claude Skills：实用技能、资源和工具的精选集合 | 开源日报 No.875"
 description: "awesome-claude-skills 是一个为 Claude AI 定制工作流的资源集合，提供多种可定制的 Claude Skills，支持在 Claude.ai、Claude Code 和 Claude API 上执行任务。该项目通过 connect-apps 插件连接超过 500 个第三方应用，支持自动化功能，涵盖文档处理、开发工具和数据分析等多种技能，此外还支持将 Markdown 转换为 EPUB 电子书，并集成安全测试和调试工具，提升开发效率和产品质量。"
 date: "2026-02-24T07:35:22.900Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

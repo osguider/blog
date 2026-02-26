@@ -2,7 +2,6 @@
 title: "使用 React 开发跨平台原生应用：性能优秀，文档丰富 | 开源日报 No.719"
 description: "Expo 是一个开源平台，允许开发者使用 React 创建跨平台的原生应用，支持 Android、iOS 和 Web。其核心优势包括一次编写代码即可在多个平台上部署、提供与传统原生应用相媲美的用户体验，以及丰富的文档和工具支持，帮助开发者轻松构建和部署应用。"
 date: "2025-09-06T07:36:07.787Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject065bfd9dac22a73541f12b372c2fa0f0.png"
 tags: []
 categories:
   - "daily"

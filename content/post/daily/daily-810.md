@@ -2,7 +2,6 @@
 title: "自建 Claude Code 拼车平台，智能轮换账户成本可控 | 开源日报 No.810"
 description: "claude-relay-service 是一个开源的 Claude API 中转服务，旨在为用户提供统一的接入平台，支持 Claude、OpenAI、Gemini 和 Droid 订阅。其核心功能包括多账户管理、自动轮换、独立 API Key 分配、性能优化、Web 监控、代理支持及安全控制，且易于部署，适合隐私敏感用户及需要分摊订阅费用的场景。"
 date: "2025-12-05T07:35:38.917Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

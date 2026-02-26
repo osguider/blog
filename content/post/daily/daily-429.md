@@ -2,7 +2,6 @@
 title: "文本编辑器框架：可扩展、高性能 | 开源日报 No.429"
 description: "Lexical 是一个强大且可扩展的文本编辑器框架，专为开发者打造，提供卓越的开发体验。凭借其灵活的插件系统和强大的错误处理机制，Lexical 不仅能轻松适应各种复杂应用场景，还能确保用户数据的安全。"
 date: "2024-11-21T23:35:25.029Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fdc83e669f979e895309ec7b87d915a7.png"
 tags: []
 categories:
   - "daily"

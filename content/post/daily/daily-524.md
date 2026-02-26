@@ -2,7 +2,6 @@
 title: "Qwen2.5-VL：强大的多模态大型语言模型 | 开源日报 No.524"
 description: "Qwen2.5-VL 是由阿里云 Qwen 团队开发的多模态大型语言模型，具备强大的文档解析能力，支持多种语言和文档格式，具备精确的对象定位和超长视频理解能力，能够处理长达数小时的视频并提取事件片段，同时提升了在计算机和移动设备上的推理和决策能力。"
 date: "2025-03-01T08:58:31.843Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/773940579cc4805b5071ee839e8fa423.png"
 tags: []
 categories:
   - "daily"

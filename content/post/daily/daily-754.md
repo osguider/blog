@@ -2,7 +2,6 @@
 title: "高效管理 AI 代理与项目：Claude Code 多功能桌面工具 | 开源日报 No.754"
 description: "opcode 是一个开源的桌面 GUI 应用和工具包，专为 Claude Code 设计，提供可视化项目管理、智能搜索、会话管理和自定义 AI 代理的创建。它具备实时的 API 使用分析、MCP 服务器管理、会话时间线和版本控制功能，此外还内置文档编辑器，提升文档编辑和项目管理的效率。"
 date: "2025-10-10T07:35:54.402Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "构建、观察和响应数据管道：Python代码转换为交互式工作流 | 开源日报 No.331"
 description: "Prefect 是一个强大的工作流编排工具，能够帮助开发人员将 Python 代码转换为交互式工作流应用程序，实现数据管道的构建、观察和响应。它通过 API 公开工作流程，使团队能够以编程方式访问管道和业务逻辑，标准化组织内的工作流开发和部署。Prefect 还提供自动重试、分布式执行、调度、缓存等功能，能够跟踪并监视每个活动。用户可以选择自托管 Prefect 服务器实例或托管 Prefect Cloud 仪表板进行管理，提升工作效率和可靠性"
 date: "2024-08-17T23:35:30.992Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/223889c0b37aab0ed15fc79af6a1a4bd.png"
 tags: []
 categories:
   - "daily"

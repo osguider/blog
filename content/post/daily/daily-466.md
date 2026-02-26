@@ -2,7 +2,6 @@
 title: "极致实时仿真平台：为机器人与 AI 学习赋能 | 开源日报 No.466"
 description: "Genesis 是一个开源的生成性世界，专为通用机器人和具身人工智能学习设计，具备超高速仿真能力 (超过 4300 万 FPS)，支持多平台 (Linux、MacOS、Windows)，整合多种物理求解器和材料模型，兼容多种机器人类型，且具备高性能的光线追踪渲染系统，适合机器学习和优化任务。"
 date: "2025-01-05T03:03:59.049Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/207024cafa92e046a084eb737df467de.png"
 tags: []
 categories:
   - "daily"

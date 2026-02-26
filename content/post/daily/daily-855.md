@@ -2,7 +2,6 @@
 title: "从非结构化文本中提取结构化信息的 Python 库 | 开源日报 No.855"
 description: "langextract 是一个基于大语言模型的 Python 库，旨在从非结构化文本中提取结构化信息，具备精确的来源定位和交互式可视化功能。它通过示例定义输出格式，优化长文档处理，支持多种大语言模型，且无需微调，适用于多种信息抽取任务。"
 date: "2026-01-19T07:35:56.828Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

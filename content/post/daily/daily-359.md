@@ -2,7 +2,6 @@
 title: "全能时间管理与任务规划工具 | 开源日报 No.359"
 description: "Super Productivity 是一款开源的高级待办事项列表应用，集成了时间跟踪、任务规划、休息提醒等功能，支持多平台同步，注重隐私保护且无需注册。"
 date: "2024-09-13T23:35:08.537Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/57ae903202a79076268d548a54c55cf8.png"
 tags: []
 categories:
   - "daily"

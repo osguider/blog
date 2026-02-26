@@ -2,7 +2,6 @@
 title: "极简文本编辑器：核心代码不足千行 | 开源日报 No.617"
 description: "kilo 是一个极简的文本编辑器，核心代码不足 1000 行，支持语法高亮和搜索功能，仅依赖标准终端转义序列，无外部依赖，适合作为开发更复杂编辑器的基础。"
 date: "2025-05-27T07:35:38.972Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/945cf850a057f192b73efa0667aa0022.png"
 tags: []
 categories:
   - "daily"

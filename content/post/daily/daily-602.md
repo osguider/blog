@@ -2,7 +2,6 @@
 title: "跨平台 SQL 客户端：高效管理多种数据库 | 开源日报 No.602"
 description: "Beekeeper Studio 是一个现代跨平台 SQL 客户端，支持 MySQL、Postgres 等多种数据库，提供直观界面、智能查询编辑器、标签式多任务处理及黑暗主题，适用于主流操作系统。"
 date: "2025-05-11T23:35:41.505Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3da9a4d3de76d53616034ce174d3fc00.png"
 tags: []
 categories:
   - "daily"

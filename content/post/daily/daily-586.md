@@ -2,7 +2,6 @@
 title: "高效开源的项目管理平台：项目规划、任务管理、缺陷追踪 | 开源日报 No.586"
 description: "OpenProject 是一个功能全面的开源项目管理软件，支持项目规划、任务管理、敏捷开发、时间跟踪、成本管理、缺陷追踪、维基论坛及会议管理，适用于团队协作与项目调度。"
 date: "2025-04-26T23:35:59.405Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/65b0aa02a5f94cb13d9a0a77498a3422.png"
 tags: []
 categories:
   - "daily"

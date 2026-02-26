@@ -2,7 +2,6 @@
 title: "Literature Quarto 开源出版系统：技术写作灵活便捷 | 开源日报 No.825"
 description: "quarto-cli 是一个开源的科学与技术出版系统，基于 Pandoc 构建，支持 Markdown 文档创作，集成多种编程语言的代码输出，扩展了 Pandoc Markdown 的功能，提供项目管理系统以批量渲染文档，支持多种编辑环境，旨在简化技术写作流程。"
 date: "2025-12-20T07:36:07.281Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "提升 React 性能：实时检测与优化工具 | 开源日报 No.531"
 description: "react-scan 是一个开源工具，旨在自动检测和优化 React 应用的性能问题，帮助开发者识别需要优化的组件，支持多种使用方式，受到如 Airbnb 等知名工程团队的信任和使用。"
 date: "2025-03-11T14:01:53.493Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b013cbea59e5f87fdd8fbeb1e0f14407.png"
 tags: []
 categories:
   - "daily"

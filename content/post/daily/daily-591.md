@@ -2,7 +2,6 @@
 title: "Python 打包利器：一键生成跨平台独立应用 | 开源日报 No.591"
 description: "PyInstaller 是一个将 Python 程序及其依赖项打包成独立可执行文件的工具，支持 Windows、macOS 和 GNU/Linux 等多个平台。它无需用户安装 Python 解释器或额外模块，自动捆绑常用 Python 包，并兼容第三方软件包，确保应用程序的独立运行。"
 date: "2025-05-04T07:35:37.606Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b52a177e27f22180ca8252ce4685b0ab.png"
 tags: []
 categories:
   - "daily"

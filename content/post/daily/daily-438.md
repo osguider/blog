@@ -2,7 +2,6 @@
 title: "学术写作提示词：论文创作好帮手！ | 开源日报 No.438"
 description: "chatgpt-prompts-for-academic-writing 是一个提供各种学术写作提示的资源，旨在帮助学生、研究人员和学术专业人士提升他们的写作能力。"
 date: "2024-12-03T23:35:41.616Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9db5926269dd8adc7df12a307333bd0a.png"
 tags: []
 categories:
   - "daily"

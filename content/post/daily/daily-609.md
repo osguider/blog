@@ -2,7 +2,6 @@
 title: "PDF 教材下载：小初高及大学全覆盖 | 开源日报 No.609"
 description: "ChinaTextbook 是一个开源教育资源共享项目，集中提供小初高及大学教材 PDF，旨在消除教育贫困、促进教育公平，支持多种下载方式并避免水印销售。"
 date: "2025-05-20T07:35:12.568Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6f44866eb1dfe8ab6b280067b124dfcc.png"
 tags: []
 categories:
   - "daily"

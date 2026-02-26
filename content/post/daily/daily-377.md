@@ -2,7 +2,6 @@
 title: "灵活多样的轮播图组件：支持多种设置和自定义选项 | 开源日报 No.377"
 description: "slick 是一个功能完善的走马灯插件，提供了丰富的走马灯功能，可以通过 CDN 快速引入，支持多种设置和自定义选项，是你打造网站走马灯的最佳选择！"
 date: "2024-09-30T23:35:11.097Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c8056c45c3f3c1e75f0f9e3d804d12df.png"
 tags: []
 categories:
   - "daily"

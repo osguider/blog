@@ -2,7 +2,6 @@
 title: "超 325 种颜色方案：终端美化信手拈来！ | 开源日报 No.478"
 description: "iTerm2-Color-Schemes 是一个开源项目，为 iTerm/iTerm2 提供超过 325 种终端颜色方案，支持多种终端和操作系统，用户可轻松安装和添加新主题，且提供简单的导入说明和多种格式的主题生成。"
 date: "2025-01-09T23:35:35.441Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2f56496bcca094454060252a1360cc0c.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "简单安全文件传输，命令行直连任意电脑 | 开源日报 No.866"
 description: "croc 是一款开源的命令行工具，旨在安全、便捷地在任意两台计算机之间传输文件和文件夹。它支持通过中继服务器传输数据，采用端到端加密保障安全，兼容 Windows、Linux 和 macOS，具备多文件批量传输和断点续传功能，优先支持 IPv6 网络。"
 date: "2026-01-30T07:36:09.338Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

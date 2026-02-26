@@ -2,7 +2,6 @@
 title: "高效代码操作代理：让大型语言模型助力智能编程 | 开源日报 No.740"
 description: "Serena 是一个开源的编码代理工具包，旨在将大型语言模型 (LLM) 转变为能够直接操作代码库的代理。它支持多种集成方式，提供语义代码检索与编辑功能，优化代码操作性能，并通过语言服务器协议 (LSP) 实现精准的上下文分析。Serena 增强了 LLM 在编程工作流中的能力，能够高效处理代码而无需完整读取文件。"
 date: "2025-09-26T07:35:35.120Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjecta240335f82b6072d3890f3ce46928b11.png"
 tags: []
 categories:
   - "daily"

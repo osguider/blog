@@ -2,7 +2,6 @@
 title: "高性能可观察性数据管道：轻松追踪日志与访问指标 | 开源日报 No.425"
 description: "探索 Vector，这款高性能的可观察性数据管道，助您轻松应对数据管理的挑战。凭借其超越竞争对手的速度、强大的可靠性和统一的平台，Vector 不仅提升数据质量和洞察力，还能显著降低可观察性成本。"
 date: "2024-11-17T23:35:56.158Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1658331eb504fdcd3f9867907d48100b.png"
 tags: []
 categories:
   - "daily"

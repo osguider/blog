@@ -2,7 +2,6 @@
 title: "开源网页浏览器：轻量级无广告快速简洁 | 开源日报 No.746"
 description: "Helium 是一个基于 Chromium 的开源网页浏览器，强调隐私保护和快速简洁的用户体验。它默认提供隐私保护，内置广告拦截，设计轻量，支持主流桌面平台，基于 ungoggled-chromium 构建，去除谷歌组件，包含辅助服务和工具。"
 date: "2025-10-02T07:36:14.285Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

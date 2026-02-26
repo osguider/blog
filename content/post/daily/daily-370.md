@@ -2,7 +2,6 @@
 title: "无需 SSL 证书的抓包工具 | 开源日报 No.370"
 description: "ecapture 是使用 eBPF 在 Linux/Android 内核上捕获 SSL/TLS 明文内容而无需 CA 证书的工具。"
 date: "2024-09-24T23:35:19.643Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a2b48b82a6a7c8cd663a8681615cbec9.png"
 tags: []
 categories:
   - "daily"

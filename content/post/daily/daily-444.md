@@ -2,7 +2,6 @@
 title: "下一代爬虫框架：高效灵活、功能强大 | 开源日报 No.444"
 description: "探索 Katana，一个功能强大的下一代爬虫框架，具备快速爬取、JavaScript 解析、自动表单填写等多种强大功能，支持多种输入输出格式，助你轻松应对各种网页数据抓取需求！"
 date: "2024-12-06T23:35:14.918Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/34d39bc6afe6eefd15858134ea39955d.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "打造高效率移动应用程序的秘诀"
 description: ""
 date: "2023-11-23T06:16:28.470Z"
-image: "undefined"
 tags: []
 categories:
   - "topic"

@@ -2,7 +2,6 @@
 title: "音频生成的未来：多语言文本转换模型 | 开源日报 No.720"
 description: "Bark 是一个开源的文本到音频生成模型，基于变换器架构，支持多语言自动识别，能够生成真实的语音及多种音频内容，包括音乐和音效，甚至非言语交流。该项目提供预训练模型，支持商业和研究用途，且在性能上在 GPU 和 CPU 上均有显著的速度提升。"
 date: "2025-09-09T07:35:32.266Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectf0b5a30f9084f2fa4ebd9689801d3c27.png"
 tags: []
 categories:
   - "daily"

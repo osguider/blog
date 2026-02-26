@@ -2,7 +2,6 @@
 title: "基于 Docker 的微信/QQ 浏览器客户端：无须安装，安全便捷的远程办公解决方案 | 开源日报 No.805"
 description: "wechat-selkies 是一个基于 Selkies WebRTC 技术的开源项目，提供一个在 Docker 容器中运行的 Linux 微信/QQ 浏览器客户端，支持 AMD64 和 ARM64 架构，具备环境隔离、数据持久化、中文输入法、图片复制、文件传输等功能，适合服务器部署和远程办公，确保安全和便捷的用户体验。"
 date: "2025-11-30T23:35:33.410Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

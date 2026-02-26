@@ -2,7 +2,6 @@
 title: "跨平台文本编辑：Notepad++ 的替代品 | 开源日报 No.651"
 description: "NotepadNext 是一个跨平台开源文本编辑器，使用 Qt 和 C++ 开发，支持 Windows/Linux/macOS，提供安装包和自动更新功能，是 Notepad++ 的替代实现。"
 date: "2025-07-01T23:36:06.888Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b7489a9f576f72f2ffbeb6b5758a999d.png"
 tags: []
 categories:
   - "daily"

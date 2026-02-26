@@ -2,7 +2,6 @@
 title: "面向开发者的错误跟踪和性能监控平台 | 开源日报 No.326"
 description: "Sentry 是一款面向开发者的错误跟踪和性能监控平台，支持多种编程语言，提供官方 SDK，实时监控应用程序的错误和性能问题，同时拥有丰富的文档和社区资源。帮助开发者快速解决问题并持续学习应用程序。"
 date: "2024-08-12T23:35:53.984Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b7bbc031b207b38407ac673eedcb6e19.png"
 tags: []
 categories:
   - "daily"

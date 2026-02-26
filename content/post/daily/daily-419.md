@@ -2,7 +2,6 @@
 title: "自定义键盘映射：全平台支持 | 开源日报 No.419"
 description: "kanata 是一个跨平台的软件键盘重映射工具，旨在提高键盘舒适性和可用性。"
 date: "2024-11-14T23:35:45.580Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d76923068e5bdc5dc44bace805a7bc4c.png"
 tags: []
 categories:
   - "daily"

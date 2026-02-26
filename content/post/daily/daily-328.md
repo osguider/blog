@@ -3,7 +3,6 @@ title: "直观高效的 Redis GUI：功能丰富，界面美观 | 开源日报 N
 description: "RedisInsight 是由 Redis 开发的 Redis 图形用户界面工具。
 Redis Insight 提供了设计、开发和优化 Redis 应用程序的能力，是一个直观高效的 Redis GUI。"
 date: "2024-10-27T17:25:55.476Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c5ecd2f96c61a8652fc8aa77ea2d9244.png"
 tags: []
 categories:
   - "daily"

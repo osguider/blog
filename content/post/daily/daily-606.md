@@ -2,7 +2,6 @@
 title: "Element Plus：全新的 Vue.js 3 UI 库 | 开源日报 No.606"
 description: "Element Plus 是一个基于 Vue 3 的现代化 UI 组件库，提供 TypeScript 支持、迁移工具和国际化功能，适用于构建高质量 Vue 3 应用。"
 date: "2025-05-15T07:35:46.766Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/58fc0263a1abb76815ea28d4ba7c0637.png"
 tags: []
 categories:
   - "daily"

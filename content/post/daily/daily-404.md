@@ -2,7 +2,6 @@
 title: "替代密码登陆！构建基于 passkey 的身份验证 | 开源日报 No.404"
 description: "hanko 是开发人员的完整身份验证和用户管理解决方案。"
 date: "2024-10-27T23:35:33.034Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8f830d4ec29f2834baa554831ec5caf3.png"
 tags: []
 categories:
   - "daily"

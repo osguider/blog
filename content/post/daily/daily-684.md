@@ -2,7 +2,6 @@
 title: "500 个 AI Agent 应用案例：涵盖医疗 金融 教育 零售等领域 | 开源日报 No.684"
 description: "500-AI-Agents-Projects 是一个包含 500+ 行业 AI 代理应用案例的开源合集，涵盖医疗、金融、教育等多个领域，提供详细的用例描述和项目链接，帮助开发者快速实现 AI 代理应用。"
 date: "2025-08-02T07:35:35.419Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c7eb08b2fe73baa22f62421f756fb9ac.png"
 tags: []
 categories:
   - "daily"

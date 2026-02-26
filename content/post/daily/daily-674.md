@@ -2,7 +2,6 @@
 title: "容器化自托管虚拟浏览器：支持团队协作与环境共享 | 开源日报 No.674"
 description: "neko 是一个基于 Docker 和 WebRTC 的自托管虚拟浏览器/应用容器，支持多用户协作访问、实时屏幕共享，并能运行完整 Linux 桌面环境，提供安全隔离的远程应用访问方案。"
 date: "2025-07-23T07:35:37.353Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/cc67c3c6cd40cc0894ea7683d8c7075f.png"
 tags: []
 categories:
   - "daily"

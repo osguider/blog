@@ -2,7 +2,6 @@
 title: "构建现代化 CLI 应用：嵌套子命令、帮助文档生成 | 开源日报 No.527"
 description: "Cobra 是一个用于构建现代命令行界面 (CLI) 应用程序的开源库，具有简单的子命令结构，完全符合 POSIX 标准的标志，支持嵌套子命令和多种标志功能，提供智能建议和自动生成帮助文档、命令补全和手册页的功能，旨在提升用户体验和开发效率。"
 date: "2025-03-01T08:58:33.485Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e43e0bd88c0551972747a0e06c853517.png"
 tags: []
 categories:
   - "daily"

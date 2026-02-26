@@ -2,7 +2,6 @@
 title: "微信公众号 MCP：Markdown 自动排版并发布到草稿箱 | 开源日报 No.818"
 description: "wenyan-mcp 是一个基于模型上下文协议 (MCP) 的开源服务器组件，旨在自动排版和发布 Markdown 格式的文章到微信公众号草稿箱。它支持多种内置主题和自动图片上传，提供本地和 Docker 部署选项，便于与 MCP Client 集成，并允许在 Markdown 文件中通过 frontmatter 配置文章的元信息。"
 date: "2025-12-13T23:35:39.962Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

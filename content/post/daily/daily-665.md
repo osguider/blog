@@ -2,7 +2,6 @@
 title: "AI 开发助手：重构代码库的智能代理 | 开源日报 No.665"
 description: "refact 是一个开源的 AI 软件开发代理，能自动化处理复杂工程任务，深度集成开发工具链。核心特点包括：多工具/语言支持、自托管部署、主流 LLM 接入、智能代码补全，以及代码生成/重构/测试等全流程辅助功能。"
 date: "2025-07-14T07:35:59.496Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ff260324dab1f749fc620cf02bd0b370.png"
 tags: []
 categories:
   - "daily"

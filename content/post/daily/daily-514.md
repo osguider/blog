@@ -2,7 +2,6 @@
 title: "独立开发的提效降本之路：Cloudflare 工具资源大集合 | 开源日报 No.514"
 description: "awesome-cloudflare 是一个精选的资源列表，专为独立开发者设计，汇集了多种基于 Cloudflare 的开源工具和实用功能，如图床和临时邮箱，旨在提高开发效率和降低成本，且持续更新以提供最新资源。"
 date: "2025-02-22T02:08:40.937Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1e2cf7b34bcd2e6747f2dd2f0748d86a.png"
 tags: []
 categories:
   - "daily"

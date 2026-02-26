@@ -2,7 +2,6 @@
 title: "用微信聊天记录打造数字分身：一站式解决方案轻松上手 | 开源日报 No.610"
 description: "WeClone 是一个开源数字分身解决方案，支持从微信等聊天记录训练个性化大语言模型，提供数据导出、预处理、训练到部署的全链路方案，注重隐私保护 。"
 date: "2025-05-20T07:35:14.834Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c6791ee8076aade7a2f8b895dd1bd740.png"
 tags: []
 categories:
   - "daily"

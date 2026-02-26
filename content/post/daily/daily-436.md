@@ -2,7 +2,6 @@
 title: "OpenAI Cookbook：无穷妙用灵感漫游 | 开源日报 No.436"
 description: "openai-cookbook 项目为您提供了丰富的示例和操作指南，帮助您轻松上手，完成各种常见任务。"
 date: "2024-12-03T23:35:41.799Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d588d8c51f4b09246ce2bf70d6d3f43b.png"
 tags: []
 categories:
   - "daily"

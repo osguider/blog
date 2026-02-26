@@ -2,7 +2,6 @@
 title: "开源文档签署工具：电子签名安全高效 | 开源日报 No.445"
 description: "DocuSeal 是一款强大的开源平台，专为数字文档的填写和签署而设计，提供安全高效的电子签名服务。无论是构建 PDF 表单，还是支持多种字段类型，DocuSeal 都能轻松应对。其用户友好的界面和多语言支持，确保无论身处何地，用户都能高效地完成文档处理。"
 date: "2024-12-07T23:35:48.187Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/34502044174f2b7f0db48e0a004955b9.png"
 tags: []
 categories:
   - "daily"

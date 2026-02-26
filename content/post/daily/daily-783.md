@@ -2,7 +2,6 @@
 title: "开源自动化工作流平台：轻松连接 200+ 集成节点 | 开源日报 No.783"
 description: "n8n 是一个免费的自托管工作流自动化工具，支持 200 多个集成节点，允许自定义功能，支持 Docker 和命令行使用，并可与 LangChain 结合实现 AI 功能，拥有活跃的社区和丰富的文档资源。"
 date: "2025-11-08T07:35:17.945Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

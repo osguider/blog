@@ -2,7 +2,6 @@
 title: "人工智能驱动的富文本编辑器 | 开源日报 No.417"
 description: "Plate 是一个由人工智能驱动的富文本编辑器，提供多种模板选择，支持 AI 和后端插件，同时还提供详细文档和贡献指南。让你的编辑工作更高效，让创作更加轻松。赶快体验 Plate，开启智能编辑新时代！"
 date: "2024-11-09T23:35:34.897Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5e60c7e9946358131b6e395e0d2eece7.png"
 tags: []
 categories:
   - "daily"

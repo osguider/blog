@@ -2,7 +2,6 @@
 title: "Go 语言 Web 开发框架：提供极高性能和零内存分配 | 开源日报 No.588"
 description: "Fiber 是一个高性能的 Go 语言网页框架，受 Express 启发，基于 Fasthttp 提供极高性能和零内存分配。它支持强大的路由、静态文件服务、API 端点、WebSocket、模板引擎、中间件和速率限制器等多种功能，优化快速开发。"
 date: "2025-04-29T07:35:33.922Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/62bd7ee3c83728636fe8ca2269c71d9e.png"
 tags: []
 categories:
   - "daily"

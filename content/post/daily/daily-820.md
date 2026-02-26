@@ -2,7 +2,6 @@
 title: "全栈前后端分离开发框架：支持 AI 辅助开发 | 开源日报 No.820"
 description: "gin-vue-admin 是一个基于 Vite、Vue3 和 Gin 的全栈开发平台，支持前后端分离，具备 AI 辅助开发功能。它支持 TypeScript 和 JavaScript 混用，集成了 JWT 鉴权、权限管理、动态路由、动态菜单、表单和代码生成器，具备多点登录拦截、资源权限控制及文件上传下载和导入导出功能。"
 date: "2025-12-15T07:35:44.903Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

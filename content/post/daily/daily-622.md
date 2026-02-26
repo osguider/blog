@@ -2,7 +2,6 @@
 title: "基于 git 的分布式缺陷跟踪工具：离线优先、毫秒级搜索 | 开源日报 No.622"
 description: "git-bug 是一个分布式、离线优先的缺陷跟踪工具，直接嵌入 Git 存储库中，利用 Git 的版本控制管理问题、用户和评论。支持离线工作、毫秒级搜索、与 GitHub/GitLab 同步，并提供 CLI、TUI 和 Web 界面。"
 date: "2025-05-31T07:35:08.171Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0f01e8e9581db34ad33a8411bbeffa71.png"
 tags: []
 categories:
   - "daily"

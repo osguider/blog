@@ -2,7 +2,6 @@
 title: "Firecracker：开源虚拟化技术和无服务器操作 | 开源日报 No.401"
 description: "Firecracker 是一项开源虚拟化技术，专为创建和管理提供无服务器操作模型的安全多租户容器和函数服务而构建。它的主要功能和优势包括运行轻量级虚拟机，结合硬件虚拟化技术提供安全性与隔离性，同时具备容器的速度与灵活性。Firecracker 已被集成到多个容器运行时中，包括 Kata Containers 和 Flintlock，同时也被亚马逊 Web 服务开发用于加速 AWS Lambda 和 AWS Fargate 等服务的效率。"
 date: "2024-10-27T16:52:16.351Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8cad0d83859677555def0e75752ddcfd.png"
 tags: []
 categories:
   - "daily"

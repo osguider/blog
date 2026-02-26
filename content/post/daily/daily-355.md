@@ -2,7 +2,6 @@
 title: "社交媒体定时发布工具！支持 AI 创作、统计分析、团队协作 | 开源日报 No.355"
 description: "postiz-app 是一个社交媒体定时发布工具，提供 AI 功能，可以定时发布、统计分析、评论帖子，并获得大量 AI 的帮助。"
 date: "2024-09-09T23:35:38.252Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1f0c9239d51e67cd1074642cf0449b0c.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "AI 原生应用开发的全能平台：开发快、效率高 | 开源日报 No.413"
 description: "探索 TaskingAI，开源平台，简化 AI 应用开发，全能 AI 模型平台，直观 UI 控制台，BaaS 工作流程，定制集成，异步高效率，提升开发效率和性能，体验全新的 AI 应用开发方式！"
 date: "2024-11-05T23:35:39.808Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/93601a122e56a9863f7a5a2eb64dc636.png"
 tags: []
 categories:
   - "daily"

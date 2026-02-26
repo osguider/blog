@@ -2,7 +2,6 @@
 title: "整合 API、事件、AI 代理的现代化统一后端框架 | 开源日报 No.668"
 description: "motia 是一个现代化的统一后端框架，核心基于 “Step” 原语，支持用多语言 (如 TypeScript、Python) 编写业务逻辑，结合事件驱动的工作流实现复杂多阶段流程管理，内置状态管理与自动日志追踪，提供全链路可观测性，支持多种触发方式，统一部署简化开发流程，提升多语言协同开发效率。"
 date: "2025-07-17T07:36:02.679Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3a746914e565e7ded6541d08ae67c246.png"
 tags: []
 categories:
   - "daily"

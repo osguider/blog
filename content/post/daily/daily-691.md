@@ -2,7 +2,6 @@
 title: "便携式文件服务器：支持多种协议 | 开源日报 No.691"
 description: "copyparty 是一个轻量便携的 Python 文件服务器，支持多协议访问和断点续传，提供丰富的 Web 界面功能 (如媒体播放、文件搜索、批量操作) 及高效存储方案，适合快速搭建临时文件共享服务。"
 date: "2025-08-09T23:35:27.081Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject3afe5f8ed9c23fd14ce22629f6a276d5.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "模拟 Cursor 功能：Neovim 智能编码助手 | 开源日报 No.573"
 description: "avante.nvim 是一个 Neovim 插件，模拟 Cursor AI IDE 的功能，通过 AI 提供代码建议并快速应用修改，提升开发效率。"
 date: "2025-04-13T09:10:08.249Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/cff3693ca6065af5d7373ebbd88f47a5.png"
 tags: []
 categories:
   - "daily"

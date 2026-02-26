@@ -2,7 +2,6 @@
 title: "AI 驱动的高效渗透测试助手：支持本地 LLM 模型 | 开源日报 No.587"
 description: "PentestGPT 是一款基于 GPT 驱动的渗透测试工具，旨在自动化渗透测试过程，提升效率。它通过 ChatGPT API 提供交互式操作指导，能够解决简单到中等难度的 HackTheBox 机器和 CTF 挑战。支持本地 LLM 模型与自定义解析器，并配有详细文档和示例视频，帮助用户快速上手。"
 date: "2025-04-26T23:35:58.284Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/613b67df4936bb5ad8a5cfe548c6da8e.png"
 tags: []
 categories:
   - "daily"

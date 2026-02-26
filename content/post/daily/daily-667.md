@@ -2,7 +2,6 @@
 title: "3D 可视化利器：轻量高效的 Web 图形引擎 | 开源日报 No.667"
 description: "three.js 是一个轻量级 JavaScript 库，用于在网页中创建和展示 3D 图形，提供简单 API 和多种渲染器支持，兼容主流浏览器并内置丰富的材质与动画功能，拥有活跃社区和完整文档资源。"
 date: "2025-07-16T07:36:04.133Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2f7a175ae6334d5e309ab7ff23938e2f.png"
 tags: []
 categories:
   - "daily"
@@ -43,6 +42,7 @@ Megacity-Metro 是一款刺激的射击游戏，支持 128+ 玩家的多人体�
 {{< github-opengraph user="krishnaik06" repo="Data-Science-Gen-AI-Playlist-2024" alt="cover" >}}
 
 Data-Science-Gen-AI-Playlist-2024 是一个专注于数据科学面试准备和实际项目的学习资源集合。
+
 - 提供全面的视频教程，涵盖统计学、机器学习、深度学习和自然语言处理等主题。
 - 包含多个端到端的机器学习和自然语言处理项目示例，适合初学者及进阶者。
 - 涵盖最新的大型语言模型微调技术，如 LLAMA 2 与 Google Gemini Pro。

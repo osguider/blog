@@ -2,7 +2,6 @@
 title: "Python 高效爬虫开发框架：支持结构化数据提取 | 开源日报 No.635"
 description: "Scrapy 是一个高效、易用的 Python 爬虫框架，支持结构化数据提取，兼容 Python 3.9+，通过 pip 安装即可快速开始爬取网页数据。"
 date: "2025-06-13T07:35:22.422Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bb107d24b253bf2325c2fb95c7e0e85a.png"
 tags: []
 categories:
   - "daily"

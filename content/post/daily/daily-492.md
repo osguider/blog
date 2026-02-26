@@ -2,7 +2,6 @@
 title: "逆向工程利器：轻松解码与构建 Android 应用 | 开源日报 No.492"
 description: "Apktool 是一个开源工具，专门用于逆向工程 Android apk 文件，允许用户解码和修改应用程序资源，支持 smali 代码的逐步调试，简化应用处理流程，并自动化一些重复性任务以提高工作效率。"
 date: "2025-01-25T03:17:17.584Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2b13d81f7dd69bf49767143f66495a32.png"
 tags: []
 categories:
   - "daily"

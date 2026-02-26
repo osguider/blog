@@ -2,7 +2,6 @@
 title: "从 Chrome 控制台导入扩展：轻松调测三方依赖 | 开源日报 No.837"
 description: "console-importer 是一个开源工具，允许用户通过 Chrome 控制台轻松导入 JavaScript 和 CSS 资源，支持指定版本导入、使用有效脚本 URL、提供 ES 模块支持以避免全局变量污染，并针对特定网站提供兼容性解决方案。"
 date: "2025-12-30T15:35:19.105Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

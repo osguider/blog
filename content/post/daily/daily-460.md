@@ -2,7 +2,6 @@
 title: "管理开发环境的利器：帮你提升开发效率 | 开源日报 No.460"
 description: "探索 mise，这款强大的开发工具管理工具，轻松管理 Node、Python、CMake 和 Terraform 等多种开发环境，简化环境变量处理，提升项目构建与测试效率。"
 date: "2024-12-23T23:35:31.404Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c04f6f20fdca76265476309c9d735f09.png"
 tags: []
 categories:
   - "daily"

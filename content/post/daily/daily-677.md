@@ -2,7 +2,6 @@
 title: "任务栏增趣神器：可爱猫咪动画助力工作氛围提升 | 开源日报 No.677"
 description: "RunCat365 是一个用 C# 开发的 Windows 任务栏动画工具，在任务栏显示可爱的奔跑猫咪动画，为系统增添趣味性。"
 date: "2025-07-26T07:35:56.884Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7bb7e56ede813eb64ded447313c60a1c.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "高性能生产级问答系统：数据安全、操作简单 | 开源日报 No.386"
 description: "QAnything 是一个基于问题和答案的系统，支持各种文件格式和数据库，允许离线安装和使用。它支持数据安全、跨语言问答、大规模数据问答、高性能生产级系统、用户友好的特性，同时还能支持多知识库问答。无需繁琐配置，一键式安装部署即可使用，是一个功能全面、性能优越的问答系统。"
 date: "2024-10-09T23:36:04.100Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0ac9ef07ed7784c823f93241c9e87a14.png"
 tags: []
 categories:
   - "daily"

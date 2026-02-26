@@ -2,7 +2,6 @@
 title: "独立网络浏览器：多进程架构 | 开源日报 No.396"
 description: "Ladybird 是一个独立的网络浏览器，采用基于 Web 标准的新型引擎，旨在构建一个完整、现代网络可用的浏览器。其采用多进程架构，包括主 UI 进程、多个 WebContent 渲染器进程、图像解码器进程和请求服务器进程，以及在外部进行图像解码和网络连接以抵御恶意内容。每个选项卡都有自己的渲染器进程，与系统其他部分隔离开来。Ladybird 的独特设计和功能使其成为一个引人注目的浏览器选择。"
 date: "2024-10-27T16:33:04.558Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/791957dee2f1a53091a5e6ded35f99cb.png"
 tags: []
 categories:
   - "daily"

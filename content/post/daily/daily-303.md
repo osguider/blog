@@ -2,7 +2,6 @@
 title: "通过 API 生成精美卡片：多种模板随心选择 | 开源日报 No.303"
 description: "streamer-card 是一个流光卡片 API，通过该 API 可以生成精美的卡片，用于集成到程序或业务流中，例如批量生成营销内容等。"
 date: "2024-07-18T23:35:20.718Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c1775b1ca4903e24668720f38cd29ae5.png"
 tags: []
 categories:
   - "daily"
@@ -85,4 +84,3 @@ spotify-player 是一个在终端中具有完整功能对等性的 Spotify 播�
 - 桌面通知支持
 - 可以作为后台进程运行应用程序
 - 提供广泛的 CLI 命令。
-

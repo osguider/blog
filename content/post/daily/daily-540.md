@@ -2,7 +2,6 @@
 title: "高效构建 web 应用的新编译器：声明式组件转化为高效代码 | 开源日报 No.540"
 description: "Svelte 是一个开源的 web 应用构建工具，使用编译器将声明式组件转换为高效的 JavaScript，优化 DOM 更新以提升性能，具有简洁的声明式语法。"
 date: "2025-03-19T15:44:37.709Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5c4a54890ca1c8babbfa8308c305cc64.png"
 tags: []
 categories:
   - "daily"

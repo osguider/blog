@@ -2,7 +2,6 @@
 title: "OCRmyPDF：轻松复制 PDF 文本 | 开源日报 No.522"
 description: "OCRmyPDF 是一个开源工具，旨在为扫描的 PDF 文件添加可搜索的 OCR 文本层，支持生成 PDF/A 文件，保持图像分辨率，优化文件大小，并可在多个 CPU 核心上并行处理，使用 Tesseract OCR 引擎支持多语言识别，确保用户数据的私密性。"
 date: "2025-02-23T17:02:01.987Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/87bd3570f4ec5de61e79cac87ead2353.png"
 tags: []
 categories:
   - "daily"

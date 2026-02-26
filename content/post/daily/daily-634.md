@@ -2,7 +2,6 @@
 title: "Reddit视频生成器：一键自动化创作工具 | 开源日报 No.634"
 description: "RedditVideoMakerBot 是一个自动化 Reddit 视频制作工具，支持自定义配置和 NSFW 过滤，无需视频编辑经验，兼容 Python 3.10 和多平台。"
 date: "2025-06-13T07:35:24.519Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/25e3c327b231e7cf8a2336d50e51936a.png"
 tags: []
 categories:
   - "daily"

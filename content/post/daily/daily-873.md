@@ -2,7 +2,6 @@
 title: "由 Anthropic 官方管理的高质量 Claude Code 插件 | 开源日报 No.873"
 description: "claude-plugins-official 是由 Anthropic 官方管理的高质量插件目录，收录官方及第三方插件，提供统一的插件结构，便于安装和管理，确保生态的质量与安全。"
 date: "2026-02-06T23:35:49.233Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "MCP 资料合集：功能丰富，领域多元 | 开源日报 No.547"
 description: "awesome-mcp-servers 是一个开源项目，汇集了多种优秀的模型上下文协议 (MCP) 服务器，提供生产就绪和实验性服务器列表，支持安全的本地和远程资源交互，具有文件访问、数据库连接和 API 集成等功能，涵盖多种应用领域，适用于多种编程语言和操作系统。"
 date: "2025-03-19T15:45:07.849Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0c97de1fc46b63652f5e662ba7b7bdfb.png"
 tags: []
 categories:
   - "daily"

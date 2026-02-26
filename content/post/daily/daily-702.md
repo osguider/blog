@@ -2,7 +2,6 @@
 title: "高效提示工程的解决方案：poml 语言助力大型语言模型优化 | 开源日报 No.702"
 description: "poml 是一种新型标记语言，专为大型语言模型 (LLM) 的高级提示工程设计，采用类 HTML 语法，支持结构化提示和多种数据类型嵌入，提升提示的可读性和复用性。它引入类似 CSS 的样式系统，支持动态生成提示内容，提供丰富的开发工具和 SDK，便于与主流应用和 LLM 框架的集成。"
 date: "2025-08-20T07:35:40.204Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectecaa569ac9b71b419bbcdfa81315cfb7.png"
 tags: []
 categories:
   - "daily"

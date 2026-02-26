@@ -2,7 +2,6 @@
 title: "人工智能模拟交易决策：多维角度分析交易策略 | 开源日报 No.543"
 description: "ai-hedge-fund 是一个基于人工智能的对冲基金概念验证项目，旨在探索 AI 在交易决策中的应用。项目包含多个投资策略的代理角色，利用内在价值、市场情绪、基本面和技术指标生成交易信号，并具备风险管理和回测功能。该项目仅用于教育目的，未进行实际交易。"
 date: "2025-03-19T15:44:53.089Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ae571466f46e122638067a432f9c30d3.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "美观且一致的开源矢量图标库 | 开源日报 No.521"
 description: "Lucide 是一个开源的图标工具包，源自 Feather Icons，提供超过 1000 个矢量图标，旨在简化设计师和开发者在项目中整合图标的过程。它提供多种官方软件包，完全免费，适用于商业和个人用途，采用 ISC 许可证。"
 date: "2025-02-22T02:10:47.166Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f3642bd3e29a48822e084456de46b6a9.png"
 tags: []
 categories:
   - "daily"

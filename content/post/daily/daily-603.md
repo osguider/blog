@@ -2,7 +2,6 @@
 title: "Go 语言轻量级微服务框架：OpenAPI + Protobuf 双模驱动 | 开源日报 No.603"
 description: "go-doudou 是一个基于 OpenAPI 3.0（用于 REST）规范和 Protobuf v3（用于 gRPC）的轻量级微服务框架，同时支持单体服务应用。"
 date: "2025-05-11T23:35:41.752Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f257614f5bb1a55d65921f061be670d4.png"
 tags: []
 categories:
   - "daily"

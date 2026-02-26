@@ -2,7 +2,6 @@
 title: "灵活自托管的笔记本 AI 模型：隐私至上的知识管理解决方案 | 开源日报 No.765"
 description: "open-notebook 是一个开源的笔记本语言模型，专注于隐私保护，提供比谷歌 Notebook LM 更灵活的替代方案。它支持多达 16 个 AI 模型提供商，允许用户自托管以确保数据隐私，具备多模态内容管理能力，支持自定义角色的播客生成，提供智能搜索功能，并支持 REST API 以便于自动化集成和部署。"
 date: "2025-10-22T07:35:51.444Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "3kb 轻量级 React 替代品：性能良好、兼容性强 | 开源日报 No.717"
 description: "Preact 是一个轻量级的 React 替代品，体积仅为 3kB，提供与 React 相似的现代 API，支持 ES6 类、hooks 和函数组件，兼容性强，具备 JSX、虚拟 DOM、热模块替换和服务器端渲染等功能，适用于所有现代浏览器和 IE11，具备高效的渲染算法和异步渲染支持。"
 date: "2025-09-04T07:35:22.661Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject213cb00e241870328dddf402cc876c8b.png"
 tags: []
 categories:
   - "daily"

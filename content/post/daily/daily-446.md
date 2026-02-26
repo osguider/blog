@@ -2,7 +2,6 @@
 title: "轻松在 Docker 中：运行 macOS 环境 | 开源日报 No.446"
 description: "想在非 macOS 环境中体验 macOS 的魅力吗？这个项目为您提供了一个完美的解决方案！通过 Docker 容器，您可以在 Linux 和 Windows 11 上轻松运行 macOS，支持 KVM 加速，灵活配置，甚至可以通过网页查看器进行管理。"
 date: "2024-12-08T23:35:54.928Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/00afda9092c5aa6dbbab50ee2a296e4f.png"
 tags: []
 categories:
   - "daily"

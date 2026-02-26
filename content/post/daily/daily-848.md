@@ -2,7 +2,6 @@
 title: "全面的浏览器自动化框架：支持所有主流浏览器 | 开源日报 No.848"
 description: "Selenium 是一个浏览器自动化框架，符合 W3C WebDriver 规范，支持多种主要浏览器，提供语言中立的编码接口，包含多种工具和库，旨在简化网页浏览器的自动化操作。"
 date: "2026-01-12T15:35:35.623Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

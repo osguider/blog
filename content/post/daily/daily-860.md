@@ -2,7 +2,6 @@
 title: "Claude Skills 官方仓库：动态加载专业技能 | 开源日报 No.860"
 description: "这个开源项目是由 Anthropic 为 Claude 设计的技能系统，旨在通过动态加载特定任务的指令和资源，提升 Claude 在专业任务中的表现。技能以文件夹形式组织，涵盖多个领域的示例，部分技能开源，支持在 Claude Code 插件市场和 Claude.ai 的付费版中使用，提供用户创建自定义技能的指导和模板。"
 date: "2026-01-25T07:36:12.598Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

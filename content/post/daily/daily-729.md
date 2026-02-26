@@ -2,7 +2,6 @@
 title: "超过 2000 个 n8n 工作流：助你快速实现自动化任务 | 开源日报 No.729"
 description: "n8n-workflows 是一个开源项目，汇集了超过 2,000 个高效分类的 n8n 工作流，支持快速搜索和浏览，具备亚 100 毫秒响应的全文搜索功能。项目涵盖 365 种集成服务，提供实时统计、流程可视化和智能命名系统，兼容移动设备并支持主题切换，显著优化文档加载速度和内存占用。"
 date: "2025-09-16T07:35:47.228Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject640613184f2b7f8846bfa0b62b615af0.png"
 tags: []
 categories:
   - "daily"

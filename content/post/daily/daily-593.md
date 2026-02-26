@@ -2,7 +2,6 @@
 title: "Qwen3 发布！更强的大语言模型 | 开源日报 No.593"
 description: "Qwen3 是阿里云开发的开源大语言模型系列，提供 0.6B 到 235B 多种规模的密集和 MoE 模型。其核心优势在于强大的推理能力 (数学/代码/逻辑)、优秀的人类偏好对齐 (创意写作/对话体验)、精确的工具集成能力，支持 100+语言，在开源模型中处于领先地位。"
 date: "2025-05-02T07:36:00.512Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8012f48358b074367d4f9da5142fcf6a.png"
 tags: []
 categories:
   - "daily"

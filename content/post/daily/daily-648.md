@@ -2,7 +2,6 @@
 title: "AI 提示词调优利器 ：支持 Web 和 Chrome 插件 | 开源日报 No.648"
 description: "prompt-optimizer 是一款开源提示词优化工具，提供智能优化、多模型支持、隐私保护等功能，通过简洁界面帮助用户提升 AI 交互效果。支持 Web 和 Chrome 插件，纯客户端处理保障数据安全。"
 date: "2025-06-27T23:35:25.463Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d2cf8b47ea4fa2163d8f2de80c480fbb.png"
 tags: []
 categories:
   - "daily"

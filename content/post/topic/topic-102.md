@@ -2,7 +2,6 @@
 title: "响应式设计，多模型切换：个性化 ChatGPT 交互新境界 | 开源专题 No.102"
 description: "在这个由数据驱动的时代，人工智能不再遥不可及。探索这些开源项目，让我们一同揭开智能交互的新篇章，体验科技如何让沟通变得更加自然和高效。"
 date: "2024-07-18T23:35:18.880Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/54e924253d6afc81b6c15f7244127405.png"
 tags: []
 categories:
   - "topic"
@@ -78,4 +77,3 @@ Ollama Web UI 是一个用户友好的网络界面，用于进行聊天交互。
 - 支持异步执行以提高速度和性能。
 - 可以指定代理服务器来使用 API。
 此外，该项目还包括其他一些相关模型，并且可以参与贡献创建新的 AI 工具或服务商。
-

@@ -2,7 +2,6 @@
 title: "轻松下载图片集合：支持多种图片托管网站 | 开源日报 No.685"
 description: "gallery-dl 是一个功能强大的跨平台命令行工具，支持从多个图片托管网站下载画廊和集合，提供丰富的配置选项、多种安装方式，并扩展支持视频下载和格式转换功能。"
 date: "2025-08-03T07:35:26.743Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/03aa0c05d6ad3cca922b755901032591.png"
 tags: []
 categories:
   - "daily"

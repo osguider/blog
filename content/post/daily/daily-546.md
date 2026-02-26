@@ -2,7 +2,6 @@
 title: "高性能开源 TURN/STUN 服务器：轻松实现 VoIP 穿越 | 开源日报 No.546"
 description: "coturn 是一个免费的开源 TURN 和 STUN 服务器，专为 VoIP 媒体流量的 NAT 穿越设计，支持多种协议和安全传输，易于通过 Docker 部署，兼容多种用户数据库，提供 REST API，具备高性能，适合大规模应用。"
 date: "2025-03-19T15:45:04.540Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/cc7397690464e02bc3e86a0fca928593.png"
 tags: []
 categories:
   - "daily"

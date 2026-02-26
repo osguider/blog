@@ -2,7 +2,6 @@
 title: "高效构建引擎：解锁容器化开发新范式 | 开源日报 No.653"
 description: "BuildKit 是一个高效可扩展的构建工具包，支持并发构建、缓存管理和插件架构，无需 root 权限即可运行。"
 date: "2025-07-03T15:35:34.611Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/588cc0c5bb28c252bb6a4891330593ee.png"
 tags: []
 categories:
   - "daily"

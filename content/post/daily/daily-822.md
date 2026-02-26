@@ -2,7 +2,6 @@
 title: "隐形水印工具：安全高效的图像保护解决方案 | 开源日报 No.822"
 description: "blind_watermark 是一个基于 DWT-DCT-SVD 算法的开源图片盲水印工具，支持在不需要原图的情况下提取水印，允许将文本或图片嵌入原图，提供命令行和 Python 接口，具备较强的鲁棒性，支持并发处理和自定义数据嵌入，适用于高效的图像处理和信息隐藏。"
 date: "2025-12-17T07:35:38.423Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

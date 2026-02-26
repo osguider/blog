@@ -2,7 +2,6 @@
 title: "轻量级 RPC 框架：支持 28 种编程语言 | 开源日报 No.487"
 description: "Apache Thrift 是一个轻量级、语言无关的远程过程调用 (RPC) 框架，支持 28 种编程语言，便于不同语言间的数据共享。它提供清晰的抽象和实现，支持非原子版本变更，允许服务器升级而不影响旧客户端，包含编译器和多语言库，确保跨平台互操作性。"
 date: "2025-01-25T03:13:39.808Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/718225320dc0c18253f2ad7353f447e0.png"
 tags: []
 categories:
   - "daily"

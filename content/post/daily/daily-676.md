@@ -2,7 +2,6 @@
 title: "构建高效可靠 LLM 应用：12 个开发准则打造生产级应用 | 开源日报 No.676"
 description: "12-factor-agents 是将 12 要素应用原则适配到 LLM 应用开发的指导框架，核心是通过模块化设计、状态控制和工具调用等工程化方法，构建可维护、高可靠的生产级 AI 代理系统。"
 date: "2025-07-25T07:36:08.259Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3210df5c68b5fd65a3dee4234f2f5064.png"
 tags: []
 categories:
   - "daily"

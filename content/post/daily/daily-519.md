@@ -2,7 +2,6 @@
 title: "全面的图像处理解决方案：助力摄影师与开发者！ | 开源日报 No.519"
 description: "ImageToolbox 是一款功能强大的开源图像处理应用，支持批量处理和 230 多种滤镜，提供裁剪、背景擦除、EXIF 数据编辑等基本工具，能够将图片转换为 PDF，适合摄影师和开发者使用，界面简洁，功能丰富。"
 date: "2025-02-22T02:10:48.518Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0b2914b63d51a27e0b3f6e528bf1d86e.png"
 tags: []
 categories:
   - "daily"

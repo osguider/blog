@@ -2,7 +2,6 @@
 title: "对任何话题进行全面研究：基于 GPT 的自主代理研究工具 | 开源日报 No.397"
 description: "GPT Researcher 是一个基于 GPT 的自主代理，专门用于对任何给定的话题进行全面在线研究。该项目生成详细、客观且无偏见的研究报告，聚合超过 20 个网络资源以形成客观而事实依据的结论，提供易于使用的网页界面，支持 JavaScript 功能来爬取网络资源，记录并跟踪已访问和使用过的网络资源上下文信息，可将研究报告导出为 PDF 等格式。让 GPT Researcher 帮助您深入研究，全面了解您感兴趣的话题！"
 date: "2024-10-27T16:42:16.853Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/72d50f9669aa11bf23d0e9498e6fc6db.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "Kubernetes 持续交付的新选择：安全稳定的渐进式发布管理 | 开源日报 No.666"
 description: "argo-rollouts 是一个 Kubernetes 渐进式交付控制器，支持蓝绿部署和金丝雀发布，提供细粒度流量控制、自动化回滚、多平台集成 (Ingress/服务网格) 和监控系统对接，实现安全可靠的应用更新。"
 date: "2025-07-15T07:35:59.286Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fd0af1afb01ad8c273a66c1c05057387.png"
 tags: []
 categories:
   - "daily"

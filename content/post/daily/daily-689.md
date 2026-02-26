@@ -2,7 +2,6 @@
 title: "高效管理膳食规划与购物清单：数字化食谱应用让烹饪更轻松 | 开源日报 No.689"
 description: "recipes 是一个功能全面的数字化食谱管理工具，支持膳食规划、购物清单生成、多平台同步和协作共享，提供强大的搜索、导入和容器化部署功能，适用于家庭和个人的饮食管理需求。"
 date: "2025-08-08T07:35:57.241Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject5aaa0e9e7f424eeccfa25b1f29bb3943.png"
 tags: []
 categories:
   - "daily"

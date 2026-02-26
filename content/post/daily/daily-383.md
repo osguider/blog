@@ -2,7 +2,6 @@
 title: "开源自动驾驶软件：支持飞机、车辆、船只、潜水艇 | 开源日报 No.383"
 description: "探索开源自动驾驶软件的世界，ardupilot 项目汇集了 ArduPlane、ArduCopter、ArduRover 和 ArduSub 源代码，支持各种载具系统，从传统飞机到潜水艇，功能强大且可靠，让您的载具系统更智能更先进！"
 date: "2024-10-06T23:35:31.938Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2ba71568be7983c724b784c936ee95de.png"
 tags: []
 categories:
   - "daily"

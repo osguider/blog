@@ -2,7 +2,6 @@
 title: "无头富文本编辑器：框架无关，自由扩展 | 开源日报 No.300"
 description: "tiptap 是一个面向 Web 开发者的无头富文本编辑器框架，基于可靠的 ProseMirror 库构建。"
 date: "2024-07-15T23:35:27.228Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/93541d99918eb0060f5dba68e26db3d1.png"
 tags: []
 categories:
   - "daily"

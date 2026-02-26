@@ -2,7 +2,6 @@
 title: "跨平台像素级渲染：一次编写，多端使用 | 开源日报 No.832"
 description: "Lynx 是一个开源技术集合，旨在帮助开发者利用现有网页技能，构建跨平台的原生移动端和网页用户界面，支持 Android、iOS 和 Web 平台的高性能渲染。其设计基于 Web 技术栈，兼容 CSS 和 React，支持多线程引擎以提升应用性能，核心引擎开源并持续维护，借鉴了多种成熟项目的设计。"
 date: "2025-12-25T07:35:19.379Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

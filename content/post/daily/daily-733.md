@@ -2,7 +2,6 @@
 title: "高效安全的网页服务器管理：集成 SSH 终端与实时状态监控 | 开源日报 No.733"
 description: "Termix 是一个基于网页的服务器管理平台，集成了 SSH 终端、隧道管理和远程文件编辑功能，支持多分屏操作、SSH 隧道管理、远程文件编辑及实时监控服务器状态。它具备用户认证安全机制，并采用现代化界面设计，未来计划增加更多功能和定制选项。"
 date: "2025-09-25T07:36:13.107Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectbb0b35ca23a0a8e57f208ec5f0a0e150.png"
 tags: []
 categories:
   - "daily"

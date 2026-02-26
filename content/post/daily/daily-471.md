@@ -2,7 +2,6 @@
 title: "智能电影助手：全自动管理您的影视库 | 开源日报 No.471"
 description: "Radarr 是一个开源的电影管理器，专为 Usenet 和 BitTorrent 用户设计，支持多平台 (Windows、Linux、macOS、Raspberry Pi)。它允许用户添加电影并提供详细信息，自动监控并升级影片质量，处理下载失败，支持手动搜索，且与多种下载客户端 (如 SABnzbd、NZBGet、QBittorrent 和 uTorrent) 及媒体中心 (如 Kodi 和 Plex) 完美集成，能够导入元数据并更新库。该项目的许可证为 GPL-3.0，获得了 10.6k 星的支持。"
 date: "2025-01-05T03:03:59.661Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a6bc97ed7ff3c5dd8f0af4f8d119ccf3.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "可视化分析代码结构：交互式源代码浏览器 | 开源日报 No.592"
 description: "Sourcetrail 是一个免费开源的跨平台源代码浏览器 (支持 Windows/macOS/Linux)，通过可视化代码关系帮助开发者理解陌生代码库，支持 C/C++/Java/Python 等语言，提供 SDK 扩展语言支持，可离线使用。"
 date: "2025-05-04T07:35:37.543Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ebbda791a81369c1e5c82b0bd89a8980.png"
 tags: []
 categories:
   - "daily"

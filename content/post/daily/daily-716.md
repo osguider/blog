@@ -2,7 +2,6 @@
 title: "出海建站指南：从收款到合规实战 | 开源日报 No.716"
 description: "overseas-website-note 是一个分享海外网站开发经验的开源项目，重点提供跨境业务全流程指南，包括公司注册、支付系统对接 (如 Stripe)、法律合规等实战经验，帮助开发者实现网站出海。"
 date: "2025-09-03T07:35:14.966Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectae77c069edf05c1df236096ed74966ad.png"
 tags: []
 categories:
   - "daily"

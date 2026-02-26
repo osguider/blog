@@ -2,7 +2,6 @@
 title: "Rust 实现的跨平台终端，GPU 加速流畅运行 | 开源日报 No.335"
 description: "wezterm 是一款由 @wez 编写并用 Rust 实现的跨平台终端仿真器和多路复用器。它的主要特点包括：GPU 加速、跨平台支持、终端仿真和多路复用功能，以及使用 Rust 编程语言实现的高性能、安全性和可靠性。使用 wezterm，您可以享受更快速、流畅的终端体验，同时在不同平台上统一使用终端，管理多个终端会话。无论您是开发者还是普通用户，wezterm 都是您不可错过的终端工具。"
 date: "2024-08-21T23:35:54.404Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/049c9747c44973fb24fc12bfb3d7bad6.png"
 tags: []
 categories:
   - "daily"
@@ -79,6 +78,6 @@ spring-ai 是一个面向 AI 工程的应用框架。
  是一个索引、区块浏览器和命令行钱包。它是实验性的软件，没有任何保证。Ordinal 理论赋予了 satoshi 货币价值，使其可以作为珍品进行收集和交易。
 
 - satoshis 具有序数编号，在挖掘时按顺序分配，并在交易中保留。
--  命令自动加载由 --wallet 选项给出的 ‘ord’ 钱包，默认情况下加载 ‘an ord wallet may be loaded。’ 之后运行该命令会导致已经被 loaded。
+- 命令自动加载由 --wallet 选项给出的 ‘ord’ 钱包，默认情况下加载 ‘an ord wallet may be loaded。’ 之后运行该命令会导致已经被 loaded。
 - 由于 ‘Ord’ 可以访问您的 Bitcoin Core wallets，所以不应将 “Ord” 与含有大量资金的 Wallet 一起使用。
   

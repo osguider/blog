@@ -2,7 +2,6 @@
 title: "告别杂乱！AI 帮你整理文件：自组织文件整理解决方案 | 开源日报 No.406"
 description: "探索 llama-fs，一个基于 llama 3 技术的自组织文件系统，解决文件整理和重命名问题。自动重命名整理文件，支持多种文件类型，包括图片和音频。支持批处理和交互式守护程序模式，拥有隐身模式保护隐私。结合 Python 后端和 Electron 前端，提供用户友好界面，让您轻松管理文件结构。让 llama-fs 帮您提升文件整理效率，体验智能文件管理的便利！"
 date: "2024-10-29T23:35:46.608Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1d057ec367ceea7ee4165296370c5f96.png"
 tags: []
 categories:
   - "daily"

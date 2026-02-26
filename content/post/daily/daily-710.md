@@ -2,7 +2,6 @@
 title: "自托管数字虚拟伴侣：实时互动与游戏共享 | 开源日报 No.710"
 description: "Airi 是一个自托管的数字虚拟伴侣项目，旨在通过实时语音聊天和游戏互动将虚拟角色引入现实，支持多平台运行，集成现代 Web 技术和本地加速，提供丰富的扩展功能，强调用户对数字生命体的完全拥有权和自主控制。"
 date: "2025-08-28T07:35:59.935Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject1464b49423689c7d27c0e36199e6af2a.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "适用于 Java 的 MCP 开发工具包，与 Spring AI 深度集成！ | 开源日报 No.808"
 description: "java-sdk 是一个官方的 Java 开发工具包，旨在支持 Model Context Protocol (MCP) 服务器和客户端的集成，提供标准化接口以实现与 AI 模型的同步和异步通信。它基于 Reactive Streams 编程模型，支持灵活的 JSON 序列化，兼容 Spring AI，旨在提高 Java 应用的实用性和互操作性。"
 date: "2025-12-03T15:35:52.989Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

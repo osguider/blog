@@ -2,7 +2,6 @@
 title: "以太坊智能合约高级编程语言：静态类型、面向合约、文档丰富 | 开源日报 No.552"
 description: "Solidity 是一个开源的高级编程语言，专为在以太坊平台上开发和部署智能合约而设计，具有静态类型和面向合约的特性。该项目由以太坊基金会支持，提供丰富的文档和示例，确保去中心化执行，并定期更新以引入新特性和修复漏洞。"
 date: "2025-03-28T15:54:18.668Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/de33414bc2a9308834d3e9c4d4ed9238.png"
 tags: []
 categories:
   - "daily"

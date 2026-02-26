@@ -2,7 +2,6 @@
 title: "OpenAI 编程助手：隔离沙箱、灵活权限、保障安全 | 开源日报 No.695"
 description: "Codex 是由 OpenAI 开发的轻量级终端编程代理工具，支持本地运行以增强隐私和响应速度，支持跨平台安装，集成 ChatGPT 账号登录，提供多种权限配置和安全保障，支持命令行交互和 CI 模式，适合开发调试和自动化集成。"
 date: "2025-08-13T07:35:52.402Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject2f86846823d41f22e5f3e8a1eda0ff68.png"
 tags: []
 categories:
   - "daily"

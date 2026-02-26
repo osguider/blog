@@ -2,7 +2,6 @@
 title: "高效微调 100 多种大语言模型：先计算法，急速推理！ | 开源日报 No.305"
 description: "LLaMA-Factory 是一个高效微调 100 多个大型语言模型的 WebUI，支持多种模型和集成方法，包括增量预训练、指令监督微调、奖励模型训练等等。它还支持多种精度和先进算法，如 16 比特全参数微调、LoRA 微调和 GaLore 等。此外，它还提供了实用技巧和实验监控，如 FlashAttention-2、LlamaBoard 和 TensorBoard 等。最重要的是，它还提供了基于 vLLM 的 OpenAI 风格 API 和命令行接口，使得推理速度非常快。"
 date: "2024-07-21T23:35:43.446Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/664115da4bccdb7329433d080993b645.png"
 tags: []
 categories:
   - "daily"

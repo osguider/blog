@@ -2,7 +2,6 @@
 title: "Webpack：高效的模块打包工具 | 开源日报 No.348"
 description: "想提升前端开发效率？Webpack 是你不可错过的强大工具！它不仅能将 JavaScript、TypeScript 及各种资源打包成浏览器友好的格式，还支持代码拆分和按需加载，显著提升应用加载速度。"
 date: "2024-09-02T23:35:39.675Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0b651d842b1382b42467c5a2084bc3d1.png"
 tags: []
 categories:
   - "daily"

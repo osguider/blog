@@ -2,7 +2,6 @@
 title: "现代化负载测试工具：多协议支持，灵活可视化 | 开源日报 No.342"
 description: "使用 Go 和 JavaScript 构建，k6 具有可配置的负载生成、测试代码化、完整功能的 API、嵌入式 JavaScript 引擎、多协议支持等特点，让您轻松模拟真实流量、实现版本控制、与 CI 集成。"
 date: "2024-08-28T23:35:39.682Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/dbd9e084d9056678e06bfbb6cb0f1037.png"
 tags: []
 categories:
   - "daily"

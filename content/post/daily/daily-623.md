@@ -2,7 +2,6 @@
 title: "肖像动画生成利器：高效拼接与精准控制 | 开源日报 No.623"
 description: "LivePortrait 是一个高效的肖像动画生成工具，支持图像驱动、区域控制和音频视频处理，兼容多平台并持续更新优化。"
 date: "2025-06-01T07:35:38.983Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/866b6cad50acf9bd6c0ddc2f2aa2ed15.png"
 tags: []
 categories:
   - "daily"

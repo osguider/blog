@@ -2,7 +2,6 @@
 title: "62k star 的软件工程师面试指南：数据结构、算法、在线测评 | 开源日报 No.307"
 description: "准备软件工程面试？《interviews》是您不可或缺的个人指南！它不仅提供详细的视频解决方案和深入的算法解析，还涵盖了数据结构和运行时分析等关键内容。借助在线评测平台和实时编码练习，您将全面提升面试技能，轻松掌握树、链表、栈等数据结构的时间复杂度。让我们一起为成功面试铺平道路！"
 date: "2024-07-24T23:35:31.370Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a39d85c177ace42042c527c16ec49b88.png"
 tags: []
 categories:
   - "daily"

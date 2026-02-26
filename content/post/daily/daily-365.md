@@ -2,7 +2,6 @@
 title: "一张照片生成 3D 模型，速度质量双层保障！ | 开源日报 No.365"
 description: "TripoSR 是一个快速的单图像前馈 3D 重建的最先进开源模型，由 Tripo AI 和 Stability AI 共同开发。该模型利用大规模重建模型（LRM）原则，显著提升了 3D 重建的速度和质量。"
 date: "2024-09-19T23:35:45.076Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/25f80452fde97bef01f2c9b8dc0c0591.png"
 tags: []
 categories:
   - "daily"

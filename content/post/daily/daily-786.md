@@ -2,7 +2,6 @@
 title: "高性能 LLM 推理框架：纯 C/C++ 实现，支持多硬件平台！ | 开源日报 No.786"
 description: "llama.cpp 是一个高性能的开源项目，旨在在纯 C/C++环境中进行大型语言模型 (LLM) 推理，支持多种硬件平台 (包括本地和云端)，并无依赖。该项目针对 Apple Silicon 和 x86 架构进行了优化，支持多种量化选项和自定义 CUDA 内核，能够实现 CPU 与 GPU 的混合推理，提升推理速度并减少内存使用。"
 date: "2025-11-11T07:35:12.319Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "大模型从零到一：LLM 原理与实践指南 | 开源日报 No.662"
 description: "happy-llm 是一个中文大语言模型教程项目，系统讲解 LLM 原理与实践，涵盖 Transformer 架构、预训练模型、LLaMA2 实现及 RAG 等前沿应用，提供开源 PDF 和代码资源。"
 date: "2025-07-11T07:35:34.616Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/604ca779036283452b1f162bb6e829a5.png"
 tags: []
 categories:
   - "daily"

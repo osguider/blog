@@ -2,7 +2,6 @@
 title: "跨平台即时通信机器人：支持多模型互动！ | 开源日报 No.523"
 description: "LangBot 是一个开源的即时通信机器人平台，支持多种消息平台 (如 QQ、微信、飞书、Discord) 和大型语言模型 (如 OpenAI GPT 和 ChatGPT)。它具备高稳定性和完整的功能 (如访问控制和敏感词过滤)，支持插件扩展，拥有活跃的社区生态，并提供 Web 管理面板以便于管理实例。"
 date: "2025-03-01T08:58:31.179Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/03cb30b0ef45867f7e59fb6815549d00.png"
 tags: []
 categories:
   - "daily"

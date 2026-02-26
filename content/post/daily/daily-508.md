@@ -2,7 +2,6 @@
 title: "AI 数据应用开发框架：简化大型模型应用与数据的结合 | 开源日报 No.508"
 description: "DB-GPT 是一个开源的 AI 原生数据应用开发框架，结合了 AWEL 和智能代理，旨在简化大型模型应用与数据的结合。其核心功能包括多模型管理、文本到 SQL 优化、数据驱动的多代理框架、微调支持以及与多种数据源的集成，旨在满足企业的定制化需求。"
 date: "2025-02-15T08:56:09.583Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bcfcb152d2603ebf3da4a793843e5147.png"
 tags: []
 categories:
   - "daily"

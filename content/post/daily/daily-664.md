@@ -2,7 +2,6 @@
 title: "替代 MinIO!Rust 高性能分布式对象存储 | 开源日报 No.664"
 description: "rustfs 是一个基于 Rust 的高性能分布式对象存储系统，兼容 S3 协议，可作为 MinIO 替代方案。其核心优势在于 Rust 带来的高性能、分布式架构的可扩展性，以及对数据湖和 AI 工作负载的优化支持。"
 date: "2025-07-13T07:36:00.239Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b8c13223ce81bcdbe780061984267599.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "简化 Docker 管理：的终端用户界面 | 开源日报 No.441"
 description: "想要轻松管理 Docker 吗？lazydocker 是您理想的选择！它提供直观的终端用户界面，简化 Docker 和 docker-compose 的操作，集成常用命令，减少记忆负担，支持自定义命令，兼容多种安装方式，提升管理效率。"
 date: "2024-12-03T23:35:40.762Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/282f82849be22f0051f346ede6c6c786.png"
 tags: []
 categories:
   - "daily"
@@ -76,4 +75,3 @@ CS-Ebook 是一个高质量、经典计算机书籍推荐清单。
 - 分类涵盖计算机基础、编程语言、软件工程、数学工具等多个方向；
 - 保持更新，推荐最新版本的书籍；
 - 提供精选而非数量众多的书单。
-

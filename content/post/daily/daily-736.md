@@ -2,7 +2,6 @@
 title: "大规模嵌入向量可视化利器：交互式探索与实时分析解决方案 | 开源日报 No.736"
 description: "embedding-atlas 是一个开源的交互式可视化工具，专为大规模嵌入向量设计，具备自动数据聚类与标签生成、核密度估计、无序透明渲染、实时搜索与最近邻查询等功能，支持 WebGPU 和 WebGL 2，能够高效渲染数百万个数据点，并与 Python、Jupyter 及多种前端框架无缝集成，便于数据的多维度探索与分析。"
 date: "2025-09-19T07:35:57.591Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject5924ac954ef4c43e966e9586f5251a3b.png"
 tags: []
 categories:
   - "daily"

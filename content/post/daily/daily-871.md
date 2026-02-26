@@ -2,7 +2,6 @@
 title: "AI 驱动智能图表编辑，自然语言实时生成架构图 | 开源日报 No.871"
 description: "next-ai-draw-io 是一个基于 Next.js 的开源网页应用，结合了 AI 技术与 draw.io 图表编辑，允许用户通过自然语言命令生成和修改图表。其核心功能包括支持图像上传与优化、版本控制、实时聊天界面、云架构图生成 (支持 AWS、GCP、Azure)、动态动画连接器，以及与多种 AI 服务提供商的兼容性。该项目的目标是提升图表创建的效率和用户体验。"
 date: "2026-02-04T07:35:13.378Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

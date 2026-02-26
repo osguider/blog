@@ -2,7 +2,6 @@
 title: "Git 仓库转 LLM 输入：高效提取代码上下文 | 开源日报 No.656"
 description: "gitingest 是一个 MIT 许可的工具，用于将 Git 仓库转换为适合 LLM 处理的文本格式，提供智能格式化、统计信息，并支持命令行和 Python 导入使用。"
 date: "2025-07-05T07:35:12.503Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c33087587ddcc20b6fd730d39281ed6b.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "现代化高性能动画库：支持 React 和 JS | 开源日报 No.432"
 description: "现代动画库 motion，专为 React 和 JavaScript 设计，提供高性能动画解决方案。"
 date: "2024-11-24T23:35:28.524Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/834509addd891d4e577f1e591b859cc5.png"
 tags: []
 categories:
   - "daily"

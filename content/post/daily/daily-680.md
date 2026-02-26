@@ -2,7 +2,6 @@
 title: "跨平台视频下载工具：视频号、小程序、抖音、小红书 | 开源日报 No.680"
 description: "res-downloader 是一个跨平台的资源下载工具，支持视频号、抖音等主流平台的视频/音频/图片嗅探下载，采用 Go + Wails 开发，提供简洁界面和代理抓包功能，兼容 Windows/macOS/Linux。"
 date: "2025-07-29T07:35:13.002Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c2d64e66ceb24c7d83f50a57f178623c.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "运维利器！一站式远程管理与文件传输工具 | 开源日报 No.551"
 description: "XPipe 是一个开源的 shell 连接中心和远程文件管理器，支持多种连接方式如 SSH、Docker 和 Kubernetes，集成常用命令行工具，提供强大的文件管理和终端会话功能，支持灵活的脚本系统，且数据安全存储在本地加密库中。"
 date: "2025-03-28T15:54:13.372Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/9b2bfe36c6d15d5681052830644244b6.png"
 tags: []
 categories:
   - "daily"

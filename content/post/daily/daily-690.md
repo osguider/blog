@@ -2,7 +2,6 @@
 title: "分布式云原生应用管理操作系统：k8s 多集群跨云管理 | 开源日报 No.690"
 description: "KubeSphere 是一个基于 Kubernetes 的云原生分布式操作系统，提供多集群管理、DevOps 自动化、服务网格、应用商店等全栈功能，支持多云/边缘计算场景，具备可插拔架构和强大的可观测性能力。"
 date: "2025-08-08T07:35:58.709Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject6e482180ad37684281a47b33e1b0784d.png"
 tags: []
 categories:
   - "daily"

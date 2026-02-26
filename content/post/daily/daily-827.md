@@ -2,7 +2,6 @@
 title: "WiFi 和蓝牙全频段阻断：信号屏蔽只需一键 | 开源日报 No.827"
 description: "ESP32-BlueJammer 是一个基于 ESP32 和 nRF24 模块的无线信号干扰器，能够对蓝牙、BLE、WiFi 和遥控设备进行干扰，支持多种无线通信的拒绝服务攻击 (DoS)。其干扰范围超过 30 米，提供完整的硬件设计和便捷的操作界面，适用于多种设备和场景。该项目强调仅用于教育和安全测试，提醒用户合法合规使用。"
 date: "2025-12-22T07:36:10.300Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

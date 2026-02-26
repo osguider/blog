@@ -2,7 +2,6 @@
 title: "Windows Server 替代方案：ReactOS 实现 NT 应用兼容 | 开源日报 No.630"
 description: "ReactOS 是一个开源、免费的 Windows 兼容操作系统，旨在与 Windows NT 系列应用程序和驱动程序兼容，目前主要支持 Windows Server 2003 版本，处于 Alpha 开发阶段。"
 date: "2025-06-09T15:35:44.423Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/757bb2ad1448138e578a16da2aa796a5.png"
 tags: []
 categories:
   - "daily"

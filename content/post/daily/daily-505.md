@@ -2,7 +2,6 @@
 title: "在 Docker 中运行 Windows：轻松配置与高效管理 | 开源日报 No.505"
 description: "这个开源项目允许在 Docker 容器中运行 Windows，提供了 ISO 下载器、KVM 加速和基于 Web 的查看器。用户可以通过 docker-compose.yml 或 docker run 来选择不同版本的 Windows 系统，支持 RDP 连接、CPU/RAM 分配和磁盘大小调整，具有灵活的配置和使用功能。"
 date: "2025-02-15T08:56:06.394Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b287cf93c71843f3447072454f63e76d.png"
 tags: []
 categories:
   - "daily"

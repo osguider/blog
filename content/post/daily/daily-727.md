@@ -2,7 +2,6 @@
 title: "高性能图像处理利器：让 Node.js 快速调整多种格式尺寸 | 开源日报 No.727"
 description: "sharp 是一个高性能的 Node.js 图像处理模块，利用 libvips 库实现快速的图像大小调整，支持多种格式的转换，处理速度比传统工具快 4-5 倍，具备多种图像处理功能，且在大多数现代操作系统上无需额外依赖。"
 date: "2025-09-14T23:36:01.678Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject6ec0ea84857a72fba3d4a9d77fd92452.png"
 tags: []
 categories:
   - "daily"

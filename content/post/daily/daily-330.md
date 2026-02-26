@@ -2,7 +2,6 @@
 title: "Google 开源的快速键值存储库 | 开源日报 No.330"
 description: "leveldb 是一个快速的键值存储库，由 Google 编写。它提供了有序映射关系，将字符串键映射到字符串值，并具有诸多特点和优势。包括支持任意字组作为键和值、按照键进行排序存储、自定义比较函数来覆盖排序顺序等。"
 date: "2024-08-16T23:35:37.656Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b29726c5d7ddef897776a2e8f5d301c9.png"
 tags: []
 categories:
   - "daily"

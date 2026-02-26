@@ -2,7 +2,6 @@
 title: "高效文档提取利器 ：84 语种 OCR 识别 | 开源日报 No.558"
 description: "MinerU 是一个高效、多功能的开源数据提取工具，支持从 PDF、网页和电子书等多种格式中提取高质量数据。其核心功能包括强大的表格识别、多语言 OCR 支持 (84 种语言)、优化内存使用以降低硬件要求，并提供快速部署和在线演示。该项目旨在解决从各种文档中高效、准确地提取数据的问题。"
 date: "2025-04-06T15:29:19.823Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/97d0ea1d569258aac4a47cf56c90ac63.png"
 tags: []
 categories:
   - "daily"

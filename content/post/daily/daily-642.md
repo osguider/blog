@@ -2,7 +2,6 @@
 title: "基于人工智能的任务管理系统：多平台 AI 协同工作流 | 开源日报 No.642"
 description: "claude-task-master 是一个 AI 驱动的任务管理系统，支持集成到 Cursor 等平台，提供多模型交互 (Claude/OpenAI/Gemini) 和灵活配置，简化部署流程。"
 date: "2025-06-21T07:35:38.620Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bfee0713ce83125f497ff240f2ca5fb5.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "大语言模型入门指南：动物视角解析核心技术 | 开源日报 No.618"
 description: "Foundations-of-LLMs 是一本系统讲解大语言模型基础知识和前沿技术的开源教材，采用动物主题提高易读性，涵盖模型架构、Prompt 工程等核心内容，提供论文列表和定期更新，支持 PDF 下载学习。"
 date: "2025-05-26T07:36:06.627Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/26bdb916ba75f736b82e44a745579ad9.png"
 tags: []
 categories:
   - "daily"

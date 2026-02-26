@@ -2,7 +2,6 @@
 title: "打造宁静上网体验：快速、隐私、高效的浏览器 | 开源日报 No.619"
 description: "desktop 是一个基于 Firefox 的隐私浏览器，提供快速、安全的上网体验，支持多平台，采用语义化版本控制。"
 date: "2025-05-29T07:35:20.860Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2d9580a7add745ddd204a362e02135a2.png"
 tags: []
 categories:
   - "daily"

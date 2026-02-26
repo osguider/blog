@@ -2,7 +2,6 @@
 title: "灵活配置网络代理：数据抓包无所遁形 | 开源日报 No.569"
 description: "AnyProxy 是一个基于 NodeJS 的可扩展 HTTP/HTTPS 代理服务器，支持插件机制和自定义配置，适合开发和测试场景。"
 date: "2025-04-13T09:10:10.415Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/028bacf8c95d22c1e84da5ba1ff6395a.png"
 tags: []
 categories:
   - "daily"

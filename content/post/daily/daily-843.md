@@ -2,7 +2,6 @@
 title: "现代化跨平台终端模拟器：SSH、串口与多窗格分屏完美结合 | 开源日报 No.843"
 description: "Tabby 是一款现代化的终端模拟器，支持 SSH 和串口连接，适用于 Windows 10、macOS 和 Linux。它具有高度可配置的界面，集成了 SSH 和 Telnet 客户端，支持多种主题、快捷键配置以及多窗格分屏功能，能够记忆标签页状态，并支持多种终端环境和文件传输。"
 date: "2026-01-07T15:35:31.514Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

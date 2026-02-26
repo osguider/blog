@@ -2,7 +2,6 @@
 title: "解析与操作 HTML/XML：快速灵活的 js 库 | 开源日报 No.515"
 description: "Cheerio 是一个高效、灵活的库，用于解析和操作 HTML 和 XML，支持 jQuery 的核心子集，简化 DOM 操作，解析和渲染速度快，能够使用不同的解析器，适用于浏览器和服务器环境，使用 MIT 许可证，拥有 28.8k 颗星。"
 date: "2025-02-22T02:10:46.397Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c33104e880405a2d72df2487e3103662.png"
 tags: []
 categories:
   - "daily"

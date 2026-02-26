@@ -2,7 +2,6 @@
 title: "优雅简单的 PHP 测试框架：重新定义代码测试的乐趣 | 开源日报 No.744"
 description: "Pest 是一个优雅且简洁的 PHP 测试框架，旨在提升 PHP 测试的乐趣，强调易用性和开发者体验，拥有活跃的社区和丰富的文档支持，且得到多家知名赞助商的支持。"
 date: "2025-09-30T07:35:58.059Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "动态、实时、高性能的 API 网关：Apache 开源 | 开源日报 No.323"
 description: "APISIX 是一个动态、实时、高性能的云原生 API 网关，提供丰富的流量管理功能，包括负载均衡、动态上游、金丝雀发布等。支持多协议代理和完全动态更新，同时具备动态负载均衡和精细化路由等核心优势。此外，APISIX 还提供丰富的身份验证和授权支持，如 key-auth、JWT 等。如果您正在寻找一款强大灵活的 API 网关，不妨考虑一下 APISIX。"
 date: "2024-08-09T23:35:09.067Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/51460c90b2cd4d1267ce0eb378309728.png"
 tags: []
 categories:
   - "daily"

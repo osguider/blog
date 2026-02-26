@@ -2,7 +2,6 @@
 title: "比 md5 更快更安全：全新的哈希函数 | 开源日报 No.294"
 description: "速度与安全，不再是二选一的难题。BLAKE3，以它无与伦比的性能，为密码哈希函数带来了革命性的变革。快速、安全、灵活，BLAKE3让数据保护变得更加简单而高效。"
 date: "2024-07-06T23:35:11.551Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c001fc7150e417f2a57122fc7846dd69.png"
 tags: []
 categories:
   - "daily"
@@ -84,4 +83,3 @@ digitalhippo 是一个现代化的全栈电子商务数字产品市场。
 - 用户可以购买和出售自己的产品
 - 本地持久化购物车功能
 - 使用 Payload 进行身份验证
-

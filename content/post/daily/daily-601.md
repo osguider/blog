@@ -2,7 +2,6 @@
 title: "数据校验利器：Python 类型提示驱动的高效工具 | 开源日报 No.601"
 description: "Pydantic 是一个基于 Python 类型提示的高性能数据验证库，支持 Python 3.9+，提供快速验证、IDE 友好性和监控功能，其 V2 版本进行了全面重写和性能优化。"
 date: "2025-05-10T07:35:39.245Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d3bbda0bb7912297ea63dfe4f9fdcab1.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "基于 AI 的浏览器自动化工具：一次录制，永久重用 | 开源日报 No.626"
 description: "workflow-use 是一个基于浏览器交互录制的自动化工作流工具，核心特点是 “一次录制永久重用”。它通过智能解析用户操作生成结构化工作流，自动提取变量并过滤噪声，提供企业级的可靠性和扩展性，显著提升自动化流程效率。"
 date: "2025-06-07T07:35:43.018Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/75da494e15c9b19b0bf8d6a35515b7a6.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "实用、良心、开源的安卓软件：提升你的使用体验！ | 开源日报 No.509"
 description: "oh-my-foss-android 是一个个人收集的开源安卓软件项目，旨在提供实用的开源应用，强调用户体验，帮助用户提前了解软件特点。项目包含应用商店客户端、浏览器、邮件客户端、追剧管理工具、BT 客户端、以及多媒体播放器等多种功能丰富的应用，旨在为用户提供全面的安卓软件选择。"
 date: "2025-02-15T08:56:07.729Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ccc0e16f05a2ea7192b69c9ffa73e3ad.png"
 tags: []
 categories:
   - "daily"

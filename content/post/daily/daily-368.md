@@ -2,7 +2,6 @@
 title: "自然语言开发网页：实时渲染查看效果！ | 开源日报 No.368"
 description: "尽情释放您的想象力，体验实时 UI 渲染的乐趣！openui 是一个开源项目，让您用想象描述 UI，实时查看渲染效果，还能将 HTML 转换为 React、Svelte、Web Components 等，让 UI 开发更加轻松愉快！"
 date: "2024-09-22T23:35:42.330Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e35a04c74540bef1cfe0a8ab3a8345f4.png"
 tags: []
 categories:
   - "daily"

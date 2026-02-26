@@ -2,7 +2,6 @@
 title: "开源短网址应用：CloudFlare 运行 | 开源日报 No.412"
 description: "Sink 是一个简单/快速/安全的链接缩短器，100% 在 Cloudflare 上运行。"
 date: "2024-11-04T23:35:13.583Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/65c540d749c5193eb21fc7c336ca1c1c.png"
 tags: []
 categories:
   - "daily"

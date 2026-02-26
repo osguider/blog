@@ -2,7 +2,6 @@
 title: "Material Design 图标集：实现统一风格与灵活应用的视觉解决方案 | 开源日报 No.775"
 description: "material-design-icons 是谷歌推出的官方图标集，基于 Material Design 设计规范，包含经典的 Material Icons 和支持可变字体的 Material Symbols，提供多种风格和样式变化，确保视觉一致性。该项目提供多种使用方式，包括 WOFF2 变量字体和 SVG 格式，用户可通过官方平台浏览和选择图标。项目不接受直接提交图标文件，且不包含第三方品牌 logo。"
 date: "2025-10-31T07:35:41.221Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

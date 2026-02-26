@@ -2,7 +2,6 @@
 title: "高效管理容器化应用：弹性 Linux 虚拟机工具的最佳选择 | 开源日报 No.807"
 description: "Lima 是一个开源的 Linux 虚拟机管理工具，专注于容器的运行，支持自动文件共享和端口转发，兼容多种容器引擎 (如 Docker 和 Kubernetes)，并可在 macOS、Linux 和 NetBSD 等多平台上运行。它提供便捷的命令行接口和可视化工具，便于管理虚拟机和容器环境，拥有丰富的生态集成。"
 date: "2025-12-02T07:35:26.215Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

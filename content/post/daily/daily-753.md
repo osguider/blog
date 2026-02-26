@@ -2,7 +2,6 @@
 title: "智能抢票助手：基于 Python 的大麦网自动购票脚本 | 开源日报 No.753"
 description: "ticket-purchase 是一个基于 Python 和 Selenium 的自动抢票脚本，专为大麦网设计，帮助用户快速购买演唱会门票。它支持多维度筛选，模拟用户登录和购票流程，提供灵活的配置选项和详细的环境搭建指导，同时支持大麦 APP 的抢票功能，集成了 Appium 进行移动端自动化操作。"
 date: "2025-10-09T07:35:52.941Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

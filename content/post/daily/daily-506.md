@@ -2,7 +2,6 @@
 title: "构建定制化 AI 聊天机器人： 功能全面，一键部署 | 开源日报 No.506"
 description: "ai-chatbot 是一个由 Vercel 构建的全功能、可定制的 Next.js AI 聊天机器人项目，旨在简化构建基于 AI 的聊天机器人应用程序的过程。它支持 React Server Components、流式聊天 UI、多个 AI 聊天模型的集成，并使用 Tailwind CSS 进行样式设计。项目还集成了 Vercel KV 以管理聊天历史、速率限制和会话存储，用户可一键部署到 Vercel。"
 date: "2025-02-15T08:56:06.491Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c04138283f58e610418d191ae8033997.png"
 tags: []
 categories:
   - "daily"

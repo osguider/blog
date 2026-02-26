@@ -2,7 +2,6 @@
 title: " n8n 模板大合集：助您高效创建自动化应用 | 开源日报 No.771"
 description: "awesome-n8n-templates 是一个开源项目，旨在收集和整理多种 n8n 自动化模板，帮助用户高效连接和自动化应用 (如 Gmail、Telegram、Google Drive、Slack)。项目提供多种预设模板，利用 AI 技术实现智能化功能，支持跨平台自动执行，简化复杂流程，节省用户的开发时间和精力。"
 date: "2025-10-28T07:35:15.654Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

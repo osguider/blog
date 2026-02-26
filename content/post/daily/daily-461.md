@@ -2,7 +2,6 @@
 title: "为任何 PostgreSQL 数据库提供完整 RESTful API | 开源日报 No.461"
 description: "PostgREST 是一个强大的工具，为您的 PostgreSQL 数据库提供高效的 RESTful API 解决方案。它不仅能让您快速构建清晰、标准的 API，还能在高并发场景下实现超低延迟的响应。通过 Haskell 的高效计算、JSON Web Tokens 的安全认证以及 OpenAPI 标准的自我文档化，PostgREST 确保您的应用在安全性、灵活性和数据完整性方面都能达到最佳状态。"
 date: "2024-12-23T23:35:32.420Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8e3f3bf2a9f93616a1181fc09942ab91.png"
 tags: []
 categories:
   - "daily"

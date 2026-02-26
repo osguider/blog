@@ -2,7 +2,6 @@
 title: "AI 编码无障碍：自动恢复 Claude Code 编码任务 | 开源日报 No.806"
 description: "claude-auto-resume 是一个开源的 shell 脚本工具，旨在自动恢复 Claude CLI 任务，能够在使用限制解除后智能等待并继续执行未完成的任务。它支持自定义 shell 命令的执行，提供安全警告，支持复杂命令，跨平台兼容 Linux 和 macOS，且提供多种灵活的安装方式。该工具适合在受信任的环境中使用。"
 date: "2025-12-01T07:35:32.119Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

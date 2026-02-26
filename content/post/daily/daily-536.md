@@ -2,7 +2,6 @@
 title: "通过声音传输数据：可用于物联网通信和音频二维码 | 开源日报 No.536"
 description: "ggwave 是一个用于通过声音传输小数据的轻量级库。"
 date: "2025-03-11T14:01:52.700Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7709726c08565366a015f108b0acf013.png"
 tags: []
 categories:
   - "daily"

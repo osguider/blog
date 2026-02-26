@@ -2,7 +2,6 @@
 title: "云原生分布式向量数据库：支持多种索引类型 | 开源日报 No.452"
 description: "Milvus 作为下一代人工智能应用的云原生向量数据库，以其卓越的性能和灵活的分布式架构，完美应对大规模数据存储与高效搜索的需求。支持实时更新和多种索引类型，确保数据的实时性与搜索的高效性。"
 date: "2024-12-15T23:36:03.481Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3155377b70cfe3b69eb9541476bbeecf.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "统一异构数据查询工具：基于 Datalog 扩展的灵活编程语言 | 开源日报 No.741"
 description: "mangle 是一个基于 Datalog 的扩展编程语言，专为演绎数据库编程设计，支持聚合、函数调用和可选类型检查。它可统一查询多个数据源，具备声明式特性和递归能力，能够处理复杂的多元关系，提供 Go 语言库以便于嵌入和实验，支持递归查询和分组聚合等高级数据库操作。"
 date: "2025-09-27T07:36:09.005Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject80e83fb2433674a0d108bf94dfea8ec4.png"
 tags: []
 categories:
   - "daily"

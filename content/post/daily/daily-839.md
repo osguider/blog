@@ -2,7 +2,6 @@
 title: "轻松上手 Rust 编程的练习项目：辅助理解生动有趣 | 开源日报 No.839"
 description: "Rustlings 是一个开源练习项目，旨在帮助用户通过一系列小练习熟悉 Rust 编程语言，增强对编译器消息的理解，推荐与官方 Rust 书籍结合使用，支持多种编辑器，提供附加资源和指导文件，旨在提升学习体验。"
 date: "2026-01-03T07:35:20.218Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

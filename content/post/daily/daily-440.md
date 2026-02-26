@@ -2,7 +2,6 @@
 title: "Django：快速开发与高效设计的网络框架 | 开源日报 No.440"
 description: "如果你正在寻找一个高效的网络框架来加速你的项目开发，Django 无疑是你的最佳选择！它不仅支持快速开发，适合时间紧迫的项目，还提供了清晰易懂的文档，确保你能快速上手。"
 date: "2024-12-03T23:35:40.756Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/693b4eabc2bdc2be98cdebc3edb73481.png"
 tags: []
 categories:
   - "daily"

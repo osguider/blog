@@ -2,7 +2,6 @@
 title: "微信 AI 机器人：智能问答、管理群聊、检测僵尸粉 | 开源日报 No.528"
 description: "wechat-bot 是一个基于 WeChaty 的开源微信机器人，结合多种 AI 服务 (如 DeepSeek、ChatGPT、Kimi 和讯飞)，能够自动回复微信消息、管理微信群和好友，检测僵尸粉，提升群聊质量。该项目简单易用，支持多种 AI 服务配置和自定义白名单，灵活性高。"
 date: "2025-03-01T08:58:31.370Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/58f23e043f2241a9598c73a3b83df960.png"
 tags: []
 categories:
   - "daily"

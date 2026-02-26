@@ -2,7 +2,6 @@
 title: "C 语言高性能 2D 用户界面布局库 | 开源日报 No.464"
 description: "clay 是一个高性能的 2D 用户界面布局库，使用 C 语言编写。"
 date: "2025-01-05T03:03:59.278Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bb4abd2c9dbc09e514458be6d90280fc.png"
 tags: []
 categories:
   - "daily"

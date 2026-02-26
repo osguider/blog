@@ -2,7 +2,6 @@
 title: "轻松部署 k8s 应用：安全可靠的 Helm Charts 解决方案 | 开源日报 No.817"
 description: "该开源项目是由 Bitnami 提供的 Kubernetes Helm Charts 库，旨在简化流行应用在 Kubernetes 环境中的部署。项目支持 Kubernetes 1.23+和 Helm 3.8.0+，提供安全加固的容器镜像，确保安全性和功能可靠性，兼容多种云平台，且提供丰富的入门指南和集成示例。项目计划逐步淘汰非加固版的 Debian 基础镜像，以提升软件供应链的安全性。"
 date: "2025-12-12T07:35:48.891Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

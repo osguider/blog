@@ -2,7 +2,6 @@
 title: "跨平台终端模拟器：Ghostty 释放 CLI 潜能 | 开源日报 No.658"
 description: "Ghostty 是一个高性能跨平台终端模拟器，采用原生 UI 和 GPU 加速，提供多窗口/标签页支持，兼顾标准兼容性与现代特性，为开发者带来更强大的 CLI 体验。"
 date: "2025-07-06T07:35:13.845Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/de24463896eb5825ffd457e2bec38aac.png"
 tags: []
 categories:
   - "daily"

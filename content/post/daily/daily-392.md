@@ -2,7 +2,6 @@
 title: "跨语言模块化：简化软件项目流水线的高效引擎 | 开源日报 No.392"
 description: "想要简化软件项目流水线、提高团队效率、减少 CI 运行时间吗？那就尝试一下 dagger 吧！dagger 是一个强大的引擎，可以将项目任务封装成简单函数，实现自定义 GraphQL API，让 CI 变得更高效，让团队更易上手，让 CI 运行更快速！"
 date: "2024-10-15T23:35:56.577Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4230dba946641b5f27ce41c5b233189e.png"
 tags: []
 categories:
   - "daily"

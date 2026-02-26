@@ -3,7 +3,6 @@ title: "2 分钟构建网页爬虫：0 基础轻松完成！ | 开源日报 No.4
 description: "maxun 是一个免费的开源无代码网页数据提取平台。
 该项目解决了用户在没有编程知识的情况下，快速构建自定义机器人以自动化数据抓取的问题。"
 date: "2024-11-18T23:36:00.681Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/96704b4425caeae3dbb67cdef8795f74.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "支持广告拦截的跨平台浏览器 | 开源日报 No.316"
 description: "如果你正在寻找一个功能强大且多平台支持的浏览器，那么 Brave Browser 绝对值得一试！它基于 Chromium 构建，拥有强大的广告拦截引擎 adblock-rust，以及维护了对 Chromium 代码的持续优化和更新。无论是在 Android、iOS、Linux、macOS 还是 Windows 上，Brave 都能为你提供流畅的浏览体验。"
 date: "2024-08-02T23:35:34.908Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/df443a4fd14e0da1451ea466887176df.png"
 tags: []
 categories:
   - "daily"

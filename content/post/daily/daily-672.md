@@ -2,7 +2,6 @@
 title: "跨平台 AI 能力扩展工具：精选 MCP 客户端集合 | 开源日报 No.672"
 description: "awesome-mcp-clients 是一个精选的 Model Context Protocol (MCP) 客户端集合，支持通过标准化协议扩展 AI 模型能力，包含多种跨平台客户端 (桌面、网页、浏览器扩展等)，支持多语言、多并发和实时交互，并提供社区交流平台。"
 date: "2025-07-21T07:35:31.713Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/03b0b6a2c513c10f1995fcbc089e1c37.png"
 tags: []
 categories:
   - "daily"

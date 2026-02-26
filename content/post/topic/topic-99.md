@@ -2,7 +2,6 @@
 title: "AI智能图像技术：重塑视觉艺术新标准 | 开源专题 No.99"
 description: "创意的火花在技术的辅助下愈发璀璨。这些开源项目为艺术家和设计师们提供了强大的工具，让他们的创意得以无限扩展，无论是通过AI生成全新的视觉作品，还是将现有图像提升至更高的清晰度，每一次尝试都是对创意边界的一次勇敢探索。"
 date: "2024-07-12T23:35:24.475Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3445927ca8894fb6288fd9f33b0d7c73.png"
 tags: []
 categories:
   - "topic"
@@ -85,4 +84,3 @@ LoRA-scripts 是一个用于 kohya-ss/sd-scripts 的 LoRA 训练脚本项目。�
 - 支持在 Windows 和 Linux 系统上运行
 - 自动创建虚拟环境并安装所需依赖项 (仅限 Windows)
 - 提供了方便编辑和运行训练脚本的功能
-

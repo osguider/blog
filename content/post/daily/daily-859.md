@@ -2,7 +2,6 @@
 title: "跨平台 iCloud 照片同步，命令行自动下载备份工具 | 开源日报 No.859"
 description: "icloud_photos_downloader 是一款跨平台的命令行工具，支持在 Linux、Windows 和 macOS 上下载和同步 iCloud 照片，提供多种安装方式和三种操作模式，支持 Live Photos 和 RAW 格式，具备自动去重和增量更新功能，适用于多种设备。"
 date: "2026-01-23T07:35:58.554Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

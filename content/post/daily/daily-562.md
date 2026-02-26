@@ -2,7 +2,6 @@
 title: "C++ 跨平台包管理器：微软社区共建高效生态 | 开源日报 No.562"
 description: "vcpkg 是一个跨平台的 C/C++ 包管理工具，支持 Windows、Linux 和 MacOS，由微软和 C++ 社区维护。它易于与各种构建系统集成，支持依赖项版本控制、自定义包打包与发布、二进制工件复用，以及离线场景和资产缓存。"
 date: "2025-04-06T15:29:21.500Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1d490dc28f7cb4aa57d259c7703f1499.png"
 tags: []
 categories:
   - "daily"

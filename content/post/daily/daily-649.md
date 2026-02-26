@@ -2,7 +2,6 @@
 title: "轻量级跨平台下载工具：多协议并行，最大化利用带宽 | 开源日报 No.649"
 description: "aria2 是一个轻量级的跨平台命令行下载工具，支持多种协议 (HTTP/HTTPS、FTP、SFTP、BitTorrent、Metalink)，能够同时从多个来源下载文件以最大化带宽利用，具备分段下载、Metalink 校验、速度限制、以及支持 JSON-RPC 和 XML-RPC 接口的功能，适合多种下载需求。"
 date: "2025-06-28T07:35:22.857Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0c9b572ee495ac43d4e68b63dc7d8bef.png"
 tags: []
 categories:
   - "daily"

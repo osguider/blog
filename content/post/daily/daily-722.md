@@ -2,7 +2,6 @@
 title: "文本到语音生成工具包：支持 16 种语言，提升合成质量 | 开源日报 No.722"
 description: "TTS 是一个开源的深度学习工具包，专注于文本到语音生成，支持 16 种语言，提供高性能的语音模型和模型训练工具，具备多种声码器和说话人编码器，确保合成质量，具有高效的训练能力和模块化的代码结构，便于扩展和创新。"
 date: "2025-09-09T07:35:32.416Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject4de1f102cff14661074845e2502833e4.png"
 tags: []
 categories:
   - "daily"

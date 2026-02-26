@@ -2,7 +2,6 @@
 title: "可视化数据库设计工具：零门槛的在线图表编辑器 | 开源日报 No.583"
 description: "ChartDB 是一个开源的数据库图表编辑器，支持通过智能查询快速导入多种数据库架构，提供直观的交互式编辑工具和 AI 驱动的导出功能，无需安装或输入密码即可可视化设计数据库。"
 date: "2025-04-22T23:35:54.591Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f9ce124e4c59ac214c5a8d2e5179dd94.png"
 tags: []
 categories:
   - "daily"

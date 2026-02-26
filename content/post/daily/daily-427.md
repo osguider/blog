@@ -2,7 +2,6 @@
 title: "优质机器学习库推荐与资源汇总 | 开源日报 No.427"
 description: "探索机器学习的无限可能！《best-of-ml-python》汇集了 920 个顶尖的开源 Python 库，涵盖了数据可视化、自然语言处理、图像数据等 34 个类别，自动排序，帮助你快速找到高质量的资源。"
 date: "2024-11-19T23:35:10.440Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/cd5d2147923bc7403115a72e98df62a5.png"
 tags: []
 categories:
   - "daily"

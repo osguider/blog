@@ -2,7 +2,6 @@
 title: "急速内网穿透工具：突破 NAT 与防火墙的界限 | 开源日报 No.538"
 description: "frp 是一个高效的反向代理工具，旨在将位于 NAT 或防火墙后的本地服务器暴露到互联网，支持多种协议 (TCP、UDP、HTTP、HTTPS)，提供 P2P 连接、域名转发、身份验证 (如令牌和 OIDC)、监控 (如 Prometheus 集成)、流量加密与压缩、负载均衡和服务健康检查，确保数据安全和系统稳定性。"
 date: "2025-03-11T14:01:53.277Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e04e0d7d574f6e9387e2c38a3930eff9.png"
 tags: []
 categories:
   - "daily"

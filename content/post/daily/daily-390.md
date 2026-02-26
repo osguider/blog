@@ -2,7 +2,6 @@
 title: "OpenAI 开源！轻量级多智能体框架！ | 开源日报 No.390"
 description: "swarm 是一个用于构建、编排和部署多智能体系统的框架。旨在探索符合人类工程学、轻量级多智能体编排的教育性框架。"
 date: "2024-10-13T23:35:56.207Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/dbf146990f6453f289cd46db9d7eb9c7.png"
 tags: []
 categories:
   - "daily"

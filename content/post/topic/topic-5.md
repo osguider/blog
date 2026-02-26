@@ -2,7 +2,6 @@
 title: "探索技术边界，获取技能秘籍：开源项目助力知识普及"
 description: ""
 date: "2023-11-23T06:16:24.394Z"
-image: "undefined"
 tags: []
 categories:
   - "topic"

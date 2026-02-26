@@ -2,7 +2,6 @@
 title: "FFmpeg 汇编语言教程：系统化学习底层计算机操作 | 开源日报 No.697"
 description: "asm-lessons 是一个开源项目，专注于 FFmpeg 汇编语言的教学，提供系统化的课程和作业，适合具备 C 语言和高中数学基础的学习者。项目支持多语言翻译，配备 Discord 服务器以增强学习互动。"
 date: "2025-08-15T07:36:00.677Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectdb585d78342659e33dfa274ca77a20a8.png"
 tags: []
 categories:
   - "daily"

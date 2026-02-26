@@ -2,7 +2,6 @@
 title: "快速搭建静态网站的利器：单一二进制程序即可完成 | 开源日报 No.433"
 description: "Zola 是一个高效的静态网站生成器，集成了多种强大功能，助您轻松创建和管理网站。无论是语法高亮、图像处理，还是多语言支持，Zola 都能满足您的需求。它的单一二进制文件设计和无服务器部署选项，让您轻松上手，快速发布。"
 date: "2024-11-25T23:35:18.152Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/cc559e4a230ebcd1400f26e5640d3f79.png"
 tags: []
 categories:
   - "daily"

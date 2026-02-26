@@ -2,7 +2,6 @@
 title: "高效网页自动化助手：隐私保护的多智能体 AI 浏览器扩展 | 开源日报 No.788"
 description: "nanobrowser 是一个开源的 AI 驱动网页自动化扩展工具，基于 Chrome 浏览器，支持多智能体系统，允许用户使用自己的 LLM API 密钥，注重隐私保护，完全在本地运行。它提供交互式聊天界面，自动化重复网页操作，提升效率，且仅按 API 调用付费，支持 Chrome 和 Edge 浏览器，开源透明。"
 date: "2025-11-13T07:35:33.272Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "本地对话助手：保护隐私的开源 GPT 项目 | 开源日报 No.498"
 description: "localGPT 是一个开源项目，允许用户在本地设备上安全地与文档对话，确保数据隐私。其核心特点包括：数据完全保留在本地，支持多种开源模型和嵌入，允许重复使用 LLM，提供聊天历史记录和 API 支持，具备用户友好的图形界面，且可在多种平台上运行。"
 date: "2025-02-15T09:04:42.376Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a4dbafaac15e6026ccbd43679d0c9ea1.png"
 tags: []
 categories:
   - "daily"

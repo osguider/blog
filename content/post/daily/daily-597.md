@@ -2,7 +2,6 @@
 title: "Go 开发者的轻量配置方案：godotenv实现 .env 配置无缝加载 | 开源日报 No.597"
 description: "godotenv 是一个 Go 语言实现的 .env 文件加载库，支持从 .env 文件加载环境变量，提供库和命令行两种使用方式，支持多种文件格式和不同环境配置，并具备良好的跨平台兼容性。"
 date: "2025-05-07T07:36:07.208Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7080368552c5f637e84f1bec98b963c7.png"
 tags: []
 categories:
   - "daily"

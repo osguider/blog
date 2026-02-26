@@ -2,7 +2,6 @@
 title: "精选 AWS 资源大全：一站式开发者指南 | 开源日报 No.650"
 description: "awesome-aws 是一个精选的 AWS 资源大全，包含开源库、指南和博客，提供 SDK、示例代码和项目热度评估，并定期更新保持资源准确性。"
 date: "2025-06-29T07:35:44.972Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/42b7b7b3b4bf32c61005616eef481a62.png"
 tags: []
 categories:
   - "daily"

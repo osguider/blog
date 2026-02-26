@@ -2,7 +2,6 @@
 title: "捕捉对话、提供摘要、待办事项：AI 驱动的可穿戴智能助手 | 开源日报 No.580"
 description: "omi 是一款 AI 可穿戴设备，支持实时语音转录、摘要生成和任务执行，提供 SDK 便于开发者扩展，适用于会议和语音备忘录场景。"
 date: "2025-04-19T23:35:26.679Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5172fbd05ee60d3afa67d7f2a3de55f3.png"
 tags: []
 categories:
   - "daily"

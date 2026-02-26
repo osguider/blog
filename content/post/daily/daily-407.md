@@ -2,7 +2,6 @@
 title: "PDF 转 Markdown 格式！AI 赋能、灵活、智能 | 开源日报 No.407"
 description: "zerox 是一个使用 gpt-4o-mini 进行 zero-shot PDF OCR 的项目。"
 date: "2024-10-30T23:35:15.802Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6a7bafc92cc04a5380cdf005c01b0f92.png"
 tags: []
 categories:
   - "daily"

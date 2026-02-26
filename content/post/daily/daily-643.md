@@ -2,7 +2,6 @@
 title: "RAG 从 0 到 100！多种样例、简单实现 | 开源日报 No.643"
 description: "all-rag-techniques 是一个开源项目，通过简单易懂的 Python 实现和 Jupyter Notebook 示例，展示各种检索增强生成 (RAG) 技术，并定期更新最新方法。"
 date: "2025-06-22T07:35:44.128Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3c7b517163c28e721b76456823d34aa1.png"
 tags: []
 categories:
   - "daily"

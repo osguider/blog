@@ -2,7 +2,6 @@
 title: "具备插件系统的图片上传工具：支持命令行界面与 API 调用 | 开源日报 No.772"
 description: "PicGo-Core 是一个开源的图片上传工具，支持命令行界面和 API，具备插件系统以扩展功能，兼容 Typora 等应用，默认使用 SM.MS 作为上传图床，支持从路径或剪贴板上传图片。"
 date: "2025-10-29T07:35:51.008Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

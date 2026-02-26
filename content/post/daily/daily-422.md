@@ -2,7 +2,6 @@
 title: "实时格式化和检查错误代码：提升网页项目开发效率的工具链 | 开源日报 No.422"
 description: "Biome 工具链是网页开发者的理想选择，专为解决代码格式化和检查难题而设计。它不仅支持多种语言格式化，拥有强大的代码质量检查功能，还能在无需 Node.js 的环境中高效运行。通过 Biome，开发者可以在交互式编辑器中实时检查和格式化代码，极大提升开发效率，简化配置，助力高质量的网页项目开发。"
 date: "2024-11-14T23:35:45.582Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c5c19dd419655ddffb874ddead42bfb2.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "安全私密：开源自托管的智能邮箱 | 开源日报 No.608"
 description: "Zero 是一款开源隐私优先的邮件应用，支持 AI 智能代理、多邮箱统一收件、自我托管，不追踪用户数据，提供可定制界面和开发者友好扩展。"
 date: "2025-05-17T07:35:15.608Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/df2b6ed71341a0635b75ea6380cd6ec5.png"
 tags: []
 categories:
   - "daily"

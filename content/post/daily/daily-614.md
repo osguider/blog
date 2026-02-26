@@ -2,7 +2,6 @@
 title: "极速终端模拟器：GPU 加速的跨平台利器 | 开源日报 No.614"
 description: "Alacritty 是一个高性能、跨平台的 GPU 加速终端模拟器，支持 BSD、Linux、macOS 和 Windows，提供灵活的自定义配置和合理的默认设置。"
 date: "2025-05-23T07:35:47.210Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5b425131dc192657d9dc1ede6e23531b.png"
 tags: []
 categories:
   - "daily"

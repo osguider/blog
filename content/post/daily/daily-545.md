@@ -2,7 +2,6 @@
 title: "智能体涌现行为和扩展法则探索：支持多达 100 万智能体的模拟 | 开源日报 No.545"
 description: "CAMEL 是一个开源项目，旨在研究智能体的扩展法则，支持多达 100 万智能体的模拟，促进智能体之间的实时动态通信和协作。项目具备状态记忆能力，提升智能体的长期决策能力，提供多种基准测试以评估性能，支持多种角色和环境，便于跨学科研究，并能自动生成结构化数据集，简化研究工作流程。"
 date: "2025-03-19T15:45:01.442Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e3d9564cc9d2d6d5c86a24c053ba46cf.png"
 tags: []
 categories:
   - "daily"

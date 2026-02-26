@@ -2,7 +2,6 @@
 title: "Go 语言字段验证工具：支持跨字段、跨结构体、多维数据 | 开源日报 No.530"
 description: "validator 是一个用于 Go 语言的结构体和字段验证工具，支持跨字段、跨结构体以及多维数据的验证。"
 date: "2025-03-11T14:01:54.679Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a19ac99e7a1700ac30b9e7f5f7743a85.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "自托管在线文件转换器，千种格式轻松转换 | 开源日报 No.852"
 description: "ConvertX 是一个自托管的在线文件转换器，支持超过一千种文件格式的转换，涵盖图片、视频、文档、电子书及 3D 资产等。它具备批量处理、密码保护和多账户管理等功能，确保安全性和管理便利。该项目基于现代技术栈 (TypeScript、Bun、Elysia) 开发，支持 Docker 部署，具备灵活的配置选项。"
 date: "2026-01-19T23:35:54.344Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "轻量级 AI 证件照生成：智能高效自由定制 | 开源日报 No.384"
 description: "探索 HivisionIDPhotos，一个轻量级的 AI 证件照制作算法，实现多种用户拍照场景的识别、抠图与证件照生成，轻量级抠图功能，支持生成多种尺寸规格的证件照和六寸排版照。让你的证件照制作更智能、更高效！"
 date: "2024-10-07T23:35:19.380Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2bf790e990292bbc2539456d50afcf8b.png"
 tags: []
 categories:
   - "daily"

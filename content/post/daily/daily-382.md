@@ -2,7 +2,6 @@
 title: "基于自然语言的多智能体协作软件 | 开源日报 No.382"
 description: "ChatDev 项目是一个使用自然语言思想创建定制化软件的项目，通过 LLM 技术实现多智能体协作，包括 CEO、CTO、程序员等在专业功能研讨会上合作设计、编码、测试和文档编写。项目提供高度可定制和可扩展的框架，基于大型语言模型，适用于研究集体智慧。同时，ChatDev 还引入了新颖的方法和功能更新，如 “迭代经验细化” 方法和增量开发、Docker 支持等。"
 date: "2024-10-05T23:36:11.173Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b44bf347c78b00023897857e9a8943a3.png"
 tags: []
 categories:
   - "daily"

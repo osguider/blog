@@ -2,7 +2,6 @@
 title: "JSON 生成前端页面！百度开源的低代码框架 | 开源日报 No.354"
 description: "AMIS 是一个前端低代码框架，通过简单的 JSON 配置就能生成各种页面，极大地减少了开发成本，让用户即使不了解前端也能轻松使用。是一个非常方便实用的工具，让页面开发变得简单高效。"
 date: "2024-09-08T23:35:29.297Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/45dc6cfba56e5a6c697c2fad5ccf5822.png"
 tags: []
 categories:
   - "daily"

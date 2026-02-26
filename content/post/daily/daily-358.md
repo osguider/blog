@@ -2,7 +2,6 @@
 title: "Spotify 音乐下载工具：支持播放列表、专辑封面和元数据 | 开源日报 No.358"
 description: "想要快速、简单、准确地下载 Spotify 音乐吗？试试一下 spotify-downloader 吧！这款工具不仅可以下载播放列表和歌曲，还可以获取专辑封面和元数据，让你的音乐下载体验更加完整和高品质。支持从 Spotify 播放列表中查找歌曲并在 YouTube 上下载，保证下载音乐时的最高比特率，让你尽情享受音乐的乐趣！快来体验吧！"
 date: "2024-09-12T23:35:22.711Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/700952b0ae1d6f1be34e8a6c3e8854e2.png"
 tags: []
 categories:
   - "daily"

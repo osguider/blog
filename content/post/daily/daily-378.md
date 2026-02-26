@@ -2,7 +2,6 @@
 title: "3200 个品牌 SVG 图标集：支持 CDN 引用和颜色定制 | 开源日报 No.378"
 description: "探索简洁明了的 simple-icons，轻松获取主流品牌的 SVG 图标，通过 CDN 服务随心引用，定制颜色，简单高效！"
 date: "2024-10-01T23:35:40.052Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2379b576e15ed69443e2770a2a98a993.png"
 tags: []
 categories:
   - "daily"
@@ -73,4 +72,3 @@ Azure-zero-to-hero 是一个从零开始学习 Azure 的仓库。
 - 创建虚拟机并部署应用程序
 - 网络服务概述及高级网络服务介绍
 - 部署两层应用程序以及持续集成与持续部署设置等实际项目操作指导
-

@@ -2,7 +2,6 @@
 title: "cursor-free-vip：一键畅享 AI 编程 | 开源日报 No.579"
 description: "cursor-free-vip 是一个多平台自动化工具，用于自动注册 Cursor AI 会员账户 (支持 0.48.x 版本)，提供 Google/GitHub OAuth 验证、机器 ID 重置和配置清理功能，支持 Windows/macOS/Linux 系统及多语言界面。"
 date: "2025-04-18T23:35:19.751Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b078b66d9862de2e4aee02f613fd9db3.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "懒人自动办公神器，定时短信邮件一键搞定 | 开源日报 No.816"
 description: "hacker-scripts 是一个集合了幽默和实用性的自动化脚本的开源项目，旨在帮助用户通过脚本简化日常任务。项目包含多种脚本，使用 Shell 和 Ruby 语言，支持 Twilio 和 Gmail，利用 cron 作业定时执行，提升工作和生活的便利性。脚本的创意性和趣味性，例如远程控制咖啡机，体现了自动化的极致应用。"
 date: "2025-12-11T15:35:58.574Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

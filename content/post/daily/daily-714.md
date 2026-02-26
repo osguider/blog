@@ -2,7 +2,6 @@
 title: "自主搜索超强推理：面向信息检索的智能网页代理 | 开源日报 No.714"
 description: "WebAgent 是阿里巴巴 Tongyi Lab 开发的智能网页代理系统，包含 WebWalker、WebDancer 和 WebSailor 三大核心模型，专注于复杂信息检索任务。其核心优势在于 WebSailor 的强大推理能力、创新的数据合成与高难度问答基准训练，WebDancer 结合 ReAct 框架与多阶段训练提升泛化能力。系统支持多代理协作与大规模数据，能自动化执行长时间多步骤信息获取，且在多项基准测试中表现优异，显著缩小与商业闭源系统的差距。"
 date: "2025-09-01T07:36:02.159Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject73765b65b717022a5d0d41ceb4f2309a.png"
 tags: []
 categories:
   - "daily"

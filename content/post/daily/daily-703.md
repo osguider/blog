@@ -2,7 +2,6 @@
 title: "基于 Docker 的 Android 模拟器：远程访问与多设备配置无缝整合 | 开源日报 No.703"
 description: "docker-android 是一个基于 Docker 的 Android 模拟器解决方案，支持远程访问、视频录制、日志共享和多种设备配置，适用于 Android 应用开发和测试，兼容多种测试框架，且可与云服务集成，提供多版本镜像和数据持久化存储。"
 date: "2025-08-21T07:36:08.231Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject697c15414601f97389d6f2375e5f56fd.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "强大易用的机器学习库：助您轻松入门与进阶 | 开源日报 No.840"
 description: "scikit-learn 是一个基于 SciPy 构建的 Python 机器学习模块，提供多种机器学习算法和工具，适合初学者和专业人士，支持数据预处理、模型选择和评估，拥有广泛的社区支持和文档资源。"
 date: "2026-01-04T07:35:29.766Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

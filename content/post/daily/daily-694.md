@@ -2,7 +2,6 @@
 title: "智能代理训练的开源解决方案：无须奖励函数，轻松应对多步任务 | 开源日报 No.694"
 description: "ART 是一个基于 GRPO 算法的强化学习框架，核心创新是采用 RULER 技术通过大语言模型自动评估代理轨迹，无需手工设计奖励函数。支持多种主流 LLM，提供模块化架构和云端部署能力，集成训练监控工具，平衡了开箱即用与灵活定制。"
 date: "2025-08-12T07:35:43.954Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject8bbf0b342b465af1dcb1451c756c85ef.png"
 tags: []
 categories:
   - "daily"

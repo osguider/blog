@@ -2,7 +2,6 @@
 title: "可定制的开源电子商务平台：全面支持多商店和支付集成 | 开源日报 No.491"
 description: "Spree 是一个开源电子商务平台，具有高度的可定制性和模块化设计，允许用户选择和定制所需功能。它以 API 为中心，支持多商店、多供应商、多货币和多语言，提供强大的购物车和结账功能，集成超过 30 种支付提供者。Spree 具有响应式管理面板，适用于多种部署环境，包括云端和容器化平台，已被全球数千家商家验证。"
 date: "2025-01-25T03:20:50.402Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/23e63bb473f353251f738269fd99fc67.png"
 tags: []
 categories:
   - "daily"

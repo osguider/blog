@@ -2,7 +2,6 @@
 title: "MetaGPT：多智能体框架实现自然语言编程 | 开源日报 No.334"
 description: "MetaGPT 是一个多智能体框架，旨在实现自然语言编程。它能够处理复杂任务，具有多种功能和特性。MetaGPT 支持使用 Data Interpreter 进行数据解释，解决现实世界的问题。它还可以为不同的角色分配不同的语言模型，提供了序列化功能和多语言支持。作为一个多智能体系统，MetaGPT 模拟了一个软件公司的整个流程，通过应用标准操作规程实现了团队的协作。通过使用 MetaGPT，您可以轻松地将需求转化为用户故事、竞争分析、需求、数据结构、API、文档等，为软件公司的整个流程提供了完整的支持。"
 date: "2024-08-20T23:35:31.935Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d6a9dd023c7ca3f3d132c98719219b07.png"
 tags: []
 categories:
   - "daily"

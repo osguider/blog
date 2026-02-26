@@ -2,7 +2,6 @@
 title: "视频超分与补帧框架，AI 驱动画质流畅升级 | 开源日报 No.870"
 description: "video2x 是一个开源的视频超分辨率和帧插值处理框架，采用 C/C++ 重写以提升性能，支持 Windows 和 Linux 平台。它集成了多种先进的机器学习模型，提供超分辨率和帧插值功能，具有用户友好的图形界面和安装程序，兼容 MPV 的 GLSL 着色器，利用 ncnn 和 Vulkan 技术优化性能，要求支持 AVX2 的 CPU 和 Vulkan 的 GPU。"
 date: "2026-02-03T15:35:34.722Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "屏蔽 AI 生成内容，还原网络纯净！ | 开源日报 No.410"
 description: "uBlockOrigin-HUGE-AI-Blocklist 是用于 uBlock Origin 和 uBlacklist 的包含 AI 生成内容的大型站点屏蔽列表。"
 date: "2024-11-02T23:35:54.315Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f7fcb2d8e179ce2447da7ced0a314b3a.png"
 tags: []
 categories:
   - "daily"

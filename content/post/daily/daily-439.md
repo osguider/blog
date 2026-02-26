@@ -2,7 +2,6 @@
 title: "运行在浏览器的 Linux 虚拟机：学习环境轻松搭建 | 开源日报 No.439"
 description: "webvm 是一个在浏览器中运行的 Linux 虚拟机。"
 date: "2024-12-03T23:35:41.797Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/112908363b30a1f22e5f79528ddf3b99.png"
 tags: []
 categories:
   - "daily"

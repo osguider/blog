@@ -2,7 +2,6 @@
 title: "企业级 API 开放平台！打造自己的 API 门户和市场 | 开源日报 No.333"
 description: "APIPark 是全球首个开源企业级 API 开放平台，帮助组织快速构建企业内部 API 门户/市场，享受极致的转发性能、API 可观测性、服务治理、多租户管理和订阅审批流程等诸多好处。"
 date: "2024-08-19T23:35:20.554Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6f271d905f61934391100574b016d8eb.png"
 tags: []
 categories:
   - "daily"

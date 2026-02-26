@@ -2,7 +2,6 @@
 title: "告别广告烦扰：开源的音视频播放器推荐"
 description: "该文介绍了几款视频播放器，每个项目都有其独特的功能和优点。例如iina提供完整的视频和音乐功能，mpv支持广泛的媒体文件格式和强大的脚本功能，ZY Player是跨平台的桌面端视频资源播放器，VLC是自由的开源媒体播放器和多媒体引擎。最后，MPC-BE是适用于Windows操作系统的免费开源音频和视频播放器。"
 date: "2023-11-23T06:16:35.678Z"
-image: "undefined"
 tags: []
 categories:
   - "topic"

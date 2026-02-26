@@ -2,7 +2,6 @@
 title: "开源的安卓虚拟定位工具：支持鸿蒙系统 | 开源日报 No.314"
 description: "GoGoGo 是一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆。"
 date: "2024-07-31T23:35:38.170Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4ecea3a056f84db49737c45834318ce8.png"
 tags: []
 categories:
   - "daily"
@@ -85,4 +84,3 @@ GoGoGo 是一个基于 Android 调试 API + 百度地图实现的虚拟定位工
 - 提供简单用法和常见问题解答（FAQ）
 - 在鸿蒙系统上正常运行
 - 使用 GPL 许可证，开源共享。
-

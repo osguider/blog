@@ -2,7 +2,6 @@
 title: "所见即所得，扩展性极佳的开源无代码平台 | 开源日报 No.347"
 description: "探索 nocobase —— 这款开源无代码/低代码平台将可扩展性置于首位，专为业务应用和企业解决方案而设计。凭借数据模型驱动的架构、所见即所得的界面以及插件化的功能实现，nocobase 让构建复杂应用变得简便高效。"
 date: "2024-09-01T23:35:24.948Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7b96a3d40048cd1053ad10d8523a3888.png"
 tags: []
 categories:
   - "daily"

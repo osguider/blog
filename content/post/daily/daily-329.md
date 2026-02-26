@@ -2,7 +2,6 @@
 title: "50k Stars!Google 的 Java 核心库 | 开源日报 No.329"
 description: "guava 是 Google 为 Java 提供的核心库，解决了许多问题，包括提供了新的集合类型、不可变集合、图形库、并发、I/O 等实用工具。它在 Google 的 Java 项目中被广泛使用，也被许多其他公司广泛采用。guava 提供丰富的集合类型和支持不可变集合，确保数据安全性和线程安全性，并具有可靠性和稳定性"
 date: "2024-08-15T23:35:39.207Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/97fd59588054d69553c07fd6ed80da9d.png"
 tags: []
 categories:
   - "daily"

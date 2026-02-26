@@ -2,7 +2,6 @@
 title: "卖货主播大模型：激发用户购买意愿 | 开源日报 No.553"
 description: "Streamer-Sales 是一个能够根据给定的商品特点从激发用户购买意愿角度出发进行商品解说的卖货主播大模型。"
 date: "2025-03-28T15:54:25.232Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8e9f64124e05aed40f67122e1fed168b.png"
 tags: []
 categories:
   - "daily"

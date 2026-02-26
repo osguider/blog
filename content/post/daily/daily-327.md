@@ -2,7 +2,6 @@
 title: "ASP.NET 清晰架构解决方案：轻松实现松耦合和依赖反转 | 开源日报 No.327"
 description: "CleanArchitecture 是一个基于 ASP.NET Core 的清晰架构解决方案模板。它为开发者提供了一个起点，帮助实现应用程序中的松耦合和依赖反转的架构模式。"
 date: "2024-08-13T23:35:25.508Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b08986caee6cbc48f069e186513801ff.png"
 tags: []
 categories:
   - "daily"

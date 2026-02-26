@@ -2,7 +2,6 @@
 title: "开源的电子商务网站：AI 生成产品信息和图片 | 开源日报 No.376"
 description: "eShop 是一个参考的 .NET 应用程序，实现了一个电子商务网站。"
 date: "2024-09-29T23:35:34.220Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/71783dec2be9b93fb1ef6dc5e6b99bb6.png"
 tags: []
 categories:
   - "daily"

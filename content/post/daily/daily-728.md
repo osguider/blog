@@ -2,7 +2,6 @@
 title: "双臂移动家用机器人：3999 元即可拥有智能助手 | 开源日报 No.728"
 description: "XLeRobot 是一个开源双臂移动家用机器人项目，旨在以低于 iPhone 的价格 (约 660 美元) 让更多人体验具身人工智能。该机器人采用模块化设计，支持多种摄像头配置和控制方式，装配时间少于 4 小时，且无需 WiFi 连接。项目提供详尽文档和仿真环境，兼容多种设备，基于多个成熟的开源平台，注重实际家庭任务应用。"
 date: "2025-09-15T07:35:45.543Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject1d31453ad2664c73adf0ef42629bb1a2.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "跨平台统一显示标准 emoji ，灵活 API/CDN/本地部署 | 开源日报 No.854"
 description: "Twemoji 是一个跨平台的开源库，支持标准 Unicode 表情符号的统一显示，符合 Unicode 14.0 和 Emoji 14.0 标准。它提供安全的 DOM 解析方法，避免使用 innerHTML，支持 CDN 引入和本地部署，具有灵活的 API 接口，允许用户自定义图片源和设置图像属性。"
 date: "2026-01-19T23:35:54.306Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

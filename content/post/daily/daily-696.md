@@ -2,7 +2,6 @@
 title: "灵活构建 AI 智能体工具包： 代码优先，轻松集成与扩展 | 开源日报 No.696"
 description: "adk-python 是一个开源的 Python 工具包，专注于构建、评估和部署复杂的 AI 智能体，强调灵活性和控制力。它提供丰富的工具生态，支持代码优先开发和模块化多智能体系统设计，能够在多种环境中部署，并集成 Agent2Agent 协议以实现智能体间的远程通信与协作。"
 date: "2025-08-14T07:35:46.132Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectc38f2fbf3a9632d0be19b83943e4d8a5.png"
 tags: []
 categories:
   - "daily"

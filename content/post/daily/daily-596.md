@@ -2,7 +2,6 @@
 title: "小程序多端统一开发框架：一码转译全平台 | 开源日报 No.596"
 description: "morjs 是一个基于小程序 DSL 的多端研发框架，支持将微信/支付宝小程序代码一键转换为多平台应用。核心特点包括：易用性 (原生 DSL 支持)、多端适配 (小程序和 Web)、标准化研发和插件化扩展。"
 date: "2025-05-16T23:56:05.649Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/637160e3ddd74178518f77219c1add97.png"
 tags: []
 categories:
   - "daily"

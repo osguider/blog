@@ -2,7 +2,6 @@
 title: "深度解析PDF文档：精准提取文本与表格信息 | 开源日报 No.758"
 description: "pdfplumber 是一个功能强大的 Python 库，用于深入解析 PDF 文件，能够精确提取文本、表格及图形信息，支持命令行导出多种格式，具备可视化调试功能，能够处理密码保护的 PDF 文件，并提供丰富的 API 以满足多样化的解析需求。"
 date: "2025-10-14T07:35:49.611Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

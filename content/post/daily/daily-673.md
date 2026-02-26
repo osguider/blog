@@ -2,7 +2,6 @@
 title: "简化数据库工具开发：高效、安全的 MCP 服务器 | 开源日报 No.673"
 description: "genai-toolbox 是一个开源的数据库 MCP 服务器，通过简化开发流程、优化性能、增强安全性和内置可观测性，加速数据库工具开发。其核心亮点是支持自然语言查询数据库，自动生成查询语句和代码，显著提升开发效率。"
 date: "2025-07-22T07:36:06.153Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fb8dad65d522ac7e741df87922cd2e25.png"
 tags: []
 categories:
   - "daily"

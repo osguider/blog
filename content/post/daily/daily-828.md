@@ -2,7 +2,6 @@
 title: "AI 助手快速上手教程：Claude API 实战指南 | 开源日报 No.828"
 description: "claude-quickstarts 是一个开源项目，旨在帮助开发者快速构建基于 Claude API 的可部署应用，提供多种示范项目如客户支持代理和金融数据分析师，展示 Claude 的自然语言处理能力，支持 API 密钥配置，附有详细的安装和使用指南。"
 date: "2025-12-23T07:35:20.075Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

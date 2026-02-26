@@ -2,7 +2,6 @@
 title: "纯 JavaScript 实现的 OCR 库：支持超过 100 种语言 | 开源日报 No.715"
 description: "tesseract.js 是一个基于 JavaScript 的光学字符识别 (OCR) 库，支持超过 100 种语言，能够从图像和视频中提取文本。它使用 WebAssembly 封装了 Tesseract OCR 引擎，适用于浏览器和 Node.js，安装简便，且通过 CDN 或 npm/yarn 轻松获取，显著减小了文件大小，提升了运行速度和内存效率。"
 date: "2025-09-02T07:35:52.048Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject47a4cd5166e21e6aa993824a2d88c37a.png"
 tags: []
 categories:
   - "daily"

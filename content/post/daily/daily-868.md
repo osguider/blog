@@ -2,7 +2,6 @@
 title: "随身携带的 Android 应用修补器，轻松定制去广告功能 | 开源日报 No.868"
 description: "ReVanced Manager 是一款开源的 Android 应用程序，允许用户对应用进行补丁处理，提供便携式的 ReVanced Patcher，具备简单易用的界面和高度的可定制性，包括 API 配置和主题选择，适合用户快速上手和个性化设置。"
 date: "2026-02-01T07:35:37.825Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

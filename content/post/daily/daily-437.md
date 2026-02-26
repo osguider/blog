@@ -2,7 +2,6 @@
 title: "免费开源的 CAD 建模工具：全平台支持！ | 开源日报 No.437"
 description: "FreeCAD 这款强大的开源 3D 参数建模工具，适用于产品设计、机械工程和建筑等多个领域。它能够通过参数化建模和强大的 Python API，助你轻松实现创意设计，适配 Windows、macOS 和 Linux 等多个平台！"
 date: "2024-12-03T23:35:40.459Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/94b02cd2b1068493c4b2643da9dfdea3.png"
 tags: []
 categories:
   - "daily"

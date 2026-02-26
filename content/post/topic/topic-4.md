@@ -2,7 +2,6 @@
 title: "免费学习资源盘点：从基础编程到大规模系统架构"
 description: ""
 date: "2023-11-23T06:16:20.977Z"
-image: "undefined"
 tags: []
 categories:
   - "topic"

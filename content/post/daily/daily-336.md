@@ -2,7 +2,6 @@
 title: "开源的物联网平台：设备管理、数据收集、可视化 | 开源日报 No.336"
 description: "thingsboard 是一款开源的物联网平台，提供全方位的设备管理、数据收集、处理和可视化功能。无论是设备管理、数据收集与处理，还是可视化展示，thingsboard 都能胜任。它还支持智能能源、车队跟踪、智能农业等多种物联网应用场景，满足不同行业的需求。更重要的是，thingsboard 还集成了强大的物联网规则引擎，能够自动化处理设备数据，提供更智能的解决方案。"
 date: "2024-08-22T23:36:03.776Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/48ca6413d2607d6a0d017cd3ad87b2b9.png"
 tags: []
 categories:
   - "daily"

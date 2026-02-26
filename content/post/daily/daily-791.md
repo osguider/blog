@@ -2,7 +2,6 @@
 title: "轻松构建隔离测试环境：快速启动和销毁容器服务 | 开源日报 No.791"
 description: "testcontainers-java 是一个支持 JUnit 测试的开源 Java 库，提供轻量级的 Docker 容器实例，便于快速启动和销毁常见数据库和浏览器环境的集成测试。它利用 Docker 技术确保测试环境的隔离和一致性，简化复杂依赖服务的搭建，提升开发效率。"
 date: "2025-11-16T07:35:45.044Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

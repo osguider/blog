@@ -2,7 +2,6 @@
 title: "AI 代理自动化创新：自主创建、优化和完善 AI 代理 | 开源日报 No.704"
 description: "Archon 是一个开源人工智能代理项目，旨在自主创建、优化和完善其他 AI 代理，开辟自动化代理的新领域。它提供预构建工具和示例，强调主动推理、领域知识整合和可扩展架构，采用模块化设计以支持可维护性和伦理 AI 实践。"
 date: "2025-08-22T07:36:01.379Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectdf2868b0691deeb2db1aad5c22ba3416.png"
 tags: []
 categories:
   - "daily"

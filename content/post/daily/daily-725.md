@@ -2,7 +2,6 @@
 title: "创意设计新选择：隐私优先的多模态助手 | 开源日报 No.725"
 description: "jaaz 是一个开源的多模态创意助手，提供隐私优先且可本地使用的替代方案，支持图像和视频的一键生成，兼容多种 AI 模型，并具备无需提示词的魔法画布和视频功能。该项目强调无限画布、实时协作和智能 AI 代理系统，允许灵活部署，确保用户数据隐私和所有权，适合商业用途。"
 date: "2025-09-12T07:36:12.452Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectd6a534a0a6b49f0300bc111a287c87a5.png"
 tags: []
 categories:
   - "daily"

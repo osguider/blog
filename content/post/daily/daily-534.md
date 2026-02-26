@@ -2,7 +2,6 @@
 title: "微软开源：将办公文档转为 Markdown 格式！ | 开源日报 No.534"
 description: "markitdown 是一个开源的 Python 工具，旨在将多种文件格式 (如 PDF、PowerPoint、Word、Excel) 转换为 Markdown 格式。它提供易于使用的命令行和 Python 接口，具备插件架构以支持扩展，能够与 Microsoft Document Intelligence 集成，且支持 Docker 部署。"
 date: "2025-03-11T14:01:55.141Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0c86b74e3aafab5813e09ba716659172.png"
 tags: []
 categories:
   - "daily"

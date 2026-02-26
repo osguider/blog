@@ -2,7 +2,6 @@
 title: "人工智能助手，你我皆可拥有"
 description: ""
 date: "2023-11-23T06:16:15.372Z"
-image: "undefined"
 tags: []
 categories:
   - "topic"

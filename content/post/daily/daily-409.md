@@ -2,7 +2,6 @@
 title: "开源版活动行：管理活动、销售门票、扫码签到 | 开源日报 No.409"
 description: "Hi.Events 是一个开源的活动管理和售票平台 ️。"
 date: "2024-11-01T23:35:29.033Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/eab5ad39fea543839438d6d35b8a0368.png"
 tags: []
 categories:
   - "daily"

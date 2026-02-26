@@ -2,7 +2,6 @@
 title: "智能屏幕解析工具：助力 GUI 代理与 AI 深度交互 | 开源日报 No.525"
 description: "OmniParser 是一个开源的屏幕解析工具，旨在为基于视觉的 GUI 代理提供支持，能够将用户界面截图解析为结构化元素，增强 GPT-4V 生成界面交互的能力，支持多种大型语言模型，提供细粒度的图标检测和交互预测，尤其在 Windows Agent Arena 中表现突出，受到广泛欢迎。"
 date: "2025-03-01T08:58:31.099Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/60116f103ce692909151e97694524266.png"
 tags: []
 categories:
   - "daily"

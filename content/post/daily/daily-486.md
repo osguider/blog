@@ -2,7 +2,6 @@
 title: "简历优化利器：智能匹配提升求职竞争力 | 开源日报 No.486"
 description: "Resume-Matcher 是一个开源工具，利用语言模型和先进的机器学习算法，比较和排名简历与职位描述，旨在优化简历的可读性和内容，提供 ATS 友好的建议，并测量简历与职位描述的相似度。"
 date: "2025-01-25T03:12:31.397Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/01e9894f92b5dae4e0c131bf5fccd9e5.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "极简 Markdown 编辑器：微信写作新体验 | 开源日报 No.566"
 description: "md 是一款简洁的微信 Markdown 编辑器，支持基础语法、数学公式、Mermaid 图表、代码高亮，提供多图上传、自定义主题和本地内容管理功能。"
 date: "2025-04-06T15:29:19.480Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1cbb46cbb2f8e4b8e0d8f8f3d25098b8.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "开源的视频配音翻译与视频字幕翻译工具 | 开源日报 No.431"
 description: "想要提升视频翻译与本地化的质量吗？VideoLingo 是您不可错过的全方位工具！它不仅解决了传统翻译的僵硬问题，还通过高质量的配音与智能字幕技术，实现了跨语言的流畅交流。"
 date: "2024-11-23T23:35:25.540Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b63e90233d862fba800c022c5b649ac5.png"
 tags: []
 categories:
   - "daily"

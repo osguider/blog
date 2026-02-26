@@ -2,7 +2,6 @@
 title: "加密消息，高清音视频通话：私密通信的新选择 | 开源日报 No.565"
 description: "Signal-Android 是一款安全、隐私至上的 Android 即时通讯应用，支持加密消息、高清语音/视频通话，全球数百万用户免费使用。"
 date: "2025-04-06T15:29:21.559Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f47429d219602565d643ba1bad7eb396.png"
 tags: []
 categories:
   - "daily"

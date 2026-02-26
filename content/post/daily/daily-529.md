@@ -2,7 +2,6 @@
 title: "高效团队知识库：支持实时协作与美观设计 | 开源日报 No.529"
 description: "Outline 是一个基于 React 和 Node.js 构建的快速知识库，专为成长中的团队设计，提供美观的用户界面、实时协作功能，并支持 Markdown 格式，旨在提升团队的协作效率。"
 date: "2025-03-11T14:01:57.224Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/597830b54410cf2260376763726db749.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "紫微斗数十二宫排盘工具：科学与玄学的碰撞融合 | 开源日报 No.645"
 description: "iztro 是一个轻量级的开源 JavaScript 库，用于获取紫微斗数（Zi Wei Dou Shu）排盘信息。"
 date: "2025-06-25T07:35:56.562Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e524fe91cec5e3210a2a9391feb7bcc4.png"
 tags: []
 categories:
   - "daily"

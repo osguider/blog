@@ -2,7 +2,6 @@
 title: "AI 人像生成的新工具：风格多样，速度飞快 | 开源日报 No.434"
 description: "探索 FaceChain，这款深度学习工具链让个性化人像生成变得前所未有的简单与快速！只需一张照片，10秒钟即可生成高质量的数字双胞胎，支持多种风格与设置，兼容性强，功能多样，助你轻松实现创意与个性化的完美结合！"
 date: "2024-11-26T23:35:26.169Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/07a6848541effc45ac0d75e6f3f31c25.png"
 tags: []
 categories:
   - "daily"

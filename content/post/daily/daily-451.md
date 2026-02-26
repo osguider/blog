@@ -2,7 +2,6 @@
 title: "全面提升 Vue 应用开发体验：的 UI 组件库 | 开源日报 No.451"
 description: "探索 PrimeVue，一个强大的开源 Vue UI 组件库，助力开发者轻松构建多样化的用户界面。它不仅支持主题定制和图标使用，还提供便捷的 Nuxt 模块和自动导入解析器，极大简化开发流程。"
 date: "2024-12-13T23:35:24.691Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5ff2b5b3107f2df0d3b977d175ddcf81.png"
 tags: []
 categories:
   - "daily"

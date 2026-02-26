@@ -2,7 +2,6 @@
 title: "高性能数值计算：充分释放 GPU 潜能 | 开源日报 No.465"
 description: "Taichi 是一种开源的高性能并行编程语言，嵌入于 Python 中，旨在简化数值计算的编程过程。它的核心特点包括与 Python 语法的相似性，灵活的通用数据容器 SNode，自动编译为高效机器码的性能优化，以及在多个平台上运行的可移植性，支持主流的 GPU API。"
 date: "2025-01-05T03:04:00.069Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8211d283e368a8fb20546f787d65b32f.png"
 tags: []
 categories:
   - "daily"

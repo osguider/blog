@@ -2,7 +2,6 @@
 title: "单一支付 API：支持 130 个国家的支付生态 | 开源日报 No.454"
 description: "探索 Hyperswitch，这款基于 Rust 开发的开源支付交换平台，致力于为全球支付提供快速、可靠的解决方案。通过单一 API，您可以轻松接入 130 多个国家的支付生态，快速部署，助力原型开发。"
 date: "2024-12-16T23:36:05.877Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/48becee617e5a5a0c30ebafd4338601f.png"
 tags: []
 categories:
   - "daily"

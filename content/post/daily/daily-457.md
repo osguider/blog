@@ -2,7 +2,6 @@
 title: "支持多种格式的电子书阅读器：适用于多种设备 | 开源日报 No.457"
 description: "这款强大的电子书阅读器为您提供无与伦比的阅读体验！无论您使用的是 Cervantes、Kindle、Kobo、PocketBook 还是 Android 设备，KOReader 都能轻松支持多种格式，满足您对 PDF、EPUB 等电子书的需求。其高度自定义的界面、与多种内容提供商的无缝集成、以及对电子墨水设备的优化，确保您能享受流畅、便捷的阅读乐趣。"
 date: "2024-12-19T23:35:40.129Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4502bd3fb09b85d6d7da65dafd228b06.png"
 tags: []
 categories:
   - "daily"

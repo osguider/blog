@@ -2,7 +2,6 @@
 title: "智能代理开发框架：MCP 协议驱动的高效协作 | 开源日报 No.633"
 description: "mcp-agent 是一个基于模型上下文协议 (MCP) 的高效代理框架，提供简单可组合的构建模式，支持多代理协调和与模型无关的 Swarm 模式，简化代理开发过程。"
 date: "2025-06-11T07:35:12.387Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2d7440e21f5ce08beac5c97331291190.png"
 tags: []
 categories:
   - "daily"

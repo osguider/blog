@@ -2,7 +2,6 @@
 title: "安卓自动化 APP：轻松关闭任意开屏广告 | 开源日报 No.116"
 description: "这款基于无障碍技术的自定义屏幕点击 APP，能够帮助你跳过任意开屏广告，关闭应用内部弹窗广告，还能自动同意微信电脑登录和领取红包。它的高级选择器和订阅规则让操作更加简便。快来体验这款功能强大的 APP 吧！"
 date: "2024-10-27T17:25:24.644Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1d36aae232f52e57423a291fe4d07280.png"
 tags: []
 categories:
   - "daily"
@@ -86,4 +85,3 @@ Fabric.js 是一个简单而强大的 Javascript HTML5 画布库，主要功能�
 
 - 列举了多个不同类别下的开源替代方案，包括人工智能聊天机器人、AI 代码补全、团队知识库、内部工具等。
 - 所有产品都是基于 GitHub 进行维护，并且至少获得 100 星标。
-

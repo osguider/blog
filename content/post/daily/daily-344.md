@@ -2,7 +2,6 @@
 title: "Google Analytics 强力替代品！注重隐私的网站分析工具 | 开源日报 No.344"
 description: "如果你正在寻找一个简单、快速、注重隐私的 Google Analytics 替代品，那么 umami 是你的不二选择。umami 解决了用户想要使用类似 Google Analytics 的服务，但又不想泄露用户数据给第三方的问题。它不仅简单易用，快速响应，还注重隐私保护。另外，它还支持 MySQL 和 PostgreSQL 数据库。不要再犹豫了，快来试试 umami，保护你的数据隐私，提升你的网站分析体验吧！"
 date: "2024-08-30T23:35:17.299Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/889fbf8aded4367ba5292bb257d36c13.png"
 tags: []
 categories:
   - "daily"
@@ -83,4 +82,3 @@ Intel® Extension for Transformers 是一个创新的工具包，用于加速基
 - 提供完整的书籍翻译
 - 包含详细的参考资料
 - 在线阅读便捷
-

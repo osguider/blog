@@ -2,7 +2,6 @@
 title: "无广告高效媒体下载工具：轻松保存喜爱内容 | 开源日报 No.737"
 description: "Cobalt 是一个高效的媒体下载工具，旨在无广告、无追踪器的环境中，帮助用户轻松下载免费和公开的内容。它支持直接粘贴链接下载，操作简便，并提供 API 和前端代码，确保用户的下载体验简洁高效。"
 date: "2025-09-20T07:36:03.627Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject11f09a3b1a8c90e3f07bcdb53a2c0a63.png"
 tags: []
 categories:
   - "daily"

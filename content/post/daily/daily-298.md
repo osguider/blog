@@ -2,7 +2,6 @@
 title: "英语学习项目：简单易懂、内容丰富 | 开源日报 No.298"
 description: "《everyone-can-use-english》是一个涵盖丰富英语学习内容的在线和本地阅读项目，拥有一千小时的学习内容，包括口语、语音、朗读、词典、语法等多个章节，同时提供语音塑造学习方式，帮助学习者更好地掌握英语语音。内容简单易懂，适合所有英语学习者使用。是提升英语能力的好帮手！"
 date: "2024-07-10T23:35:51.944Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/010e14b9d6476fa55865636a95e2bae4.png"
 tags: []
 categories:
   - "daily"

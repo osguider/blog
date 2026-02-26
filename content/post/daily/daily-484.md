@@ -2,7 +2,6 @@
 title: "连接远程 GPU 到本机：聚合 GPU 池进行模型训练 | 开源日报 No.484"
 description: "SCUDA 是一个允许将远程机器上的 GPU 连接到仅有 CPU 的机器上的 GPU over IP 桥接工具。"
 date: "2025-01-25T02:33:49.296Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/509b4ec5a0515e71ccc278d5368eb8de.png"
 tags: []
 categories:
   - "daily"

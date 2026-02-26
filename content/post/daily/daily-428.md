@@ -2,7 +2,6 @@
 title: "把视频配音翻译成另一种语言：自动添加字幕 | 开源日报 No.428"
 description: "想要打破语言障碍，让视频内容更广泛传播吗？pyvideotrans 工具应运而生，轻松实现视频翻译、字幕添加与配音，支持多种语言与语音合成 API，助你轻松创建多语言视频，助力内容传播，提升观众体验！"
 date: "2024-11-20T23:35:54.467Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a5482b0b385130edf20f666082a83ab3.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "强大灵活的数据可视化工具：支持 SVG、Canvas 和 HTML | 开源日报 No.537"
 description: "D3 是一个开源的 JavaScript 库，用于数据可视化，支持 SVG、Canvas 和 HTML，提供灵活的 API 以创建动态数据驱动的图形，兼容多种网页技术，拥有丰富的文档和示例，推动了多项创新和获奖的可视化项目。"
 date: "2025-03-11T14:01:55.429Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f9b4a8d03efcfe8a7bb75d93f7a5c95b.png"
 tags: []
 categories:
   - "daily"

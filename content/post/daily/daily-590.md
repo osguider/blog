@@ -2,7 +2,6 @@
 title: "专为微服务打造的 GoLang 开发框架 | 开源日报 No.590"
 description: "gofr 是一个 GoLang 微服务框架，旨在加速微服务开发，内置对数据库和可观察性的支持。其核心特性包括简单的 API 语法、REST 标准、配置管理、日志/追踪/指标支持、认证中间件、gRPC/HTTP 服务、发布/订阅模式、健康检查、数据库迁移、定时任务调度、动态日志级别更改和 Swagger 渲染工具。"
 date: "2025-05-01T07:36:02.949Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7d0e203e6c38d01dfb538cc9a413ed36.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "JavaScript/WebGL 实现的马里奥卡丁车游戏 | 开源日报 No.309"
 description: "Mario-Kart-3.js 是一个 JavaScript/WebGL 实现的马里奥卡丁车游戏。"
 date: "2024-07-26T23:35:45.839Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a5b313c198a2a3d8358e5f04c9037bc2.png"
 tags: []
 categories:
   - "daily"
@@ -83,4 +82,3 @@ Mario-Kart-3.js 是一个 JavaScript/WebGL 实现的马里奥卡丁车游戏。
 - 按住空格键进行漂移，通过转向和反向转向来保持漂移状态，并在释放时获得小涡轮。
 - 按 E 键使用当前物品。
 - 按 R 重置位置，可随时使用。
-

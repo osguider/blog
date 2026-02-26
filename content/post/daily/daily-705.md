@@ -2,7 +2,6 @@
 title: "高效简化 Go 项目初始化过程：轻量级编译时依赖注入工具 | 开源日报 No.705"
 description: "wire 是一个用于 Go 语言的编译时依赖注入工具，旨在通过代码生成简化组件初始化，使用函数参数表示依赖，避免全局变量，提升代码的显式性。它无需运行时状态或反射，生成的代码适合手动初始化，项目已达到功能完整的 beta 阶段，注重简单性和稳定性，并提供详细的文档和最佳实践。"
 date: "2025-08-23T07:35:14.997Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject633e30826a9dd2c7aeb87a2ed3b8b8ef.png"
 tags: []
 categories:
   - "daily"

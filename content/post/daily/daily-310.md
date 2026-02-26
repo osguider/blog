@@ -2,7 +2,6 @@
 title: "把任何眼镜变成智能设备！仅需 25 美元 | 开源日报 No.310"
 description: "OpenGlass 是一个开源的智能眼镜项目，可以将任何眼镜变成具备人工智能功能的智能眼镜。"
 date: "2024-07-27T23:35:17.821Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/65348e3beec328501ae172cdfe51184a.png"
 tags: []
 categories:
   - "daily"

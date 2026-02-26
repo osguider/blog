@@ -2,7 +2,6 @@
 title: "精选 MCP 资源列表：文件访问、数据库连接、API 集成 | 开源日报 No.738"
 description: "awesome-mcp-servers 是一个精选的 Model Context Protocol (MCP) 服务器列表，旨在展示支持 AI 模型与资源安全交互的服务器项目，涵盖生产和实验性服务器，提供多种上下文服务和安全风险提示，支持多种客户端工具，旨在提高开发效率和系统自动化能力。"
 date: "2025-09-21T23:35:58.680Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectb81e32c688f43620064dcb695e55cd0c.png"
 tags: []
 categories:
   - "daily"

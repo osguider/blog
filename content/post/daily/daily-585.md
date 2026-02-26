@@ -2,7 +2,6 @@
 title: "数字人克隆助手：一键打造你的 AI 分身 | 开源日报 No.585"
 description: "HeyGem.ai 是一个开源的数字人克隆智能代理，提供简单易用的本地部署和 API 服务，支持高度自定义和国际化界面，允许免费商业使用。"
 date: "2025-04-25T07:36:13.120Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d03ea7eb72a29cf29f958678503d910c.png"
 tags: []
 categories:
   - "daily"

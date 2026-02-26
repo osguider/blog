@@ -2,7 +2,6 @@
 title: "多类型数据标注工具：加速机器学习算法研发 | 开源日报 No.393"
 description: "label-studio 是一个强大的多类型数据标注和注释工具，具有标准化的输出格式，提供简单直观的用户界面，支持标记音频、文本、图像、视频和时间序列等多种数据类型。它能够导出至不同模型格式，帮助改进训练数据以提高机器学习模型的准确性，同时还包含了数据标记模板和机器学习模型设置功能。label-studio 支持与现有工具集成，同时能够满足个性化需求，是一个不可多得的数据标注利器。"
 date: "2024-10-16T23:35:33.739Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/bb952d2f84ea4b191062898b5811a044.png"
 tags: []
 categories:
   - "daily"

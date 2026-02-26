@@ -2,7 +2,6 @@
 title: "自动化求职助手：个性化申请，轻松找到理想工作 | 开源日报 No.483"
 description: "Jobs_Applier_AI_Agent 是一个开源工具，旨在通过自动化求职申请流程，利用人工智能为用户提供个性化的职位申请体验，提升求职效率。该项目支持多种操作系统，并由活跃的开源社区持续更新和维护。"
 date: "2025-01-25T02:33:35.757Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4c795e716bbf5261544bef49fad125ce.png"
 tags: []
 categories:
   - "daily"

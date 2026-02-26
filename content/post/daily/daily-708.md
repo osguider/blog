@@ -2,7 +2,6 @@
 title: "AWS MCP：无缝集成 AWS 服务 | 开源日报 No.708"
 description: "MCP 是一个专为 AWS 服务设计的开源 MCP 服务器，基于 Model Context Protocol 标准，旨在实现大型语言模型应用与外部数据源的无缝集成。它提供实时访问 AWS 文档和最佳实践，支持多种 MCP 客户端，优化云原生开发和基础设施管理，且可在容器环境中灵活部署。"
 date: "2025-08-26T07:35:24.452Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectd10f946a9f58be3eead3a2a14c884add.png"
 tags: []
 categories:
   - "daily"

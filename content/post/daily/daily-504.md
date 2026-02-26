@@ -2,7 +2,6 @@
 title: "终极流媒体解决方案：支持多协议、零配置与低延迟 | 开源日报 No.504"
 description: "go2rtc 是一款开源的流媒体应用程序，支持多种协议 (如 RTSP、RTMP、HTTP-FLV 和 WebRTC)，旨在实现低延迟的多源视频流传输。它具有零依赖、零配置的特点，兼容多种操作系统，支持从多种来源 (如 USB 摄像头) 进行视频流传输，并可将流媒体发布到流行的直播服务。该项目还首创支持 HomeKit 摄像头直播，并通过 FFmpeg 实现即时转码。"
 date: "2025-02-15T09:05:26.785Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8e736e23de98e270cd187cea29865982.png"
 tags: []
 categories:
   - "daily"

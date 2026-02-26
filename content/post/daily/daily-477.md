@@ -2,7 +2,6 @@
 title: "RAG、AI 管道和企业搜索云模板：实时数据同步，快速应用部署 | 开源日报 No.477"
 description: "llm-app 是一个开源项目，提供即用的云模板，支持 RAG、AI 管道和企业搜索，具备实时数据同步和高准确度的 AI 应用程序快速部署功能。它支持多种数据源的实时同步，内置数据索引功能，支持向量和全文搜索，且可扩展至数百万页文档，适用于多种云平台或本地环境。"
 date: "2025-01-09T23:35:35.786Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/baf124f68d8ecee559a5773cf1706ece.png"
 tags: []
 categories:
   - "daily"

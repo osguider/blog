@@ -2,7 +2,6 @@
 title: "自托管小巧工具箱：本地化处理日常任务 | 开源日报 No.663"
 description: "omni-tools 是一个自托管的网页工具集，提供图像/视频处理、数据转换等多样化本地化工具，采用轻量级 Docker 部署，注重隐私安全，基于 React+TypeScript 构建。"
 date: "2025-07-13T07:36:02.488Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/dfe9e175ad3625965a224200260cde99.png"
 tags: []
 categories:
   - "daily"

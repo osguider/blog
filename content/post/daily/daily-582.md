@@ -2,7 +2,6 @@
 title: "灵动网页动效引擎：轻量级 JS 动画库 | 开源日报 No.582"
 description: "anime 是一个轻量级 JavaScript 动画库，提供简单强大的 API 支持 CSS、SVG、DOM 属性和 JS 对象的动画，具有丰富的动画选项和灵活的时间线控制。"
 date: "2025-04-22T23:35:50.666Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/46b372347bcb997b83078506b85c234e.png"
 tags: []
 categories:
   - "daily"

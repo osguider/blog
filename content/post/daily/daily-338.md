@@ -2,7 +2,6 @@
 title: "AI 软件工程师！你的最佳编码搭档 | 开源日报 No.338"
 description: "OpenDevin 是一个旨在复制 Devin 的开源项目，Devin 是一款自主 AI 软件工程师，能够执行复杂的工程任务并与用户积极合作。该项目的核心技术研究专注于理解和改进代码生成和处理的技术方面，通过数据整理、训练方法等手段提高核心组件的效果，开发用于错误检测、代码库管理和优化的功能，建立全面评估指标以更好地了解并改进模型。"
 date: "2024-08-23T23:35:10.169Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/765ecd9a2e0b315313f306bc9c089cae.png"
 tags: []
 categories:
   - "daily"

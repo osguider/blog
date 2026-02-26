@@ -2,7 +2,6 @@
 title: "实时语音活动检测系统：高性能低延迟多平台多语言 | 开源日报 No.669"
 description: "ten-vad 是一个高性能、轻量级的实时语音活动检测系统，支持多平台和语言，在准确率、延迟和资源消耗方面优于同类产品，适合企业级和嵌入式应用。"
 date: "2025-07-18T07:35:18.087Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2e934a7edb77ad441b0b74c206a97dc0.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "企业级分布式作业调度引擎 : 高可用高性能功能丰富界面友好 | 开源日报 No.632"
 description: "PowerJob 是一个分布式作业调度中间件，提供丰富的定时策略、多种执行模式 (独立、广播、Map、MapReduce)、工作流 (DAG) 支持、多语言处理器 (Java/Shell/Python) 和强大的容错能力，支持高可用和水平扩展，适用于企业级任务调度场景。"
 date: "2025-06-10T07:35:12.764Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ae62e15de62e0cd4418d90b7501eae4c.png"
 tags: []
 categories:
   - "daily"

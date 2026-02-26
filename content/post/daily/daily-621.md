@@ -2,7 +2,6 @@
 title: "基于 Python 的网页自动化工具：语法优雅、高效稳定 | 开源日报 No.621"
 description: "DrissionPage 是一个功能强大的 Python 网页自动化工具，具有优雅的语法和内置实用功能，支持多标签页操作、iframe 元素查找、缓存读取和全网页截图，无需下载浏览器驱动，运行高效稳定。"
 date: "2025-05-30T15:35:19.369Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/aa2a7eada527267e37736e8f3947aa5f.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "Meta Llama3 模型微调与推理解决方案 | 开源日报 No.321"
 description: "探索 ，这是一套专为 Meta Llama3 模型微调而设计的脚本集合。它支持多种先进的训练方法，包括可组合的 FSDP 和 PEFT，适用于单节点和多节点 GPU。无论是默认数据集还是自定义数据集，都能轻松应用于摘要生成和问答系统等多种场景。此外，该项目提供了多种候选推理解决方案，如 HF TGI 和 VLLM，可灵活部署于本地或云端环境。通过 WhatsApp 和 Messenger 的演示应用，展示了 Meta Llama3 在实时通讯平台上的强大应用潜力。"
 date: "2024-08-07T23:35:21.083Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/880945edb50fc8e967e4a7a54718c921.png"
 tags: []
 categories:
   - "daily"

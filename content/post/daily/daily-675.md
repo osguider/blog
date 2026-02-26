@@ -2,7 +2,6 @@
 title: "Swift 代码格式化工具：提升团队编码一致性与协作效率 | 开源日报 No.675"
 description: "SwiftFormat 是一个 MIT 许可的 Swift 代码格式化工具，支持多平台和多种集成方式 (命令行/Xcode/Git 钩子)，可自动规范代码风格，提升团队协作效率。"
 date: "2025-07-25T07:36:09.657Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e3d40beb5a20b4550f5fbd7a211781d2.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "开源的 SaaS 白板工具：思维导图、流程图和自由绘画 | 开源日报 No.707"
 description: "drawnix 是一款开源的 SaaS 白板工具，支持思维导图、流程图和自由绘画，具备多平台使用、无限画布、导出功能和插件扩展，提供良好的移动设备适配和多主题模式，底层基于 Plait 框架，兼容 Angular 和 React。"
 date: "2025-08-25T23:35:20.310Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectdabf1f38994ec9e94ad9df06c609c9d6.png"
 tags: []
 categories:
   - "daily"

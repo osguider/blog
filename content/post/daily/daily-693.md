@@ -2,7 +2,6 @@
 title: "理解机器学习的基石：从零实现机器学习模型和算法 | 开源日报 No.693"
 description: "ML-From-Scratch 是一个使用 NumPy 从零实现机器学习算法的开源项目，强调算法透明性而非性能优化，涵盖监督学习、无监督学习和强化学习等多种模型，包括 CNN、GAN 等示例。"
 date: "2025-08-11T23:35:46.967Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject03a6b90b9770bab821d56a60e2b405da.png"
 tags: []
 categories:
   - "daily"

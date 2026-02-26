@@ -2,7 +2,6 @@
 title: "React 项目架构：简单、安全、可扩展 | 开源日报 No.340"
 description: "bulletproof-react 是一个简单、可扩展和强大的架构，用于构建生产就绪的 React 应用程序。它提供了一种使用生态系统中最好的工具和良好的项目结构来创建 React 应用程序的方式。该架构解决了大多数真实世界应用程序中的问题，并帮助开发者编写更好的应用程序。它具有易于入门、简单易懂、易维护、使用适合任务需求的正确工具、清晰的部分边界、保持一致性、安全性、性能和可扩展性高的特点。如果你想构建高质量的 React 应用程序，bulletproof-react 是一个值得尝试的架构。"
 date: "2024-08-25T23:35:10.147Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/62c3dc847c607139a38921576e19905c.png"
 tags: []
 categories:
   - "daily"

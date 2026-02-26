@@ -2,7 +2,6 @@
 title: "极其快速的压缩算法：每核心压缩速度超 500M/s | 开源日报 No.318"
 description: "LZ4，一个极速压缩算法的选择！无论是面对高速数据还是多核处理器，它都能提供超过 500 MB/s 的压缩速度。不仅支持多核扩展和动态速度调节，还有高压缩比的衍生版本 LZ4_HC 可供选择。使用 BSD 2-Clause 许可证，适配多语言版本，包括 Java、C#、Python 等。无论是大文件还是小文件，都能在解压速度上表现出色。LZ4，为压缩与速度之间的完美平衡提供解决方案！"
 date: "2024-08-04T23:35:28.239Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/496b6a15d606a5f09f77f2a4fb004532.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "游戏画质升级利器：轻松管理动态链接库 | 开源日报 No.679"
 description: "DLSS-Swapper 是一个开源工具 (GPL-3.0)，用于安全下载和管理游戏中的 DLSS/FSR/XeSS 动态库，支持多平台游戏和版本切换，但不支持为原生不支持的游戏添加这些功能。"
 date: "2025-07-28T07:36:03.320Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1a0909c16dfb5395b493655e47f412c4.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "Hugo-PaperMod主题：简洁高效的博客解决方案 | 开源日报 No.423"
 description: "探索 Hugo-PaperMod 主题的无限可能！这个快速、简洁且响应式的主题不仅提升了用户体验，还提供了多种自定义选项，如多语言支持、社交媒体集成、自动主题切换等功能。"
 date: "2024-11-15T23:35:26.804Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/326be9e5af17ff0c2b992f6d42050139.png"
 tags: []
 categories:
   - "daily"

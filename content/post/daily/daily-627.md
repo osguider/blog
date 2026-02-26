@@ -2,7 +2,6 @@
 title: "nvim-treesitter：语法高亮、自动化解析器管理 | 开源日报 No.627"
 description: "nvim-treesitter 是为 Neovim 打造的 Tree-sitter 集成插件，提供语法高亮、自动化解析器管理及扩展功能，支持多语言并兼容最新 Neovim 特性。"
 date: "2025-06-07T07:35:43.106Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/844b24016bfd0f0e50c76f3ac773b2c6.png"
 tags: []
 categories:
   - "daily"

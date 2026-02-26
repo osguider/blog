@@ -2,7 +2,6 @@
 title: "嵌入式设备的 Linux 操作系统：自定义固件和交叉编译工具链 | 开源日报 No.730"
 description: "OpenWrt 是一个针对嵌入式设备的 Linux 操作系统，具有可写的文件系统和包管理功能，支持多种架构，提供预编译固件和灵活的软件包管理，允许用户和开发者自定义固件，配备现代化的管理界面，且拥有丰富的文档和活跃的社区支持。"
 date: "2025-09-22T07:35:30.536Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjecta9fe273352cce5b2b0277f3f54892834.png"
 tags: []
 categories:
   - "daily"

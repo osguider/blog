@@ -2,7 +2,6 @@
 title: "阿里云 Qwen2.5：大语言模型的显著改进 | 开源日报 No.375"
 description: "阿里云 Qwen 团队开发的 Qwen2.5 大型语言模型系列，提供多种规模和变体的密集易用解码器语言模型，预训练于大规模数据集，具有生成长文本、理解结构化数据和增强多样性等多方面的显著改进，适用于角色扮演和聊天机器人等多种应用场景。"
 date: "2024-09-29T23:35:34.220Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/75e96714c7239a406343a5f90b331563.png"
 tags: []
 categories:
   - "daily"

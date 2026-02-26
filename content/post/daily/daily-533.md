@@ -2,7 +2,6 @@
 title: "深度学习全景图谱：掌握神经网络的精髓与应用 | 开源日报 No.533"
 description: "nndl.github.io 是一本由邱锡鹏编写的在线教材，专注于神经网络与深度学习，提供全面的知识，定期更新以修正错误，包含丰富的习题和图表，采用清晰的符号定义以提升阅读体验。"
 date: "2025-03-11T14:01:52.473Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/20a3a83f95ff88740d55fb80b9979c9f.png"
 tags: []
 categories:
   - "daily"

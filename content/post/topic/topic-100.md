@@ -2,7 +2,6 @@
 title: "部署简化，启动加速：IT 运维的高效启动解决方案 | 开源专题 No.100"
 description: "在这个快节奏的时代，效率就是生命。想象一下，如果有一个助手，能够自动纠正你的错误，监控你的系统，甚至帮你快速搜索文件，那将是多么美妙的事情！这些开源项目正是这样的助手，它们用智能化的工具，让你的工作更加得心应手，让你的生产力飞跃提升。"
 date: "2024-07-13T23:35:54.229Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1934279f72984bb744c531752175b27a.png"
 tags: []
 categories:
   - "topic"
@@ -82,4 +81,3 @@ Ventoy 是一个开源工具，用于创建支持 ISO/WIM/IMG/VHD(x)/EFI 文件�
 - 支持各种分区格式和操作系统类型
 - 可直接从 ISO/WIM/IMG/VHD(x)/EFI 文件启动，无需解压缩
 - 多种 BIOS 架构与分区样式均得到支持
-

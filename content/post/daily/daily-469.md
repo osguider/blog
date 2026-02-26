@@ -2,7 +2,6 @@
 title: "儿童绘画变身人形动画：轻松生成自定义动画与导出视频 | 开源日报 No.469"
 description: "AnimatedDrawings 是一个开源代码库，旨在将儿童绘画转化为人形动画，提供灵活的自定义动画工具，支持导出为 MP4 或透明 GIF，兼容 macOS 和 Ubuntu，用户可通过配置文件轻松调整角色、动作和场景。"
 date: "2025-01-05T03:03:59.161Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3f623775cf08f9843851345fde115636.png"
 tags: []
 categories:
   - "daily"

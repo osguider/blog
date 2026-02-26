@@ -2,7 +2,6 @@
 title: "开源视频会议平台：支持安卓、iOS、Web 端 | 开源日报 No.713"
 description: "Jitsi Meet 是一个开源的视频会议平台，支持独立使用或嵌入网页，提供安全、简单、可扩展的视频会议解决方案，兼容主流浏览器和移动设备，具备高清音视频、互动功能、内置聊天、投票和虚拟背景设置，支持自建实例和企业级云服务，方便集成和管理。"
 date: "2025-08-31T07:35:16.473Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject3683b0ea18ac91ee1b36cca568f8025d.png"
 tags: []
 categories:
   - "daily"

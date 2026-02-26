@@ -2,7 +2,6 @@
 title: "MCP 官方 SDK：包含服务器与客户端实现 | 开源日报 No.747"
 description: "typescript-sdk 是一个官方的 TypeScript 软件开发工具包，旨在实现 Model Context Protocol (MCP) 的服务器和客户端，支持标准的消息传输和生命周期管理，提供核心接口以管理连接和消息路由，允许注册静态和动态资源以提供上下文数据，支持功能性工具以增强 LLM 应用的交互能力，适用于 Node.js 环境并提供丰富的示例和用法指导。"
 date: "2025-10-03T07:35:32.244Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

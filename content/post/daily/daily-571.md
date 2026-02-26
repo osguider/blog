@@ -2,7 +2,6 @@
 title: "基于 AI 代理的浏览器自动化框架：支持高清屏幕录制和持久化会话 | 开源日报 No.571"
 description: "web-ui 是一个浏览器 AI 代理工具，支持多种语言模型 (如 Google、OpenAI)，提供用户友好的交互界面、高清屏幕录制和持久会话功能，无需重新登录即可使用自己的浏览器。"
 date: "2025-04-13T09:10:07.584Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4a32ea6994322abafe3be26dce77b546.png"
 tags: []
 categories:
   - "daily"

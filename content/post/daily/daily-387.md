@@ -2,7 +2,6 @@
 title: "功能齐全的开源 ERP 系统：客户管理、仓库管理、电子商务 | 开源日报 No.387"
 description: "快速上手 Odoo，打造功能齐全的开源 ERP 系统，集成客户关系管理、电子商务、仓库管理等主要应用，让你的商业应用更高效！"
 date: "2024-10-10T23:35:22.903Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0e2fa96ef7320267daba899a1c8441e7.png"
 tags: []
 categories:
   - "daily"

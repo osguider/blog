@@ -2,7 +2,6 @@
 title: "交互式 HTTP 抓包工具：助力渗透测试与开发 | 开源日报 No.721"
 description: "mitmproxy 是一个开源的交互式 HTTP 拦截代理，专为渗透测试和软件开发设计，支持 HTTP/1、HTTP/2 和 WebSockets 协议，提供命令行工具 mitmdump 和网页界面 mitmweb，便于流量分析和监控，同时提供丰富的文档和教程。"
 date: "2025-09-09T07:35:32.709Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectd2c01d9a39c66c8b9e59d91bededfac9.png"
 tags: []
 categories:
   - "daily"

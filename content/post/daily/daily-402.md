@@ -2,7 +2,6 @@
 title: "隐私优先、功能丰富的开源知识管理软件 | 开源日报 No.402"
 description: "siyuan 是一款隐私优先、自托管、完全开源的个人知识管理软件，支持细粒度块级引用和 Markdown WYSIWYG，提供丰富的编辑功能，包括数学公式、图表、流程图等，同时支持 Web 剪贴和 PDF 注释链接，具备数据库视图和闪卡间隔重复等特性，可通过 Docker 部署，同时支持 Android/iOS 应用程序，功能丰富，是一款不可多得的知识管理利器。"
 date: "2024-10-27T16:53:53.519Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e7df9f77b51f1c19dd97cd52c9dc131c.png"
 tags: []
 categories:
   - "daily"

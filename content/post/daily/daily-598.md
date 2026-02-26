@@ -2,7 +2,6 @@
 title: "Markdown 转幻灯片：开发者的高效演示方案 | 开源日报 No.598"
 description: "slidev 是一个基于 Markdown 和 Vue 的开发者友好幻灯片工具，支持代码高亮、实时编码、主题定制、Vue 组件嵌入、演讲者模式、数学公式、图表绘制等功能，由 Vite 驱动实现快速加载和高度可扩展性。"
 date: "2025-05-07T23:35:34.791Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fc82a8895e9e861da8526f17a7928236.png"
 tags: []
 categories:
   - "daily"

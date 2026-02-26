@@ -2,7 +2,6 @@
 title: "轻量级监控平台：全面掌握 Docker 容器状态 | 开源日报 No.502"
 description: "beszel 是一个轻量级的服务器监控平台，提供 Docker 统计、历史数据、可配置警报和多用户支持，易于设置且资源占用低。它支持 OAuth/OIDC 认证，具备自动备份功能，并提供 REST API 以便于数据的自定义使用和更新。"
 date: "2025-02-15T09:05:08.192Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/dd2055fce23f8c4ce2e09656fcef9368.png"
 tags: []
 categories:
   - "daily"

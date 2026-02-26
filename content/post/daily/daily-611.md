@@ -2,7 +2,6 @@
 title: "自动化钓鱼工具：知己知彼防患未然 | 开源日报 No.611"
 description: "zphisher 是一个开源钓鱼工具，提供 30+模板和多种隧道选项，支持 URL 掩码和 Docker 容器化，仅用于教育目的。"
 date: "2025-05-20T07:35:14.896Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8a19b3be39b101212117ffefdd8027ad.png"
 tags: []
 categories:
   - "daily"

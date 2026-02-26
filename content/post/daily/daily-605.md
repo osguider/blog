@@ -2,7 +2,6 @@
 title: "Cursor 的开源替代品：完整源码随意定制 | 开源日报 No.605"
 description: "Void 是一个开源的 Cursor 替代品，基于 vscode 开发，提供完整源代码和社区支持。"
 date: "2025-05-14T07:36:05.910Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f06a222f46c4b8dcddf77426974f46a3.png"
 tags: []
 categories:
   - "daily"

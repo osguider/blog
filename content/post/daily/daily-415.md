@@ -2,7 +2,6 @@
 title: "命令行模糊查找：超快性能、灵活配置 | 开源日报 No.415"
 description: "fzf 这个命令行模糊查找器以其便携性强、超快性能、极其灵活以及内置集成的特点而备受推崇。无论是查找文件、命令历史记录还是进程，fzf 都能帮助您快速找到所需的项。"
 date: "2024-11-07T23:35:21.521Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/011727ad0f71700bac5d128c36121324.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "机器人算法学习助手：简洁示例助力实践创新 | 开源日报 No.804"
 description: "PythonRobotics 是一个开源项目，提供了一个涵盖多种实用机器人算法的 Python 代码集，旨在通过清晰的示例和详尽的文档，帮助用户理解和实现机器人技术，包括定位、地图构建、SLAM、路径规划和轨迹跟踪等核心模块，代码结构简洁，便于学习和二次开发。"
 date: "2025-11-29T15:35:34.698Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "海量多领域数据集：一站获取高质量公开资源 | 开源日报 No.812"
 description: "awesome-public-datasets 是一个高质量的公共数据集列表项目，涵盖多个专业领域如农业和建筑，提供丰富的免费数据资源，便于研究和开发。该项目由上海交通大学 OMNILab 孵化，结合用户反馈和博客资源，确保数据的及时更新和规范维护。"
 date: "2025-12-07T23:35:15.780Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

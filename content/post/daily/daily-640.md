@@ -2,7 +2,6 @@
 title: "离线语音识别引擎：多平台多语言的本地化方案 | 开源日报 No.640"
 description: "Vosk-api 是一个支持 20+ 语言、50MB 小巧模型的离线语音识别 API，提供零延迟流式识别、多语言/多设备支持，适用于智能设备、字幕生成等多种场景。"
 date: "2025-06-18T07:36:00.701Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2198e383fa61648bd239bedc9bd90e61.png"
 tags: []
 categories:
   - "daily"

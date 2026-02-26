@@ -2,7 +2,6 @@
 title: "灵活强大的网站生成框架：集成 Next.js 所有功能 | 开源日报 No.379"
 description: "nextra 是一个简单、强大且灵活的站点生成框架，继承了 Next.js 的优势，让你可以轻松创建具有强大功能的网站。如果你喜欢 Next.js，那么一定会喜欢 nextra。赶快体验吧！"
 date: "2024-10-02T23:35:14.092Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/99ac7be18df250b82c41ec74e91618fa.png"
 tags: []
 categories:
   - "daily"
@@ -73,4 +72,3 @@ unstract 是一个无代码的 LLM 平台，用于启动 API 和 ETL 管道从�
 
 - 可以通过简单的无代码方法启动接受复杂文档并返回结构化 JSON 的 API。
 - 可以启动读取各种云文件/对象存储系统中复杂文档并将结构化数据写入流行数据仓库和数据库的非结构化数据 ETL 管道。
-

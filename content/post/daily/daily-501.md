@@ -2,7 +2,6 @@
 title: "无广告自托管搜索引擎：尊重隐私、易于使用 | 开源日报 No.501"
 description: "Whoogle-search 是一个自托管的、无广告的元搜索引擎，强调用户隐私，支持无 JavaScript 运行、无 Cookies 及 IP 跟踪，兼容 Tor 和代理，具备搜索建议、易于安装及自定义搜索标签的功能。"
 date: "2025-02-15T09:04:59.917Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4ec28bb4110fa7a75c8772cc897c7255.png"
 tags: []
 categories:
   - "daily"

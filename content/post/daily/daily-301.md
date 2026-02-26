@@ -2,7 +2,6 @@
 title: "轻松创建本地 SSL 证书：无需进行任何配置 | 开源日报 No.301"
 description: "Mkcert 是一个简单易用的工具，用于创建本地可信任的开发证书，可以使用任何名称。该工具解决了在本地创建开发证书时需要进行繁琐配置的问题，可以自动在系统根证书存储中创建和安装本地 CA，并生成本地可信任的证书。此外，它还支持多个操作系统和浏览器的根证书存储，并提供高级选项，如生成客户端认证证书、使用 ECDSA 密钥、生成 PKCS #12 文件等。总之，如果你是一名开发人员，需要在本地创建可信任的开发证书，那么 mkcert 是一个非常实用的工具。"
 date: "2024-07-18T23:35:19.002Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/176d72ef883fffbbe6ca26f11d26ba57.png"
 tags: []
 categories:
   - "daily"

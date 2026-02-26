@@ -2,7 +2,6 @@
 title: "Go 语言学习百科全书：131k stars! | 开源日报 No.418"
 description: "发掘 Go 语言世界的宝藏，探索各种优秀的框架、库和软件资源！awesome-go 汇集了各种分类丰富多样的工具和解决方案，涵盖数据库、网络、安全等多个领域，让您的 Go 编程之路更加高效和精彩！"
 date: "2024-11-10T23:35:19.555Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/52043d62f7db7bae9151b97316481590.png"
 tags: []
 categories:
   - "daily"

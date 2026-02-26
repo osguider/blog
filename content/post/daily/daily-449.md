@@ -2,7 +2,6 @@
 title: "C++ JSON 解析与生成工具：腾讯开源，快速高效 | 开源日报 No.449"
 description: "如果你在寻找一个高效、轻量且易于使用的 JSON 解析器，RapidJSON 绝对是你的不二选择！它不仅性能卓越，支持多种编码，还具备跨平台的兼容性，适合各种开发环境。"
 date: "2024-12-11T23:35:16.329Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5e8d5fc6acb286a1b5796cc1b53b5f36.png"
 tags: []
 categories:
   - "daily"

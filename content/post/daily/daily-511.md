@@ -2,7 +2,6 @@
 title: "免费的离线地图应用：专为旅行者与探险者打造！ | 开源日报 No.511"
 description: "Organic Maps 是一款免费的开源离线地图应用，适用于 Android 和 iOS，专为旅行者和户外爱好者设计，利用众包的 OpenStreetMap 数据，提供详细的骑行和徒步地图，支持语音导航和离线搜索，支持多种格式的轨迹导入导出，具备护眼暗黑模式，且占用空间小。"
 date: "2025-02-15T08:56:05.364Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/77fe949941fbb8e9a8fc033b0f28ea7c.png"
 tags: []
 categories:
   - "daily"

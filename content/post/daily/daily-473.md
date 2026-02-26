@@ -2,7 +2,6 @@
 title: "Go 语言 WebSocket 实现：高效稳定、充分测试、广泛使用 | 开源日报 No.473"
 description: "这是一个高效且经过充分测试的 Go 语言 WebSocket 实现，具有稳定的 API 接口，提供完整的 WebSocket 协议支持，并包含多个示例应用 (如聊天和文件监视)。项目经过 Autobahn 测试套件的验证，确保其协议的合规性，且采用 BSD-2-Clause 许可证。"
 date: "2025-01-05T03:03:58.902Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/fb27b34c318098bb9b104e1f3f017684.png"
 tags: []
 categories:
   - "daily"

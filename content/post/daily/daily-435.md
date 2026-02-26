@@ -2,7 +2,6 @@
 title: "跨平台文件传输管理工具：支持上传/下载，多种协议 | 开源日报 No.435"
 description: "探索 FileCentipede，这款跨平台文件上传/下载管理器，支持多种协议如 HTTP、FTP 和 BitTorrent，完美解决不同网络环境下的文件管理难题。其用户友好的界面和强大的浏览器集成功能，让下载和上传变得轻松无比。"
 date: "2024-12-03T23:35:42.470Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/66ae390143aafea93d2dcbc3ccafdd81.png"
 tags: []
 categories:
   - "daily"

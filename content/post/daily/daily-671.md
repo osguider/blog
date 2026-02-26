@@ -2,7 +2,6 @@
 title: "从复杂文档提取结构化数据：支持长文档与批量并行处理 | 开源日报 No.671"
 description: "agentic-doc 是一个 Python 库，用于从复杂的 PDF 和图片文档中提取结构化数据，支持长文档处理、自动重试机制、批量并行处理，并以层级 JSON 格式返回结果，同时提供可视化调试工具和灵活的配置选项。"
 date: "2025-07-20T07:35:59.552Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/6b6bbfc84339d03be930c67fa33f0131.png"
 tags: []
 categories:
   - "daily"

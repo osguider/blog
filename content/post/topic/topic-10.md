@@ -2,7 +2,6 @@
 title: "视频剪辑利器：全能的音视频处理"
 description: ""
 date: "2023-11-23T06:16:33.584Z"
-image: "undefined"
 tags: []
 categories:
   - "topic"

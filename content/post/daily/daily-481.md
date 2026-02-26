@@ -2,7 +2,6 @@
 title: "AI 驱动的双语 PDF 翻译工具：完美保留排版与格式！ | 开源日报 No.481"
 description: "PDFMathTranslate 是一个基于 AI 的双语翻译工具，专注于 PDF 文档，能够完整保留排版格式，支持科学论文的翻译，兼容多种语言和翻译服务，提供命令行工具、交互式界面和 Docker 部署选项。"
 date: "2025-01-25T02:33:04.197Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/69f45f01ba863a60f88cf505bcabe82b.png"
 tags: []
 categories:
   - "daily"

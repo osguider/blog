@@ -2,7 +2,6 @@
 title: "Rust 实现的分布式查询引擎：帮你破解大规模数据处理难题 | 开源日报 No.731"
 description: "Daft 是一个基于 Rust 的分布式查询引擎，支持使用 Python 和 SQL 进行大规模数据处理，提供交互式 API 和查询接口，内置查询优化器，支持多模态数据类型，深度集成数据目录，优化云环境的 I/O 性能，并集成 Ray 框架以实现分布式计算能力。"
 date: "2025-09-23T07:35:24.866Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjecte65485777b910e962295a2f73f48fac2.png"
 tags: []
 categories:
   - "daily"

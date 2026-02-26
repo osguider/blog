@@ -2,7 +2,6 @@
 title: "第一个真正的 AI 开发者！帮你实现 95% 的代码 | 开源日报 No.372"
 description: "想要体验 AI 编写应用程序的魔力吗？gpt-pilot 项目将让你惊叹 AI 在开发中的无限潜力！让 AI 编写大部分应用程序代码，VS Code 扩展助力开发，支持 CLI 工具，让开发更高效，更便捷！快来体验吧！"
 date: "2024-09-26T23:35:33.613Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8c06d32fd92f9addef97031104da9c24.png"
 tags: []
 categories:
   - "daily"

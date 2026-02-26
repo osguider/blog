@@ -2,7 +2,6 @@
 title: "社交/游戏分布式服务器：用户系统、社交网络、多人游戏 | 开源日报 No.607"
 description: "Nakama 是一个分布式游戏服务器，提供用户系统、社交功能、实时多人游戏、排行榜、比赛和消息通知等核心服务，支持快速构建社交和实时游戏应用。"
 date: "2025-05-16T07:35:48.194Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e4c887cfceccbde914963c846590c03b.png"
 tags: []
 categories:
   - "daily"

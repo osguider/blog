@@ -2,7 +2,6 @@
 title: "从零到一：Python 爬虫百科全书 | 开源日报 No.343"
 description: "学习 Python 爬虫的完整教程系列项目，涵盖多种爬取技术和工具，支持多线程多进程和分布式爬取，还有实战案例和源代码示例展示。通过这个项目，你可以系统地学习并实践 Python 中的网络数据采集技术。"
 date: "2024-08-29T23:35:22.217Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d5737e222f7909e840f19d79178f5324.png"
 tags: []
 categories:
   - "daily"

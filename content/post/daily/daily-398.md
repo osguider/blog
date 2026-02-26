@@ -2,7 +2,6 @@
 title: "下一代人脸交换工具：支持图片和视频 | 开源日报 No.398"
 description: "facefusion 是一款下一代的人脸交换和增强工具，解决了人们在进行人脸交换和增强时的各种问题，具有多种实用功能，包括选择多个源图像或音频、选择目标图像或视频、指定输出文件或目录、支持自动下载功能、支持无界面运行模式等。"
 date: "2024-10-27T16:49:28.772Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a33270e390de32f9b37126c9b074e48d.png"
 tags: []
 categories:
   - "daily"

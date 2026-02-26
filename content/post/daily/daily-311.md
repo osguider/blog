@@ -2,7 +2,6 @@
 title: "精准视频切片与 AI 智能剪辑工具 | 开源日报 No.311"
 description: "FunClip 是一个开源、精准、方便的视频切片工具，集成了大语言模型 AI 智能剪辑功能。"
 date: "2024-07-28T23:35:39.486Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c086358743f1844b214eb01def98969b.png"
 tags: []
 categories:
   - "daily"

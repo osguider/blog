@@ -2,7 +2,6 @@
 title: "AI 协同创作：自动化生产 3D 电影 | 开源日报 No.644"
 description: "FilmAgent 是一个多智能体协作系统，通过模拟电影制作角色 (导演、编剧等) 实现端到端自动化电影创作，支持创意开发、剧本写作和摄像三个阶段，提供协作策略提升质量，并整合语音表演和 Unity 可视化功能。"
 date: "2025-06-24T07:35:48.600Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e3e4beedecde690fca3b7de819858e25.png"
 tags: []
 categories:
   - "daily"

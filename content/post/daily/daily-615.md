@@ -2,7 +2,6 @@
 title: "NeoVim 插件管家：一键管理 LSP 与开发工具 | 开源日报 No.615"
 description: "mason.nvim 是一个跨平台 Neovim 包管理器，支持一键安装和管理 LSP/DAP 服务器、代码检查及格式化工具，自动处理 PATH 链接，提供图形化状态窗口和简单命令操作。"
 date: "2025-05-24T07:35:09.231Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d786cdc2ab115a28c8fc78b9fbb3a9ea.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "代码定义工作流程：支持编写、调度和监控 | 开源日报 No.325"
 description: "Apache Airflow 是一个强大的工作流程管理平台，它允许您以编程方式编写、调度和监控工作流程。通过使用有向无环图 (DAGs) 来组织任务，并在指定依赖关系的情况下执行任务，Airflow 提供了一种灵活且可扩展的方式来处理静态和缓慢变化的工作流程。它还支持任务的幂等性和避免传递大量数据，使数据处理变得更加高效。此外，Airflow 还具有可扩展性强的特点，您可以定义自定义操作符和执行器，以满足特定需求。它还内置了 Jinja 模板引擎，使脚本参数化变得更加方便。总之，Apache Airflow 是一个功能丰富、易于维护和可视化的工作流程管理工具，适用于各种数据处理和任务调度需求。"
 date: "2024-08-11T23:35:40.187Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0267cddcc6b294423c484fb06b4fb96e.png"
 tags: []
 categories:
   - "daily"

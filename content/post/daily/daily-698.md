@@ -2,7 +2,6 @@
 title: "轻量级 AI 代理工作流构建平台：连接多种工具与大型语言模型 | 开源日报 No.698"
 description: "sim 是一个开源的 AI 代理工作流构建平台，具有用户友好的界面，支持快速搭建和部署大型语言模型 (LLM)。它兼容云端和多种本地自托管方式，支持本地模型的 GPU 和 CPU 运行，基于现代技术栈构建，集成实时通信和后台任务处理，提供直观的流程编辑体验，便于设计复杂的 AI 工作流。"
 date: "2025-08-16T07:35:15.558Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectfd21c61b25f481f00cba7107ea2c63e3.png"
 tags: []
 categories:
   - "daily"

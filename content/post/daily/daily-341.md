@@ -2,7 +2,6 @@
 title: "比 lodash 快 2-3 倍！体积最多减小97%！ | 开源日报 No.341"
 description: "es-toolkit 是一个现代化的 JavaScript 实用工具库，比 lodash 快 2-3 倍且体积最多减小了 97%。"
 date: "2024-08-26T23:35:38.111Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4c8ab1670d82dca401a05b5fd26d2fbe.png"
 tags: []
 categories:
   - "daily"

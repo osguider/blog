@@ -2,7 +2,6 @@
 title: "轻量高效的数据校验器：Zod 让 TS/JS 类型更安全 | 开源日报 No.578"
 description: "Zod 是一个轻量级 TypeScript 数据验证库，核心特点是零依赖、8kb 体积、链式 API 和不可变设计，支持 TypeScript 和普通 JavaScript 项目。"
 date: "2025-04-17T23:35:35.897Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/de53dee58a33c9326abba2acb3da070c.png"
 tags: []
 categories:
   - "daily"

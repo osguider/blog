@@ -2,7 +2,6 @@
 title: "高效分布式推理框架：专为生成式 AI 优化吞吐量与延迟 | 开源日报 No.757"
 description: "Dynamo 是一个开源的分布式推理服务框架，专为数据中心规模的生成式 AI 和推理模型设计，旨在提供高吞吐量和低延迟的推理服务。它支持多 GPU 和多服务器的协同工作，兼容多种推理引擎，具备动态 GPU 调度和高效的请求路由，能够灵活平衡吞吐量和延迟。Dynamo 的核心模块采用 Rust 实现，支持 Python 扩展，能够在 Ubuntu 环境中快速部署。"
 date: "2025-10-13T07:35:57.522Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

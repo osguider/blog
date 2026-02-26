@@ -2,7 +2,6 @@
 title: "高可用 IP 代理池：为爬虫项目提供低延迟服务 | 开源日报 No.510"
 description: "haipproxy 是一个高可用的分布式 IP 代理池，专为大型爬虫项目提供低延迟的高匿名 IP 代理服务，具有丰富的代理来源、严格的校验机制、完备的监控系统以及灵活的架构设计，支持单机和 Docker 部署，确保高可靠性和可扩展性。"
 date: "2025-02-15T08:56:05.694Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e626e82acbff558a4b9831aa74a396f1.png"
 tags: []
 categories:
   - "daily"

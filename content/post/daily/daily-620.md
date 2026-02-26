@@ -2,7 +2,6 @@
 title: "Windows 跑 Linux：WSL 高性能的秘密 | 开源日报 No.620"
 description: "WSL 是一个 Windows 的 Linux 子系统，允许在 Windows 上直接运行 Linux 应用，无需虚拟机，支持一键安装和集成 WSL2/WSLg 等工具。"
 date: "2025-05-28T07:35:58.611Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/53843394c16a0903809dc55da6f1d651.png"
 tags: []
 categories:
   - "daily"

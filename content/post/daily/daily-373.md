@@ -2,7 +2,6 @@
 title: "开源企业级 CRM 系统：完整管理客户全生命周期 | 开源日报 No.373"
 description: "Laravel CRM 提供完整的客户生命周期管理功能，基于 Laravel 和 Vue.js 构建，拥有简单易懂的管理员面板和仪表盘，支持自定义属性和模块化设计，还集成了 Sendgrid 进行邮件解析功能。"
 date: "2024-09-27T23:35:43.380Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7a2ccc82c5a6f7cf93309c60aff8cd9b.png"
 tags: []
 categories:
   - "daily"
@@ -81,4 +80,3 @@ Vim 是一个用于高效视觉表示学习的项目。
 - 比 DeiT 快 2.8 倍，并且在 1248×1248 分辨率图像进行批量推断时节省 86.8% GPU 内存
 - 能够克服执行 Transformer-style 理解高分辨率图像时的计算与内存限制
 此外，该项目还提供了预训练环境设置、模型权重下载及评估等相关内容。
-

@@ -2,7 +2,6 @@
 title: "依据文本定义生成流程图和序列图 | 开源日报 No.306"
 description: "Mermaid 是一个非常实用的开源项目，它可以通过文本生成流程图或序列图，类似于 markdown 的方式。它使用 Markdown 风格的文本定义，帮助文档跟上开发进度，可以轻松创建和修改复杂图表，还可以用于生产脚本和其他代码片段。如果你需要快速生成流程图或序列图，Mermaid 是一个非常好的选择。"
 date: "2024-07-22T23:35:16.411Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/715cf8865816f9a51b600cb60fc3ff87.png"
 tags: []
 categories:
   - "daily"

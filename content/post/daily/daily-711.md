@@ -2,7 +2,6 @@
 title: "目标导向型项目管理系统：无限子任务与依赖关系管理 | 开源日报 No.711"
 description: "Leantime 是一个开源项目管理系统，专为非项目经理设计，关注多动症、孤独症和阅读障碍用户的需求。它提供简洁的界面和丰富的功能，包括任务管理、项目仪表盘、知识库维护和多语言支持。系统支持无限子任务、依赖关系管理和企业级功能，如风险分析和时间跟踪，且可通过插件和 API 扩展，支持多种身份验证和文件存储选项。"
 date: "2025-08-29T07:35:37.154Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subjectd2dc8cf20306cbe7bc9693b0afc5181a.png"
 tags: []
 categories:
   - "daily"

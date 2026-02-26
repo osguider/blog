@@ -2,7 +2,6 @@
 title: "简化应用部署：基于 Docker 的轻量级 PaaS | 开源日报 No.351"
 description: "Dokku - 基于 Docker 的轻量级 PaaS 解决方案，让应用部署和管理变得更简便和自动化，支持多种操作系统，提供安全的应用部署方式，拥有详细的文档和社区支持，让您轻松构建和管理应用的生命周期。"
 date: "2024-09-05T23:35:57.731Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7993390f464edefc7a814ba878f62713.png"
 tags: []
 categories:
   - "daily"

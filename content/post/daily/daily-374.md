@@ -2,7 +2,6 @@
 title: "资源消耗一目了然：支持多平台，GPU 监控 | 开源日报 No.374"
 description: "btop 支持多操作系统，添加了 GPU 支持，提供多种主题选择，配置灵活，让你根据需求定制监控方案。"
 date: "2024-09-28T23:35:35.354Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3c6645b08268d0ba8bc111fe8abb2e2d.png"
 tags: []
 categories:
   - "daily"

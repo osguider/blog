@@ -2,7 +2,6 @@
 title: "数据安全不容倦怠：高效、安全的多平台备份程序 | 开源日报 No.295"
 description: "restic 是一个快速、高效和安全的备份程序，它支持多个操作系统 (Linux、macOS、Windows) 以及一些小型系统 (FreeBSD、OpenBSD)。你可以选择将备份数据存储在本地目录、sftp 服务器、HTTP REST 服务器等多种后端存储选项中。restic 的设计原则包括易用性、快速性、可验证性和安全性，这确保了你能够方便地备份和恢复数据，并保障数据的安全性。无论是个人用户还是企业用户，restic 都是一个值得信赖的备份解决方案。"
 date: "2024-07-07T23:35:30.611Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/f4abc0263912d696b2c52d934224068e.png"
 tags: []
 categories:
   - "daily"

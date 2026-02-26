@@ -2,7 +2,6 @@
 title: "开源的自主 AI 代理框架：高效构建和管理自主代理 | 开源日报 No.503"
 description: "SuperAGI 是一个开源的自主 AI 代理框架，旨在帮助开发者高效构建和管理自主代理。它提供可扩展的代理创建和部署功能，带有图形用户界面和行动控制台，支持多向量数据库连接和性能监测，优化令牌使用，具备记忆存储功能，且可针对特定场景定制微调模型。"
 date: "2025-02-15T09:05:15.012Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/c3a2aef15b067d05bca3d0e1cebbc2d3.png"
 tags: []
 categories:
   - "daily"

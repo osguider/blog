@@ -2,7 +2,6 @@
 title: "postgres 数据库终端可视化：Vim 风格高效操作 | 开源日报 No.380"
 description: "rainfrog 是一个用于 postgres 的数据库管理 TUI。"
 date: "2024-10-03T23:35:37.576Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/31283d374cc0a63dae96f27a2c317e3e.png"
 tags: []
 categories:
   - "daily"

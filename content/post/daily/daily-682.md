@@ -2,7 +2,6 @@
 title: "寻找远程工作的理想公司： 半远程到全远程科技企业一览 | 开源日报 No.682"
 description: "remote-jobs 是一个开源项目，收集全球支持远程工作的科技公司信息，帮助技术人才快速查找适合的远程职位。涵盖多种规模的企业和地区，提供公司名称、官网和区域等关键信息。"
 date: "2025-08-01T07:35:34.250Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/0ad4a73e5f828fa28df913fc11ae527b.png"
 tags: []
 categories:
   - "daily"

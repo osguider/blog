@@ -2,7 +2,6 @@
 title: "开源邮件服务器：无限发送、高级分析、自定义模板 | 开源日报 No.631"
 description: "BillionMail 是一个开源自托管邮件营销解决方案，提供无限制发送、高级分析、自定义模板和隐私保护功能，让用户完全掌控邮件服务器和营销活动。"
 date: "2025-06-09T15:35:44.662Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d370ebdba0bc0d9257387bcec36a7938.png"
 tags: []
 categories:
   - "daily"

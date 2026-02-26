@@ -2,7 +2,6 @@
 title: "ChatTTS：对话式语音模型与精细控制 | 开源日报 No.405"
 description: "想要体验更加自然、丰富表达的对话式语音合成吗？ChatTTS 将成为你的不二之选！不仅支持多个说话者的互动交流，更能精细控制韵律特征，包括笑声、停顿等，让你的对话更加生动有趣。超越其他开源 TTS 模型的韵律感，ChatTTS 提供预训练模型，助你探索更多研究与发展的可能性。赶快体验吧！"
 date: "2024-10-28T23:35:09.649Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b264594d662ee9c5c2c96a2e15f349dc.png"
 tags: []
 categories:
   - "daily"

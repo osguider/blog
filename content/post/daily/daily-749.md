@@ -2,7 +2,6 @@
 title: "身份验证反向代理：基于 OAuth2 的安全认证解决方案 | 开源日报 No.749"
 description: "oauth2-proxy 是一个开源反向代理工具，提供基于 OAuth2 和 OpenID Connect 的身份认证，支持多种身份提供商，既可独立运行也可作为中间件集成，能够安全保护 Web 应用，提取用户信息并传递给上游应用，提供多种部署选项和详尽文档，适合快速集成和部署。"
 date: "2025-10-05T07:35:53.111Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

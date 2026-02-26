@@ -2,7 +2,6 @@
 title: "时间序列机器学习统一框架：预测、分类、聚类任务标准化 | 开源日报 No.625"
 description: "sktime 是一个统一的时间序列机器学习框架，提供预测、分类、聚类等任务的标准化接口，兼容 scikit-learn 生态，内置专业算法和工具，并配有完善文档。"
 date: "2025-06-03T07:35:21.709Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a81f5965a392deb8f8e2c52d06f40e02.png"
 tags: []
 categories:
   - "daily"

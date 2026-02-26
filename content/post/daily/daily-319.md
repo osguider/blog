@@ -2,7 +2,6 @@
 title: "前端响应式开发框架：快速、直观、强大 | 开源日报 No.319"
 description: "Bootstrap 是当前网络开发中最受欢迎的 HTML、CSS 和 JavaScript 框架之一。它不仅提供了快速、直观、强大的前端工具，简化了网页开发流程，还包含了丰富的常用资产，用户可以轻松地编译和压缩版本进行部署。Bootstrap 支持多种快速开始选项，如直接下载、npm、yarn、Composer 或 NuGet 安装，同时提供了编译后的 CSS 和 JS 文件及源映射文件，便于开发和调试。其详细的文档涵盖了框架内容、模板和示例，为开发者提供了学习和使用的便利。"
 date: "2024-08-05T23:35:36.160Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/989ec79adddd568a87772ab19cff0cf7.png"
 tags: []
 categories:
   - "daily"

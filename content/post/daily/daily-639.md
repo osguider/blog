@@ -2,7 +2,6 @@
 title: "MCP 协议实践：多语言 SDK 与 demo 参考 | 开源日报 No.639"
 description: "servers 是一个实现模型上下文协议 (MCP) 的服务器集合，提供多种参考实现 (如文件系统操作、动态思维解决问题) 和 SDK 支持 (Typescript/Python)，展示 MCP 的灵活性和可扩展性，同时包含历史参考服务器和第三方服务集成。"
 date: "2025-06-17T07:35:54.396Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/e49b673ce629bf606d37c4ac48867842.png"
 tags: []
 categories:
   - "daily"

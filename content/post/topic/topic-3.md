@@ -2,7 +2,6 @@
 title: "如何更好地与 AI 交流？Prompt 学习指引"
 description: ""
 date: "2023-11-23T06:16:19.342Z"
-image: "undefined"
 tags: []
 categories:
   - "topic"

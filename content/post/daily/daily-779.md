@@ -2,7 +2,6 @@
 title: "在 Linux 系统上无缝运行 Windows 应用 | 开源日报 No.779"
 description: "winboat 是一个开源项目，旨在让用户在 Linux 系统上无缝运行 Windows 应用，提供优雅的用户界面和深度集成的原生体验。它支持自动化安装和配置，几乎兼容所有 Windows 软件，允许用户在 Linux 环境中以独立窗口运行应用，访问 Windows 桌面，和实现文件系统共享。项目基于 Electron 开发，利用 Docker 和 FreeRDP 技术，具备智能卡透传和资源监控等附加功能，持续更新中。"
 date: "2025-11-04T07:35:39.527Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

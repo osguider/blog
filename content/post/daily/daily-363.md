@@ -2,7 +2,6 @@
 title: "小红书 抖音 快手 B站 微博爬虫：可爬取视频、图片和评论 | 开源日报 No.363"
 description: "《MediaCrawler：多平台多功能爬虫项目》是一个专注于抓取小红书、抖音、快手、B 站和微博视频、图片和评论等信息的爬虫项目。通过利用 playwright 技术和执行 JS 表达式获取加密参数的方式，实现了高效的数据爬取功能。该项目不仅支持关键词搜索和指定帖子/视频 ID 爬取，还提供了 IP 代理池和滑块验证码处理功能，让数据获取更加稳定和可靠。数据还可保存到数据库或文件中，方便后续处理和分析。是爬虫爱好者和数据分析师不可多得的利器！"
 date: "2024-09-17T23:35:18.503Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/83398583376dc8b48b7a8a2dec435053.png"
 tags: []
 categories:
   - "daily"

@@ -2,7 +2,6 @@
 title: "快速构建网页应用的全栈框架：用 Rust 打造高性能同构体验 | 开源日报 No.497"
 description: "Leptos 是一个基于 Rust 的全栈同构框架，用于构建快速的网页应用程序，支持客户端和服务器端渲染，提供无缝集成的服务器函数，基于 Web 标准进行路由设计，内置反应式系统和模板库，确保高性能和细粒度反应性，采用声明式编程风格，简化开发过程。"
 date: "2025-02-15T09:04:36.910Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/4dde7b5a59ad6b24f0237bc0df6bb03d.png"
 tags: []
 categories:
   - "daily"

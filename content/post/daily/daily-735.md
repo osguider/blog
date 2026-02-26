@@ -2,7 +2,6 @@
 title: "Java 后台管理脚手架：集成多功能模块与SaaS支持 | 开源日报 No.735"
 description: "ruoyi-vue-pro 是一个基于 Spring Boot、MyBatis Plus、Vue 和 Element 的开源后台管理系统，具有动态权限管理、SaaS 多租户支持、集成工作流引擎、三方登录与支付功能，内置商城、CRM 和 ERP 系统，提供高效的开发工具。"
 date: "2025-09-18T07:35:38.624Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject8887712df542508822f5dae4c1525ad1.png"
 tags: []
 categories:
   - "daily"

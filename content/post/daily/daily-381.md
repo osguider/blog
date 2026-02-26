@@ -2,7 +2,6 @@
 title: "利用日常设备搭建 AI 集群：设备自动发现，无需手动配置 | 开源日报 No.381"
 description: "exo 是一个在家中利用日常设备搭建自己的 AI 集群的项目。"
 date: "2024-10-04T23:35:36.811Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/d52186f2116145a6ed6e1d85f29ff536.png"
 tags: []
 categories:
   - "daily"
@@ -76,4 +75,3 @@ core 是一个 .NET 新闻、公告、发布说明等的项目。
 - 可以通过 GitHub Discussions 关注最新预览版本、服务版本和 .NET 的 CVEs。
 - 提供各种类别的 RSS 订阅，包括所有讨论、新闻和一般信息。
 - 支持并列出了当前受支持的 .NET 版本及其结束支持日期。
-

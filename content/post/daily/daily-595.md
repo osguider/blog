@@ -2,7 +2,6 @@
 title: "全栈漏洞扫描利器：容器、k8s、代码库、云环境 | 开源日报 No.595"
 description: "Trivy 是一个多功能的安全扫描工具，支持容器、Kubernetes、代码库和云环境的安全检测，能够识别漏洞、配置错误、敏感信息及许可证合规问题，兼容多种平台和语言，并与主流工具集成。"
 date: "2025-05-05T07:36:06.276Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2552430551e396c6863000dc18eb11a0.png"
 tags: []
 categories:
   - "daily"

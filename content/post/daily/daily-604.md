@@ -2,7 +2,6 @@
 title: "AI 代理实战指南：Hugging Face 全栈课程 | 开源日报 No.604"
 description: "agents-course 是一个 Hugging Face 代理课程项目，提供从基础知识到最终作业的四个单元，涵盖多种框架 (如 smolagents、LangGraph 和 LlamaIndex) 和 LLM 微调，最终帮助学习者创建、测试和认证自己的 AI 代理。"
 date: "2025-05-13T15:35:31.846Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b19c113466d018d8c1a9ef8a83cf99c4.png"
 tags: []
 categories:
   - "daily"

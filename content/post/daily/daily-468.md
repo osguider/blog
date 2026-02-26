@@ -2,7 +2,6 @@
 title: "由 Vite 驱动的下一代高级测试框架 | 开源日报 No.468"
 description: "Vitest 是一个基于 Vite 的现代测试框架，具备与应用相同的配置和插件，支持 Jest 快照和 Chai 断言，提供智能监视模式和原生代码覆盖率，支持多种框架的组件测试，具备多线程和基准测试功能，适用于前端开发。"
 date: "2025-01-05T03:03:59.239Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2ca0f30fd637464bb3e9cbdb6bdd126b.png"
 tags: []
 categories:
   - "daily"

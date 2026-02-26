@@ -2,7 +2,6 @@
 title: "RAG 技术资源库：前沿技术、文档全面 | 开源日报 No.549"
 description: "RAG_Techniques 是一个开源资源库，展示先进的检索增强生成 (RAG) 系统技术，提供全面的文档和实施指南，旨在帮助开发者有效应用这些技术，并定期更新以保持内容的前沿性。"
 date: "2025-03-28T15:54:08.447Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/ca042720a106d3faf99aab5ae28bdd3c.png"
 tags: []
 categories:
   - "daily"

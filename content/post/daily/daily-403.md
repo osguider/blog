@@ -2,7 +2,6 @@
 title: "算法、操作系统、计算机网络：技术面试知识大全 | 开源日报 No.403"
 description: "CS-Notes 是一个开源项目，涵盖了技术面试必备的基础知识、Leetcode、计算机操作系统、计算机网络和系统设计等内容。项目提供了丰富的算法题解，包括剑指 Offer 和 Leetcode 题解，涵盖了操作系统、网络、数据库、Java 等多个领域的基础知识，同时包含系统设计和工具使用的内容。此外，CS-Notes 还提供编码实践建议和排版规范等额外资源。如果你正在准备技术面试或者想系统学习计算机基础知识，CS-Notes 绝对是一个不可多得的学习资源。"
 date: "2024-10-27T16:55:35.331Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/1fbc9c19e32a0e0c7cbc3bde7d873777.png"
 tags: []
 categories:
   - "daily"

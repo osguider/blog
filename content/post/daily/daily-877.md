@@ -2,7 +2,7 @@
 title: "低成本实验首选：单 GPU 上快速训练完整 LLM 流程 | 开源日报 No.877"
 description: "nanochat 是一个极简的开源大型语言模型训练框架，专为单 GPU 节点设计，涵盖模型训练的完整流程，包括分词、预训练、微调、评估和推理，配有类似 ChatGPT 的交互界面。它支持在 8XH100 GPU 节点上以低成本快速训练模型，代码结构简洁，适合快速实验和定制，提供一键启动的标准化脚本，显著降低训练时间和成本。"
 date: "2026-02-25T07:35:37.978Z"
-image: "undefined"
+image: "./assets/images/cover-black.svg"
 tags: []
 categories:
   - "daily"

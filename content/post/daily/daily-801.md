@@ -2,7 +2,6 @@
 title: "终端中的 Markdown 精彩呈现：交互式阅读与定制化功能相结合 | 开源日报 No.801"
 description: "Glow 是一个开源的终端 Markdown 阅读器，旨在提升命令行中 Markdown 文件的展示效果。它支持直接在命令行中渲染和浏览 Markdown 文件，提供交互式文本用户界面，支持多种加载方式和自定义输出样式，具备分页功能，且兼容多种操作系统和包管理器。"
 date: "2025-11-26T07:35:41.116Z"
-image: "undefined"
 tags: []
 categories:
   - "daily"

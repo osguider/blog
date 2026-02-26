@@ -2,7 +2,6 @@
 title: "在任何数据库之间无缝复制：仅需一个 CLI 工具 | 开源日报 No.364"
 description: "ingestr 是一个 CLI 工具，可以通过单个命令在任何数据库之间无缝复制数据。"
 date: "2024-09-18T23:36:03.480Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/32313449b257c8219ce65d58da7e5f56.png"
 tags: []
 categories:
   - "daily"

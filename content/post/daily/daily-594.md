@@ -2,7 +2,6 @@
 title: "AI 赋能三维创作：高分辨率 3D 资产生成系统 | 开源日报 No.594"
 description: "Hunyuan3D-2 是一个高分辨率 3D 资产生成系统，包含形状生成和纹理合成模型，提供用户友好的生产平台，在几何细节和纹理质量上超越现有技术，适合专业和业余用户使用。"
 date: "2025-05-02T07:35:59.377Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/2f019f6532c1decd3a7709a6543962a2.png"
 tags: []
 categories:
   - "daily"

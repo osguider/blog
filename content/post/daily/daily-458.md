@@ -2,7 +2,6 @@
 title: "自动化浏览器操作的利器：比 Selenium 简短 30%-50% | 开源日报 No.458"
 description: "想要简化浏览器自动化的过程吗？Helium 库为您提供了一个高效的解决方案！它不仅支持 Chrome 和 Firefox，还通过简洁的 API 大幅减少了代码的复杂性，让您轻松处理网页元素和常见任务。"
 date: "2024-12-23T23:35:31.408Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/3096540a6bc7689afaf42f40d2ed9eff.png"
 tags: []
 categories:
   - "daily"

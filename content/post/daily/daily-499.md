@@ -2,7 +2,6 @@
 title: "高效网络爬虫必备工具：轻松搭建与管理代理 IP 池 | 开源日报 No.499"
 description: "proxy_pool 是一个开源的 Python 项目，旨在为网络爬虫提供一个可用的代理 IP 池。它定期采集和验证免费代理，确保可用性，支持 API 和 CLI 使用，允许自定义代理源以提升质量和数量，且可通过 Docker 简单部署。"
 date: "2025-02-15T09:04:49.065Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8e6901498d67d6c8ae08f2a2b5143d7a.png"
 tags: []
 categories:
   - "daily"

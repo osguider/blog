@@ -2,7 +2,6 @@
 title: "轻松管理 SSL 证书的终极工具：纯 Shell 脚本实现 ACME 协议 | 开源日报 No.544"
 description: "acme.sh 是一个开源的 ACME 客户端协议实现，采用纯 Unix Shell 脚本，支持 ECDSA 证书、SAN 和通配符证书，易于使用且无需额外依赖，能够自动颁发、续期和安装证书，支持 Docker 和 IPv6，且提供续期和错误的定时通知功能。"
 date: "2025-03-19T15:44:57.085Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/5ccd7db837a650ecfe0171ecef7f8cf9.png"
 tags: []
 categories:
   - "daily"

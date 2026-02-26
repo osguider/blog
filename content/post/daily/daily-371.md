@@ -2,7 +2,6 @@
 title: "使用 Rust 编写操作系统：带你逐步实现 | 开源日报 No.371"
 description: "blog_os 是使用 Rust 编写操作系统的项目。"
 date: "2024-09-25T23:35:09.460Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8ef0cbd27066589de42754afa3fb189e.png"
 tags: []
 categories:
   - "daily"

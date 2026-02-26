@@ -2,7 +2,6 @@
 title: "自托管 AI 桌面代理：自然语言命令计算机执行任务 | 开源日报 No.712"
 description: "Bytebot 是一个自托管的 AI 桌面代理，运行在容器化的 Linux 环境中，能够通过自然语言命令自动执行计算机任务。它提供完整的虚拟桌面，支持多种应用，文件管理，文档处理，密码管理，实时桌面视图，任务控制的 REST API 和网页界面，便于用户监控和干预任务执行。该项目的核心在于实现复杂的自动化工作流，提升用户的工作效率。"
 date: "2025-08-30T07:36:06.498Z"
-image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject91e359bb0d3c4cbaafdba5d4989953ec.png"
 tags: []
 categories:
   - "daily"
