@@ -1,7 +1,8 @@
 ---
 title: "拖放式构建 LLM 流程：跨平台灵活部署 | 开源日报 No.556"
 description: "Flowise 是一个开源工具，提供拖放式用户界面，用于快速构建和部署自定义大语言模型 (LLM) 流程。它支持多种部署选项，包括 AWS、Azure 和本地自托管，并包含 Node.js 后端和 React 前端，支持 API 文档自动生成，通过环境变量配置实例设置，提高灵活性。"
-date: "2025-03-28T15:54:42.831Z"
+date: "2026-10-20T13:25:58.454Z"
+image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/8ab0b2d0d497f74ffa0affce91b3900c.png"
 tags: []
 categories:
   - "daily"
@@ -34,11 +35,11 @@ RA.Aid 是一款旨在自主开发软件的工具。
 - 网络研究能力：利用 Tavily API 进行智能网络搜索，以增强研究和收集现实世界上下文信息。
 - 三阶段架构：包括研究、规划和实施三个阶段，形成高效工作流程。
   
-## [langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
+## [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher)
 
-{{< shields path="github/stars/langchain-ai/ollama-deep-researcher" alt="Github Repo Stars" >}} {{< shields path="github/license/langchain-ai/ollama-deep-researcher" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/langchain-ai/ollama-deep-researcher" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/langchain-ai/local-deep-researcher" alt="Github Repo Stars" >}} {{< shields path="github/license/langchain-ai/local-deep-researcher" alt="License: `MIT`" >}} {{< shields path="github/languages/top/langchain-ai/local-deep-researcher" alt="Language: `Unknown`" >}}
 
-![demo-picture-of-ollama-deep-researcher](https://static.osguider.com/subject/github/langchain-ai/ollama-deep-researcher/e99be339845e07470d09d93e7a770313.png)
+![demo-picture-of-local-deep-researcher](https://static.osguider.com/subject/github/langchain-ai/ollama-deep-researcher/e99be339845e07470d09d93e7a770313.png)
 
 ollama-deep-researcher 是一个完全本地的网络研究和报告写作助手。
 
@@ -63,7 +64,7 @@ maven-mvnd 是一个旨在通过使用 Gradle 和 Takari 的技术来提供更�
   
 ## [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 
-{{< shields path="github/stars/FlowiseAI/Flowise" alt="Github Repo Stars" >}} {{< shields path="github/license/FlowiseAI/Flowise" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/FlowiseAI/Flowise" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/FlowiseAI/Flowise" alt="Github Repo Stars" >}} {{< shields path="github/license/FlowiseAI/Flowise" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/FlowiseAI/Flowise" alt="Language: `Unknown`" >}}
 
 ![demo-picture-of-Flowise](https://static.osguider.com/subject/github/FlowiseAI/Flowise/e524345b7215f4bd1a9c93fd03e80b7b.png)
 
