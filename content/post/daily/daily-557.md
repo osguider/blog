@@ -1,7 +1,7 @@
 ---
 title: "思维导图新标杆：插件架构+多场景协作利器 | 开源日报 No.557"
 description: "`mind-map` 是一个基于 Web 的思维导图工具，采用插件化架构，支持多种结构图、高度自定义样式、丰富的节点内容格式、拖拽操作、画布缩放，以及多种导入导出格式，具备协同编辑和演示模式功能。"
-date: "2026-10-20T15:19:12.924Z"
+date: "2026-10-20T15:53:15.213Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/38cca64242b6c0950c8d93436ee219c0.png"
 tags: []
 categories:
