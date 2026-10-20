@@ -1,7 +1,8 @@
 ---
 title: "AI 科研引擎：全自动科学发现与论文创作 | 开源日报 No.555"
 description: "AI-Scientist 是一个开源项目，旨在实现完全自动化的科学发现。它提供全面的系统支持，允许基础模型 (如大型语言模型) 独立进行科学研究。项目包含多个模板，涵盖 NanoGPT、2D 扩散和 Grokking 等领域，便于生成创意和实验。用户还可以运行基于 LLM 生成论文的实验，并获取评审反馈。"
-date: "2025-03-28T15:54:36.640Z"
+date: "2026-10-20T13:25:54.861Z"
+image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/a7d5748ee83a5e5fe2333c7822eb38e9.png"
 tags: []
 categories:
   - "daily"
@@ -9,7 +10,7 @@ categories:
 
 ## [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 
-{{< shields path="github/stars/SakanaAI/AI-Scientist" alt="Github Repo Stars" >}} {{< shields path="github/license/SakanaAI/AI-Scientist" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/SakanaAI/AI-Scientist" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/SakanaAI/AI-Scientist" alt="Github Repo Stars" >}} {{< shields path="github/license/SakanaAI/AI-Scientist" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/SakanaAI/AI-Scientist" alt="Language: `Unknown`" >}}
 
 {{< github-opengraph user="SakanaAI" repo="AI-Scientist" alt="cover" >}}
 
@@ -50,9 +51,9 @@ obi-sync 是一个反向工程的原生 Obsidian 同步和发布服务器。
 - 发布功能（仅限 Markdown，尚未渲染）
 - 实验性特性正在开发中
   
-## [rese1f/StableVideo](https://github.com/rese1f/StableVideo)
+## [wenhaochai/StableVideo](https://github.com/wenhaochai/StableVideo)
 
-{{< shields path="github/stars/rese1f/StableVideo" alt="Github Repo Stars" >}} {{< shields path="github/license/rese1f/StableVideo" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/rese1f/StableVideo" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/wenhaochai/StableVideo" alt="Github Repo Stars" >}} {{< shields path="github/license/wenhaochai/StableVideo" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/wenhaochai/StableVideo" alt="Language: `Unknown`" >}}
 
 ![demo-picture-of-StableVideo](https://static.osguider.com/subject/github/rese1f/StableVideo/57dfa984b3bffe0690dea83c86aafb79.png)
 
