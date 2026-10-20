@@ -1,17 +1,18 @@
 ---
 title: "以太坊智能合约高级编程语言：静态类型、面向合约、文档丰富 | 开源日报 No.552"
 description: "Solidity 是一个开源的高级编程语言，专为在以太坊平台上开发和部署智能合约而设计，具有静态类型和面向合约的特性。该项目由以太坊基金会支持，提供丰富的文档和示例，确保去中心化执行，并定期更新以引入新特性和修复漏洞。"
-date: "2025-03-28T15:54:18.668Z"
+date: "2026-10-20T13:25:45.272Z"
+image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/de33414bc2a9308834d3e9c4d4ed9238.png"
 tags: []
 categories:
   - "daily"
 ---
 
-## [ethereum/solidity](https://github.com/ethereum/solidity)
+## [argotorg/solidity](https://github.com/argotorg/solidity)
 
-{{< shields path="github/stars/ethereum/solidity" alt="Github Repo Stars" >}} {{< shields path="github/license/ethereum/solidity" alt="License: `GPL-3.0`" >}} {{< shields path="github/languages/top/ethereum/solidity" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/argotorg/solidity" alt="Github Repo Stars" >}} {{< shields path="github/license/argotorg/solidity" alt="License: `GPL-3.0`" >}} {{< shields path="github/languages/top/argotorg/solidity" alt="Language: `Unknown`" >}}
 
-{{< github-opengraph user="ethereum" repo="solidity" alt="cover" >}}
+{{< github-opengraph user="argotorg" repo="solidity" alt="cover" >}}
 
 Solidity 是一种用于在以太坊平台上实现智能合约的静态类型、面向合约的高级编程语言。
 
@@ -51,7 +52,7 @@ UnityGaussianSplatting 是一个在 Unity 中实现的玩具高斯点云可视�
   
 ## [W01fh4cker/VcenterKit](https://github.com/W01fh4cker/VcenterKit)
 
-{{< shields path="github/stars/W01fh4cker/VcenterKit" alt="Github Repo Stars" >}} {{< shields path="github/license/W01fh4cker/VcenterKit" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/W01fh4cker/VcenterKit" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/W01fh4cker/VcenterKit" alt="Github Repo Stars" >}} {{< shields path="github/license/W01fh4cker/VcenterKit" alt="License: `Apache-2.0`" >}} {{< shields path="github/languages/top/W01fh4cker/VcenterKit" alt="Language: `Unknown`" >}}
 
 ![demo-picture-of-VcenterKit](https://static.osguider.com/subject/github/W01fh4cker/VcenterKit/a765464dd0765ed7c58f0fdf5c31bc8f.png)
 
