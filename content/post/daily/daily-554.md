@@ -1,7 +1,8 @@
 ---
 title: "基于 Notion 的静态博客系统：零门槛搭建网站 | 开源日报 No.554"
 description: "NotionNext 是一个使用 NextJS 和 Notion API 构建的静态博客系统，支持多种部署方案，无需服务器即可轻松搭建网站。"
-date: "2025-03-28T15:54:30.179Z"
+date: "2026-10-20T13:25:51.570Z"
+image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b537be2feed7d694173442468c43eb14.png"
 tags: []
 categories:
   - "daily"
@@ -23,7 +24,7 @@ Maple-font 是一个开源的等宽字体，专注于提升编码体验，具有
   
 ## [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate)
 
-{{< shields path="github/stars/yuruotong1/autoMate" alt="Github Repo Stars" >}} {{< shields path="github/license/yuruotong1/autoMate" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/yuruotong1/autoMate" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/yuruotong1/autoMate" alt="Github Repo Stars" >}} {{< shields path="github/license/yuruotong1/autoMate" alt="License: `MIT`" >}} {{< shields path="github/languages/top/yuruotong1/autoMate" alt="Language: `Unknown`" >}}
 
 {{< github-opengraph user="yuruotong1" repo="autoMate" alt="cover" >}}
 
@@ -51,9 +52,9 @@ learn-nodejs-hard-way 是一个通过创建一个无依赖的后端框架来学�
 - 涉及性能优化、安全措施和测试方法等高级主题
 - 强调动手编码，以全面理解 Node.js 的复杂性
   
-## [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)
+## [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext)
 
-{{< shields path="github/stars/tangly1024/NotionNext" alt="Github Repo Stars" >}} {{< shields path="github/license/tangly1024/NotionNext" alt="License: `MIT`" >}} {{< shields path="github/languages/top/tangly1024/NotionNext" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/notionnext-org/NotionNext" alt="Github Repo Stars" >}} {{< shields path="github/license/notionnext-org/NotionNext" alt="License: `MIT`" >}} {{< shields path="github/languages/top/notionnext-org/NotionNext" alt="Language: `Unknown`" >}}
 
 ![demo-picture-of-NotionNext](https://static.osguider.com/subject/github/tangly1024/NotionNext/062c711c3dc473f1c87902cd60d0e014.png)
 
