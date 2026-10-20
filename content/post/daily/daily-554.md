@@ -1,7 +1,7 @@
 ---
 title: "基于 Notion 的静态博客系统：零门槛搭建网站 | 开源日报 No.554"
 description: "NotionNext 是一个使用 NextJS 和 Notion API 构建的静态博客系统，支持多种部署方案，无需服务器即可轻松搭建网站。"
-date: "2026-10-20T15:19:02.684Z"
+date: "2026-10-20T15:53:06.961Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/b537be2feed7d694173442468c43eb14.png"
 tags: []
 categories:
