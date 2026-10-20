@@ -1,7 +1,8 @@
 ---
 title: "高效文档提取利器 ：84 语种 OCR 识别 | 开源日报 No.558"
 description: "MinerU 是一个高效、多功能的开源数据提取工具，支持从 PDF、网页和电子书等多种格式中提取高质量数据。其核心功能包括强大的表格识别、多语言 OCR 支持 (84 种语言)、优化内存使用以降低硬件要求，并提供快速部署和在线演示。该项目旨在解决从各种文档中高效、准确地提取数据的问题。"
-date: "2025-04-06T15:29:19.823Z"
+date: "2026-10-20T13:26:04.972Z"
+image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/97d0ea1d569258aac4a47cf56c90ac63.png"
 tags: []
 categories:
   - "daily"
@@ -25,7 +26,7 @@ shadcn-admin 是一个基于 Shadcn 和 Vite 构建的管理仪表板用户界�
   
 ## [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
 
-{{< shields path="github/stars/opendatalab/MinerU" alt="Github Repo Stars" >}} {{< shields path="github/license/opendatalab/MinerU" alt="License: `AGPL-3.0`" >}} {{< shields path="github/languages/top/opendatalab/MinerU" alt="Language: `Unknown`" >}}
+{{< shields path="github/stars/opendatalab/MinerU" alt="Github Repo Stars" >}} {{< shields path="github/license/opendatalab/MinerU" alt="License: `NOASSERTION`" >}} {{< shields path="github/languages/top/opendatalab/MinerU" alt="Language: `Unknown`" >}}
 
 ![demo-picture-of-MinerU](https://static.osguider.com/subject/github/opendatalab/MinerU/6a17011a9ad1e762225b796b3debc6ea.png)
 
