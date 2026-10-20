@@ -1,7 +1,7 @@
 ---
 title: "轻松部署高可用 k8s 集群：多平台支持与稳定性保障 | 开源日报 No.548"
 description: "Kubespray 是一个开源工具，用于在多种云平台和裸金属环境中部署生产就绪的 Kubernetes 集群，支持高可用性配置和多种网络插件，兼容大多数流行的 Linux 发行版，并包含持续集成测试以确保稳定性和可靠性。"
-date: "2026-10-20T15:55:27.231Z"
+date: "2026-10-20T16:02:29.295Z"
 image: "https://osguider.oss-cn-guangzhou.aliyuncs.com/subject/7aa81c7bb3c209d41ab1a53400782ae1.png"
 tags: []
 categories:
